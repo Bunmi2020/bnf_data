@@ -1,0 +1,750 @@
+[
+    {
+        "fixture": "Angers vs Lens",
+        "stadium": "Stade Raymond Kopa",
+        "weather": "Clear",
+        "pitch_condition": "Good",
+        "type_of_match": "Regular",
+        "referee": {
+            "name": "Benoît Bastien",
+            "fouls_per_tackle": 0.55,
+            "yellow_per_game": 4.30
+        },
+        "head_to_head": {
+             "teams": {
+        "match_one": ["Lens","Angers"],
+        "match_two": ["Angers","Lens"],
+        "match_three": ["Angers","Lens"],
+        "match_four": ["Lens","Angers"],
+        "match_five": ["Angers","Lens"]
+      },
+      
+            "goals": {
+                "match_one": [1,2],
+                "match_two": [1,2],
+                "match_three": [1,2],
+                "match_four": [2,2],
+                "match_five": [2,2]
+            },
+            "x_goals": {
+                "match_one": [1.49,0.41],
+                "match_two": [ ],
+                "match_three": [ ],
+                "match_four": [ ],
+                "match_five": [ ]
+            },
+            "corners": {
+                "match_one": [4,4],
+                "match_two": [3,4],
+                "match_three": [7,3],
+                "match_four": [5,5],
+                "match_five": [6,11]
+            },
+            "fouls": {
+                "match_one": [7,15],
+                "match_two": [16,6],
+                "match_three": [13,16],
+                "match_four": [15,6],
+                "match_five": [13,16]
+            },
+            "HT_cards": {
+                "match_one": [0,0],
+                "match_two": [0,0],
+                "match_three": [0,2],
+                "match_four": [0,0],
+                "match_five": [0,0]
+            },
+            "FT_cards": {
+                "match_one": [0,0],
+                "match_two": [1,2],
+                "match_three": [5,3],
+                "match_four": [2,0],
+                "match_five": [0,0]
+            }
+        },
+            "home_team" : {
+            
+            },
+            "away_team": {
+            
+            },
+            "summary":{
+            "cards":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "corners":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "goals":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            }
+         }
+    },
+    {
+        "fixture": "Auxerre vs Nice",
+    "stadium": "Stade de l'Abbé-Deschamps",
+    "weather": "Rainy",
+    "pitch_condition": "Wet",
+    "type_of_match": "Regular",
+    "referee": {
+        "name": "François Letexier",
+        "fouls_per_tackle": 0.60,
+        "yellow_per_game": 4.50
+    },
+    "head_to_head": {
+         "teams": {
+        "match_one": ["Nice","Auxerre"],
+        "match_two": ["Nice","Auxerre"],
+        "match_three": ["Auxerre","Nice"]
+      },
+      
+        "goals": {
+            "match_one": [1,0],
+            "match_two": [1,1],
+            "match_three": [1,1]
+        },
+        "x_goals": {
+            "match_one": [1.47,0.28],
+            "match_two": [1.68,0.54],
+            "match_three": [ ]
+        },
+        "corners": {
+            "match_one": [10,3],
+            "match_two": [8,0],
+            "match_three": [2,6]
+        },
+        "fouls": {
+            "match_one": [12,3],
+            "match_two": [10,11],
+            "match_three": [11,3]
+        },
+        "HT_cards": {
+            "match_one": [0,1],
+            "match_two": [0,1],
+            "match_three": [0,0]
+        },
+        "FT_cards": {
+            "match_one": [1,1],
+            "match_two": [0,1],
+            "match_three": [0,0]
+        }
+    },
+            "home_team" : {
+            
+            },
+            "away_team": {
+            
+            },
+            "summary":{
+            "cards":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "corners":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "goals":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            }
+        }
+    },
+    {
+        "fixture": "Brest vs Marseille",
+            "stadium": "Stade Francis-Le Blé",
+            "weather": "Partly Cloudy",
+            "pitch_condition": "Good",
+            "type_of_match": "Regular",
+            "referee": {
+                "name": "Clément Turpin",
+                "fouls_per_tackle": 0.65,
+                "yellow_per_game": 4.75
+            },
+         "head_to_head": {
+            "teams": {
+            "match_one": ["Brest","Marseille"],
+            "match_two": ["Marseille","Brest"],
+            "match_three": ["Brest","Marseille"],
+            "match_four": ["Brest","Marseille"],
+            "match_five": ["Brest","Marseille"]
+        },
+        
+        "goals": {
+            "match_one": [1,0],
+            "match_two": [2,0],
+            "match_three": [1,2],
+            "match_four": [1,1],
+            "match_five": [1,4]
+        },
+        "x_goals": {
+            "match_one": [1.48,0.51],
+            "match_two": [2.79,1.92],
+            "match_three": [1.00,1.24],
+            "match_four": [ ],
+            "match_five": [ ]
+        },
+        "corners": {
+            "match_one": [6,4],
+            "match_two": [3,10],
+            "match_three": [3,5],
+            "match_four": [7,5],
+            "match_five": [0,3]
+        },
+        "fouls": {
+            "match_one": [14,9],
+            "match_two": [4,8],
+            "match_three": [14,16],
+            "match_four": [10,15],
+            "match_five": [11,15]
+        },
+        "HT_cards": {
+            "match_one": [2,0],
+            "match_two": [0,0],
+            "match_three": [0,2],
+            "match_four": [1,1],
+            "match_five": [1,1]
+        },
+        "FT_cards": {
+            "match_one": [4,1],
+            "match_two": [0,1],
+            "match_three": [2,2],
+            "match_four": [1,4],
+            "match_five": [1,4]
+        }
+    },
+            "home_team" : {
+            
+            },
+            "away_team": {
+            
+            },
+            "summary":{
+            "cards":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "corners":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "goals":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            }
+        }
+    },
+    {
+        "fixture": "Le Havre vs PSG",
+    "stadium": "Stade Océane",
+    "weather": "Clear",
+    "pitch_condition": "Good",
+    "type_of_match": "Regular",
+    "referee": {
+        "name": "Ruddy Buquet",
+        "fouls_per_tackle": 0.57,
+        "yellow_per_game": 4.40
+    },
+    "head_to_head": {
+         "teams": {
+        "match_one": ["PSG","Le Havre"],
+        "match_two": ["Le Havre","PSG"]
+      },
+      
+        "goals": {
+            "match_one": [3,3],
+            "match_two": [0,2]
+        },
+        "x_goals": {
+            "match_one": [2.97,1.04],
+            "match_two": [1.65,1.36]
+        },
+        "corners": {
+            "match_one": [11,2],
+            "match_two": [9,2]
+        },
+        "fouls": {
+            "match_one": [10,8],
+            "match_two": [11,9]
+        },
+        "HT_cards": {
+            "match_one": [0,0],
+            "match_two": [0,2]
+        },
+        "FT_cards": {
+            "match_one": [2,1],
+            "match_two": [2,2]
+        }
+    },
+            "home_team" : {
+            
+            },
+            "away_team": {
+            
+            },
+            "summary":{
+            "cards":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "corners":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "goals":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            }
+        }
+    },
+    {
+        "fixture": "Monaco vs St Etienne",
+        "stadium": "Stade Louis II",
+        "weather": "Clear",
+        "pitch_condition": "Good",
+        "type_of_match": "Regular",
+        "referee": {
+            "name": "Jérôme Brisard",
+            "fouls_per_tackle": 0.58,
+            "yellow_per_game": 4.20
+        },
+     "head_to_head": {
+         "teams": {
+        "match_one": ["St Etienne","Monaco"],
+        "match_two": ["Monaco","St Etienne"],
+        "match_three": ["St Etienne","Monaco"],
+        "match_four": ["Monaco","St Etienne"],
+        "match_five": ["Monaco","St Etienne"]
+      },
+      
+        "goals": {
+            "match_one": [1,4],
+            "match_two": [3,1],
+            "match_three": [0,4],
+            "match_four": [2,2],
+            "match_five": [0,1]
+        },
+        "x_goals": {
+            "match_one": [ ],
+            "match_two": [ ],
+            "match_three": [ ],
+            "match_four": [ ],
+            "match_five": [ ]
+        },
+        "corners": {
+            "match_one": [1,1],
+            "match_two": [6,3],
+            "match_three": [2,6],
+            "match_four": [0,10],
+            "match_five": [9,2]
+        },
+        "fouls": {
+            "match_one": [11,19],
+            "match_two": [16,13],
+            "match_three": [7,11],
+            "match_four": [12,13],
+            "match_five": [10,15]
+        },
+        "HT_cards": {
+            "match_one": [1,2],
+            "match_two": [1,1],
+            "match_three": [0,2],
+            "match_four": [3,1],
+            "match_five": [0,0]
+        },
+        "FT_cards": {
+            "match_one": [2,3],
+            "match_two": [1,2],
+            "match_three": [1,2],
+            "match_four": [4,2],
+            "match_five": [1,4]
+        }
+    },
+            "home_team" : {
+            
+            },
+            "away_team": {
+            
+            },
+            "summary":{
+            "cards":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "corners":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "goals":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            }
+        }
+    },
+    {
+        "fixture": "Montpellier vs Strasbourg",
+        "stadium": "Stade de la Mosson",
+        "weather": "clear and sunny",
+        "pitch_condition": "Excellent",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Clément Turpin",
+          "fouls_per_tackle": 0.55,
+          "yellow_per_game": 3.20
+        },
+        "head_to_head": {
+             "teams": {
+        "match_one": ["Montpellier","Strasbourg"],
+        "match_two": ["Strasbourg","Montpellier"],
+        "match_three": ["Strasbourg","Montpellier"],
+        "match_four": ["Montpellier","Strasbourg"],
+        "match_five": ["Strasbourg","Montpellier"]
+      },
+      
+          "goals": {
+            "match_one": [2,2],
+            "match_two": [2,2],
+            "match_three": [2,0],
+            "match_four": [2,1],
+            "match_five": [3,1]
+          },
+          "x_goals": {
+            "match_one": [1.22,1.73],
+            "match_two": [2.75,1.23],
+            "match_three": [ ],
+            "match_four": [ ],
+            "match_five":  [ ]
+          },
+          "corners": {
+            "match_one": [8,4],
+            "match_two": [2,4],
+            "match_three": [4,7],
+            "match_four": [8,6],
+            "match_five": [7,3]
+          },
+          "fouls": {
+            "match_one": [12,17],
+            "match_two": [17,18],
+            "match_three": [11,16],
+            "match_four": [11,20],
+            "match_five": [18,9]
+          },
+          "HT_cards": {
+            "match_one": [1,1],
+            "match_two": [2,2],
+            "match_three": [2,1],
+            "match_four": [2,2],
+            "match_five": [1,0]
+          },
+          "FT_cards": {
+            "match_one": [1,3],
+            "match_two": [4,6],
+            "match_three": [4,1],
+            "match_four": [4,4],
+            "match_five": [2,3]
+          }
+        },
+            "home_team" : {
+            
+            },
+            "away_team": {
+            
+            },
+            "summary":{
+            "cards":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "corners":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "goals":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            }
+        }
+    },
+    {
+        "fixture": "Reims vs Lille",
+        "stadium": "Stade Auguste-Delaune",
+        "weather": "cloudy",
+        "pitch_condition": "Good",
+        "type_of_match": "Crucial",
+        "referee": {
+            "name": "Ruddy Buquet",
+            "fouls_per_tackle": 0.58,
+            "yellow_per_game": 4.00
+      },
+      "head_to_head": {
+         "teams": {
+        "match_one": ["Reims","Lille"],
+        "match_two": ["Lille","Reims"],
+        "match_three": ["Reims","Lille"],
+        "match_four": ["Lille","Reims"],
+        "match_five": ["Reims","Lille"]
+      },
+      
+        "goals": {
+          "match_one": [0,1],
+          "match_two": [1,2],
+          "match_three": [1,0],
+          "match_four": [1,1],
+          "match_five": [2,1]
+        },
+        "x_goals": {
+          "match_one": [0.69,1.03],
+          "match_two": [0.96,0.57],
+          "match_three": [2.05,1.44],
+          "match_four": [ ],
+          "match_five": [ ]
+        },
+        "corners": {
+          "match_one": [4,4],
+          "match_two": [4,2],
+          "match_three": [4,7],
+          "match_four": [5,1],
+          "match_five": [5,2]
+        },
+        "fouls": {
+          "match_one": [12,14],
+          "match_two": [4,19],
+          "match_three": [17,10],
+          "match_four": [8,12],
+          "match_five": [13,8]
+        },
+        "HT_cards": {
+          "match_one": [2,0],
+          "match_two": [0,0],
+          "match_three": [0,1],
+          "match_four": [0,1],
+          "match_five": [0,0]
+        },
+        "FT_cards": {
+          "match_one": [3,2],
+          "match_two": [1,2],
+          "match_three": [2,3],
+          "match_four": [1,1],
+          "match_five": [1,1]
+        }
+      },
+            "home_team" : {
+            
+            },
+            "away_team": {
+            
+            },
+            "summary":{
+            "cards":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "corners":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "goals":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            }
+        }
+    },
+    {
+        "fixture": "Rennes vs Lyon",
+        "stadium": "Roazhon Park",
+        "weather": "rainy",
+        "pitch_condition": "Wet",
+        "type_of_match": "Regular",
+        "referee": {
+            "name": "Benoît Bastien",
+            "fouls_per_tackle": 0.62,
+            "yellow_per_game": 3.50
+        },
+      "head_to_head": {
+         "teams": {
+        "match_one": ["Lyon","Rennes"],
+        "match_two": ["Rennes","Lyon"],
+        "match_three": ["Lyon","Rennes"],
+        "match_four": ["Rennes","Lyon"],
+        "match_five": ["Lyon","Rennes"]
+      },
+      
+        "goals": {
+          "match_one": [2,3],
+          "match_two": [0,1],
+          "match_three": [3,1],
+          "match_four": [3,2],
+          "match_five": [2,4]
+        },
+        "x_goals": {
+          "match_one": [1.05,0.85],
+          "match_two": [0.80,1.54],
+          "match_three": [1.17,1.07],
+          "match_four": [ ],
+          "match_five": [ ]
+        },
+        "corners": {
+          "match_one": [3,2],
+          "match_two": [6,9],
+          "match_three": [7,2],
+          "match_four": [3,2],
+          "match_five": [8,2]
+        },
+        "fouls": {
+          "match_one": [15,12],
+          "match_two": [5,18],
+          "match_three": [14,17],
+          "match_four": [13,14],
+          "match_five": [8,12]
+        },
+        "HT_cards": {
+          "match_one": [1,1],
+          "match_two": [2,0],
+          "match_three": [2,2],
+          "match_four": [2,1],
+          "match_five": [2,1]
+        },
+        "FT_cards": {
+          "match_one": [2,2],
+          "match_two": [4,1],
+          "match_three": [2,2],
+          "match_four": [2,2],
+          "match_five": [2,3]
+        }
+      },
+            "home_team" : {
+            
+            },
+            "away_team": {
+            
+            },
+            "summary":{
+            "cards":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "corners":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "goals":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            }
+        }
+    },
+    {
+        "fixture": "Toulouse vs Nantes",
+      "stadium": "Stadium de Toulouse",
+      "weather": "windy",
+      "pitch_condition": "Good",
+      "type_of_match": "Regular",
+      "referee": {
+        "name": "Jérôme Brisard",
+        "fouls_per_tackle": 0.60,
+        "yellow_per_game": 3.80
+      },
+      "head_to_head": {
+         "teams": {
+        "match_one": ["Toulouse","Nantes"],
+        "match_two": ["Nantes","Toulouse"],
+        "match_three": ["Toulouse","Nantes"],
+        "match_four": ["Nantes","Toulouse"],
+        "match_five": ["Nantes","Toulouse"]
+      },
+      
+        "goals": {
+          "match_one": [1,2],
+          "match_two": [1,2],
+          "match_three": [0,0],
+          "match_four": [1,5],
+          "match_five": [3,1]
+        },
+        "x_goals": {
+          "match_one": [0.97,0.34],
+          "match_two": [1.07,1.12],
+          "match_three": [0.96,0.47],
+          "match_four": [ ],
+          "match_five": [ ]
+        },
+        "corners": {
+          "match_one": [12,0],
+          "match_two": [7,5],
+          "match_three": [10,5],
+          "match_four": [4,5],
+          "match_five": [4,5]
+        },
+        "fouls": {
+          "match_one": [10,13],
+          "match_two": [14,14],
+          "match_three": [6,13],
+          "match_four": [19,19],
+          "match_five": [11,9]
+        },
+        "HT_cards": {
+          "match_one": [2,1],
+          "match_two": [2,0],
+          "match_three": [0,0],
+          "match_four": [3,0],
+          "match_five": [0,2]
+        },
+        "FT_cards": {
+          "match_one": [2,1],
+          "match_two": [2,2],
+          "match_three": [1,1],
+          "match_four": [3,2],
+          "match_five": [0,3]
+        }
+      },
+            "home_team" : {
+            
+            },
+            "away_team": {
+            
+            },
+            "summary":{
+            "cards":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "corners":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "goals":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            }
+        }
+    }
+]

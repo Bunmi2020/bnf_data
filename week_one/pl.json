@@ -1,0 +1,857 @@
+[
+  {
+    "fixture": "Man United vs Fulham",
+  "stadium": "Old Trafford",
+  "Weather": "clear skies",
+  "pitch_condition": "Excellent",
+  "type_of_match": "Regular",
+  "referee": {
+    "name": "Michael Oliver",
+    "fouls_per_tackle": 0.55,
+    "yellow_per_game": 3.50
+  },
+  "head_to_head": {
+    "teams": {
+        "match_one": ["Man United","Fulham"],
+        "match_two": ["Fulham","Man United"],
+        "match_three": ["Man United","Fulham"],
+        "match_four": ["Man United","Fulham"],
+        "match_five": ["Fulham","Man United"]
+      },
+      
+    "goals": {
+      "match_one": [1,2],
+      "match_two": [0,1],
+      "match_three": [2,1],
+      "match_four": [3,1],
+      "match_five": [1,2]
+    },
+    "x_goals": {
+      "match_one": [1.66,1.10],
+      "match_two": [0.96,0.65],
+      "match_three": [2.79,1.92],
+      "match_four": [3.47,0.97],
+      "match_five": [ ]
+    },
+    "corners": {
+      "match_one": [10,9],
+      "match_two": [9,4],
+      "match_three": [5,4],
+      "match_four": [6,7],
+      "match_five": [10,3]
+    },
+    "fouls": {
+      "match_one": [6,11],
+      "match_two": [9,15],
+      "match_three": [14,10],
+      "match_four": [10,7],
+      "match_five": [9,10]
+    },
+    "HT_cards": {
+      "match_one": [1,3],
+      "match_two": [1,0],
+      "match_three": [0,0],
+      "match_four": [1,1],
+      "match_five": [1,0]
+    },
+    "FT_cards": {
+      "match_one": [2,5],
+      "match_two": [5,2],
+      "match_three": [1,2],
+      "match_four": [1,4],
+      "match_five": [1,1]
+    }
+  },
+    "home_team" : {
+     
+    },
+    "away_team": {
+      
+    },
+    "summary":{
+      "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      }
+    }
+   
+  },
+  {
+   "fixture": "Ipswich vs Liverpool",
+  "stadium": "Portman Road",
+  "Weather": "rainy",
+  "pitch_condition": "Wet",
+  "type_of_match": "Regular",
+  "referee": {
+    "name": "Paul Tierney",
+    "fouls_per_tackle": 0.58,
+    "yellow_per_game": 3.80
+    },
+  
+  "head_to_head": {
+    "teams": {
+        "match_one": ["Newcastle","West Ham"]
+      },
+      
+    "goals": {
+      "match_one": [ ]
+    },
+    "x_goals": {
+      "match_one": [ ]
+    },
+    "corners": {
+      "match_one": [ ]
+    },
+    "fouls": {
+      "match_one": [ ]
+    },
+    "HT_cards": {
+      "match_one": [ ]
+    },
+    "FT_cards": {
+      "match_one": [ ]
+    }
+  },
+    "home_team" : {
+     
+    },
+    "away_team": {
+      
+    },
+    "summary":{
+      "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      }
+    }
+   
+  },
+  {
+    "fixture": "Arsenal vs Wolves",
+  "stadium": "Emirates Stadium",
+  "Weather": "partly cloudy",
+  "pitch_condition": "Good",
+  "type_of_match": "Regular",
+  "referee": {
+    "name": "Martin Atkinson",
+    "fouls_per_tackle": 0.63,
+    "yellow_per_game": 4.20
+  },
+  "head_to_head": {
+    "teams": {
+        "match_one": ["Wolves","Arsenal"],
+        "match_two": ["Arsenal","Wolves"],
+        "match_three": ["Arsenal","Wolves"],
+        "match_four": ["Wolves","Arsenal"],
+        "match_five": ["Arsenal","Wolves"]
+      },
+      
+    "goals": {
+      "match_one": [0,2],
+      "match_two": [2,1],
+      "match_three": [5,0],
+      "match_four": [0,2],
+      "match_five": [2,1],
+      "match_six": [1,0]
+    },
+    "x_goals": {
+      "match_one": [0.13,1.27],
+      "match_two": [2.89,0.77],
+      "match_three": [2.68,0.51],
+      "match_four": [ ],
+      "match_five": [ ]
+    },
+    "corners": {
+      "match_one": [1,2],
+      "match_two": [4,0],
+      "match_three": [8,4],
+      "match_four": [6,4],
+      "match_five": [5,4]
+    },
+    "fouls": {
+      "match_one": [14,9],
+      "match_two": [10,10],
+      "match_three": [8,11],
+      "match_four": [5,6],
+      "match_five": [8,9]
+    },
+    "HT_cards": {
+      "match_one": [2,2],
+      "match_two": [0,0],
+      "match_three": [0,0],
+      "match_four": [2,0],
+      "match_five": [1,0]
+    },
+    "FT_cards": {
+      "match_one": [3,2],
+      "match_two": [1,2],
+      "match_three": [0,0],
+      "match_four": [3,2],
+      "match_five": [1,1]
+    }
+  },
+    "home_team" : {
+     
+    },
+    "away_team": {
+      
+    },
+    "summary":{
+      "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      }
+    }
+   
+  },
+  {
+    "fixture": "Everton vs Brighton",
+  "stadium": "Goodison Park",
+  "Weather": "sunny",
+  "pitch_condition": "Excellent",
+  "type_of_match": "Regular",
+  "referee": {
+    "name": "Stuart Attwell",
+    "fouls_per_tackle": 0.54,
+    "yellow_per_game": 3.90
+  },
+  "head_to_head": {
+    "teams": {
+        "match_one": ["Brighton","Everton"],
+        "match_two": ["Everton","Brighton"],
+        "match_three": ["Brighton","Everton"],
+        "match_four": ["Everton","Brighton"],
+        "match_five": ["Everton","Brighton"]
+      },
+      
+    "goals": {
+      "match_one": [1,1],
+      "match_two": [1,1],
+      "match_three": [1,5],
+      "match_four": [1,4],
+      "match_five": [2,3]
+    },
+    "x_goals": {
+      "match_one": [1.36,0.28],
+      "match_two": [0.77,0.58],
+      "match_three": [2.99,2.23],
+      "match_four": [ ],
+      "match_five": [ ]
+    },
+    "corners": {
+      "match_one": [11,3],
+      "match_two": [3,3],
+      "match_three": [15,1],
+      "match_four": [5,2],
+      "match_five": [8,5]
+    },
+    "fouls": {
+      "match_one": [9,14],
+      "match_two": [15,5],
+      "match_three": [11,13],
+      "match_four": [8,10],
+      "match_five": [5,12]
+    },
+    "HT_cards": {
+      "match_one": [0,1],
+      "match_two": [1,2],
+      "match_three": [1,3],
+      "match_four": [0,1],
+      "match_five": [1,0]
+    },
+    "FT_cards": {
+      "match_one": [2,3],
+      "match_two": [4,2],
+      "match_three": [1,4],
+      "match_four": [3,1],
+      "match_five": [1,1]
+    }
+  },
+    "home_team" : {
+     
+    },
+    "away_team": {
+      
+    },
+    "summary":{
+      "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      }
+    }
+   
+  },
+  {
+    "fixture": "Newcastle vs Southampton",
+  "stadium": "St James' Park",
+  "Weather": "overcast",
+  "pitch_condition": "Good",
+  "type_of_match": "Regular",
+  "referee": {
+    "name": "Craig Pawson",
+    "fouls_per_tackle": 0.62,
+    "yellow_per_game": 3.70
+  },
+  "head_to_head": {
+    "teams": {
+        "match_one": ["Newcastle","Southampton"],
+        "match_two": ["Newcastle","Southampton"],
+        "match_three": ["Southampton","Newcastle"],
+        "match_four": ["Southampton","Newcastle"],
+        "match_five": ["Southampton","Newcastle"]
+      },
+      
+    "goals": {
+      "match_one": [3,1],
+      "match_two": [2,1],
+      "match_three": [0,1],
+      "match_four": [1,4],
+      "match_five": [1,2]
+    },
+    "x_goals": {
+      "match_one": [4.69,0.89],
+      "match_two": [ ],
+      "match_three": [ ],
+      "match_four": [ ],
+      "match_five": [ ],
+      "match_six": [ ]
+    },
+    "corners": {
+      "match_one": [11,2],
+      "match_two": [5,1],
+      "match_three": [4,1],
+      "match_four": [8,2],
+      "match_five": [12,5]
+    },
+    "fouls": {
+      "match_one": [7,10],
+      "match_two": [10,14],
+      "match_three": [11,7],
+      "match_four": [7,10],
+      "match_five": [6,7]
+    },
+    "HT_cards": {
+      "match_one": [0,1],
+      "match_two": [0,0],
+      "match_three": [3,0],
+      "match_four": [0,0],
+      "match_five": [1,0]
+    },
+    "FT_cards": {
+      "match_one": [1,4],
+      "match_two": [1,0],
+      "match_three": [7,3],
+      "match_four": [1,0],
+      "match_five": [1,1]
+    }
+  },
+    "home_team" : {
+     
+    },
+    "away_team": {
+      
+    },
+    "summary":{
+      "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      }
+    }
+   
+  },
+  {
+    "fixture": "Nottingham vs Bournemouth",
+    "stadium": "City Ground",
+    "Weather": "clear and cool",
+    "pitch_condition": "Excellent",
+    "type_of_match": "Regular",
+    "referee": {
+      "name": "Michael Oliver",
+      "fouls_per_tackle": 0.52,
+      "yellow_per_game": 3.70
+    },
+    "head_to_head": {
+      "teams": {
+        "match_one": ["Bournemouth","Nottingham"],
+        "match_two": ["Nottingham","Bournemouth"],
+        "match_three": ["Bournemouth","Nottingham"],
+        "match_four": ["Nottingham","Bournemouth"],
+        "match_five": ["Bournemouth","Nottingham"]
+      },
+      
+      "goals": {
+        "match_one": [1,1],
+        "match_two": [2,3],
+        "match_three": [1,1],
+        "match_four": [2,3],
+        "match_five": [1,0]
+      },
+      "x_goals": {
+        "match_one": [1.05,0.59],
+        "match_two": [0.80,1.70],
+        "match_three": [ ],
+        "match_four": [ ],
+        "match_five": [ ]
+      },
+      "corners": {
+        "match_one": [11,6],
+        "match_two": [6,6],
+        "match_three": [4,6],
+        "match_four": [4,6],
+        "match_five": [4,3]
+      },
+      "fouls": {
+        "match_one": [19,12],
+        "match_two": [10,10],
+        "match_three": [10,7],
+        "match_four": [13,10],
+        "match_five": [7,14]
+      },
+      "HT_cards": {
+        "match_one": [2,0],
+        "match_two": [3,2],
+        "match_three": [1,1],
+        "match_four": [1,1],
+        "match_five": [0,0]
+      },
+      "FT_cards": {
+        "match_one": [4,2],
+        "match_two": [3,3],
+        "match_three": [1,2],
+        "match_four": [2,1],
+        "match_five": [2,2]
+      }
+    },
+    "home_team" : {
+     
+    },
+    "away_team": {
+      
+    },
+    "summary":{
+      "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      }
+    }
+   
+  },
+  {
+    "fixture": "West Ham vs Aston Villa",
+    "stadium": "London Stadium",
+    "Weather": "sunny",
+    "pitch_condition": "Good",
+    "type_of_match": "Regular",
+    "referee": {
+      "name": "Paul Tierney",
+      "fouls_per_tackle": 0.58,
+      "yellow_per_game": 3.90
+    },
+    "head_to_head": {
+      "teams": {
+        "match_one": ["West Ham","Aston Villa"],
+        "match_two": ["Aston Villa","West Ham"],
+        "match_three": ["West Ham","Aston Villa"],
+        "match_four": ["Aston Villa","West Ham"],
+        "match_five": ["West Ham","Aston Villa"]
+      },
+      
+      "goals": {
+        "match_one": [1,1],
+        "match_two": [4,1],
+        "match_three": [1,1],
+        "match_four": [0,1],
+        "match_five": [2,1]
+      },
+      "x_goals": {
+        "match_one": [1.77,0.54],
+        "match_two": [1.96,1.13],
+        "match_three": [2.44,1.74],
+        "match_four": [ ],
+        "match_five": [ ]
+      },
+      "corners": {
+        "match_one": [7,10],
+        "match_two": [8,7],
+        "match_three": [12,2],
+        "match_four": [3,2],
+        "match_five": [5,7]
+      },
+      "fouls": {
+        "match_one": [13,12],
+        "match_two": [8,15],
+        "match_three": [9,6],
+        "match_four": [10,10],
+        "match_five": [9,3]
+      },
+      "HT_cards": {
+        "match_one": [0,0],
+        "match_two": [0,0],
+        "match_three": [0,0],
+        "match_four": [0,0],
+        "match_five": [1,0]
+      },
+      "FT_cards": {
+        "match_one": [3,3],
+        "match_two": [0,1],
+        "match_three": [1,0],
+        "match_four": [2,0],
+        "match_five": [1,0]
+      }
+    },
+    "home_team" : {
+     
+    },
+    "away_team": {
+      
+    },
+    "summary":{
+      "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      }
+    }
+   
+  },
+  {
+    "fixture": "Brentford vs Crystal Palace",
+    "stadium": "Gtech Community Stadium",
+    "Weather": "cloudy",
+    "pitch_condition": "Good",
+    "type_of_match": "Regular",
+    "referee": {
+      "name": "Stuart Attwell",
+      "fouls_per_tackle": 0.54,
+      "yellow_per_game": 4.00
+    },
+    "head_to_head": {
+      "teams": {
+        "match_one": ["Crystal Palace","Brentford"],
+        "match_two": ["Brentford","Crystal Palace"],
+        "match_three": ["Brentford","Crystal Palace"],
+        "match_four": ["Crystal Palace","Brentford"],
+        "match_five": ["Brentford","Crystal Palace"]
+      },
+      
+      "goals": {
+        "match_one": [3,1],
+        "match_two": [1,1],
+        "match_three": [1,1],
+        "match_four": [1,1],
+        "match_five": [0,0]
+      },
+      "x_goals": {
+        "match_one": [1.00,1.40],
+        "match_two": [0.94,0.69],
+        "match_three": [0.90,1.20],
+        "match_four": [ ],
+        "match_five": [ ]
+      },
+      "corners": {
+        "match_one": [7,4],
+        "match_two": [8,6],
+        "match_three": [2,6],
+        "match_four": [4,6],
+        "match_five": [3,9]
+      },
+      "fouls": {
+        "match_one": [14,10],
+        "match_two": [9,15],
+        "match_three": [10,8],
+        "match_four": [11,8],
+        "match_five": [10,10]
+      },
+      "HT_cards": {
+        "match_one": [0,1],
+        "match_two": [0,0],
+        "match_three": [1,2],
+        "match_four": [0,0],
+        "match_five": [1,0]
+      },
+      "FT_cards": {
+        "match_one": [0,1],
+        "match_two": [0,0],
+        "match_three": [2,2],
+        "match_four": [1,2],
+        "match_five": [1,0]
+      }
+    },
+    "home_team" : {
+     
+    },
+    "away_team": {
+      
+    },
+    "summary":{
+      "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      }
+    }
+   
+  },
+ {
+  "fixture": "Chelsea vs  Man City",
+    "stadium": "Stamford Bridge",
+    "Weather": "rainy",
+    "pitch_condition": "Wet",
+    "type_of_match": "Crucial",
+    "referee": {
+      "name": "Anthony Taylor",
+      "fouls_per_tackle": 0.60,
+      "yellow_per_game": 4.81
+    },
+    "head_to_head": {
+      "teams": {
+        "match_one": ["Man City","Chelsea"],
+        "match_two": ["Man City","Chelsea"],
+        "match_three": ["Chelsea","Man City"],
+        "match_four": ["Man City","Chelsea"],
+        "match_five": ["Man City","Chelsea"]
+      },
+      
+      "goals": {
+        "match_one": [1,0],
+        "match_two": [1,1],
+        "match_three": [4,4],
+        "match_four": [1,0],
+        "match_five": [4,0]
+      },
+      "x_goals": {
+        "match_one": [0.79,1.05],
+        "match_two": [2.81,1.42],
+        "match_three": [3.07,3.28],
+        "match_four": [1.25,1.37],
+        "match_five": [ ]
+      },
+      "corners": {
+        "match_one": [8,4],
+        "match_two": [12,1],
+        "match_three": [3,3],
+        "match_four": [5,2],
+        "match_five": [4,2]
+      },
+      "fouls": {
+        "match_one": [9,11],
+        "match_two": [7,12],
+        "match_three": [12,7],
+        "match_four": [12,9],
+        "match_five": [10,10]
+      },
+      "HT_cards": {
+        "match_one": [0,1],
+        "match_two": [0,1],
+        "match_three": [2,0],
+        "match_four": [0,1],
+        "match_five": [0,0]
+      },
+      "FT_cards": {
+        "match_one": [3,3],
+        "match_two": [1,3],
+        "match_three": [5,3],
+        "match_four": [0,2],
+        "match_five": [3,1]
+      }
+    },
+    "home_team" : {
+     
+    },
+    "away_team": {
+      
+    },
+    "summary":{
+      "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      }
+    }
+   
+  },
+  {
+   "fixture": "Leicester vs Tottenham",
+    "stadium": "King Power Stadium",
+    "Weather": "partly cloudy",
+    "pitch_condition": "Good",
+    "type_of_match": "Regular",
+    "referee": {
+      "name": "Craig Pawson",
+      "fouls_per_tackle": 0.57,
+      "yellow_per_game": 4.10
+    },
+    "head_to_head": {
+      "teams": {
+        "match_one": ["Leicester","Tottenham"],
+        "match_two": ["Tottenham","Leicester"],
+        "match_three": ["Tottenham","Leicester"],
+        "match_four": ["Leicester","Tottenham"],
+        "match_five": ["Leicester","Tottenham"]
+      },
+      
+      "goals": {
+        "match_one": [4,1],
+        "match_two": [6,2],
+        "match_three": [3,1],
+        "match_four": [2,3],
+        "match_five": [2,4]
+      },
+      "x_goals": {
+        "match_one": [1.45,1.21],
+        "match_two": [ ],
+        "match_three": [ ],
+        "match_four": [ ],
+        "match_five": [ ]
+      },
+      "corners": {
+        "match_one": [1,5],
+        "match_two": [6,1],
+        "match_three": [6,3],
+        "match_four": [3,8],
+        "match_five": [8,7]
+      },
+      "fouls": {
+        "match_one": [14,9],
+        "match_two": [9,9],
+        "match_three": [13,8],
+        "match_four": [6,12],
+        "match_five": [9,8]
+      },
+      "HT_cards": {
+        "match_one": [2,1],
+        "match_two": [0,0],
+        "match_three": [1,0],
+        "match_four": [0,0],
+        "match_five": [0,0]
+      },
+      "FT_cards": {
+        "match_one": [5,2],
+        "match_two": [0,2],
+        "match_three": [2,3],
+        "match_four": [1,2],
+        "match_five": [0,2]
+      }
+    },
+    "home_team" : {
+     
+    },
+    "away_team": {
+      
+    },
+    "summary":{
+      "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      },
+      "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+      }
+    }
+   
+  }
+]

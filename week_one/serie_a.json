@@ -1,0 +1,817 @@
+[
+{ 
+    "fixture": "Genoa vs Inter",
+  "stadium": "Stadio Luigi Ferraris",
+  "weather": "Clear",
+  "pitch_condition": "Good",
+  "type_of_match": "Regular",
+  "referee": {
+    "name": "Daniele Orsato",
+    "fouls_per_tackle": 0.52,
+    "yellow_per_game": 4.25
+  },
+  "head_to_head": {
+     "teams": {
+        "match_one": ["Inter","Genoa"],
+        "match_two": ["Genoa","Inter"],
+        "match_three": ["Genoa","Inter"],
+        "match_four": ["Inter","Genoa"],
+        "match_five": ["Inter","Genoa"]
+      },
+      
+    "goals": {
+      "match_one": [2,1],
+      "match_two": [1,1],
+      "match_three": [0,0],
+      "match_four": [4,0],
+      "match_five": [3,0]
+    },
+    "x_goals": {
+      "match_one": [1.68,0.94],
+      "match_two": [0.48,1.45],
+      "match_three": [ ],
+      "match_four": [ ],
+      "match_five": [ ]
+    },
+    "corners": {
+      "match_one": [4,5],
+      "match_two": [8,2],
+      "match_three": [0,14],
+      "match_four": [8,2],
+      "match_five": [9,1]
+    },
+    "fouls": {
+      "match_one": [5,17],
+      "match_two": [13,15],
+      "match_three": [11,9],
+      "match_four": [18,7],
+      "match_five": [12,8]
+    },
+    "HT_cards": {
+      "match_one": [1,1],
+      "match_two": [0,0],
+      "match_three": [0,0],
+      "match_four": [0,1],
+      "match_five": [0,2]
+    },
+    "FT_cards": {
+      "match_one": [2,3],
+      "match_two": [2,2],
+      "match_three": [1,1],
+      "match_four": [1,2],
+      "match_five": [0,2]
+    }
+  },
+        "home_team" : {
+        
+        },
+        "away_team": {
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+     }
+},
+{
+    "fixture": "Parma vs Fiorentina",
+  "stadium": "Stadio Ennio Tardini",
+  "weather": "Partly Cloudy",
+  "pitch_condition": "Good",
+  "type_of_match": "Regular",
+  "referee": {
+    "name": "Marco Di Bello",
+    "fouls_per_tackle": 0.55,
+    "yellow_per_game": 4.50
+  },
+  "head_to_head": {
+     "teams": {
+        "match_one": ["Fiorentina","Parma"],
+        "match_two": ["Fiorentina","Parma"],
+        "match_three": ["Parma","Fiorentina"],
+        "match_four": ["Parma","Fiorentina"]
+      },
+      
+    "goals": {
+      "match_one": [2,2],
+      "match_two": [3,3],
+      "match_three": [0,0],
+      "match_four": [1,2]
+    },
+    "x_goals": {
+      "match_one": [2.80,1.09],
+      "match_two": [ ],
+      "match_three": [ ],
+      "match_four": [ ]
+    },
+    "corners": {
+      "match_one": [8,3],
+      "match_two": [3,3],
+      "match_three": [2,3],
+      "match_four": [3,0]
+    },
+    "fouls": {
+      "match_one": [14,10],
+      "match_two": [19,16],
+      "match_three": [17,17],
+      "match_four": [19,17]
+    },
+    "HT_cards": {
+      "match_one": [1,0],
+      "match_two": [0,0],
+      "match_three": [0,1],
+      "match_four": [3,1]
+    },
+    "FT_cards": {
+      "match_one": [3,0],
+      "match_two": [0,3],
+      "match_three": [1,2],
+      "match_four": [4,6]
+    }
+  },
+        "home_team" : {
+        
+        },
+        "away_team": {
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+    }
+},
+{
+    "fixture": "AC Milan vs Torino",
+  "stadium": "San Siro",
+  "weather": "Sunny",
+  "pitch_condition": "Good",
+  "type_of_match": "Regular",
+  "referee": {
+    "name": "Massimiliano Irrati",
+    "fouls_per_tackle": 0.53,
+    "yellow_per_game": 4.75
+  },
+  "head_to_head": {
+     "teams": {
+        "match_one": ["Torino","AC Milan"],
+        "match_two": ["AC Milan","Torino"],
+        "match_three": ["AC Milan","Torino"],
+        "match_four": ["AC Milan","Torino"],
+        "match_five": ["Torino","AC Milan"]
+      },
+      
+    "goals": {
+      "match_one": [3,1],
+      "match_two": [4,1],
+      "match_three": [1,0],
+      "match_four": [0,1],
+      "match_five": [2,1]
+    },
+    "x_goals": {
+      "match_one": [0.95,1.88],
+      "match_two": [3.38,0.46],
+      "match_three": [1.33,0.77],
+      "match_four": [ ],
+      "match_five": [ ]
+    },
+    "corners": {
+      "match_one": [3,8],
+      "match_two": [2,1],
+      "match_three": [3,8],
+      "match_four": [12,4],
+      "match_five": [6,1]
+    },
+    "fouls": {
+      "match_one": [15,14],
+      "match_two": [13,16],
+      "match_three": [10,20],
+      "match_four": [9,15],
+      "match_five": [11,16]
+    },
+    "HT_cards": {
+      "match_one": [0,0],
+      "match_two": [1,1],
+      "match_three": [1,1],
+      "match_four": [0,1],
+      "match_five": [2,1]
+    },
+    "FT_cards": {
+      "match_one": [1,1],
+      "match_two": [2,3],
+      "match_three": [1,4],
+      "match_four": [0,5],
+      "match_five": [5,2]
+    }
+  },
+        "home_team" : {
+        
+        },
+        "away_team": {
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+    }
+},
+{
+    "fixture": "Empoli vs Monza",
+  "stadium": "Stadio Carlo Castellani",
+  "weather": "Rainy",
+  "pitch_condition": "Wet",
+  "type_of_match": "Regular",
+  "referee": {
+    "name": "Michael Fabbri",
+    "fouls_per_tackle": 0.58,
+    "yellow_per_game": 4.30
+  },
+  "head_to_head": {
+     "teams": {
+        "match_one": ["Empoli","Monza"],
+        "match_two": ["Monza","Empoli"],
+        "match_three": ["Monza","Empoli"],
+        "match_four": ["Empoli","Monza"],
+        "match_five": ["Monza","Empoli"]
+      },
+      
+    "goals": {
+      "match_one": [3,0],
+      "match_two": [2,0],
+      "match_three": [2,1],
+      "match_four": [1,0],
+      "match_five": [1,1]
+    },
+    "x_goals": {
+      "match_one": [1.38,0.70],
+      "match_two": [2.03,1.07],
+      "match_three": [ ],
+      "match_four": [ ],
+      "match_five": [ ]
+    },
+    "corners": {
+      "match_one": [1,7],
+      "match_two": [6,5],
+      "match_three": [1,8],
+      "match_four": [2,9],
+      "match_five": [11,5]
+    },
+    "fouls": {
+      "match_one": [15,10],
+      "match_two": [14,7],
+      "match_three": [10,12],
+      "match_four": [17,14],
+      "match_five": [13,15]
+    },
+    "HT_cards": {
+      "match_one": [0,0],
+      "match_two": [1,1],
+      "match_three": [1,2],
+      "match_four": [3,1],
+      "match_five": [0,2]
+    },
+    "FT_cards": {
+      "match_one": [1,3],
+      "match_two": [1,2],
+      "match_three": [2,3],
+      "match_four": [5,4],
+      "match_five": [1,4]
+    }
+  },
+        "home_team" : {
+        
+        },
+        "away_team": {
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+    }
+},
+{
+    "fixture": "Bologna vs Udinese",
+  "stadium": "Stadio Renato Dall'Ara",
+  "weather": "Windy",
+  "pitch_condition": "Good",
+  "type_of_match": "Regular",
+  "referee": {
+    "name": "Luca Pairetto",
+    "fouls_per_tackle": 0.57,
+    "yellow_per_game": 4.20
+  },
+  "head_to_head": {
+     "teams": {
+        "match_one": ["Bologna","Udinese"],
+        "match_two": ["Udinese","Bologna"],
+        "match_three": ["Bologna","Udinese"],
+        "match_four": ["Udinese","Bologna"],
+        "match_five": ["Bologna","Udinese"]
+      },
+      
+    "goals": {
+      "match_one": [1,1],
+      "match_two": [3,0],
+      "match_three": [3,0],
+      "match_four": [1,2],
+      "match_five": [2,2]
+    },
+    "x_goals": {
+      "match_one": [0.77,0.54],
+      "match_two": [0.98,0.97],
+      "match_three": [0.72,0.85],
+      "match_four": [ ],
+      "match_five": [ ]
+    },
+    "corners": {
+      "match_one": [10,3],
+      "match_two": [7,7],
+      "match_three": [2,7],
+      "match_four": [6,4],
+      "match_five": [2,4]
+    },
+    "fouls": {
+      "match_one": [11,21],
+      "match_two": [15,14],
+      "match_three": [17,10],
+      "match_four": [10,17],
+      "match_five": [9,22]
+    },
+    "HT_cards": {
+      "match_one": [0,1],
+      "match_two": [1,2],
+      "match_three": [1,1],
+      "match_four": [0,1],
+      "match_five": [0,1]
+    },
+    "FT_cards": {
+      "match_one": [4,7],
+      "match_two": [2,5],
+      "match_three": [1,1],
+      "match_four": [1,3],
+      "match_five": [2,2]
+    }
+  },
+        "home_team" : {
+        
+        },
+        "away_team": {
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+    }
+},
+{
+    "fixture": "Verona vs Napoli",
+      "stadium": "Stadio Marc'Antonio Bentegodi",
+      "weather": "clear",
+      "pitch_condition": "Good",
+      "type_of_match": "Regular",
+      "referee": {
+        "name": "Daniele Orsato",
+        "fouls_per_tackle": 0.55,
+        "yellow_per_game": 4.25
+      },
+      "head_to_head": {
+         "teams": {
+        "match_one": ["Napoli","Verona"],
+        "match_two": ["Verona","Napoli"],
+        "match_three": ["Napoli","Verona"],
+        "match_four": ["Verona","Napoli"],
+        "match_five": ["Verona","Napoli"]
+      },
+      
+        "goals": {
+          "match_one": [2,1],
+          "match_two": [1,3],
+          "match_three": [0,0],
+          "match_four": [2,5],
+          "match_five": [1,2]
+        },
+        "x_goals": {
+          "match_one": [1.48,0.99],
+          "match_two": [0.86,2.27],
+          "match_three": [0.42,0.47],
+          "match_four": [ ],
+          "match_five": [ ]
+        },
+        "corners": {
+          "match_one": [9,2],
+          "match_two": [5,8],
+          "match_three": [4,0],
+          "match_four": [4,8],
+          "match_five": [3,5]
+        },
+        "fouls": {
+          "match_one": [11,14],
+          "match_two": [12,9],
+          "match_three": [11,16],
+          "match_four": [15,6],
+          "match_five": [19,9]
+        },
+        "HT_cards": {
+          "match_one": [0,2],
+          "match_two": [2,1],
+          "match_three": [0,1],
+          "match_four": [1,0],
+          "match_five": [0,0]
+        },
+        "FT_cards": {
+          "match_one": [3,2],
+          "match_two": [3,2],
+          "match_three": [1,4],
+          "match_four": [2,2],
+          "match_five": [8,0]
+        }
+      },
+        "home_team" : {
+        
+        },
+        "away_team": {
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+    }
+},
+{
+    "fixture": "Cagliari vs As Roma",
+      "stadium": "Unipol Domus",
+      "weather": "partly cloudy",
+      "pitch_condition": "Good",
+      "type_of_match": "Regular",
+      "referee": {
+        "name": "Gianluca Rocchi",
+        "fouls_per_tackle": 0.57,
+        "yellow_per_game": 4.40
+      },
+      "head_to_head": {
+         "teams": {
+        "match_one": ["As Roma","Cagliari"],
+        "match_two": ["Cagliari","As Roma"],
+        "match_three": ["As Roma","Cagliari"],
+        "match_four": ["Cagliari","As Roma"],
+        "match_five": ["Cagliari","As Roma"]
+      },
+      
+        "goals": {
+          "match_one": [4,0],
+          "match_two": [1,4],
+          "match_three": [1,0],
+          "match_four": [1,2],
+          "match_five": [3,2]
+        },
+        "x_goals": {
+          "match_one": [3.05,0.51],
+          "match_two": [1.88,2.44],
+          "match_three": [ ],
+          "match_four": [ ],
+          "match_five": [ ]
+        },
+        "corners": {
+          "match_one": [7,5],
+          "match_two": [4,3],
+          "match_three": [1,1],
+          "match_four": [2,10],
+          "match_five": [4,10]
+        },
+        "fouls": {
+          "match_one": [8,12],
+          "match_two": [15,13],
+          "match_three": [13,17],
+          "match_four": [16,16],
+          "match_five": [14,17]
+        },
+        "HT_cards": {
+          "match_one": [0,0],
+          "match_two": [1,3],
+          "match_three": [2,3],
+          "match_four": [0,1],
+          "match_five": [0,0]
+        },
+        "FT_cards": {
+          "match_one": [1,1],
+          "match_two": [2,3],
+          "match_three": [3,4],
+          "match_four": [3,4],
+          "match_five": [3,1]
+        }
+      },
+        "home_team" : {
+        
+        },
+        "away_team": {
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+    }
+},
+{
+    "fixture": "Lazio vs Venezia",
+      "stadium": "Stadio Olimpico",
+      "weather": "sunny",
+      "pitch_condition": "Excellent",
+      "type_of_match": "Regular",
+      "referee": {
+        "name": "Marco Guida",
+        "fouls_per_tackle": 0.53,
+        "yellow_per_game": 3.90
+      },
+      "head_to_head": {
+         "teams": {
+        "match_one": ["Lazio","Venezia"],
+        "match_two": ["Venezia","Lazio"]
+      },
+      
+        "goals": {
+          "match_one": [1,0],
+          "match_two": [1,3]
+        },
+        "x_goals": {
+          "match_one": [ ],
+          "match_two": [ ]
+        },
+        "corners": {
+          "match_one": [8,4],
+          "match_two": [4,4]
+        },
+        "fouls": {
+          "match_one": [11,13],
+          "match_two": [11,10]
+        },
+        "HT_cards": {
+          "match_one": [1,1],
+          "match_two": [1,0]
+        },
+        "FT_cards": {
+          "match_one": [1,1],
+          "match_two": [4,3]
+        }
+      },
+        "home_team" : {
+        
+        },
+        "away_team": {
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+    }
+},
+{
+    "fixture": "Lecce vs Atalanta",
+      "stadium": "Stadio Via del Mare",
+      "weather": "rainy",
+      "pitch_condition": "Wet",
+      "type_of_match": "Regular",
+      "referee": {
+        "name": "Davide Massa",
+        "fouls_per_tackle": 0.59,
+        "yellow_per_game": 4.50
+      },
+      "head_to_head": {
+         "teams": {
+        "match_one": ["Lecce","Atalanta"],
+        "match_two": ["Atalanta","Lecce"],
+        "match_three": ["Atalanta","Lecce"],
+        "match_four": ["Lecce","Atalanta"],
+        "match_five": ["Lecce","Atalanta"]
+      },
+      
+        "goals": {
+          "match_one": [0,2],
+          "match_two": [1,0],
+          "match_three": [1,2],
+          "match_four": [2,1],
+          "match_five": [2,7]
+        },
+        "x_goals": {
+          "match_one": [1.21,1.71],
+          "match_two": [0.97,1.17],
+          "match_three": [1.52,0.47],
+          "match_four": [ ],
+          "match_five": [ ]
+        },
+        "corners": {
+          "match_one": [2,5],
+          "match_two": [5,6],
+          "match_three": [6,1],
+          "match_four": [4,3],
+          "match_five": [2,11]
+        },
+        "fouls": {
+          "match_one": [7,20],
+          "match_two": [10,16],
+          "match_three": [10,12],
+          "match_four": [11,12],
+          "match_five": [9,12]
+        },
+        "HT_cards": {
+          "match_one": [0,3],
+          "match_two": [1,0],
+          "match_three": [2,0],
+          "match_four": [0,0],
+          "match_five": [0,1]
+        },
+        "FT_cards": {
+          "match_one": [0,4],
+          "match_two": [2,2],
+          "match_three": [3,3],
+          "match_four": [1,2],
+          "match_five": [2,2]
+        }
+      },
+        "home_team" : {
+        
+        },
+        "away_team": {
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+    }
+},
+{
+    "fixture": "Juventus vs Como",
+      "stadium": "Allianz Stadium",
+      "weather": "overcast",
+      "pitch_condition": "Good",
+      "type_of_match": "Regular",
+      "referee": {
+        "name": "Maurizio Mariani",
+        "fouls_per_tackle": 0.56,
+        "yellow_per_game": 4.30
+      },
+      "head_to_head": {
+         "teams": {
+        "match_one": [ ]
+      },
+      
+        "goals": {
+          "match_one": [ ]
+        },
+        "x_goals": {
+          "match_one": [ ]
+        },
+        "corners": {
+          "match_one": [ ]
+        },
+        "fouls": {
+          "match_one": [ ]
+        },
+        "HT_cards": {
+          "match_one": [ ]
+        },
+        "FT_cards": {
+          "match_one": [ ]
+        }
+      },
+        "home_team" : {
+        
+        },
+        "away_team": {
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+    }
+}
+
+]
