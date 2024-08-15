@@ -133,7 +133,7 @@
     },
     "FT_cards": {
       "match_one": [1,1],
-      "match_two": [0,0],
+      "match_two": [1,1],
       "match_three": [2,0],
       "match_four": [2,4],
       "match_five": [0,2],
@@ -223,18 +223,18 @@
         },
         "summary":{
         "cards":{
-            "discuss":" ",
+            "discuss":"Getafe are known for their aggressive style of play, as supported by their historical data. Referee Ruiz A. is also known for issuing numerous yellow cards, particularly in games with frequent fouls.",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 3.5"
         },
         "corners":{
-            "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "discuss":"Playing style suggests more corners, and their head-to-head data agrees too, especially for Athletic Bilbao in recent matches. However, because it is a season opener.",
+            "ht": "Ov 7.5",
+            "ft": "Bilbao"
         },
         "goals":{
-            "discuss":" ",
-            "ht": " ",
+            "discuss":"Historical data suggests that Athletic Bilbao is likely to dominate this match. However, expecting a high number of goals might be excessive.",
+            "ht": "U3.5",
             "ft": " "
         }
      }
@@ -255,7 +255,7 @@
         "match_one": ["Girona","Betis"],
         "match_two": ["Betis","Girona"],
         "match_three": ["Girona","Betis"],
-        "match_four": ["Arsenal","Man City"]
+        "match_four": ["Betis","Girona"]
       },
       
     "goals": {
@@ -456,19 +456,19 @@
         },
         "summary":{
         "cards":{
-            "discuss":" ",
+            "discuss":"Betis's non-aggressive style and Girona's provocations may balance each other out, leading to a moderate foul count. However, Ortiz M.'s tendency to issue cards for fouls suggests that even a moderate number of fouls could result in a relatively high card count.",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         },
         "corners":{
-            "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "discuss":"Considering Girona’s tendency for fewer corners and Betis’s contrasting trend, aiming for over 7.5 corners seems like a safe bet, while under 10.5 corners could be a bold, yet strategic choice.",
+            "ht": "U 10.5",
+            "ft": "Real Betis"
         },
         "goals":{
-            "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "discuss":"There is definitely going to be much goal in this march, there rcent goals scored and historical data which shows both always creating chances support this.",
+            "ht": "BTS",
+            "ft": "Ov 2.5"
         }
     }
 },
@@ -682,7 +682,7 @@
     },
     "FT_cards": {
       "match_one": [2,1],
-      "match_two": [5,18],
+      "match_two": [5,8],
       "match_three": [1,1],
       "match_four": [3,2],
       "match_five": [1,3],
@@ -693,18 +693,18 @@
         },
         "summary":{
         "cards":{
-            "discuss":" ",
+            "discuss":"While both teams are generally non-aggressive, Alaves’ tendency to draw fouls often results in higher card counts in their matches. Therefore, Alaves is likely to receive more cards in this game.",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         },
         "corners":{
-            "discuss":" ",
+            "discuss":"While the head-to-head (H2H) record suggests a higher number of corners, the nature of the match and Celta's tendency not to win most corners in their games warrant caution.",
             "ht": " ",
-            "ft": " "
+            "ft": "Alaves"
         },
         "goals":{
-            "discuss":" ",
-            "ht": " ",
+            "discuss":"Historical data shows both teams consistently create chances, as reflected in their x-goals. Their styles of play also involve more attacking endeavors and high-pressure tactics.",
+            "ht": "Ov 1.5",
             "ft": " "
         }
     }
@@ -716,9 +716,9 @@
   "pitch_condition": "Good",
   "type_of_match": "Season Opener",
   "referee": {
-    "name": "*n/a",
-    "fouls_per_tackle": 0,
-    "yellow_per_game": 0
+    "name": "Maeso F.",
+    "fouls_per_tackle": 0.83,
+    "yellow_per_game": 4.58
   },
   "head_to_head": {
      "teams": {
@@ -907,18 +907,18 @@
         },
         "summary":{
         "cards":{
-            "discuss":" ",
+            "discuss":"Even though Las Palmas has a non-aggressive style, they tend to draw fouls, whereas Sevilla is known for its aggressive play. Additionally, the referee is known for issuing cards regularly.",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 3.5"
         },
         "corners":{
-            "discuss":" ",
-            "ht": " ",
+            "discuss":"While their playing styles suggest a tendency towards more corners, the historical data and the nature of the match warrant caution.",
+            "ht": "U 10.5",
             "ft": " "
         },
         "goals":{
-            "discuss":" ",
-            "ht": " ",
+            "discuss":"Historical data suggests that there will likely be few goals in the game. Las Palmas' matches have typically featured fewer goals, and their style indicates they will likely sit deep, especially given their newness to the league. Additionally, only a few of Sevilla's games have seen a higher number of goals.",
+            "ht": "U 3.5",
             "ft": " "
         }
     }
@@ -1130,9 +1130,9 @@
             "ft": " "
         },
         "corners":{
-            "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "discuss":"Osasuna seem to generate corners more frequently, and their style of play supports this. However, historical data and Osasuna’s high territorial control style suggest that there could be fewer corners in the game.",
+            "ht": "U 10.5",
+            "ft": "Osasuna"
         },
         "goals":{
             "discuss":" ",
@@ -1250,7 +1250,7 @@
       "match_three": [3,3],
       "match_four": [6,3],
       "match_five": [5,7],
-      "match_six": [1,15],
+      "match_six": [15,1],
       "match_seven": [7,6]
     },
     "fouls": {
@@ -1367,9 +1367,9 @@
             "ft": " "
         },
         "corners":{
-            "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "discuss":"Both historical data and style of play support Barcelona having the most corners, and while there could be more corners overall, it depends on the performance of one of the teams",
+            "ht": "Ov 7.5",
+            "ft": "Barcelona"
         },
         "goals":{
             "discuss":" ",
@@ -1603,9 +1603,9 @@
             "ft": " "
         },
         "corners":{
-            "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "discuss":"The most consistent pattern in the data is that Real Sociedad tends to win more corners at home. However, this does not necessarily indicate a high total number of corners in the game.",
+            "ht": "U 10.5",
+            "ft": "Real Sociedad"
         },
         "goals":{
             "discuss":" ",
@@ -1621,9 +1621,9 @@
     "pitch_condition": "Good",
     "type_of_match": "Important",
     "referee": {
-      "name": "*n/a",
-      "fouls_per_tackle": 0,
-      "yellow_per_game": 0
+      "name": "Grado C.",
+      "fouls_per_tackle": 0.74,
+      "yellow_per_game": 5.14
     },
     "head_to_head": {
        "teams": {
@@ -1769,68 +1769,72 @@
   "unavailable_attacking_players": [],
   "recent_matches": {
      "teams": {
+      "match_seven": ["Real Madrid","Atalanta"],
     "match_one": ["Dortmund","Real Madrid"],
     "match_two": ["Real Madrid","Real Betis"],
     "match_three": ["Real Madrid","Villarreal"],
     "match_four": ["Real Madrid","Alaves"],
     "match_five": ["Granada","Real Madrid"],
-    "match_six": ["Real Madrid","Bayern Munich"],
-    "match_seven": ["Real Madrid","Cadiz CF"]
+    "match_six": ["Real Madrid","Bayern Munich"]
+    
   },
     
   "goals": {
+    "match_seven": [2,0],
       "match_one": [0,2],
       "match_two": [0,0],
       "match_three": [4,4],
       "match_four": [5,0],
       "match_five": [0,4],
-      "match_six": [2,1],
-      "match_seven": [3,0]
+      "match_six": [2,1]
+      
     },
     "x_goals": {
+      "match_seven": [2.46,0.59],
       "match_one": [2.10,1.24],
       "match_two": [0.84,0.99],
       "match_three": [1.16,1.98],
       "match_four": [2.28,1.28],
       "match_five": [0.69,1.90],
-      "match_six": [3.29,0.41],
-      "match_seven": [2.43,0.82]
+      "match_six": [3.29,0.41]
+      
     },
     "corners": {
+      "match_seven": [5,2],
       "match_one": [9,8],
       "match_two": [4,5],
       "match_three": [3,3],
       "match_four": [4,1],
       "match_five": [8,5],
-      "match_six": [8,4],
-      "match_seven": [7,4]
+      "match_six": [8,4]
+      
     },
     "fouls": {
+      "match_seven": [12,19],
       "match_one": [12,8],
       "match_two": [8,11],
       "match_three": [12,15],
       "match_four": [6,12],
       "match_five": [11,10],
-      "match_six": [12,10],
-      "match_seven": [6,12]
+      "match_six": [12,10]
     },
     "HT_cards": {
+      "match_seven": [2,1],
       "match_one": [2,1],
       "match_two": [1,0],
       "match_three": [0,1],
       "match_four": [0,0],
       "match_five": [2,0],
-      "match_six": [0,0],
-      "match_seven": [0,1]
+      "match_six": [0,0]
     },
     "FT_cards": {
+      "match_seven": [2,2],
       "match_one": [3,1],
       "match_two": [2,1],
       "match_three": [2,2],
       "match_four": [1,1],
       "match_five": [2,0],
-      "match_six": [1,0],
-      "match_seven": [0,1]
+      "match_six": [1,0]
     }
     }
         },
@@ -1841,9 +1845,9 @@
             "ft": " "
         },
         "corners":{
-            "discuss":" ",
+            "discuss":"The data and playing style suggest that Real Madrid would have the edge, and this is the only consistent pattern, based on form.",
             "ht": " ",
-            "ft": " "
+            "ft": "Real Madrid"
         },
         "goals":{
             "discuss":" ",
@@ -2081,7 +2085,7 @@
         },
         "corners":{
             "discuss":" ",
-            "ht": " ",
+            "ht": "U 10.5",
             "ft": " "
         },
         "goals":{
@@ -2317,8 +2321,8 @@
             "ft": " "
         },
         "corners":{
-            "discuss":" ",
-            "ht": " ",
+            "discuss":"While Villarreal’s style of play suggests they might accumulate the most corners, historical data does not support this trend. On the other hand, Atlético Madrid’s games have consistently produced more corners.",
+            "ht": "Ov 7.5",
             "ft": " "
         },
         "goals":{
