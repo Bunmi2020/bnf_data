@@ -1,0 +1,794 @@
+[
+    {
+    "fixture": "B. Monchengladbach vs Bayer Leverkusen",
+    "stadium": "Borussia-Park",
+    "Weather": "clear skies",
+    "pitch_condition": "Excellent",
+    "type_of_match": "Regular",
+    "referee": {
+      "name": "Felix Brych",
+      "fouls_per_tackle": 0.55,
+      "yellow_per_game": 3.20
+    },
+    "head_to_head": {
+
+       "teams": {
+        "match_one": ["Bayer Leverkusen","B. Monchengladbach"],
+        "match_two": ["B. Monchengladbach","Bayer Leverkusen"],
+        "match_three": ["Bayer Leverkusen","B. Monchengladbach"],
+        "match_four": ["B. Monchengladbach","Bayer Leverkusen"],
+        "match_five": ["B. Monchengladbach","Bayer Leverkusen"]
+      },
+      
+      "goals": {
+        "match_one": [0,0],
+        "match_two": [0,3],
+        "match_three": [2,2],
+        "match_four": [2,3],
+        "match_five": [1,2]
+      },
+      "x_goals": {
+        "match_one": [2.87,0.21],
+        "match_two": [0.72,3.09],
+        "match_three": [2.64,1.58],
+        "match_four": [ ],
+        "match_five": [ ]
+      },
+      "corners": {
+        "match_one": [8,2],
+        "match_two": [5,8],
+        "match_three": [2,3],
+        "match_four": [2,3],
+        "match_five": [5,7]
+      },
+      "fouls": {
+        "match_one": [15,6],
+        "match_two": [7,8],
+        "match_three": [12,15],
+        "match_four": [12,14],
+        "match_five": [8,18]
+      },
+      "HT_cards": {
+        "match_one": [0,0],
+        "match_two": [2,3],
+        "match_three": [1,1],
+        "match_four": [1,0],
+        "match_five": [1,2]
+      },
+      "FT_cards": {
+        "match_one": [3,1],
+        "match_two": [2,3],
+        "match_three": [4,3],
+        "match_four": [3,2],
+        "match_five": [2,3]
+      }
+    },
+            "home_team" : {
+            
+            },
+            "away_team": {
+            
+            },
+            "summary":{
+            "cards":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "corners":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "goals":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            }
+         }
+    },
+    {
+      "fixture": "Augsburg vs Werder Bremen",
+    "stadium": "WWK Arena",
+    "Weather": "sunny",
+    "pitch_condition": "Good",
+    "type_of_match": "Regular",
+    "referee": {
+      "name": "Daniel Siebert",
+      "fouls_per_tackle": 0.52,
+      "yellow_per_game": 3.70
+    },
+    "head_to_head": {
+
+       "teams": {
+        "match_one": ["Augsburg","Bremen"],
+        "match_two": ["Bremen","Augsburg"],
+        "match_three": ["Augsburg","Bremen"],
+        "match_four": ["Bremen","Augsburg"],
+        "match_five": ["Augsburg","Bremen"]
+      },
+      
+      "goals": {
+        "match_one": [0,3],
+        "match_two": [2,0],
+        "match_three": [2,1],
+        "match_four": [0,1],
+        "match_five": [2,0]
+      },
+      "x_goals": {
+        "match_one": [1.12,2.28],
+        "match_two": [1.17,0.64],
+        "match_three": [0.81,2.16],
+        "match_four": [ ],
+        "match_five": [ ]
+      },
+      "corners": {
+        "match_one": [6,4],
+        "match_two": [5,2],
+        "match_three": [2,7],
+        "match_four": [3,7],
+        "match_five": [5,5]
+      },
+      "fouls": {
+        "match_one": [18,8],
+        "match_two": [13,9],
+        "match_three": [10,9],
+        "match_four": [12,13],
+        "match_five": [13,17]
+      },
+      "HT_cards": {
+        "match_one": [0,1],
+        "match_two": [0,1],
+        "match_three": [1,0],
+        "match_four": [2,1],
+        "match_five": [2,1]
+      },
+      "FT_cards": {
+        "match_one": [1,2],
+        "match_two": [1,2],
+        "match_three": [2,2],
+        "match_four": [4,5],
+        "match_five": [3,3]
+      }
+    },
+            "home_team" : {
+            
+            },
+            "away_team": {
+            
+            },
+            "summary":{
+            "cards":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "corners":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "goals":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            }
+        }
+    },
+    {
+       "fixture": "Dortmund vs Eintracht Frankfurt",
+    "stadium": "Signal Iduna Park",
+    "Weather": "partly cloudy",
+    "pitch_condition": "Excellent",
+    "type_of_match": "Regular",
+    "referee": {
+      "name": "Marco Fritz",
+      "fouls_per_tackle": 0.50,
+      "yellow_per_game": 4.10
+    },
+    "head_to_head": {
+
+       "teams": {
+        "match_one": ["Dortmund","Eintracht Frankfurt"],
+        "match_two": ["Eintracht Frankfurt","Dortmund"],
+        "match_three": ["Dortmund","Eintracht Frankfurt"],
+        "match_four": ["Eintracht Frankfurt","Dortmund"],
+        "match_five": ["Eintracht Frankfurt","Dortmund"]
+      },
+      
+      "goals": {
+        "match_one": [3,1],
+        "match_two": [3,3],
+        "match_three": [4,0],
+        "match_four": [1,2],
+        "match_five": [2,3]
+      },
+      "x_goals": {
+        "match_one": [2.43,0.79],
+        "match_two": [2.92,1.87],
+        "match_three": [1.65,0.97],
+        "match_four": [ ],
+        "match_five": [ ]
+      },
+      "corners": {
+        "match_one": [8,3],
+        "match_two": [0,4],
+        "match_three": [5,2],
+        "match_four": [4,3],
+        "match_five": [4,11]
+      },
+      "fouls": {
+        "match_one": [5,9],
+        "match_two": [11,10],
+        "match_three": [10,13],
+        "match_four": [15,11],
+        "match_five": [14,6]
+      },
+      "HT_cards": {
+        "match_one": [0,0],
+        "match_two": [2,1],
+        "match_three": [0,2],
+        "match_four": [1,0],
+        "match_five": [0,0]
+      },
+      "FT_cards": {
+        "match_one": [1,2],
+        "match_two": [3,2],
+        "match_three": [2,3],
+        "match_four": [5,5],
+        "match_five": [3,2]
+      }
+    },
+            "home_team" : {
+            
+            },
+            "away_team": {
+            
+            },
+            "summary":{
+            "cards":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "corners":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "goals":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            }
+        }
+    },
+    {
+       "fixture": "Freiburg vs Stuttgart",
+    "stadium": "Europa-Park Stadion",
+    "Weather": "rainy",
+    "pitch_condition": "Wet",
+    "type_of_match": "Regular",
+    "referee": {
+      "name": "Sascha Stegemann",
+      "fouls_per_tackle": 0.57,
+      "yellow_per_game": 4.30
+    },
+    "head_to_head": {
+
+       "teams": {
+        "match_one": ["Freiburg","Stuttgart"],
+        "match_two": ["Stuttgart","Freiburg"],
+        "match_three": ["Freiburg","Stuttgart"],
+        "match_four": ["Stuttgart","Freiburg"],
+        "match_five": ["Freiburg","Stuttgart"]
+      },
+      
+      "goals": {
+        "match_one": [3,2],
+        "match_two": [5,0],
+        "match_three": [2,1],
+        "match_four": [0,1],
+        "match_five": [2,0]
+      },
+      "x_goals": {
+        "match_one": [0.57,1.84],
+        "match_two": [2.56,1.14],
+        "match_three": [2.34,1.29],
+        "match_four": [ ],
+        "match_five": [ ]
+      },
+      "corners": {
+        "match_one": [1,6],
+        "match_two": [2,4],
+        "match_three": [4,3],
+        "match_four": [3,1],
+        "match_five": [6,3]
+      },
+      "fouls": {
+        "match_one": [10,7],
+        "match_two": [9,10],
+        "match_three": [13,10],
+        "match_four": [8,12],
+        "match_five": [12,7]
+      },
+      "HT_cards": {
+        "match_one": [4,0],
+        "match_two": [1,0],
+        "match_three": [0,1],
+        "match_four": [2,1],
+        "match_five": [1,0]
+      },
+      "FT_cards": {
+        "match_one": [5,2],
+        "match_two": [1,1],
+        "match_three": [3,3],
+        "match_four": [4,2],
+        "match_five": [1,1]
+      }
+    },
+            "home_team" : {
+            
+            },
+            "away_team": {
+            
+            },
+            "summary":{
+            "cards":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "corners":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "goals":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            }
+        }
+    },
+    {
+        "fixture": "Hoffenheim vs Holstein Kiel",
+    "stadium": "PreZero Arena",
+    "Weather": "cloudy",
+    "pitch_condition": "Good",
+    "type_of_match": "Regular",
+    "referee": {
+      "name": "Robert Hartmann",
+      "fouls_per_tackle": 0.54,
+      "yellow_per_game": 3.80
+    },
+    "head_to_head": {
+
+       "teams": {
+        "match_one": ["Hoffenheim","Holstein Kiel"],
+        "match_two": [ ],
+        "match_three": [ ],
+        "match_four": [ ],
+        "match_five": [ ]
+      },
+      
+      "goals": {
+        "match_one": [2,1],
+        "match_two": [ ],
+        "match_three": [ ],
+        "match_four": [ ],
+        "match_five": [ ]
+      },
+      "x_goals": {
+        "match_one": [ ],
+        "match_two": [ ],
+        "match_three": [ ],
+        "match_four": [ ],
+        "match_five": [ ]
+      },
+      "corners": {
+        "match_one": [4,6],
+        "match_two": [ ],
+        "match_three": [ ],
+        "match_four": [ ],
+        "match_five": [ ]
+      },
+      "fouls": {
+        "match_one": [11,9],
+        "match_two": [ ],
+        "match_three": [ ],
+        "match_four": [ ],
+        "match_five": [ ]
+      },
+      "HT_cards": {
+        "match_one": [0,0],
+        "match_two": [ ],
+        "match_three": [ ],
+        "match_four": [ ],
+        "match_five": [ ]
+      },
+      "FT_cards": {
+        "match_one": [1,1],
+        "match_two": [ ],
+        "match_three": [ ],
+        "match_four": [ ],
+        "match_five": [ ]
+      }
+    },
+            "home_team" : {
+            
+            },
+            "away_team": {
+            
+            },
+            "summary":{
+            "cards":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "corners":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "goals":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            }
+        }
+    },
+    {
+       "fixture": "Mainz vs Union Berlin",
+    "stadium": "Mewa Arena",
+    "Weather": "partly cloudy",
+    "pitch_condition": "Good",
+    "type_of_match": "Season Opener",
+    "referee": {
+        "name": "Felix Brych",
+        "fouls_per_tackle": 0.54,
+        "yellow_per_game": 3.7
+    },
+    "head_to_head": {
+
+       "teams": {
+        "match_one": ["Mainz","Union Berlin"],
+        "match_two": ["Union Berlin","Mainz"],
+        "match_three": ["Union Berlin","Mainz"],
+        "match_four": ["Mainz","Union Berlin"],
+        "match_five": ["Union Berlin","Mainz"]
+      },
+      
+        "goals": {
+            "match_one": [1,1],
+            "match_two": [4,1],
+            "match_three": [2,1],
+            "match_four": [0,0],
+            "match_five": [3,1]
+        },
+        "x_goals": {
+            "match_one": [1.78,0.94],
+            "match_two": [1.88,2.48],
+            "match_three": [ ],
+            "match_four": [ ],
+            "match_five": [ ]
+        },
+        "corners": {
+            "match_one": [8,3],
+            "match_two": [3,1],
+            "match_three": [5,5],
+            "match_four": [4,4],
+            "match_five": [2,6]
+        },
+        "fouls": {
+            "match_one": [14,15],
+            "match_two": [15,16],
+            "match_three": [12,10],
+            "match_four": [9,14],
+            "match_five": [13,18]
+        },
+        "HT_cards": {
+            "match_one": [1,0],
+            "match_two": [1,1],
+            "match_three": [0,1],
+            "match_four": [1,0],
+            "match_five": [1,2]
+        },
+        "FT_cards": {
+            "match_one": [2,4],
+            "match_two": [1,5],
+            "match_three": [1,1],
+            "match_four": [1,0],
+            "match_five": [4,5]
+        }
+    },
+            "home_team" : {
+            
+            },
+            "away_team": {
+            
+            },
+            "summary":{
+            "cards":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "corners":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "goals":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            }
+        }
+    },
+    {
+       "fixture": "RB Leipzig vs Bochum",
+    "stadium": "Red Bull Arena",
+    "Weather": "sunny",
+    "pitch_condition": "Excellent",
+    "type_of_match": "Regular",
+    "referee": {
+        "name": "Deniz Aytekin",
+        "fouls_per_tackle": 0.58,
+        "yellow_per_game": 3.9
+    },
+    "head_to_head": {
+
+       "teams": {
+        "match_one": ["Bochum","RB Leipzig"],
+        "match_two": ["RB Leipzig","Bochum"],
+        "match_three": ["Bochum","RB Leipzig"],
+        "match_four": ["RB Leipzig","Bochum"],
+        "match_five": ["Bochum","RB Leipzig"]
+      },
+      
+        "goals": {
+            "match_one": [1,4],
+            "match_two": [0,0],
+            "match_three": [1,0],
+            "match_four": [4,0],
+            "match_five": [0,1]
+        },
+        "x_goals": {
+            "match_one": [1.59,1.93],
+            "match_two": [ ],
+            "match_three": [0.86,1.79],
+            "match_four": [ ],
+            "match_five": [ ]
+        },
+        "corners": {
+            "match_one": [2,5],
+            "match_two": [9,1],
+            "match_three": [2,7],
+            "match_four": [7,2],
+            "match_five": [5,0]
+        },
+        "fouls": {
+            "match_one": [13,10],
+            "match_two": [10,13],
+            "match_three": [10,8],
+            "match_four": [8,8],
+            "match_five": [15,9]
+        },
+        "HT_cards": {
+            "match_one": [1,1],
+            "match_two": [0,1],
+            "match_three": [2,1],
+            "match_four": [0,2],
+            "match_five": [0,0]
+        },
+        "FT_cards": {
+            "match_one": [3,2],
+            "match_two": [2,4],
+            "match_three": [2,3],
+            "match_four": [0,2],
+            "match_five": [1,1]
+        }
+    },
+            "home_team" : {
+            
+            },
+            "away_team": {
+            
+            },
+            "summary":{
+            "cards":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "corners":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "goals":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            }
+        }
+    },
+    {
+      "fixture": "St. Pauli vs Heidenheim",
+    "stadium": "Millerntor-Stadion",
+    "Weather": "rainy",
+    "pitch_condition": "Wet",
+    "type_of_match": "Regular",
+    "referee": {
+        "name": "Daniel Siebert",
+        "fouls_per_tackle": 0.55,
+        "yellow_per_game": 4.0
+    },
+    "head_to_head": {
+
+       "teams": {
+        "match_one": ["Heidenheim","St. Pauli"],
+        "match_two": ["St. Pauli","Heidenheim"],
+        "match_three": ["St. Pauli","Heidenheim"],
+        "match_four": ["Heidenheim","St. Pauli"],
+        "match_five": ["Heidenheim","St. Pauli"]
+      },
+      
+        "goals": {
+            "match_one": [0,1],
+            "match_two": [0,0],
+            "match_three": [1,0],
+            "match_four": [2,4],
+            "match_five": [3,4]
+        },
+        "x_goals": {
+            "match_one": [1.18,1.21],
+            "match_two": [ ],
+            "match_three": [ ],
+            "match_four": [ ],
+            "match_five": [ ]
+        },
+        "corners": {
+            "match_one": [5,3],
+            "match_two": [2,5],
+            "match_three": [7,0],
+            "match_four": [3,7],
+            "match_five": [6,0]
+        },
+        "fouls": {
+            "match_one": [11,11],
+            "match_two": [10,16],
+            "match_three": [12,10],
+            "match_four": [12,10],
+            "match_five": [20,13]
+        },
+        "HT_cards": {
+            "match_one": [0,1],
+            "match_two": [0,1],
+            "match_three": [1,2],
+            "match_four": [1,0],
+            "match_five": [1,1]
+        },
+        "FT_cards": {
+            "match_one": [2,2],
+            "match_two": [2,5],
+            "match_three": [3,3],
+            "match_four": [3,2],
+            "match_five": [5,2]
+        }
+    },
+            "home_team" : {
+            
+            },
+            "away_team": {
+            
+            },
+            "summary":{
+            "cards":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "corners":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "goals":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            }
+        }
+    },
+    {
+       "fixture": "Wolfsburg vs Bayern Munich",
+    "stadium": "Volkswagen Arena",
+    "Weather": "clear",
+    "pitch_condition": "Good",
+    "type_of_match": "High-profile",
+    "referee": {
+        "name": "Marco Fritz",
+        "fouls_per_tackle": 0.57,
+        "yellow_per_game": 3.5
+    },
+    "head_to_head": {
+
+       "teams": {
+        "match_one": ["Bayern Munich","Wolfsburg"],
+        "match_two": ["Wolfsburg","Bayern Munich"],
+        "match_three": ["Wolfsburg","Bayern Munich"],
+        "match_four": ["Bayern Munich","Wolfsburg"],
+        "match_five": ["Wolfsburg","Bayern Munich"]
+      },
+      
+        "goals": {
+            "match_one": [2,0],
+            "match_two": [1,2],
+            "match_three": [2,4],
+            "match_four": [2,0],
+            "match_five": [2,2]
+        },
+        "x_goals": {
+            "match_one": [0.35,0.22],
+            "match_two": [0.34,2.49],
+            "match_three": [ ],
+            "match_four": [ ],
+            "match_five": [ ]
+        },
+        "corners": {
+            "match_one": [4,0],
+            "match_two": [0,6],
+            "match_three": [7,4],
+            "match_four": [8,4],
+            "match_five": [2,12]
+        },
+        "fouls": {
+            "match_one": [7,8],
+            "match_two": [14,12],
+            "match_three": [10,9],
+            "match_four": [7,10],
+            "match_five": [10,9]
+        },
+        "HT_cards": {
+            "match_one": [0,0],
+            "match_two": [1,1],
+            "match_three": [1,3],
+            "match_four": [2,0],
+            "match_five": [1,0]
+        },
+        "FT_cards": {
+            "match_one": [0,2],
+            "match_two": [4,2],
+            "match_three": [2,7],
+            "match_four": [2,1],
+            "match_five": [1,2]
+        }
+    },
+            "home_team" : {
+            
+            },
+            "away_team": {
+            
+            },
+            "summary":{
+            "cards":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "corners":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            },
+            "goals":{
+                "discuss":" ",
+                "ht": " ",
+                "ft": " "
+            }
+        }
+    }
+    ]
