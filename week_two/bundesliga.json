@@ -6,7 +6,7 @@
     "pitch_condition": "Excellent",
     "type_of_match": "Regular",
     "referee": {
-      "name": "Felix Brych",
+      "name": "Schroder R.",
       "fouls_per_tackle": 0.55,
       "yellow_per_game": 3.20
     },
@@ -63,29 +63,29 @@
         "match_five": [2,3]
       }
     },
-            "home_team" : {
-            
-            },
-            "away_team": {
-            
-            },
-            "summary":{
-            "cards":{
-                "discuss":" ",
-                "ht": " ",
-                "ft": " "
-            },
-            "corners":{
-                "discuss":" ",
-                "ht": " ",
-                "ft": " "
-            },
-            "goals":{
-                "discuss":" ",
-                "ht": " ",
-                "ft": " "
-            }
-         }
+    "home_team" : {
+    
+    },
+    "away_team": {
+    
+    },
+    "summary":{
+    "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    }
+  }
     },
     {
       "fixture": "Augsburg vs Werder Bremen",
@@ -94,9 +94,9 @@
     "pitch_condition": "Good",
     "type_of_match": "Regular",
     "referee": {
-      "name": "Daniel Siebert",
-      "fouls_per_tackle": 0.52,
-      "yellow_per_game": 3.70
+      "name": "*n/a",
+      "fouls_per_tackle": 0,
+      "yellow_per_game": 0
     },
     "head_to_head": {
 
@@ -182,9 +182,9 @@
     "pitch_condition": "Excellent",
     "type_of_match": "Regular",
     "referee": {
-      "name": "Marco Fritz",
-      "fouls_per_tackle": 0.50,
-      "yellow_per_game": 4.10
+      "name": "*n/a",
+      "fouls_per_tackle": 0,
+      "yellow_per_game": 0
     },
     "head_to_head": {
 
@@ -270,9 +270,9 @@
     "pitch_condition": "Wet",
     "type_of_match": "Regular",
     "referee": {
-      "name": "Sascha Stegemann",
-      "fouls_per_tackle": 0.57,
-      "yellow_per_game": 4.30
+      "name": "*n/a",
+      "fouls_per_tackle": 0,
+      "yellow_per_game": 0
     },
     "head_to_head": {
 
@@ -358,87 +358,59 @@
     "pitch_condition": "Good",
     "type_of_match": "Regular",
     "referee": {
-      "name": "Robert Hartmann",
-      "fouls_per_tackle": 0.54,
-      "yellow_per_game": 3.80
+      "name": "*n/a",
+      "fouls_per_tackle": 0,
+      "yellow_per_game": 0
     },
     "head_to_head": {
 
        "teams": {
-        "match_one": ["Hoffenheim","Holstein Kiel"],
-        "match_two": [ ],
-        "match_three": [ ],
-        "match_four": [ ],
-        "match_five": [ ]
+        "match_one": ["Hoffenheim","Holstein Kiel"]
       },
       
       "goals": {
-        "match_one": [2,1],
-        "match_two": [ ],
-        "match_three": [ ],
-        "match_four": [ ],
-        "match_five": [ ]
+        "match_one": [2,1]
       },
       "x_goals": {
-        "match_one": [ ],
-        "match_two": [ ],
-        "match_three": [ ],
-        "match_four": [ ],
-        "match_five": [ ]
+        "match_one": [ ]
       },
       "corners": {
-        "match_one": [4,6],
-        "match_two": [ ],
-        "match_three": [ ],
-        "match_four": [ ],
-        "match_five": [ ]
+        "match_one": [4,6]
       },
       "fouls": {
-        "match_one": [11,9],
-        "match_two": [ ],
-        "match_three": [ ],
-        "match_four": [ ],
-        "match_five": [ ]
+        "match_one": [11,9]
       },
       "HT_cards": {
-        "match_one": [0,0],
-        "match_two": [ ],
-        "match_three": [ ],
-        "match_four": [ ],
-        "match_five": [ ]
+        "match_one": [0,0]
       },
       "FT_cards": {
-        "match_one": [1,1],
-        "match_two": [ ],
-        "match_three": [ ],
-        "match_four": [ ],
-        "match_five": [ ]
+        "match_one": [1,1]
       }
     },
-            "home_team" : {
-            
-            },
-            "away_team": {
-            
-            },
-            "summary":{
-            "cards":{
-                "discuss":" ",
-                "ht": " ",
-                "ft": " "
-            },
-            "corners":{
-                "discuss":" ",
-                "ht": " ",
-                "ft": " "
-            },
-            "goals":{
-                "discuss":" ",
-                "ht": " ",
-                "ft": " "
-            }
-        }
+    "home_team" : {
+    
     },
+    "away_team": {
+    
+    },
+    "summary":{
+    "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    }
+}
+},
     {
        "fixture": "Mainz vs Union Berlin",
     "stadium": "Mewa Arena",
@@ -446,9 +418,9 @@
     "pitch_condition": "Good",
     "type_of_match": "Season Opener",
     "referee": {
-        "name": "Felix Brych",
-        "fouls_per_tackle": 0.54,
-        "yellow_per_game": 3.7
+        "name": "*n/a",
+        "fouls_per_tackle": 0,
+        "yellow_per_game": 0
     },
     "head_to_head": {
 
@@ -503,29 +475,29 @@
             "match_five": [4,5]
         }
     },
-            "home_team" : {
-            
-            },
-            "away_team": {
-            
-            },
-            "summary":{
-            "cards":{
-                "discuss":" ",
-                "ht": " ",
-                "ft": " "
-            },
-            "corners":{
-                "discuss":" ",
-                "ht": " ",
-                "ft": " "
-            },
-            "goals":{
-                "discuss":" ",
-                "ht": " ",
-                "ft": " "
-            }
-        }
+    "home_team" : {
+    
+    },
+    "away_team": {
+    
+    },
+    "summary":{
+    "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    }
+}
     },
     {
        "fixture": "RB Leipzig vs Bochum",
@@ -534,9 +506,9 @@
     "pitch_condition": "Excellent",
     "type_of_match": "Regular",
     "referee": {
-        "name": "Deniz Aytekin",
-        "fouls_per_tackle": 0.58,
-        "yellow_per_game": 3.9
+        "name": "*n/a",
+        "fouls_per_tackle": 0,
+        "yellow_per_game": 0
     },
     "head_to_head": {
 
@@ -591,29 +563,29 @@
             "match_five": [1,1]
         }
     },
-            "home_team" : {
-            
-            },
-            "away_team": {
-            
-            },
-            "summary":{
-            "cards":{
-                "discuss":" ",
-                "ht": " ",
-                "ft": " "
-            },
-            "corners":{
-                "discuss":" ",
-                "ht": " ",
-                "ft": " "
-            },
-            "goals":{
-                "discuss":" ",
-                "ht": " ",
-                "ft": " "
-            }
+        "home_team" : {
+        
+        },
+        "away_team": {
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
         }
+    }
     },
     {
       "fixture": "St. Pauli vs Heidenheim",
@@ -622,9 +594,9 @@
     "pitch_condition": "Wet",
     "type_of_match": "Regular",
     "referee": {
-        "name": "Daniel Siebert",
-        "fouls_per_tackle": 0.55,
-        "yellow_per_game": 4.0
+        "name": "*n/a",
+        "fouls_per_tackle": 0,
+        "yellow_per_game": 0
     },
     "head_to_head": {
 
@@ -679,29 +651,29 @@
             "match_five": [5,2]
         }
     },
-            "home_team" : {
-            
-            },
-            "away_team": {
-            
-            },
-            "summary":{
-            "cards":{
-                "discuss":" ",
-                "ht": " ",
-                "ft": " "
-            },
-            "corners":{
-                "discuss":" ",
-                "ht": " ",
-                "ft": " "
-            },
-            "goals":{
-                "discuss":" ",
-                "ht": " ",
-                "ft": " "
-            }
-        }
+      "home_team" : {
+      
+      },
+      "away_team": {
+      
+      },
+      "summary":{
+      "cards":{
+          "discuss":" ",
+          "ht": " ",
+          "ft": " "
+      },
+      "corners":{
+          "discuss":" ",
+          "ht": " ",
+          "ft": " "
+      },
+      "goals":{
+          "discuss":" ",
+          "ht": " ",
+          "ft": " "
+      }
+  }
     },
     {
        "fixture": "Wolfsburg vs Bayern Munich",
@@ -710,9 +682,9 @@
     "pitch_condition": "Good",
     "type_of_match": "High-profile",
     "referee": {
-        "name": "Marco Fritz",
-        "fouls_per_tackle": 0.57,
-        "yellow_per_game": 3.5
+        "name": "*n/a",
+        "fouls_per_tackle": 0,
+        "yellow_per_game": 0
     },
     "head_to_head": {
 
@@ -767,28 +739,28 @@
             "match_five": [1,2]
         }
     },
-            "home_team" : {
-            
-            },
-            "away_team": {
-            
-            },
-            "summary":{
-            "cards":{
-                "discuss":" ",
-                "ht": " ",
-                "ft": " "
-            },
-            "corners":{
-                "discuss":" ",
-                "ht": " ",
-                "ft": " "
-            },
-            "goals":{
-                "discuss":" ",
-                "ht": " ",
-                "ft": " "
-            }
-        }
+    "home_team" : {
+    
+    },
+    "away_team": {
+    
+    },
+    "summary":{
+    "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    }
+}
     }
     ]
