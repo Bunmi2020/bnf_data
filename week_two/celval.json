@@ -1,0 +1,240 @@
+{
+    "fixture": "Celta Vigo vs Valencia",
+    "stadium": "Abanca-Balaídos",
+    "Weather": "Partly cloudy",
+    "pitch_condition": "Good",
+    "type_of_match": "Regular",
+    "referee": {
+      "name": "Munuera Montero J.",
+      "fouls_per_tackle": 0.82,
+      "yellow_per_game": 5.00
+    },
+    "head_to_head": {
+      "teams": {
+        "match_one": ["Celta Vigo", "Valencia"],
+        "match_two": ["Valencia", "Celta Vigo"],
+        "match_three": ["Valencia", "Celta Vigo"],
+        "match_four": ["Celta Vigo", "Valencia"],
+        "match_five": ["Valencia", "Celta Vigo"]
+      },
+      "goals": {
+        "match_one": [2,2],
+        "match_two": [1,3],
+        "match_three": [0,0],
+        "match_four": [1,2],
+        "match_five": [3,0]
+      },
+      "x_goals": {
+        "match_one": [1.52,1.96],
+        "match_two": [2.05,2.17],
+        "match_three": [0.30,0.72],
+        "match_four": [0.69,1.16],
+        "match_five": [ ]
+      },
+      "corners": {
+        "match_one": [2,2],
+        "match_two": [13,4],
+        "match_three": [5,7],
+        "match_four": [5,4],
+        "match_five": [5,4]
+      },
+      "fouls": {
+        "match_one": [17,18],
+        "match_two": [9,10],
+        "match_three": [13,7],
+        "match_four": [13,19],
+        "match_five": [18,23]
+      },
+      "HT_cards": {
+        "match_one": [0,0],
+        "match_two": [0,0],
+        "match_three": [0,0],
+        "match_four": [2,1],
+        "match_five": [1,0]
+      },
+      "FT_cards": {
+        "match_one": [0,0],
+        "match_two": [1,2],
+        "match_three": [3,2],
+        "match_four": [3,6],
+        "match_five": [3,3]
+      }
+    },
+    "home_team" : {
+      "name": "Celta Vigo",
+"coach": "Claudio Giráldez",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/celta_vigo.png",
+"playing_style": " ",
+"pressing_style": "Non-aggressive",
+"attacking_style": "Frequent through ball attempts; Attacking down the right; High shot volume",
+"defensive_style": "Compact",
+"aggressive_players": ["Luca de la Torre"],
+"provocative_players": ["Iago Aspas","Jonathan Bamba"],
+"unavailable_attacking_players": [],
+"recent_matches": {
+ "teams": {
+  "match_seven": ["Celta Vigo","Alaves"],
+"match_one": ["Celta Vigo","Valencia"],
+"match_two": ["Granada","Celta Vigo"],
+"match_three": ["Celta Vigo","Ath Bilbao"],
+"match_four": ["Atl. Madrid","Celta Vigo"],
+"match_five": ["Celta Vigo","Villarreal"],
+"match_six": ["Celta Vigo","Las Palmas"]
+},
+
+"goals": {
+  "match_seven": [2,1],
+  "match_one": [2,2],
+  "match_two": [1,2],
+  "match_three": [2,1],
+  "match_four": [1,0],
+  "match_five": [3,2],
+  "match_six": [4,1]
+},
+"x_goals": {
+  "match_seven": [0.61,0.80],
+  "match_one": [1.52,1.96],
+  "match_two": [1.13,1.32],
+  "match_three": [0.77,0.21],
+  "match_four": [1.68,0.53],
+  "match_five": [3.84,0.60],
+  "match_six": [3.48,0.83]
+},
+"corners": {
+  "match_seven": [3,3],
+  "match_one": [2,2],
+  "match_two": [10,2],
+  "match_three": [2,3],
+  "match_four": [4,7],
+  "match_five": [2,1],
+  "match_six": [8,4]
+},
+"fouls": {
+  "match_seven": [8,23],
+  "match_one": [17,18],
+  "match_two": [15,12],
+  "match_three": [15,14],
+  "match_four": [7,9],
+  "match_five": [11,5],
+  "match_six": [10,9]
+},
+"HT_cards": {
+  "match_seven": [1,1],
+  "match_one": [0,0],
+  "match_two": [0,0],
+  "match_three": [0,0],
+  "match_four": [0,1],
+  "match_five": [2,1],
+  "match_six": [0,0]
+},
+"FT_cards": {
+  "match_seven": [3,2],
+  "match_one": [0,0],
+  "match_two": [2,1],
+  "match_three": [2,0],
+  "match_four": [1,1],
+  "match_five": [4,0],
+  "match_six": [1,0]
+}
+}
+    
+
+    },
+    "away_team" : {
+      "name": "Valencia",
+"coach": "Rubén Baraja",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/valencia.png",
+"playing_style": "Wide play; Long balls; Plays in own half",
+"pressing_style": "Non-aggressive",
+"attacking_style": "Attacking down the right; Take long shots; ",
+"defensive_style": "Compact",
+"aggressive_players": ["Hugo Guillamón","Pepelu","Thierry Correia"],
+"provocative_players": ["Hugo Duro"],
+"unavailable_attacking_players": [],
+"recent_matches": {
+ "teams": {
+  "match_seven": ["Valencia","Barcelona"],
+"match_one": ["Celta Vigo","Valencia"],
+"match_two": ["Valencia","Girona"],
+"match_three": ["Real Sociedad","Valencia"],
+"match_four": ["Valencia","Rayo Vallecano"],
+"match_five": ["Valencia","Alaves"],
+"match_six": ["Barcelona","Valencia"]
+},
+
+"goals": {
+"match_seven": [1,2],
+  "match_one": [2,2],
+  "match_two": [1,3],
+  "match_three": [1,0],
+  "match_four": [0,0],
+  "match_five": [0,1],
+  "match_six": [4,2]
+},
+"x_goals": {
+  "match_seven": [0.95,2.75],
+  "match_one": [1.52,1.96],
+  "match_two": [2.89,2.49],
+  "match_three": [0.53,0.83],
+  "match_four": [1.29,0.64],
+  "match_five": [0.89,0.65],
+  "match_six": [2.20,2.11]
+},
+"corners": {
+  "match_seven": [3,8],
+  "match_one": [2,2],
+  "match_two": [5,4],
+  "match_three": [3,3],
+  "match_four": [6,3],
+  "match_five": [5,7],
+  "match_six": [15,1]
+},
+"fouls": {
+  "match_seven": [11,13],
+  "match_one": [17,18],
+  "match_two": [10,15],
+  "match_three": [11,13],
+  "match_four": [14,21],
+  "match_five": [9,17],
+  "match_six": [12,5]
+},
+"HT_cards": {
+  "match_seven": [2,1],
+  "match_one": [0,0],
+  "match_two": [1,0],
+  "match_three": [0,1],
+  "match_four": [0,1],
+  "match_five": [0,2],
+  "match_six": [1,1]
+},
+"FT_cards": {
+  "match_seven": [2,3],
+  "match_one": [0,0],
+  "match_two": [2,0],
+  "match_three": [0,2],
+  "match_four": [1,2],
+  "match_five": [1,3],
+  "match_six": [1,1]
+}
+}
+   
+
+    },
+    "summary": {
+      "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+    }
+  }
