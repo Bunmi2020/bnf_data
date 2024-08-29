@@ -1,0 +1,2404 @@
+[
+  {
+    "fixture": "Barcelona vs Valladolid",
+    "stadium": "Estadi Olímpic Lluís Companys",
+    "Weather": "Partly cloudy",
+    "pitch_condition": "Good",
+    "type_of_match": "Regular",
+    "referee": {
+      "name": "Diaz de Mera I",
+      "fouls_per_tackle": 0,
+      "yellow_per_game": 0
+    },
+    "head_to_head": {
+      "teams": {
+        "match_one": ["Valladolid", "Barcelona"],
+        "match_two": ["Barcelona", "Valladolid"],
+        "match_three": ["Barcelona", "Valladolid"],
+        "match_four": ["Valladolid", "Barcelona"],
+        "match_five": ["Valladolid", "Barcelona"]
+      },
+      "goals": {
+        "match_one": [3,1],
+        "match_two": [4,0],
+        "match_three": [1,0],
+        "match_four": [0,3],
+        "match_five": [0,1]
+      },
+      "x_goals": {
+        "match_one": [12.50, 1.50],
+        "match_two": [ ],
+        "match_three": [ ],
+        "match_four": [ ],
+        "match_five": [ ]
+      },
+      "corners": {
+        "match_one": [2, 6],
+        "match_two": [14,4],
+        "match_three": [4,1],
+        "match_four": [4,5],
+        "match_five": [4,5]
+      },
+      "fouls": {
+        "match_one": [13,9],
+        "match_two": [9,8],
+        "match_three": [12,13],
+        "match_four": [12,10],
+        "match_five": [15,13]
+      },
+      "HT_cards": {
+        "match_one": [1,0],
+        "match_two": [0,1],
+        "match_three": [2,1],
+        "match_four": [0,0],
+        "match_five": [1,1]
+      },
+      "FT_cards": {
+        "match_one": [1,0],
+        "match_two": [0,3],
+        "match_three": [3,4],
+        "match_four": [1,2],
+        "match_five": [2,2]
+      }
+    },
+    "home_team" : {
+      "name": "Barcelona",
+"coach": "Hansi Flick",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/barcelona.png",
+"playing_style": "Ball Retention; Draws fouls; Short passes",
+"pressing_style": "Non-aggressive",
+"attacking_style": "Attack through the middle and down the right; ",
+"defensive_style": "Loose",
+"aggressive_players": ["Fermín López"],
+"provocative_players": ["Robert Lewandowski","Lamine Yamal"],
+"unavailable_attacking_players": [],
+"recent_matches": {
+ "teams": {
+  "match_five": ["Rayo Vallecano","Barcelona"],
+  "match_six": ["Barcelona", "Ath Bilbao"],
+  "match_seven": ["Valencia","Barcelona"],
+"match_one": ["Sevilla","Barcelona"],
+"match_two": ["Barcelona","Rayo Vallecano"],
+"match_three": ["Almeria","Barcelona"],
+"match_four": ["Barcelona","Real Sociedad"]
+},
+
+"goals": {
+  "match_five": [1,2],
+  "match_six": [2,1],
+  "match_seven": [1,2],
+  "match_one": [1,2],
+  "match_two": [3,0],
+  "match_three": [0,2],
+  "match_four": [2,0]
+},
+"x_goals": {
+  "match_five": [0.21,1.01],
+  "match_six": [1.42,1.22],
+  "match_seven": [0.95,2.75],
+  "match_one": [1.77,1.38],
+  "match_two": [1.40,1.31],
+  "match_three": [0.79,1.59],
+  "match_four": [2.33,0.73]
+},
+"corners": {
+  "match_five": [6,6],
+  "match_six": [5,6],
+  "match_seven": [3,8],
+  "match_one": [6,5],
+  "match_two": [7,5],
+  "match_three": [4,8],
+  "match_four": [6,2]
+},
+"fouls": {
+  "match_five": [17,11],
+  "match_six": [11,16],
+  "match_seven": [11,13],
+  "match_one": [11,9],
+  "match_two": [10,7],
+  "match_three": [10,11],
+  "match_four": [12,14]
+},
+"HT_cards": {
+  "match_five": [1,0],
+  "match_six": [1,1],
+  "match_seven": [2,1],
+  "match_one": [1,0],
+  "match_two": [3,1],
+  "match_three": [0,0],
+  "match_four": [0,0]
+},
+"FT_cards": {
+  "match_five": [3,1],
+  "match_six": [4,5],
+  "match_seven": [2,3],
+  "match_one": [2,1],
+  "match_two": [4,2],
+  "match_three": [0,1],
+  "match_four": [2,3]
+}
+}
+    
+
+    
+    },
+    "away_team": {
+      "name": "Valladolid",
+"coach": "Paulo Pezzolano",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/valladolid.png",
+"playing_style": "Defensive",
+"pressing_style": "Medium-block pressing",
+"attacking_style": "Counter-attacking",
+"defensive_style": "Compact",
+"aggressive_players": ["Kike Pérez"],
+"provocative_players": ["Kike Pérez"],
+"unavailable_attacking_players": [],
+
+"recent_matches": {
+ "teams": {
+  "match_five": ["Valladolid","Leganes"],
+  "match_six": ["Real Madrid", "Valladolid"],
+  "match_seven": ["Valladolid","Espanyol"],
+"match_one": ["Tenerife","Valladolid"],
+"match_two": ["Valladolid","Villarreal B"],
+"match_three": ["Alcorcon","Valladolid"],
+"match_four": ["Valladolid","Espanyol"]
+},
+
+"goals": {
+  "match_five": [0,0],
+  "match_six": [3,0],
+  "match_seven": [1,0],
+  "match_one": [2,1],
+  "match_two": [3,2],
+  "match_three": [1,1],
+  "match_four": [0,0]
+},
+"x_goals": {
+  "match_five": [0.58,0.09],
+  "match_six": [1.87,0.77],
+  "match_seven": [0.57,0.26],
+  "match_one": [1.66,0.85],
+  "match_two": [1.273,0.78],
+  "match_three": [0.30,0.93],
+  "match_four": [1.25,0.12]
+},
+"corners": {
+  "match_five": [4,4],
+  "match_six": [5,5],
+  "match_seven": [3,2],
+  "match_one": [4,7],
+  "match_two": [3,3],
+  "match_three": [4,6],
+  "match_four": [3,4]
+},
+"fouls": {
+  "match_five": [13,19],
+  "match_six": [10,15],
+  "match_seven": [15,8],
+  "match_one": [13,7],
+  "match_two": [17,13],
+  "match_three": [14,11],
+  "match_four": [13,19]
+},
+"HT_cards": {
+  "match_five": [0,1],
+  "match_six": [0,1],
+  "match_seven": [0,0],
+  "match_one": [0,0],
+  "match_two": [0,2],
+  "match_three": [1,2],
+  "match_four": [2,2]
+},
+"FT_cards": {
+  "match_five": [1,5],
+  "match_six": [1,1],
+  "match_seven": [2,2],
+  "match_one": [2,1],
+  "match_two": [5,3],
+  "match_three": [2,3],
+  "match_four": [4,9]
+}
+}
+    
+
+    
+    },
+    "summary":{
+    "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    }
+  }
+  },
+  {
+    "fixture": "Ath Bilbao vs Atl. Madrid",
+    "stadium": "Estadio San Mamés",
+    "Weather": "Estadio San Mamés",
+    "pitch_condition": "Wet",
+    "type_of_match": "Regular",
+    "referee": {
+      "name": "Hernandez A",
+      "fouls_per_tackle": 0.80,
+      "yellow_per_game": 5.00
+    },
+    "head_to_head": {
+      "teams": {
+        "match_one": ["Atl. Madrid", "Ath Bilbao"],
+        "match_two": ["Ath Bilbao", "Atl. Madrid"],
+        "match_three": ["Atl. Madrid", "Ath Bilbao"],
+        "match_four": ["Ath Bilbao", "Atl. Madrid"],
+        "match_five": ["Atl. Madrid", "Ath Bilbao"]
+      },
+      "goals": {
+        "match_one": [3,1],
+        "match_two": [3,0],
+        "match_three": [0,1],
+        "match_four": [2,0],
+        "match_five": [1,0]
+      },
+      "x_goals": {
+        "match_one": [0.90, 1.02],
+        "match_two": [1.51, 1.00],
+        "match_three": [1.78, 1.58],
+        "match_four": [2.45,0.43],
+        "match_five": [1.23,0.81]
+      },
+      "corners": {
+        "match_one": [3,5],
+        "match_two": [3,5],
+        "match_three": [10,6],
+        "match_four": [3,7],
+        "match_five": [6,5]
+      },
+      "fouls": {
+        "match_one": [16,15],
+        "match_two": [16,8],
+        "match_three": [9,16],
+        "match_four": [7,10],
+        "match_five": [7,13]
+      },
+      "HT_cards": {
+        "match_one": [1,0],
+        "match_two": [1,1],
+        "match_three": [1,2],
+        "match_four": [0,0],
+        "match_five": [2,1]
+      },
+      "FT_cards": {
+        "match_one": [3,2],
+        "match_two": [4,1],
+        "match_three": [2,4],
+        "match_four": [20,1],
+        "match_five": [2,3]
+      }
+    },
+    "home_team" : {
+      "name": "Ath Bilbao",
+"coach": "Ernesto Valverde",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/ath_bilbao.png",
+"playing_style": "High territorial control",
+"pressing_style": " ",
+"attacking_style": "Attacking down the right; High crossing frequency; Frequent through ball attempts",
+"defensive_style": " ",
+"aggressive_players": ["Ruíz Galarreta ","Gorka Guruzeta"],
+"provocative_players": ["Ruíz Galarreta","Inaki Williams"],
+"unavailable_attacking_players": [],
+
+"recent_matches": {
+ "teams": {
+  "match_five": ["Ath Bilbao","Valencia"],
+  "match_six": ["Barcelona", "Ath Bilbao"],
+  "match_seven": ["Ath Bilbao","Getafe"],
+"match_one": ["Rayo Vallecano","Ath Bilbao"],
+"match_two": ["Ath Bilbao","Sevilla"],
+"match_three": ["Celta Vigo","Ath Bilbao"],
+"match_four": ["Ath Bilbao","Osasuna"]
+},
+
+
+"goals": {
+  "match_five": [1,0],
+  "match_six": [2,1],
+  "match_seven": [1,1],
+  "match_one": [0,1],
+  "match_two": [2,0],
+  "match_three": [2,1],
+  "match_four": [2,2]
+},
+"x_goals": {
+  "match_five": [1.07,0.06],
+  "match_six": [1.42,1.22],
+  "match_seven": [0.72,1.07],
+  "match_one": [1.07,0.78],
+  "match_two": [1.24,1.24],
+  "match_three": [0.77,0.21],
+  "match_four": [1.12,1.14]
+},
+"corners": {
+  "match_five": [5,3],
+  "match_six": [5,6],
+  "match_seven": [5,6],
+  "match_one": [8,2],
+  "match_two": [8,3],
+  "match_three": [2,3],
+  "match_four": [8,6]
+},
+"fouls": {
+  "match_five": [14,9],
+  "match_six": [11,16],
+  "match_seven": [15,12],
+  "match_one": [6,13],
+  "match_two": [12,5],
+  "match_three": [15,14],
+  "match_four": [9,14]
+},
+"HT_cards": {
+  "match_five": [0,2],
+  "match_six": [1,1],
+  "match_seven": [0,1],
+  "match_one": [0,1],
+  "match_two": [1,1],
+  "match_three": [0,0],
+  "match_four": [2,1]
+},
+"FT_cards": {
+  "match_five": [1,3],
+  "match_six": [4,5],
+  "match_seven": [4,1],
+  "match_one": [1,1],
+  "match_two": [1,1],
+  "match_three": [2,0],
+  "match_four": [2,4]
+}
+}
+    
+
+    
+    },
+    "away_team": {
+      "name": "Atl. Madrid",
+"coach": "Diego Simeone",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/atl_madrid.png",
+"playing_style": "Short passes",
+"pressing_style": " ",
+"attacking_style": "Frequent through ball attempts",
+"defensive_style": "Tight",
+"aggressive_players": [],
+"provocative_players": ["Joao Felix","Rodrigo De Paul","Samuel Lino"],
+"unavailable_attacking_players": [],
+"recent_matches": {
+   "teams": {
+    "match_five": ["Atl. Madrid","Espanyol"],
+    "match_six":["Atl Madrid","Girona"],
+    "match_seven": ["Villarreal","Atl. Madrid"],
+"match_one": ["Real Sociedad","Atl. Madrid"],
+"match_two": ["Atl. Madrid","Osasuna"],
+"match_three": ["Getafe","Atl. Madrid"],
+"match_four": ["Atl. Madrid","Celta Vigo"]
+},
+  
+  "goals": {
+    "match_five": [0,0],
+    "match_six":[3,0],
+    "match_seven": [2,2],
+    "match_one": [0,2],
+    "match_two": [1,4],
+    "match_three": [0,3],
+    "match_four": [1,0]
+  },
+  "x_goals": {
+    "match_five": [2.67,0.50],
+    "match_six":[1.23,0.51],
+    "match_seven": [0.87,0.97],
+    "match_one": [0.55,1.68],
+    "match_two": [1.59,1.78],
+    "match_three": [0.66,1.43],
+    "match_four": [1.68,0.53]
+  },
+  "corners": {
+    "match_five": [9,3],
+    "match_six":[1,9],
+    "match_seven": [2,3],
+    "match_one": [8,4],
+    "match_two": [7,5],
+    "match_three": [6,3],
+    "match_four": [4,7]
+  },
+  "fouls": {
+    "match_five": [6,9],
+    "match_six":[11,11],
+    "match_seven": [7,12],
+    "match_one": [19,15],
+    "match_two": [12,9],
+    "match_three": [17,7],
+    "match_four": [7,9]
+  },
+  "HT_cards": {
+    "match_five": [0,0],
+    "match_six":[1,2],
+    "match_seven": [1,2],
+    "match_one": [1,2],
+    "match_two": [1,0],
+    "match_three": [1,1],
+    "match_four": [0,1]
+  },
+  "FT_cards": {
+    "match_five": [0,2],
+    "match_six":[1,3],
+    "match_seven": [1,3],
+    "match_one": [3,5],
+    "match_two": [2,2],
+    "match_three": [4,3],
+    "match_four": [1,1]
+  }
+}
+      
+
+    
+    },
+    "summary":{
+    "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    }
+  }
+  },
+  {
+    "fixture": "Espanyol vs Rayo Vallecano",
+    "stadium": "Stage Front Stadium",
+    "Weather": "Partly cloudy",
+    "pitch_condition": "Excellent",
+    "type_of_match": "Regular",
+    "referee": {
+      "name": "Vega A. C.",
+      "fouls_per_tackle": 0.97,
+      "yellow_per_game": 5.84
+    },
+    "head_to_head": {
+      "teams": {
+        "match_one": ["Rayo Vallecano", "Espanyol"],
+        "match_two": ["Espanyol", "Rayo Vallecano"],
+        "match_three": ["Espanyol", "Barcelona"],
+        "match_four": ["Rayo Vallecano", "Espanyol"],
+        "match_five": ["Espanyol", "Rayo Vallecano"]
+      },
+      "goals": {
+        "match_one": [1,2],
+        "match_two": [0,2],
+        "match_three": [0,1],
+        "match_four": [1,0],
+        "match_five": [2,3]
+      },
+      "x_goals": {
+        "match_one": [1.66, 1.41],
+        "match_two": [ ],
+        "match_three": [ ],
+        "match_four": [ ],
+        "match_five": [ ]
+      },
+      "corners": {
+        "match_one": [4,4],
+        "match_two": [9,2],
+        "match_three": [3,10],
+        "match_four": [6,3],
+        "match_five": [6,3]
+      },
+      "fouls": {
+        "match_one": [8,11],
+        "match_two": [12,17],
+        "match_three": [14,18],
+        "match_four": [18,11],
+        "match_five": [18,11]
+      },
+      "HT_cards": {
+        "match_one": [1,1],
+        "match_two": [3,5],
+        "match_three": [0,1],
+        "match_four": [1,1],
+        "match_five": [0,0]
+      },
+      "FT_cards": {
+        "match_one": [2,2],
+        "match_two": [3,6],
+        "match_three": [4,4],
+        "match_four": [3,4],
+        "match_five": [4,4]
+      }
+    },
+    "home_team" : {
+      "name": "Espanyol",
+"coach": "Manolo González",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/espanyol.png",
+"playing_style": "Counter-attacking",
+"pressing_style": "Moderate pressing",
+"attacking_style": "Quick transitions and set-pieces",
+"defensive_style": "Compact and organized",
+"aggressive_players": [ ],
+"provocative_players": [ ],
+"unavailable_attacking_players": [],
+
+"recent_matches": {
+ "teams": {
+  "match_five": ["Atl. Madrid","Espanyol"],
+  "match_six": ["Espanyol", "Real Sociedad"],
+  "match_seven": ["Valladolid","Espanyol"],
+"match_one": ["Espanyol","R. Oviedo"],
+"match_two": ["R. Oviedo","Espanyol"],
+"match_three": ["Espanyol","Gijon"],
+"match_four": ["Gijon","Espanyol"]
+},
+
+"goals": {
+  "match_five": [0,0],
+  "match_six": [0,1],
+  "match_seven": [1,0],
+  "match_one": [2,0],
+  "match_two": [1,0],
+  "match_three": [0,0],
+  "match_four": [0,1]
+},
+"x_goals": {
+  "match_five": [2.67,0.50],
+  "match_six": [1.33,1.03],
+  "match_seven": [0.57,0.26],
+  "match_one": [ ],
+  "match_two": [ ],
+  "match_three": [ ],
+  "match_four": [ ]
+},
+"corners": {
+  "match_five": [9,3],
+  "match_six": [7,4],
+  "match_seven": [3,2],
+  "match_one": [7,5],
+  "match_two": [1,4],
+  "match_three": [1,7],
+  "match_four": [0,5]
+},
+"fouls": {
+  "match_five": [6,9],
+  "match_six": [14,18],
+  "match_seven": [15,8],
+  "match_one": [24,18],
+  "match_two": [15,18],
+  "match_three": [13,17],
+  "match_four": [8,15]
+},
+"HT_cards": {
+  "match_five": [0,0],
+  "match_six": [0,0],
+  "match_seven": [0,0],
+  "match_one": [1,2],
+  "match_two": [0,0],
+  "match_three": [0,1],
+  "match_four": [1,0]
+},
+"FT_cards": {
+  "match_five": [0,2],
+  "match_six": [2,2],
+  "match_seven": [2,2],
+  "match_one": [3,3],
+  "match_two": [1,2],
+  "match_three": [1,3],
+  "match_four": [3,6]
+}
+}
+    
+
+    
+    },
+    "away_team": {
+      "name": "Rayo Vallecano",
+"coach": "Iñigo Pérez",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/rayo_vallecano.png",
+"playing_style": "Wide play; Ball Retention; Draws fouls",
+"pressing_style": "Aggressive",
+"attacking_style": "Take long shots; High shot volume; Attacking down the left",
+"defensive_style": " ",
+"aggressive_players": ["Óscar Valentín","Gerard Gumbau","Unai López","Alfonso Espino","Óscar Trejo"],
+"provocative_players": ["Isi Palazon","Alfonso Espino"],
+"unavailable_attacking_players": [],
+"recent_matches": {
+ "teams": {
+  "match_five": ["Rayo Vallecano","Barcelona"],
+  "match_six": ["Getafe", "Rayo Vallecano"],
+  "match_seven": ["Real Sociedad","Rayo Vallecano"],
+"match_one": ["Rayo Vallecano","Ath Bilbao"],
+"match_two": ["Barcelona","Rayo Vallecano"],
+"match_three": ["Rayo Vallecano","Granada"],
+"match_four": ["Valencia","Rayo Vallecano"]
+},
+
+"goals": {
+  "match_five": [1,2],
+  "match_six": [0,0],
+"match_seven": [1,2],
+  "match_one": [0,1],
+  "match_two": [3,0],
+  "match_three": [2,1],
+  "match_four": [0,0]
+},
+"x_goals": {
+  "match_five": [0.21,1.01],
+  "match_six": [0.67,0.25],
+  "match_seven": [1.55,1.50],
+  "match_one": [0.07,0.78],
+  "match_two": [1.40,1.31],
+  "match_three": [2.32,0.85],
+  "match_four": [1.29,0.64]
+},
+"corners": {
+  "match_five": [6,6],
+  "match_six": [3,2],
+  "match_seven": [10,5],
+  "match_one": [8,2],
+  "match_two": [7,5],
+  "match_three": [6,6],
+  "match_four": [6,3]
+},
+"fouls": {
+  "match_five": [17,11],
+  "match_six": [16,18],
+  "match_seven": [14,21],
+  "match_one": [6,13],
+  "match_two": [10,7],
+  "match_three": [12,17],
+  "match_four": [14,21]
+},
+"HT_cards": {
+  "match_five": [1,0],
+  "match_six": [1,0],
+  "match_seven": [1,1],
+  "match_one": [0,1],
+  "match_two": [3,1],
+  "match_three": [2,1],
+  "match_four": [0,1]
+},
+"FT_cards": {
+  "match_five": [3,1],
+  "match_six": [1,2],
+  "match_seven": [2,4],
+  "match_one": [1,1],
+  "match_two": [4,2],
+  "match_three": [5,3],
+  "match_four": [1,2]
+}
+}
+    
+
+    
+    },
+    "summary":{
+    "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    }
+  }
+  },
+  {
+    "fixture": "Leganes vs Mallorca",
+    "stadium": "Estadio Municipal de Butarque",
+    "Weather": "Cloudy",
+    "pitch_condition": "Good",
+    "type_of_match": "Regular",
+    "referee": {
+      "name": "Lopez M.",
+      "fouls_per_tackle": 0.74,
+      "yellow_per_game": 4.44
+    },
+    "head_to_head": {
+      "teams": {
+        "match_one": ["Mallorca", "Leganes"],
+        "match_two": ["Leganes", "Mallorca"],
+        "match_three": ["Mallorca", "Leganes"]
+      },
+      "goals": {
+        "match_one": [1,0],
+        "match_two": [0,1],
+        "match_three": [1,1]
+      },
+      "x_goals": {
+        "match_one": [ ],
+        "match_two": [ ],
+        "match_three": [ ]
+      },
+      "corners": {
+        "match_one": [3,2],
+        "match_two": [2,4],
+        "match_three": [3,7]
+      },
+      "fouls": {
+        "match_one": [22,15],
+        "match_two": [13,13],
+        "match_three": [15,11]
+      },
+      "HT_cards": {
+        "match_one": [1,2],
+        "match_two": [3,1],
+        "match_three": [0,2]
+      },
+      "FT_cards": {
+        "match_one": [3,3],
+        "match_two": [2,1],
+        "match_three": [3,6]
+      }
+    },
+    "home_team" : {
+      "name": "Leganes",
+      "coach": "Borja Jiménez",
+      "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/leganes.png",
+      "playing_style": "Counter-Attacking",
+      "pressing_style": "Medium-pressing",
+      "attacking_style": "Direct Play and Set-Pieces",
+      "defensive_style": "Compact",
+      "aggressive_players": ["Javi Hernández"],
+      "provocative_players": [ ],
+      "unavailable_attacking_players": [],
+    
+      "recent_matches": {
+         "teams": {
+          "match_five": ["Valladolid","Leganes"],
+          "match_six": ["Leganes", "Las Palmas"],
+          "match_seven": ["Osasuna","Leganes"],
+      "match_one": ["Leganes","Elche"],
+      "match_two": ["Ferrol","Leganes"],
+      "match_three": ["Leganes","Gijon"],
+      "match_four": ["Albacete","Leganes"]
+    },
+       
+    "goals": {
+      "match_five": [0,0],
+      "match_six": [2,1],
+      "match_seven": [1,1],
+      "match_one": [2,0],
+      "match_two": [2,2],
+      "match_three": [2,1],
+      "match_four": [1,0]
+    },
+    "x_goals": {
+      "match_five": [0.58,0.09],
+      "match_six": [1.76,0.76],
+      "match_seven": [1.61,1.00],
+      "match_one": [1.26,0.38],
+      "match_two": [1.86,0.46],
+      "match_three": [1.66,0.59],
+      "match_four": [1.00,0.67]
+    },
+    "corners": {
+      "match_five": [4,4],
+      "match_six": [3,7],
+      "match_seven": [6,4],
+      "match_one": [2,3],
+      "match_two": [1,2],
+      "match_three": [4,7],
+      "match_four": [3,7]
+    },
+    "fouls": {
+      "match_five": [13,19],
+      "match_six": [11,10],
+      "match_seven": [14,12],
+      "match_one": [8,17],
+      "match_two": [14,13],
+      "match_three": [13,7],
+      "match_four": [9,13]
+    },
+    "HT_cards": {
+      "match_five": [0,1],
+      "match_six": [1,1],
+      "match_seven": [0,1],
+      "match_one": [0,2],
+      "match_two": [0,0],
+      "match_three": [1,1],
+      "match_four": [0,0]
+    },
+    "FT_cards": {
+      "match_five": [1,5],
+      "match_six": [1,1],
+      "match_seven": [3,2],
+      "match_one": [1,4],
+      "match_two": [0,2],
+      "match_three": [5,5],
+      "match_four": [1,3]
+    }
+  }
+    
+
+    
+    },
+    "away_team": {
+      "name": "Mallorca",
+  "coach": "Jagoba Arrasate",
+  "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/mallorca.png",
+  "playing_style": "Wide play; Long balls",
+  "pressing_style": "Aggressive",
+  "attacking_style": "Attemps crosses often; Attempst through balls often; Attack through the middle",
+  "defensive_style": " ",
+  "aggressive_players": ["Copete","Samú Costa","Dani Rodríguez","Vedat Muriq"],
+  "provocative_players": ["Samú Costa","Vedat Muriqi"],
+  "unavailable_attacking_players": [],
+  
+  "recent_matches": {
+  "teams": {
+    "match_five": ["Mallorca","Sevilla"],
+    "match_six": ["Osasuna", "Mallorca"],
+  "match_seven": ["Mallorca","Real Madrid"],
+  "match_one": ["Getafe","Mallorca"],
+  "match_two": ["Mallorca","Almeria"],
+  "match_three": ["Osasuna","Mallorca"],
+  "match_four": ["Mallorca","Las Palmas"]
+  },
+  
+  "goals": {
+    "match_five": [0,0],
+    "match_six": [1,0],
+  "match_seven": [1,1],
+  "match_one": [1,2],
+  "match_two": [2,2],
+  "match_three": [1,1],
+  "match_four": [1,0]
+  },
+  "x_goals": {
+    "match_five": [1.38,1.00],
+    "match_six": [1.52,0.35],
+  "match_seven": [0.84,0.89],
+  "match_one": [0.78,1.60],
+  "match_two": [3.19,0.43],
+  "match_three": [0.40,0.79],
+  "match_four": [0.40,0.35]
+  },
+  "corners": {
+    "match_five": [5,9],
+    "match_six": [5,4],
+  "match_seven": [8,7],
+  "match_one": [3,4],
+  "match_two": [12,2],
+  "match_three": [2,4],
+  "match_four": [2,2]
+  },
+  "fouls": {
+    
+  "match_five": [15,10],
+    "match_six": [10,8],
+  "match_seven": [11,6],
+  "match_one": [12,10],
+  "match_two": [10,12],
+  "match_three": [12,11],
+  "match_four": [18,10]
+  },
+  "HT_cards": {
+  "match_five": [0,0],
+    "match_six": [0,0],
+  "match_seven": [1,0],
+  "match_one": [0,1],
+  "match_two": [2,1],
+  "match_three": [0,1],
+  "match_four": [2,0]
+  },
+  "FT_cards": {
+    "match_five": [0,2],
+    "match_six": [2,1],
+  "match_seven": [1,1],
+  "match_one": [0,2],
+  "match_two": [2,3],
+  "match_three": [0,1],
+  "match_four": [6,2]
+  }
+  }
+    
+  
+    
+    },
+    "summary":{
+    "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    }
+  }
+  },
+  {
+    "fixture": "Valencia vs Villarreal",
+    "stadium": "Estadio de Mestalla",
+    "Weather": "Partly cloudy",
+    "pitch_condition": "Good",
+    "type_of_match": "Regular",
+    "referee": {
+      "name": "Gil Manzano",
+      "fouls_per_tackle": 0.78,
+      "yellow_per_game": 4.61
+    },
+    "head_to_head": {
+      "teams": {
+        "match_one": ["Villarreal", "Valencia"],
+        "match_two": ["Valencia", "Villarreal"],
+        "match_three": ["Valencia", "Villarreal"],
+        "match_four": ["Villarreal", "Valencia"],
+        "match_five": ["Villarreal", "Valencia"]
+      },
+      "goals": {
+        "match_one": [1,0],
+        "match_two": [3,1],
+        "match_three": [1,1],
+        "match_four": [2,1],
+        "match_five": [2,0]
+      },
+      "x_goals": {
+        "match_one": [2.04,1.07],
+        "match_two": [2.85,0.73],
+        "match_three": [1.14,0.66],
+        "match_four": [ ],
+        "match_five": [ ]
+      },
+      "corners": {
+        "match_one": [6,2],
+        "match_two": [4,3],
+        "match_three": [6,6],
+        "match_four": [5,2],
+        "match_five": [3,2]
+      },
+      "fouls": {
+        "match_one": [12,12],
+        "match_two": [12,15],
+        "match_three": [14,13],
+        "match_four": [12,16],
+        "match_five": [14,12]
+      },
+      "HT_cards": {
+        "match_one": [3,1],
+        "match_two": [0,1],
+        "match_three": [4,1],
+        "match_four": [0,1],
+        "match_five": [0,2]
+      },
+      "FT_cards": {
+        "match_one": [5,1],
+        "match_two": [2,5],
+        "match_three": [4,2],
+        "match_four": [1,3],
+        "match_five": [2,3]
+      }
+    },
+    "home_team" : {
+      "name": "Valencia",
+"coach": "Rubén Baraja",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/valencia.png",
+"playing_style": "Wide play; Long balls; Plays in own half",
+"pressing_style": "Non-aggressive",
+"attacking_style": "Attacking down the right; Take long shots; ",
+"defensive_style": "Compact",
+"aggressive_players": ["Hugo Guillamón","Pepelu","Thierry Correia"],
+"provocative_players": ["Hugo Duro"],
+"unavailable_attacking_players": [],
+"recent_matches": {
+ "teams": {
+  "match_five": ["Ath Bilbao","Valencia"],
+  "match_six": ["Celta Vigo", "Valencia"],
+  "match_seven": ["Valencia","Barcelona"],
+"match_one": ["Celta Vigo","Valencia"],
+"match_two": ["Valencia","Girona"],
+"match_three": ["Real Sociedad","Valencia"],
+"match_four": ["Valencia","Rayo Vallecano"]
+},
+
+"goals": {
+  "match_five": [1,0],
+"match_six": [3,1],
+"match_seven": [1,2],
+  "match_one": [2,2],
+  "match_two": [1,3],
+  "match_three": [1,0],
+  "match_four": [0,0]
+},
+"x_goals": {
+  "match_five": [1.07,0.06],
+  "match_six": [1.77,0.71],
+  "match_seven": [0.95,2.75],
+  "match_one": [1.52,1.96],
+  "match_two": [2.89,2.49],
+  "match_three": [0.53,0.83],
+  "match_four": [1.29,0.64]
+},
+"corners": {
+  "match_five": [5,3],
+  "match_six": [4,7],
+  "match_seven": [3,8],
+  "match_one": [2,2],
+  "match_two": [5,4],
+  "match_three": [3,3],
+  "match_four": [6,3]
+},
+"fouls": {
+  "match_five": [14,9],
+  "match_six": [9,11],
+  "match_seven": [11,13],
+  "match_one": [17,18],
+  "match_two": [10,15],
+  "match_three": [11,13],
+  "match_four": [14,21]
+},
+"HT_cards": {
+  "match_five": [0,2],
+  "match_six": [1,0],
+  "match_seven": [2,1],
+  "match_one": [0,0],
+  "match_two": [1,0],
+  "match_three": [0,1],
+  "match_four": [0,1]
+},
+"FT_cards": {
+  "match_five": [1,3],
+  "match_six": [3,0],
+  "match_seven": [2,3],
+  "match_one": [0,0],
+  "match_two": [2,0],
+  "match_three": [0,2],
+  "match_four": [1,2]
+}
+}
+  
+ },
+    "away_team": {
+      "name": "Villarreal",
+"coach": "Marcelino",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/villareal.png",
+"playing_style": "Short passes; Deep positioning",
+"pressing_style": "Aggressive",
+"attacking_style": "Attack through the middle; Attacking down the right; Frequent through ball attempts",
+"defensive_style": "Compact",
+"aggressive_players": ["Sergi Cardona","Álex Baena","Ilias Akhomach"],
+"provocative_players": ["Sergi Cardona","Álex Baena","Dani Parejo"],
+"unavailable_attacking_players": [],
+"recent_matches": {
+   "teams": {
+    "match_five": ["Villarreal","Celta Vigo"],
+    "match_six": ["Sevilla", "Villarreal"],
+    "match_seven": ["Villarreal","Atl. Madrid"],
+"match_one": ["Osasuna","Villarreal"],
+"match_two": ["Villarreal","Real Madrid"],
+"match_three": ["Girona","Villarreal"],
+"match_four": ["Villarreal","Sevilla"]
+},
+ "goals": {
+  "match_five": [4,3],
+  "match_six": [1,2],
+  "match_seven": [2,2],
+    "match_one": [1,1],
+    "match_two": [4,4],
+    "match_three": [0,1],
+    "match_four": [3,2]
+  },
+  "x_goals": {
+    "match_five": [4.11,3.18],
+    "match_six": [1.41,1.16],
+    "match_seven": [0.87,0.97],
+    "match_one": [0.95,1.55],
+    "match_two": [1.98,1.16],
+    "match_three": [1.42,0.68],
+    "match_four": [3.67,1.90]
+  },
+  "corners": {
+    "match_five": [7,4],
+    "match_six": [7,2],
+    "match_seven": [2,3],
+    "match_one": [6,4],
+    "match_two": [3,3],
+    "match_three": [5,1],
+    "match_four": [10,1]
+  },
+  "fouls": {
+    "match_five": [8,7],
+    "match_six": [16,8],
+    "match_seven": [7,12],
+    "match_one": [13,6],
+    "match_two": [15,12],
+    "match_three": [3,14],
+    "match_four": [12,14]
+  },
+  "HT_cards": {
+    "match_five": [0,0],
+    "match_six": [1,1],
+    "match_seven": [1,2],
+    "match_one": [1,2],
+    "match_two": [1,0],
+    "match_three": [1,2],
+    "match_four": [0,1]
+  },
+  "FT_cards": {
+    "match_five": [4,3],
+    "match_six": [3,5],
+    "match_seven": [1,3],
+    "match_one": [4,3],
+    "match_two": [2,2],
+    "match_three": [1,6],
+    "match_four": [3,5]
+  }
+}
+      
+
+    
+    },
+    "summary":{
+    "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    }
+  }
+  },
+  {
+    "fixture": "Alaves vs Las Palmas",
+    "stadium": "Estadio Mendizorrotza",
+    "Weather": "Showers",
+    "pitch_condition": "Wet",
+    "type_of_match": "Regular",
+    "referee": {
+      "name": "Garcia V.",
+      "fouls_per_tackle": 0.83,
+      "yellow_per_game": 3.84
+    },
+    "head_to_head": {
+      "teams": {
+        "match_one": ["Las Palmas", "Alaves"],
+        "match_two": ["Alaves", "Las Palmas"],
+        "match_three": ["Las Palmas", "Alaves"],
+        "match_four": ["Alaves", "Las Palmas"]
+      },
+      "goals": {
+        "match_one": [1,1],
+        "match_two": [0,1],
+        "match_three": [0,0],
+        "match_four": [1,1]
+      },
+      "x_goals": {
+        "match_one": [1.03,2.11],
+        "match_two": [1.87, 0.35],
+        "match_three": [0.41, 0.19],
+        "match_four": [ ]
+      },
+      "corners": {
+        "match_one": [2,6],
+        "match_two": [12,3],
+        "match_three": [2,4],
+        "match_four": [1,3]
+      },
+      "fouls": {
+        "match_one": [16, 10],
+        "match_two": [13,13],
+        "match_three": [5,29],
+        "match_four": [26,15]
+      },
+      "HT_cards": {
+        "match_one": [0, 1],
+        "match_two": [0,2],
+        "match_three": [0,2],
+        "match_four": [0, 1]
+      },
+      "FT_cards": {
+        "match_one": [2,1],
+        "match_two": [3,4],
+        "match_three": [1,5],
+        "match_four": [0,2]
+      }
+    },
+    "home_team" : {
+      "name": "Alaves",
+"coach": "Luis García Plaza",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/alaves.png",
+"playing_style": "Long balls; Draws fouls",
+"pressing_style": "Non-aggressive",
+"attacking_style": "High crossing frequency; High shot volume;",
+"defensive_style": " ",
+"aggressive_players": ["Carlos Benavídez", "Ander Guevara"],
+"provocative_players": ["Luis Rioja"],
+"unavailable_attacking_players": [],
+"recent_matches": {
+ "teams": {
+  "match_five": ["Real Sociedad","Alaves"],
+  "match_six": ["Alaves", "Betis"],
+  "match_seven": ["Celta Vigo","Alaves"],
+  "match_one": ["Las Palmas","Alaves"],
+  "match_two": ["Alaves","Getafe"],
+  "match_three": ["Real Madrid","Alaves"],
+  "match_four": ["Alaves","Girona"]
+  },
+  "goals": {
+    "match_five": [1,2],
+    "match_six": [0,0],
+    "match_seven": [2,1],
+    "match_one": [1,1],
+    "match_two": [1,0],
+    "match_three": [5,0],
+    "match_four": [2,2]
+  },
+  "x_goals": {
+    "match_five": [0.96,1.42],
+    "match_six": [0.12,1.37],
+    "match_seven": [0.61,0.80],
+    "match_one": [1.03,2.11],
+    "match_two": [1.19,0.32],
+    "match_three": [2.28,1.28],
+    "match_four": [1.97,2.20]
+  },
+  "corners": {
+    "match_five": [8,6],
+    "match_six": [3,8],
+    "match_seven": [3,3],
+    "match_one": [2,6],
+    "match_two": [2,1],
+    "match_three": [4,1],
+    "match_four": [5,3]
+  },
+  "fouls": {
+    "match_five": [16,13],
+    "match_six": [17,16],
+    "match_seven": [8,23],
+    "match_one": [16,10],
+    "match_two": [13,27],
+    "match_three": [6,12],
+    "match_four": [13,6]
+  },
+  "HT_cards": {
+    "match_five": [3,1],
+    "match_six": [1,1],
+    "match_seven": [1,1],
+    "match_one": [0,1],
+    "match_two": [2,4],
+    "match_three": [0,0],
+    "match_four": [0,0]
+  },
+  "FT_cards": {
+    "match_five": [5,4],
+    "match_six": [2,4],
+    "match_seven": [3,2],
+    "match_one": [2,1],
+    "match_two": [5,8],
+    "match_three": [1,1],
+    "match_four": [3,2]
+  }
+}
+    
+    
+    
+    },
+    "away_team": {
+      "name": "Las Palmas",
+      "coach": "Luis Miguel Carrión",
+      "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/las_palmas.png",
+      "playing_style": "Ball Retention; Short passes; Deep positioning; Draws fouls",
+      "pressing_style": "Non-aggressive",
+      "attacking_style": "Take long shots; Attacking down the left",
+      "defensive_style": "High Line; Use offside positioning",
+      "aggressive_players": ["Jaime Mata"],
+      "provocative_players": ["Sandro Ramírez"],
+      "unavailable_attacking_players": [],
+      "recent_matches": {
+         "teams": {
+          "match_six": ["Leganes", "Las Palmas"],
+          "match_seven": ["Las Palmas","Sevilla"],
+      "match_one": ["Cadiz CF","Las Palmas"],
+      "match_two": ["Las Palmas","Alaves"],
+      "match_three": ["Las Palmas","Real Betis"],
+      "match_four": ["Mallorca","Las Palmas"],
+      "match_five": ["Real Sociedad","Las Palmas"]
+    },
+        "goals": {
+          "match_six": [2,1],
+          "match_seven": [2,2],
+          "match_one": [0,0],
+          "match_two": [1,1],
+          "match_three": [2,2],
+          "match_four": [1,0],
+          "match_five": [2,0]
+        },
+        "x_goals": {
+          "match_six": [1.76,0.76],
+          "match_seven": [0.86,1.67],
+          "match_one": [0.80,0.61],
+          "match_two": [1.03,2.11],
+          "match_three": [2.12,1.13],
+          "match_four": [0.40,0.35],
+          "match_five": [0.59,0.43]
+        },
+        "corners": {
+          "match_six": [3,7],
+          "match_seven": [6,3],
+          "match_one": [5,3],
+          "match_two": [2,6],
+          "match_three": [4,8],
+          "match_four": [2,2],
+          "match_five": [7,2]
+        },
+        "fouls": {
+          "match_six": [11,10],
+          "match_seven": [14,15],
+          "match_one": [13,12],
+          "match_two": [16,10],
+          "match_three": [9,12],
+          "match_four": [18,10],
+          "match_five": [12,11]
+        },
+        "HT_cards": {
+          "match_six": [1,1],
+          "match_seven": [0,1],
+          "match_one": [1,0],
+          "match_two": [0,1],
+          "match_three": [1,1],
+          "match_four": [2,0],
+          "match_five": [2,0]
+        },
+        "FT_cards": {
+          "match_six": [1,1],
+          "match_seven": [2,2],
+          "match_one": [4,1],
+          "match_two": [2,1],
+          "match_three": [2,1],
+          "match_four": [6,2],
+          "match_five": [2,1]
+        }
+      }
+    
+
+    
+    },
+    "summary":{
+    "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    }
+  }
+  },
+  {
+    "fixture": "Osasuna vs Celta Vigo",
+    "stadium": "Estadio El Sadar",
+    "Weather": "Scattered thunderstorms",
+    "pitch_condition": "Wet",
+    "type_of_match": "Regular",
+    "referee": {
+      "name": "Munuera J.",
+      "fouls_per_tackle": 0.81,
+      "yellow_per_game": 4.28
+    },
+    "head_to_head": {
+      "teams": {
+        "match_one": ["Osasuna", "Celta Vigo"],
+        "match_two": ["Celta Vigo", "Osasuna"],
+        "match_three": ["Osasuna", "Celta Vigo"],
+        "match_four": ["Celta Vigo", "Osasuna"],
+        "match_five": ["Celta Vigo", "Osasuna"]
+      },
+      "goals": {
+        "match_one": [0,3],
+        "match_two": [0,2],
+        "match_three": [0,0],
+        "match_four": [1,2],
+        "match_five": [2,0]
+      },
+      "x_goals": {
+        "match_one": [1.17,1.17],
+        "match_two": [0.85,1.21],
+        "match_three": [0.55,0.25],
+        "match_four": [ ],
+        "match_five": [ ]
+      },
+      "corners": {
+        "match_one": [9,1],
+        "match_two": [7,2],
+        "match_three": [6,4],
+        "match_four": [2,3],
+        "match_five": [0,5]
+      },
+      "fouls": {
+        "match_one": [10,10],
+        "match_two": [11,15],
+        "match_three": [12,12],
+        "match_four": [12,20],
+        "match_five": [14,11]
+      },
+      "HT_cards": {
+        "match_one": [1,0],
+        "match_two": [1,0],
+        "match_three": [0,1],
+        "match_four": [0,4],
+        "match_five": [1,0]
+      },
+      "FT_cards": {
+        "match_one": [2,0],
+        "match_two": [1,1],
+        "match_three": [0,2],
+        "match_four": [1,5],
+        "match_five": [1, 2]
+      }
+    },
+    "home_team" : {
+      "name": "Osasuna",
+      "coach": "Vicente Moreno",
+      "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/osasuna.png",
+      "playing_style": "Wide play; High territorial control",
+      "pressing_style": "Moderate-pressing",
+      "attacking_style": "Long balls; High crossing frequency",
+      "defensive_style": "High Line; Use offside positioning",
+      "aggressive_players": ["Alejandro Catena","Lucas Torró","Jorge Herrando","Iker Muñoz"],
+      "provocative_players": ["Iker Muñoz","Bryan Zaragoza","Aimar Oroz"],
+      "unavailable_attacking_players": [],
+      
+      "recent_matches": {
+         "teams": {
+          "match_six": ["Osasuna", "Mallorca"],
+          "match_seven": ["Osasuna","Leganes"],
+      "match_one": ["Osasuna","Villarreal"],
+      "match_two": ["Atl. Madrid","Osasuna"],
+      "match_three": ["Ath Bilbao","Osasuna"],
+      "match_four": ["Atl. Madrid","Osasuna"],
+      "match_five": ["Osasuna","Real Betis"]
+    },
+         
+        "goals": {
+          "match_six": [1,0],
+          "match_seven": [1,1],
+          "match_one": [1,1],
+          "match_two": [1,4],
+          "match_three": [1,1],
+          "match_four": [2,2],
+          "match_five": [0,2]
+        },
+        "x_goals": {
+          "match_six": [1.52,0.35],
+          "match_seven": [1.61,1.00],
+          "match_one": [1.78,1.59],
+          "match_two": [1.64,0.98],
+          "match_three": [0.79,0.40],
+          "match_four": [1.12,1.14],
+          "match_five": [0.79,1.12]
+        },
+        "corners": {
+          "match_six": [5,4],
+          "match_seven": [6,4],
+          "match_one": [6,4],
+          "match_two": [7,5],
+          "match_three": [4,2],
+          "match_four": [8,6],
+          "match_five": [8,5]
+        },
+        "fouls": {
+          "match_six": [10,8],
+          "match_seven": [14,12],
+          "match_one": [13,6],
+          "match_two": [12,9],
+          "match_three": [11,12],
+          "match_four": [9,14],
+          "match_five": [13,13]
+        },
+        "HT_cards": {
+          "match_six": [0,0],
+          "match_seven": [0,1],
+          "match_one": [1,2],
+          "match_two": [1,0],
+          "match_three": [1,0],
+          "match_four": [1,4],
+          "match_five": [3,1]
+        },
+        "FT_cards": {
+          "match_six": [2,1],
+          "match_seven": [3,2],
+          "match_one": [4,3],
+          "match_two": [2,2],
+          "match_three": [1,0],
+          "match_four": [2,4],
+          "match_five": [3,2]
+        }
+      }
+    
+  
+    
+    },
+    "away_team": {
+      "name": "Celta Vigo",
+"coach": "Claudio Giráldez",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/celta_vigo.png",
+"playing_style": " ",
+"pressing_style": "Non-aggressive",
+"attacking_style": "Frequent through ball attempts; Attacking down the right; High shot volume",
+"defensive_style": "Compact",
+"aggressive_players": ["Luca de la Torre"],
+"provocative_players": ["Iago Aspas","Jonathan Bamba"],
+"unavailable_attacking_players": [],
+"recent_matches": {
+ "teams": {
+  "match_five": ["Villarreal","Celta Vigo"],
+  "match_six": ["Celta Vigo", "Valencia"],
+  "match_seven": ["Celta Vigo","Alaves"],
+  "match_one": ["Celta Vigo","Valencia"],
+  "match_two": ["Granada","Celta Vigo"],
+  "match_three": ["Celta Vigo","Ath Bilbao"],
+  "match_four": ["Atl. Madrid","Celta Vigo"]
+},
+
+"goals": {
+  "match_five": [4,3],
+  "match_six": [3,1],
+  "match_seven": [2,1],
+  "match_one": [2,2],
+  "match_two": [1,2],
+  "match_three": [2,1],
+  "match_four": [1,0]
+},
+"x_goals": {
+  "match_five": [4.11,3.18],
+  "match_six": [1.77,0.71],
+  "match_seven": [0.61,0.80],
+  "match_one": [1.52,1.96],
+  "match_two": [1.13,1.32],
+  "match_three": [0.77,0.21],
+  "match_four": [1.68,0.53]
+},
+"corners": {
+  "match_five": [7,4],
+  "match_six": [4,7],
+  "match_seven": [3,3],
+  "match_one": [2,2],
+  "match_two": [10,2],
+  "match_three": [2,3],
+  "match_four": [4,7]
+},
+"fouls": {
+  "match_five": [8,7],
+  "match_six": [9,11],
+  "match_seven": [8,23],
+  "match_one": [17,18],
+  "match_two": [15,12],
+  "match_three": [15,14],
+  "match_four": [7,9]
+},
+"HT_cards": {
+  "match_five": [0,0],
+  "match_six": [1,0],
+  "match_seven": [1,1],
+  "match_one": [0,0],
+  "match_two": [0,0],
+  "match_three": [0,0],
+  "match_four": [0,1]
+},
+"FT_cards": {
+  "match_five": [4,3],
+  "match_six": [3,0],
+  "match_seven": [3,2],
+  "match_one": [0,0],
+  "match_two": [2,1],
+  "match_three": [2,0],
+  "match_four": [1,1]
+}
+}
+
+    },
+    "summary":{
+    "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    }
+  }
+  },
+  {
+    "fixture": "Sevilla vs Girona",
+    "stadium": "Estadio Ramón Sánchez Pizjuán",
+    "Weather": "Mostly sunny",
+    "pitch_condition": "Good",
+    "type_of_match": "Regular",
+    "referee": {
+      "name": "Sanchez J.",
+      "fouls_per_tackle": 0.82,
+      "yellow_per_game": 5.23
+    },
+    "head_to_head": {
+      "teams": {
+        "match_one": ["Girona", "Sevilla"],
+        "match_two": ["Sevilla", "Girona"],
+        "match_three": ["Sevilla", "Girona"],
+        "match_four": ["Girona", "Sevilla"]
+      },
+      "goals": {
+        "match_one": [5,1],
+        "match_two": [1,2],
+        "match_three": [0,2],
+        "match_four": [2,1]
+      },
+      "x_goals": {
+        "match_one": [2.69,0.72],
+        "match_two": [1.20,0.50],
+        "match_three": [2.28,0.88],
+        "match_four": [ ]
+      },
+      "corners": {
+        "match_one": [4,5],
+        "match_two": [6,6],
+        "match_three": [6,1],
+        "match_four": [5,2]
+      },
+      "fouls": {
+        "match_one": [9,11],
+        "match_two": [11,18],
+        "match_three": [14,11],
+        "match_four": [11,7]
+      },
+      "HT_cards": {
+        "match_one": [0,0],
+        "match_two": [0,1],
+        "match_three": [1,0],
+        "match_four": [2,1]
+      },
+      "FT_cards": {
+        "match_one": [0,2],
+        "match_two": [2,1],
+        "match_three": [1,1],
+        "match_four": [3,1]
+      }
+    },
+    "home_team" : {
+      "name": "Sevilla",
+"coach": "Xavier García Pimienta",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/sevilla.png",
+"playing_style": "Wide play",
+"pressing_style": "Aggressive",
+"attacking_style": "Attacking down the right; High crossing frequency",
+"defensive_style": " ",
+"aggressive_players": ["Nemanja Gudel","Kike Salas"],
+"provocative_players": ["Lucas Ocampos"],
+"unavailable_attacking_players": [],
+"recent_matches": {
+ "teams": {
+  "match_five": ["Mallorca","Sevilla"],
+  "match_six": ["Sevilla", "Villarreal"],
+  "match_seven": ["Las Palmas","Sevilla"],
+"match_one": ["Sevilla","Barcelona"],
+"match_two": ["Ath Bilbao","Sevilla"],
+"match_three": ["Sevilla","Cadiz CF"],
+"match_four": ["Villarreal","Sevilla"]
+},
+"goals": {
+  "match_five": [0,0],
+  "match_six": [1,2],
+  "match_seven": [2,2],
+  "match_one": [1,2],
+  "match_two": [2,0],
+  "match_three": [0,1],
+  "match_four": [3,2]
+},
+"x_goals": {
+  "match_five": [1.38,1.00],
+  "match_six": [1.41,1.16],
+  "match_seven": [0.86,1.67],
+  "match_one": [1.77,1.38],
+  "match_two": [1.24,1.24],
+  "match_three": [1.59,2.59],
+  "match_four": [3.67,1.90]
+},
+"corners": {
+  "match_five": [5,9],
+  "match_six": [7,2],
+  "match_seven": [6,3],
+  "match_one": [6,5],
+  "match_two": [8,3],
+  "match_three": [1,9],
+  "match_four": [10,1]
+},
+"fouls": {
+  "match_five": [15,10],
+  "match_six": [16,8],
+  "match_seven": [14,15],
+  "match_one": [11,9],
+  "match_two": [12,5],
+  "match_three": [13,11],
+  "match_four": [12,14]
+},
+"HT_cards": {
+  "match_five": [0,0],
+  "match_six": [1,1],
+  "match_seven": [0,1],
+  "match_one": [1,0],
+  "match_two": [1,1],
+  "match_three": [0,0],
+  "match_four": [0,1]
+},
+"FT_cards": {
+  "match_five": [0,2],
+  "match_six": [3,5],
+  "match_seven": [2,2],
+  "match_one": [2,1],
+  "match_two": [1,1],
+  "match_three": [6,2],
+  "match_four": [3,5]
+}
+}
+    
+
+    
+    },
+    "away_team": {
+      "name": "Girona",
+      "coach": "Míchel",
+      "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/girona.png",
+      "playing_style": "Ball Retention; Short passes; Draws fouls",
+      "pressing_style": "Non-aggressive",
+      "attacking_style": "Attack through the middle; Attacking down the right",
+      "defensive_style": " ",
+      "aggressive_players": ["Yangel Herrera"],
+      "provocative_players": ["Yangel Herrera","Viktor Tsyhankov"],
+      "unavailable_attacking_players": [],
+    
+      "recent_matches": {
+          "teams": {
+            "match_six":["Atl Madrid","Girona"],
+            "match_seven": ["Betis","Girona"],
+      "match_one": ["Girona FC","Granada"],
+      "match_two": ["Valencia","Girona FC"],
+      "match_three": ["Girona FC","Villarreal"],
+      "match_four": ["Alaves","Girona FC"],
+      "match_five": ["Girona FC","Barcelona"]
+    },
+      
+        "goals": {
+          "match_six":[3,0],
+          "match_seven": [1,1],
+          "match_one": [7,0],
+          "match_two": [1,3],
+          "match_three": [0,1],
+          "match_four": [2,2],
+          "match_five": [4,2]
+        },
+        "x_goals": {
+          "match_six":[1.23,0.51],
+          "match_seven": [1.44,1.41],
+          "match_one": [4.65,1.12],
+          "match_two": [2.89,2.49],
+          "match_three": [1.42,0.68],
+          "match_four": [1.94,2.20],
+          "match_five": [1.99,2.51]
+        },
+        "corners": {
+          "match_six":[1,9],
+          "match_seven": [4,4],
+          "match_one": [4,2],
+          "match_two": [5,4],
+          "match_three": [5,1],
+          "match_four": [5,3],
+          "match_five": [5,4]
+        },
+        "fouls": {
+          "match_six":[11,11],
+          "match_seven": [11,7],
+          "match_one": [6,13],
+          "match_two": [10,8],
+          "match_three": [3,14],
+          "match_four": [13,6],
+          "match_five": [11,8]
+        },
+        "HT_cards": {
+          "match_six":[1,2],
+          "match_seven": [0,0],
+          "match_one": [2,3],
+          "match_two": [1,0],
+          "match_three": [1,2],
+          "match_four": [0,0],
+          "match_five": [0,3]
+        },
+        "FT_cards": {
+          "match_six":[1,3],
+          "match_seven": [2,0],
+          "match_one": [3,6],
+          "match_two": [0,2],
+          "match_three": [1,6],
+          "match_four": [3,2],
+          "match_five": [0,3]
+        }
+ }
+
+
+    
+    },
+    "summary":{
+    "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    }
+  }
+  },
+  {
+    "fixture": "Getafe vs Real Sociedad",
+    "stadium": "Coliseum",
+    "Weather": "Partly cloudy",
+    "pitch_condition": "Good",
+    "type_of_match": "Regular",
+    "referee": {
+      "name": "Munuera Montero",
+      "fouls_per_tackle": 0.82,
+      "yellow_per_game": 5.00
+    },
+    "head_to_head": {
+      "teams": {
+        "match_one": ["Getafe", "Real Sociedad"],
+        "match_two": ["Real Sociedad", "Getafe"],
+        "match_three": ["Real Sociedad", "Getafe"],
+        "match_four": ["Getafe", "Real Sociedad"],
+        "match_five": ["Real Sociedad", "Getafe"]
+      },
+      "goals": {
+        "match_one": [1,1],
+        "match_two": [4,3],
+        "match_three": [2,0],
+        "match_four": [2,1],
+        "match_five": [0,0]
+      },
+      "x_goals": {
+        "match_one": [0.95,1.20],
+        "match_two": [2.09, 1.50],
+        "match_three": [2.57,0.31],
+        "match_four": [ ],
+        "match_five": [ ]
+      },
+      "corners": {
+        "match_one": [0,4],
+        "match_two": [2,1],
+        "match_three": [3,2],
+        "match_four": [3,7],
+        "match_five": [7,2]
+      },
+      "fouls": {
+        "match_one": [12,18],
+        "match_two": [13,24],
+        "match_three": [11,9],
+        "match_four": [9,16],
+        "match_five": [17,13]
+      },
+      "HT_cards": {
+        "match_one": [0,1],
+        "match_two": [3,1],
+        "match_three": [1,1],
+        "match_four": [1,0],
+        "match_five": [0,0]
+      },
+      "FT_cards": {
+        "match_one": [0,2],
+        "match_two": [3,2],
+        "match_three": [2,1],
+        "match_four": [4,1],
+        "match_five": [1,1]
+      }
+    },
+    "home_team" : {
+      "name": "Getafe CF",
+"coach": "José Bordalás",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/getafe.png",
+"playing_style": "Long balls; High territorial control; Draws fouls",
+"pressing_style": "Aggressive",
+"attacking_style": "Take long shots; High crossing frequency; Attack through the middle; High shot volume",
+"defensive_style": "High Line; Use offside positioning",
+"aggressive_players": ["Djené Dakonam","Gastón Álvarez"],
+"provocative_players": ["Diego Rico"],
+"unavailable_attacking_players": ["Mayoral B."],
+
+"recent_matches": {
+ "teams": {
+  "match_six": ["Getafe", "Rayo Vallecano"],
+  "match_seven": ["Ath Bilbao","Getafe"],
+"match_one": ["Getafe CF","Mallorca"],
+"match_two": ["Alaves","Getafe CF"],
+"match_three": ["Getafe CF","Atl. Madrid"],
+"match_four": ["Cadiz CF","Getafe CF"],
+"match_five": ["Getafe CF Utd","Ath Bilbao"]
+},
+
+"goals": {
+  "match_six": [0,0],
+  "match_seven": [1,1],
+  "match_one": [1,2],
+  "match_two": [1,0],
+  "match_three": [0,3],
+  "match_four": [1,0],
+  "match_five": [0,2]
+},
+"x_goals": {
+  "match_six": [0.67,0.25],
+  "match_seven": [0.72,1.07],
+  "match_one": [0.78,1.60],
+  "match_two": [1.19,0.32],
+  "match_three": [0.66,1.43],
+  "match_four": [1.45,0.41],
+  "match_five": [3.77,0.70]
+},
+"corners": {
+  "match_six": [3,2],
+  "match_seven": [5,6],
+  "match_one": [3,4],
+  "match_two": [2,1],
+  "match_three": [6,3],
+  "match_four": [6,2],
+  "match_five": [10,6]
+},
+"fouls": {
+  "match_six": [16,18],
+  "match_seven": [15,12],
+  "match_one": [12,10],
+  "match_two": [13,27],
+  "match_three": [17,7],
+  "match_four": [23,16],
+  "match_five": [6,9]
+},
+"HT_cards": {
+  "match_six": [1,0],
+  "match_seven": [0,1],
+  "match_one": [0,1],
+  "match_two": [2,3],
+  "match_three": [1,1],
+  "match_four": [1,1],
+  "match_five": [0,0]
+},
+"FT_cards": {
+  "match_six": [1,2],
+  "match_seven": [4,1],
+  "match_one": [0,2],
+  "match_two": [5,7],
+  "match_three": [4,3],
+  "match_four": [5,2],
+  "match_five": [0,2]
+}
+}
+    
+
+    
+    },
+    "away_team": {
+      "name": "Real Sociedad",
+"coach": "Imanol Alguacil",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/real_sociedad.png",
+"playing_style": "Ball Retention; Short passes",
+"pressing_style": "Aggressive",
+"attacking_style": "Take long shots",
+"defensive_style": "Organized",
+"aggressive_players": ["Mikel Merino","Brais Méndez","Umar Sadiq","Igor Zubeldia","Jon Pacheco"],
+"provocative_players": ["Mikel Merino","Brais Méndez","Takefusa Kubo"],
+"unavailable_attacking_players": [],
+"recent_matches": {
+ "teams": {
+  "match_five": ["Real Sociedad","Alaves"],
+  "match_six": ["Espanyol", "Real Sociedad"],
+  "match_seven": ["Real Sociedad","Rayo Vallecano"],
+"match_one": ["Real Sociedad","Atl Madrid"],
+"match_two": ["Real Betis","Real Sociedad"],
+"match_three": ["Real Sociedad","Valencia"],
+"match_four": ["Barcelona","Real Sociedad"]
+},
+"goals": {
+  "match_five": [1,2],
+  "match_six": [0,1],
+  "match_seven": [1,2],
+  "match_one": [0,2],
+  "match_two": [0,2],
+  "match_three": [1,0],
+  "match_four": [2,0]
+},
+"x_goals": {
+  "match_five": [0.96,1.42],
+  "match_six": [1.33,1.03],
+  "match_seven": [1.55,1.50],
+  "match_one": [0.55,1.68],
+  "match_two": [1.91,0.44],
+  "match_three": [0.53,0.83],
+  "match_four": [2.33,0.73]
+},
+"corners": {
+  "match_five": [8,6],
+  "match_six": [7,4],
+  "match_seven": [10,5],
+  "match_one": [8,4],
+  "match_two": [6,2],
+  "match_three": [3,3],
+  "match_four": [6,2]
+},
+"fouls": {
+  "match_five": [16,13],
+  "match_six": [14,18],
+  "match_seven": [14,21],
+  "match_one": [19,15],
+  "match_two": [12,18],
+  "match_three": [11,13],
+  "match_four": [12,14]
+},
+"HT_cards": {
+  "match_five": [3,1],
+  "match_six": [0,0],
+  "match_seven": [1,1],
+  "match_one": [1,2],
+  "match_two": [0,0],
+  "match_three": [0,1],
+  "match_four": [0,0]
+},
+"FT_cards": {
+  "match_five": [5,4],
+  "match_six": [2,2],
+  "match_seven": [2,4],
+  "match_one": [3,5],
+  "match_two": [3,4],
+  "match_three": [0,2],
+  "match_four": [2,3]
+}
+}
+    
+
+    
+    },
+    "summary":{
+    "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    }
+  }
+  },
+  {
+    "fixture": "Real Madrid vs Betis",
+    "stadium": "Estadio Santiago Bernabéu",
+    "Weather": "Partly cloudy",
+    "pitch_condition": "Good",
+    "type_of_match": "Regular",
+    "referee": {
+      "name": "Rojas J. A.",
+      "fouls_per_tackle": 0.76,
+      "yellow_per_game": 3.29
+    },
+    "head_to_head": {
+      "teams": {
+        "match_one": ["Real Madrid", "Betis"],
+        "match_two": ["Betis", "Real Madrid"],
+        "match_three": ["Betis", "Real Madrid"],
+        "match_four": ["Real Madrid", "Betis"],
+        "match_five": ["Real Madrid", "Betis"]
+      },
+      "goals": {
+        "match_one": [0,0],
+        "match_two": [1,1],
+        "match_three": [0,0],
+        "match_four": [2,1],
+        "match_five": [0,0]
+      },
+      "x_goals": {
+        "match_one": [0.84,0.99],
+        "match_two": [1.13,0.94],
+        "match_three": [0.45,1.32],
+        "match_four": [ ],
+        "match_five": [ ]
+      },
+      "corners": {
+        "match_one": [4,5],
+        "match_two": [8,6],
+        "match_three": [5,3],
+        "match_four": [9,2],
+        "match_five": [8,5]
+      },
+      "fouls": {
+        "match_one": [8,11],
+        "match_two": [14,7],
+        "match_three": [12,13],
+        "match_four": [8,12],
+        "match_five": [7,12]
+      },
+      "HT_cards": {
+        "match_one": [1,0],
+        "match_two": [0,0],
+        "match_three": [1,1],
+        "match_four": [0,1],
+        "match_five": [0,0]
+      },
+      "FT_cards": {
+        "match_one": [2,1],
+        "match_two": [2,1],
+        "match_three": [3,4],
+        "match_four": [0,1],
+        "match_five": [0,0]
+      }
+    },
+    "home_team" : {
+      "name": "Real Madrid",
+"coach": "Carlo Ancelotti",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/real_madrid.png",
+"playing_style": "Ball Retention; Control the game in the opposition's half; Short passes",
+"pressing_style": "Non-aggressive",
+"attacking_style": "Attacking down the left, Frequent through ball attempts",
+"defensive_style": "Loose",
+"aggressive_players": ["Juanmi Latasa","Eduardo","Camavinga"],
+"provocative_players": ["Vinicius Jr.","Rodrygo", "Jude Bellingham","Eduardo Camavinga"],
+"unavailable_attacking_players": [],
+"recent_matches": {
+ "teams": {
+  "match_five": ["Real Madrid", "Valladolid"],
+  "match_six": ["Mallorca","Real Madrid"],
+  "match_seven": ["Real Madrid","Atalanta"],
+"match_one": ["Dortmund","Real Madrid"],
+"match_two": ["Real Madrid","Real Betis"],
+"match_three": ["Real Madrid","Villarreal"],
+"match_four": ["Real Madrid","Alaves"]
+
+},
+
+"goals": {
+  "match_five": [3,0],
+"match_six": [1,1],
+"match_seven": [2,0],
+  "match_one": [0,2],
+  "match_two": [0,0],
+  "match_three": [4,4],
+  "match_four": [5,0]
+  
+},
+"x_goals": {
+  "match_five": [1.87,0.77],
+  "match_six": [0.84,0.89],
+  "match_seven": [2.46,0.59],
+  "match_one": [2.10,1.24],
+  "match_two": [0.84,0.99],
+  "match_three": [1.16,1.98],
+  "match_four": [2.28,1.28]
+  
+},
+"corners": {
+  "match_five": [5,5],
+  "match_six": [8,7],
+  "match_seven": [5,2],
+  "match_one": [9,8],
+  "match_two": [4,5],
+  "match_three": [3,3],
+  "match_four": [4,1]
+  
+},
+"fouls": {
+  "match_five": [10,15],
+  "match_six": [11,6],
+  "match_seven": [12,19],
+  "match_one": [12,8],
+  "match_two": [8,11],
+  "match_three": [12,15],
+  "match_four": [6,12]
+},
+"HT_cards": {
+  "match_five": [0,1],
+  "match_six": [1,0],
+  "match_seven": [2,1],
+  "match_one": [2,1],
+  "match_two": [1,0],
+  "match_three": [0,1],
+  "match_four": [0,0]
+},
+"FT_cards": {
+  "match_five": [1,1],
+  "match_six": [1,1],
+  "match_seven": [2,2],
+  "match_one": [3,1],
+  "match_two": [2,1],
+  "match_three": [2,2],
+  "match_four": [1,1]
+}
+}
+    
+
+    
+    },
+    "away_team": {
+                
+      "name": "Real Betis",
+      "coach": "Manuel Pellegrini",
+      "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/real_betis.png",
+      "playing_style": "Short passes",
+      "pressing_style": "Non-aggressive",
+      "attacking_style": "Attacking down the left",
+      "defensive_style": "High Line; Use offside positioning",
+      "aggressive_players": ["Marc Roca"],
+      "provocative_players": ["Nabil Fekir","Isco","Ayoze Pérez"],
+      "unavailable_attacking_players": ["Isco"],
+      
+      "recent_matches": {
+
+        "teams":{
+          "match_six": ["Alaves", "Betis"],
+           "match_seven": ["Betis","Girona"],
+          "match_one": ["Real Madrid","Real Betis"],
+          "match_two": ["Real Betis","Real Sociedad"],
+          "match_three": ["Las Palmas","Real Betis"],
+          "match_four": ["Real Betis","Almeria"],
+          "match_five": ["Osasuna","Real Betis"]
+        },
+        
+        "goals": {
+          "match_six": [0,0],
+          "match_seven": [1,1],
+          "match_one": [0,0],
+          "match_two": [0,2],
+          "match_three": [2,2],
+          "match_four": [3,2],
+          "match_five": [0,2]
+        },
+        "x_goals": {
+          "match_six": [0.12,1.37],
+          "match_seven": [1.44,1.41],
+          "match_one": [0.84,0.99],
+          "match_two": [1.91,0.44],
+          "match_three": [2.12,1.13],
+          "match_four": [1.22,0.64],
+          "match_five": [0.79,1.12]
+        },
+        "corners": {
+          "match_six": [3,8],
+          "match_seven": [4,4],
+          "match_one": [4,5],
+          "match_two": [6,2],
+          "match_three": [4,8],
+          "match_four": [3,5],
+          "match_five": [8,5]
+        },
+        "fouls": {
+          "match_six": [17,16],
+          "match_seven": [11,7],
+          "match_one": [8,11],
+          "match_two": [12,18],
+          "match_three": [9,12],
+          "match_four": [9,10],
+          "match_five": [13,13]
+        },
+        "HT_cards": {
+          "match_six": [1,1],
+          "match_seven": [0,0],
+          "match_one": [1,0],
+          "match_two": [0,0],
+          "match_three": [1,1],
+          "match_four": [0,1],
+          "match_five": [3,1]
+        },
+        "FT_cards": {
+          "match_six": [2,4],
+          "match_seven": [2,0],
+          "match_one": [2,1],
+          "match_two": [3,4],
+          "match_three": [2,1],
+          "match_four": [0,2],
+          "match_five": [3,2]
+        }
+      
+    
+    }
+  
+    },
+    "summary":{
+    "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    }
+  }
+  }
+  
+    
+]
