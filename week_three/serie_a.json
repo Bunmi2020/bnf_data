@@ -610,7 +610,7 @@
             "teams": {
               "match_six": ["AS Roma", "Empoli"],
               "match_seven": ["Empoli","Monza"],
-            "match_one": ["Empoli","As Roma"],
+            "match_one": ["Empoli","AS Roma"],
             "match_two": ["Udinese","Empoli"],
             "match_three": ["Lazio","Empoli"],
             "match_four": ["Empoli","Frosinone"],
@@ -838,7 +838,7 @@
     "recent_matches": {
        "teams": {
         "match_six": ["Cagliari", "Como"],
-        "match_seven": ["Cagliari","As Roma"],
+        "match_seven": ["Cagliari","AS Roma"],
     "match_one": ["Cagliari","Fiorentina"],
     "match_two": ["Sassuolo","Cagliari"],
     "match_three": ["AC Milan","Cagliari"],
@@ -1601,19 +1601,19 @@
       },
       "summary":{
       "cards":{
-          "discuss":" ",
-          "ht": " ",
-          "ft": " "
+          "discuss":"Considring the ref's issuance rate and team's form",
+          "ht": "Ov 1.5",
+          "ft": "Ov 2.5"
       },
       "corners":{
           "discuss":" ",
-          "ht": " ",
-          "ft": " "
+          "ht": "Ov 7.5",
+          "ft": "Fiorentina"
       },
       "goals":{
-          "discuss":" ",
-          "ht": " ",
-          "ft": " "
+          "discuss":"Five of Fiorentina recent matches has ssen both teams scored, though Monza has faile to score in four of their recent games, their x-goals shows it is only a matter of time and consisdering their h2h",
+          "ht": "BTS",
+          "ft": "Ov 1.5"
       }
     }
     },
@@ -1696,7 +1696,7 @@
               "match_six":["Monza","Genoa"],
               "match_seven": ["Genoa","Inter"],
             "match_one": ["Genoa","Bologna"],
-            "match_two": ["As Roma","Genoa"],
+            "match_two": ["AS Roma","Genoa"],
             "match_three": ["Genoa","Sassuolo"],
             "match_four": ["AC Milan","Genoa"],
             "match_five": ["Genoa","Cagliari"]
@@ -1840,19 +1840,19 @@
       },
       "summary":{
       "cards":{
-          "discuss":" ",
+          "discuss":"Based on form, style of play, and considering the ref's issuance rate",
           "ht": " ",
-          "ft": " "
+          "ft": "Ov 3.5"
       },
       "corners":{
-          "discuss":" ",
-          "ht": " ",
+          "discuss":"Despiet their inconsistent results in corners, their style of play suggest a high number of corners",
+          "ht": "U 12.5",
           "ft": " "
       },
       "goals":{
           "discuss":" ",
-          "ht": " ",
-          "ft": " "
+          "ht": "BTS",
+          "ft": "U 4.5"
       }
     }
     },
@@ -1938,7 +1938,7 @@
       "match_two": ["Bologna","Juventus"],
       "match_three": ["Atalanta","Juventus"],
       "match_four": ["Juventus","Salernitana"],
-      "match_five": ["As Roma","Juventus"]
+      "match_five": ["AS Roma","Juventus"]
 },
 
   "goals": {
@@ -2000,7 +2000,7 @@
       "away_team": {
         
            
-        "name": "As Roma",
+        "name": "AS Roma",
         "coach": "Daniele De Rossi",
         "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/roma.png",
         "playing_style": "Short passes; Ball Retention; Draws fouls",
@@ -2013,12 +2013,12 @@
         "recent_matches": {
            "teams": {
             "match_six": ["AS Roma", "Empoli"],
-            "match_seven": ["Cagliari","As Roma"],
-            "match_one": ["Empoli","As Roma"],
-            "match_two": ["As Roma","Genoa"],
-            "match_three": ["Atalanta","As Roma"],
-            "match_four": ["Bayer Leverkusen","As Roma"],
-            "match_five": ["As Roma","Juventus"]
+            "match_seven": ["Cagliari","AS Roma"],
+            "match_one": ["Empoli","AS Roma"],
+            "match_two": ["AS Roma","Genoa"],
+            "match_three": ["Atalanta","AS Roma"],
+            "match_four": ["Bayer Leverkusen","AS Roma"],
+            "match_five": ["AS Roma","Juventus"]
           },
            "goals": {
             "match_six": [1,2],
@@ -2078,18 +2078,18 @@
       },
       "summary":{
       "cards":{
-          "discuss":" ",
-          "ht": " ",
-          "ft": " "
+          "discuss":"Because of the incocnsitency of results and considering ref's issuance rate",
+          "ht": "U 2.5",
+          "ft": "Ov 2.5"
       },
       "corners":{
-          "discuss":" ",
-          "ht": " ",
+          "discuss":"Juventus recent games have seen low corners, and the teams' style also does not support of corners, but consideirng their h2h, and AS Roma recent matches",
+          "ht": "Ov 7.5",
           "ft": " "
       },
       "goals":{
           "discuss":" ",
-          "ht": " ",
+          "ht": "U 4.5",
           "ft": " "
       }
     }
@@ -2287,7 +2287,7 @@
         "cards":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         },
         "corners":{
             "discuss":" ",
@@ -2296,7 +2296,7 @@
         },
         "goals":{
             "discuss":" ",
-            "ht": " ",
+            "ht": "U 3.5",
             "ft": " "
         }
         }
