@@ -1722,8 +1722,8 @@
       "pressing_style": "Aggressive",
       "attacking_style": "Frequent through ball attempts; Attacking down the right; Take long shots",
       "defensive_style": "Structured",
-      "aggressive_players": ["Conor Gallagher", "Moises Caicedo"],
-      "provocative_players": ["Conor Gallagher", "Moises Caicedo","Raheem Sterling","Nicolas Jackson","Dewsbury-Hall"],
+      "aggressive_players": [ "Moises Caicedo"],
+      "provocative_players": [ "Moises Caicedo","Nicolas Jackson","Dewsbury-Hall"],
       "unavailable_attacking_players": [],
       "recent_matches": {
          "teams": {
@@ -1733,7 +1733,7 @@
         "match_two": ["Brighton","Chelsea"],
         "match_three": ["Nottingham","Chelsea"],
         "match_four": ["Chelsea","West Ham"],
-        "match_five": ["Chelsea Utd","Tottenham"]
+        "match_five": ["Chelsea","Tottenham"]
       },
       
       "goals": {
@@ -1875,17 +1875,17 @@
     "summary":{
     "cards":{
         "discuss":" ",
-        "ht": " ",
-        "ft": " "
+        "ht": "Ov 1.5",
+        "ft": "Ov 3.5"
     },
     "corners":{
-        "discuss":" ",
-        "ht": " ",
+        "discuss":"Based on form ans style of play",
+        "ht": "Ov 7.5",
         "ft": " "
     },
     "goals":{
         "discuss":" ",
-        "ht": " ",
+        "ht": "Ov 2.5",
         "ft": " "
     }
   }
@@ -2114,19 +2114,19 @@
     },
     "summary":{
     "cards":{
-        "discuss":" ",
-        "ht": " ",
-        "ft": " "
+        "discuss":"Based on form ans style of play",
+        "ht": "U 2.5",
+        "ft": "Ov 3.5"
     },
     "corners":{
-        "discuss":" ",
-        "ht": " ",
+        "discuss":"Both team has won the most corners in atleast 6 of their most recent matches.",
+        "ht": "Ov 8.5",
         "ft": " "
     },
     "goals":{
-        "discuss":" ",
-        "ht": " ",
-        "ft": " "
+        "discuss":"Based on form",
+        "ht": "Ov 2.5",
+        "ft": "BTS"
     }
   }
   },
@@ -2356,18 +2356,18 @@
     "summary":{
     "cards":{
         "discuss":" ",
-        "ht": " ",
-        "ft": " "
+        "ht": "Ov 1.5",
+        "ft": "Ov 2.5"
     },
     "corners":{
-        "discuss":" ",
-        "ht": " ",
-        "ft": " "
+        "discuss":"Based on form ans style of play",
+        "ht": "Ov 7.5",
+        "ft": "Liverpool"
     },
     "goals":{
         "discuss":" ",
         "ht": " ",
-        "ft": " "
+        "ft": "Ov 2.5"
     }
   }
   }
