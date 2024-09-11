@@ -34,8 +34,83 @@
           }
         },
         "home_team" : {
-
-        },
+          "name": "Como",
+  "coach": "Cesc Fàbregas",
+  "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/como.png",
+  "playing_style": "Balanced",
+  "pressing_style": "Medium-pressing",
+  "attacking_style": "Build-up Play",
+  "defensive_style": "Disciplined",
+  "aggressive_players": ["Luca Mazzitelli"],
+  "provocative_players": ["Gabriel Strefezza"],
+  "unavailable_attacking_players": [],
+  "recent_matches": {
+      "teams": {
+        "match_five": ["Udinese", "Como"],
+        "match_six": ["Cagliari", "Como"],
+        "match_seven": ["Juventus","Como"],
+      "match_one": ["Como","Cosenza"],
+      "match_two": ["Modena","Como"],
+      "match_three": ["Como","Newcastle"],
+      "match_four": ["Sampdoria","Como"]
+      },
+    
+  "goals": {
+    "match_five": [1,0],
+    "match_six":[1,1],
+    "match_seven": [3,0],
+      "match_one": [1,1],
+      "match_two": [0,0],
+      "match_three": [2,1],
+      "match_four": [1,1]
+    },
+    "x_goals": {
+      "match_five": [0.63,1.99],
+      "match_six":[1.12,1.36],
+      "match_seven": [1.42,0.18],
+      "match_one": [2.32,0.69],
+      "match_two": [0.61,0.39],
+      "match_three": [1.82,1.58],
+      "match_four": [0.18,0.90]
+    },
+    "corners": {
+      "match_five": [4,6],
+      "match_six":[5,6],
+      "match_seven": [3,0],
+      "match_one": [11,1],
+      "match_two": [2,4],
+      "match_three": [4,9],
+      "match_four": [1,5]
+    },
+    "fouls": {
+      "match_five": [16,9],
+      "match_six":[12,10],
+      "match_seven": [11,12],
+      "match_one": [9,9],
+      "match_two": [10,12],
+      "match_three": [17,11],
+      "match_four": [12,13]
+    },
+    "HT_cards": {
+      "match_five": [0,0],
+      "match_six":[1,2],
+      "match_seven": [0,2],
+      "match_one": [0,1],
+      "match_two": [1,1],
+      "match_three": [0,1],
+      "match_four": [1,1]
+    },
+    "FT_cards": {
+      "match_five": [3,0],
+      "match_six":[2,2],
+      "match_seven": [2,4],
+      "match_one": [1,2],
+      "match_two": [1,1],
+      "match_three": [3,3],
+      "match_four": [3,3]
+    }
+  }  
+},
         "away_team": {
             
             "name": "Bologna",
