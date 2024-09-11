@@ -9,7 +9,6 @@
       "name":"Attwell S",
       "fouls_per_tackle": 0.58,
       "yellow_per_game": 4.35
-      
     },
 
     "head_to_head": {
@@ -1745,184 +1744,184 @@
       "match_five": [2,2]
       }
   },
-        "home_team" : {
+    "home_team" : {
+  
+      "name": "Bournemouth",
+      "coach": "Andoni Iraola",
+      "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/bournemouth.png",
+      "playing_style": "Counter-Attack",
+      "pressing_style": "Medium-pressing",
+      "attacking_style": "Quick transitions and use of set pieces",
+      "defensive_style": "Compact",
+      "aggressive_players": ["Justin Kluivert","Ryan Christie","Antoine Semenyo","Dominic Solanke","Marcos Senesi","Lewis Cook"],
+      "provocative_players": ["Dominic Solanke", "Romain Faivre"],
+      "unavailable_attacking_players": [],
+    
+      "recent_matches": {
+          "teams": {
+          "match_five": ["Everton", "Bournemouth"],
+          "match_six": ["Bournemouth", "Newcastle"],
+          "match_seven": ["Nottingham","Bournemouth"],
+      "match_one": ["Chelsea","Bournemouth"],
+      "match_two": ["Bournemouth","Brentford"],
+      "match_three": ["Arsenal","Bournemouth"],
+      "match_four": ["Bournemouth","Brighton"]
+    },
       
-          "name": "Bournemouth",
-          "coach": "Andoni Iraola",
-          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/bournemouth.png",
-          "playing_style": "Counter-Attack",
-          "pressing_style": "Medium-pressing",
-          "attacking_style": "Quick transitions and use of set pieces",
-          "defensive_style": "Compact",
-          "aggressive_players": ["Justin Kluivert","Ryan Christie","Antoine Semenyo","Dominic Solanke","Marcos Senesi","Lewis Cook"],
-          "provocative_players": ["Dominic Solanke", "Romain Faivre"],
-          "unavailable_attacking_players": [],
-        
-          "recent_matches": {
-             "teams": {
-              "match_five": ["Everton", "Bournemouth"],
-              "match_six": ["Bournemouth", "Newcastle"],
-              "match_seven": ["Nottingham","Bournemouth"],
-          "match_one": ["Chelsea","Bournemouth"],
-          "match_two": ["Bournemouth","Brentford"],
-          "match_three": ["Arsenal","Bournemouth"],
-          "match_four": ["Bournemouth","Brighton"]
+    "goals": {
+      "match_five": [2,3],
+      "match_six": [1,1],
+        "match_seven": [1,1],
+          "match_one": [2,1],
+          "match_two": [1,2],
+          "match_three": [3,0],
+          "match_four": [3,0]
         },
-          
-        "goals": {
-          "match_five": [2,3],
-          "match_six": [1,1],
-            "match_seven": [1,1],
-              "match_one": [2,1],
-              "match_two": [1,2],
-              "match_three": [3,0],
-              "match_four": [3,0]
-            },
-            "x_goals": {
-              "match_five": [1.77,2.44],
-              "match_six": [2.01,1.96],
-              "match_seven": [1.28,1.53],
-              "match_one": [0.90,2.34],
-              "match_two": [0.59,1.60],
-              "match_three": [3.45,0.40],
-              "match_four": [2.33,1.10]
-            },
-            "corners": {
-              "match_five": [8,4],
-              "match_six": [8,9],
-              "match_seven": [2,6],
-              "match_one": [6,5],
-              "match_two": [3,8],
-              "match_three": [6,1],
-              "match_four": [8,2]
-            },
-            "fouls": {
-              "match_five": [6,11],
-              "match_six": [19,8],
-              "match_seven": [18,9],
-              "match_one": [5,9],
-              "match_two": [16,12],
-              "match_three": [16,12],
-              "match_four": [14,10]
-            },
-            "HT_cards": {
-              "match_five": [0,0],
-              "match_six": [1,0],
-              "match_seven": [0,1],
-              "match_one": [1,2],
-              "match_two": [2,0],
-              "match_three": [0,1],
-              "match_four": [1,0]
-            },
-            "FT_cards": {
-              "match_five": [2,1],
-              "match_six": [2,2],
-              "match_seven": [1,3],
-              "match_one": [2,3],
-              "match_two": [2,2],
-              "match_three": [2,3],
-              "match_four": [2,2]
-            }
-          }
-          
+        "x_goals": {
+          "match_five": [1.77,2.44],
+          "match_six": [2.01,1.96],
+          "match_seven": [1.28,1.53],
+          "match_one": [0.90,2.34],
+          "match_two": [0.59,1.60],
+          "match_three": [3.45,0.40],
+          "match_four": [2.33,1.10]
         },
-        "away_team": {
-      
-          "name": "Chelsea",
-          "coach": "Enzo Maresca",
-          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/chelsea.png",
-          "playing_style": "Ball Retention; Short passes; Draws fouls",
-          "pressing_style": "Aggressive",
-          "attacking_style": "Frequent through ball attempts; Attacking down the right; Take long shots",
-          "defensive_style": "Structured",
-          "aggressive_players": [ "Moises Caicedo"],
-          "provocative_players": [ "Moises Caicedo","Nicolas Jackson","Dewsbury-Hall"],
-          "unavailable_attacking_players": [],
-          "recent_matches": {
-             "teams": {
-              "match_five": ["Chelsea", "Crystal Palace"],
-               "match_six": ["Wolves", "Chelsea"],
-              "match_seven": ["Chelsea","Man City"],
-            "match_one": ["Chelsea","Bournemouth"],
-            "match_two": ["Brighton","Chelsea"],
-            "match_three": ["Nottingham","Chelsea"],
-            "match_four": ["Chelsea","West Ham"]
-          },
-          
-          "goals": {
-            "match_five": [1,1],
-           "match_six": [2,6],
-            "match_seven": [0,2],
-              "match_one": [2,1],
-              "match_two": [1,2],
-              "match_three": [2,3],
-              "match_four": [5,0]
-            },
-            "x_goals": {
-              "match_five": [2.34,0.52],
-             "match_six": [2.16,2.65],
-              "match_seven": [0.62,0.82],
-              "match_one": [0.90,2.34],
-              "match_two": [1.22,1.27],
-              "match_three": [1.60,1.81],
-              "match_four": [4.31,0.93]
-            },
-            "corners": {
-              "match_five": [4,4],
-             "match_six": [5,5],
-              "match_seven": [4,3],
-              "match_one": [6,5],
-              "match_two": [4,6],
-              "match_three": [5,6],
-              "match_four": [8,6]
-            },
-            "fouls": {
-              "match_five": [9,13],
-             "match_six": [13,13],
-              "match_seven": [12,9],
-              "match_one": [5,9],
-              "match_two": [13,14],
-              "match_three": [14,8],
-              "match_four": [12,10]
-            },
-            "HT_cards": {
-              "match_five": [2,1],
-             "match_six": [1,2],
-              "match_seven": [0,0],
-              "match_one": [1,2],
-              "match_two": [1,0],
-              "match_three": [1,2],
-              "match_four": [1,3]
-            },
-            "FT_cards": {
-              "match_five": [4,2],
-             "match_six": [2,3],
-              "match_seven": [1,1],
-              "match_one": [2,3],
-              "match_two": [2,3],
-              "match_three": [2,3],
-              "match_four": [1,3]
-            }
-            }
-            
+        "corners": {
+          "match_five": [8,4],
+          "match_six": [8,9],
+          "match_seven": [2,6],
+          "match_one": [6,5],
+          "match_two": [3,8],
+          "match_three": [6,1],
+          "match_four": [8,2]
         },
-        "summary":{
-        "cards":{
-            "discuss":" ",
-            "ht": " ",
-            "ft": " "
+        "fouls": {
+          "match_five": [6,11],
+          "match_six": [19,8],
+          "match_seven": [18,9],
+          "match_one": [5,9],
+          "match_two": [16,12],
+          "match_three": [16,12],
+          "match_four": [14,10]
         },
-        "corners":{
-            "discuss":" ",
-            "ht": " ",
-            "ft": " "
+        "HT_cards": {
+          "match_five": [0,0],
+          "match_six": [1,0],
+          "match_seven": [0,1],
+          "match_one": [1,2],
+          "match_two": [2,0],
+          "match_three": [0,1],
+          "match_four": [1,0]
         },
-        "goals":{
-            "discuss":" ",
-            "ht": " ",
-            "ft": " "
+        "FT_cards": {
+          "match_five": [2,1],
+          "match_six": [2,2],
+          "match_seven": [1,3],
+          "match_one": [2,3],
+          "match_two": [2,2],
+          "match_three": [2,3],
+          "match_four": [2,2]
         }
-     }
+      }
+      
+    },
+    "away_team": {
+  
+      "name": "Chelsea",
+      "coach": "Enzo Maresca",
+      "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/chelsea.png",
+      "playing_style": "Ball Retention; Short passes; Draws fouls",
+      "pressing_style": "Aggressive",
+      "attacking_style": "Frequent through ball attempts; Attacking down the right; Take long shots",
+      "defensive_style": "Structured",
+      "aggressive_players": [ "Moises Caicedo"],
+      "provocative_players": [ "Moises Caicedo","Nicolas Jackson","Dewsbury-Hall"],
+      "unavailable_attacking_players": [],
+      "recent_matches": {
+          "teams": {
+          "match_five": ["Chelsea", "Crystal Palace"],
+            "match_six": ["Wolves", "Chelsea"],
+          "match_seven": ["Chelsea","Man City"],
+        "match_one": ["Chelsea","Bournemouth"],
+        "match_two": ["Brighton","Chelsea"],
+        "match_three": ["Nottingham","Chelsea"],
+        "match_four": ["Chelsea","West Ham"]
+      },
+      
+      "goals": {
+        "match_five": [1,1],
+        "match_six": [2,6],
+        "match_seven": [0,2],
+          "match_one": [2,1],
+          "match_two": [1,2],
+          "match_three": [2,3],
+          "match_four": [5,0]
+        },
+        "x_goals": {
+          "match_five": [2.34,0.52],
+          "match_six": [2.16,2.65],
+          "match_seven": [0.62,0.82],
+          "match_one": [0.90,2.34],
+          "match_two": [1.22,1.27],
+          "match_three": [1.60,1.81],
+          "match_four": [4.31,0.93]
+        },
+        "corners": {
+          "match_five": [4,4],
+          "match_six": [5,5],
+          "match_seven": [4,3],
+          "match_one": [6,5],
+          "match_two": [4,6],
+          "match_three": [5,6],
+          "match_four": [8,6]
+        },
+        "fouls": {
+          "match_five": [9,13],
+          "match_six": [13,13],
+          "match_seven": [12,9],
+          "match_one": [5,9],
+          "match_two": [13,14],
+          "match_three": [14,8],
+          "match_four": [12,10]
+        },
+        "HT_cards": {
+          "match_five": [2,1],
+          "match_six": [1,2],
+          "match_seven": [0,0],
+          "match_one": [1,2],
+          "match_two": [1,0],
+          "match_three": [1,2],
+          "match_four": [1,3]
+        },
+        "FT_cards": {
+          "match_five": [4,2],
+          "match_six": [2,3],
+          "match_seven": [1,1],
+          "match_one": [2,3],
+          "match_two": [2,3],
+          "match_three": [2,3],
+          "match_four": [1,3]
+        }
+        }
+        
+    },
+    "summary":{
+    "cards":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "corners":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    },
+    "goals":{
+        "discuss":" ",
+        "ht": " ",
+        "ft": " "
+    }
+  }
 },
 {
     "fixture": "Tottenham vs Arsenal",
