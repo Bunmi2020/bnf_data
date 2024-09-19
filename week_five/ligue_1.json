@@ -1,0 +1,2128 @@
+[
+    {
+        "fixture": "Nice vs St Etienne",
+        "stadium": "Allianz Riviera",
+        "Weather": "Mostly cloudy",
+        "pitch_condition": "Good",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Leonard T.",
+          "fouls_per_tackle": 0.74,
+          "yellow_per_game": 3.73
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["Nice", "St Etienne"],
+            "match_two": ["St Etienne", "Nice"],
+            "match_three": ["Nice", "St Etienne"],
+            "match_four": ["St Etienne", "Nice"] 
+          },
+          "goals": {
+            "match_one": [4, 2],
+            "match_two": [0, 3],
+            "match_three": [0, 1],
+            "match_four": [1, 3] 
+          },
+          "x_goals": {
+            "match_one": [],
+            "match_two": [],
+            "match_three": [],
+            "match_four": [] 
+          },
+          "corners": {
+            "match_one": [2, 2],
+            "match_two": [2, 9],
+            "match_three": [4, 10],
+            "match_four": [7, 3] 
+          },
+          "fouls": {
+            "match_one": [10, 13],
+            "match_two": [9, 13],
+            "match_three": [11, 11],
+            "match_four": [15, 10] 
+          },
+          "HT_cards": {
+            "match_one": [1, 1],
+            "match_two": [0, 1],
+            "match_three": [0, 1],
+            "match_four": [0, 0] 
+          },
+          "FT_cards": {
+            "match_one": [2, 3],
+            "match_two": [0, 2],
+            "match_three": [2, 2],
+            "match_four": [2, 5] 
+          }
+        },
+        "home_team" : {
+        
+          "name": "Nice",
+          "coach": "Franck Haise",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/nice.png",
+          "playing_style": "Short passes;Deep positioning ",
+          "pressing_style": " ",
+          "attacking_style": "Attack through the middle",
+          "defensive_style": " ",
+          "aggressive_players": ["Dante"],
+          "provocative_players": ["Evann Guessand"],
+          "unavailable_attacking_players": [],
+          "recent_matches": {
+            "teams": {
+              "match_four": ["Marseille", "Nice"],
+              "match_five": ["Angers", "Nice"],
+              "match_six": ["Nice", "Toulouse"],
+              "match_seven": ["Auxerre","Nice"],
+              "match_one": ["Lille", "Nice"],
+              "match_two": ["Nice", "PSG"],
+              "match_three": ["Nice", "Le Havre"]
+            },
+           
+            "goals": {
+              "match_four": [2,0],
+              "match_five": [1,4],
+              "match_six": [1, 1],
+              "match_seven": [2,1],
+              "match_one": [2, 2],
+              "match_two": [1, 2],
+              "match_three": [1, 0]
+            },
+            "x_goals": {
+              "match_four": [1.45,1.93],
+              "match_five": [1.47,2.56],
+              "match_six": [1.27,1.00],
+              "match_seven": [2.11,0.67],
+              "match_one": [1.06, 0.86],
+              "match_two": [1.34, 0.76],
+              "match_three": [1.38, 0.34]
+            },
+            "corners": {
+              "match_four": [1,2],
+              "match_five": [4,7],
+              "match_six": [4, 4],
+              "match_seven": [3,5],
+              "match_one": [3, 5],
+              "match_two": [7, 2],
+              "match_three": [6, 1]
+            },
+            "fouls": {
+              "match_four": [18,4],
+              "match_five": [14,13],
+              "match_six": [11, 21],
+              "match_seven": [11,17],
+              "match_one": [9, 9],
+              "match_two": [13, 10],
+              "match_three": [10, 9]
+            },
+            "HT_cards": {
+              "match_four": [1,1],
+              "match_five": [4,2],
+              "match_six": [1, 0],
+              "match_seven": [0,0],
+              "match_one": [0, 0],
+              "match_two": [0, 3],
+              "match_three": [1, 0]
+            },
+            "FT_cards": {
+              "match_four": [5,2],
+              "match_five": [6,5],
+              "match_six": [4, 2],
+              "match_seven": [0,0],
+              "match_one": [4, 3],
+              "match_two": [2, 3],
+              "match_three": [2, 0]
+            }
+          }       
+      
+        },
+        "away_team": {
+        
+          "name": "Saint-Étienne",
+          "coach": "Olivier Dall'Oglio",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/etienne.png",
+          "playing_style": "Counter-attacking",
+          "pressing_style": "Low-pressing",
+          "attacking_style": "Direct play with emphasis on long balls",
+          "defensive_style": "Organized",
+          "aggressive_players": [],
+          "provocative_players": [],
+          "unavailable_attacking_players": [""],
+          "recent_matches": {
+            "teams": {
+              "match_four":["St Etienne","Lille"],
+              "match_five": ["Brest", "St Etienne"],
+              "match_six":["St Etienne","Le Havre"],
+              "match_seven": ["Monaco","St Etienne"],
+              "match_one": ["Metz", "St Etienne"],
+              "match_two": ["St Etienne", "Metz"],
+              "match_three": ["St Etienne", "Rodez"]
+            },
+            
+            "goals": {
+              "match_four":[1,0],
+              "match_five": [4,0],
+              "match_six":[0,2],
+              "match_seven": [1,0],
+              "match_one": [2, 1],
+              "match_two": [2, 1],
+              "match_three": [2, 0]
+            },
+            "x_goals": {
+              "match_four":[1.50,1.11],
+              "match_five": [3.40,0.31],
+              "match_six":[1.31,2.24],
+              "match_seven": [1.55,0.69],
+              "match_one": [2.03, 2.59],
+              "match_two": [1.41, 0.17],
+              "match_three": [2.33, 0.81]
+            },
+            "corners": {
+              "match_four":[2,7],
+              "match_five": [7,2],
+              "match_six":[2,4],
+              "match_seven": [5,4],
+              "match_one": [5, 13],
+              "match_two": [5, 2],
+              "match_three": [14, 6]
+            },
+            "fouls": {
+              "match_four":[12,10],
+              "match_five": [12,28],
+              "match_six":[11,9],
+              "match_seven": [13,14],
+              "match_one": [16, 19],
+              "match_two": [16, 10],
+              "match_three": [12, 7]
+            },
+            "HT_cards": {
+              "match_four":[0,0],
+              "match_five": [0, 1],
+              "match_six":[2,2],
+              "match_seven": [0,0],
+              "match_one": [1, 2],
+              "match_two": [1, 0],
+              "match_three": [0, 0]
+            },
+            "FT_cards": {
+              "match_four":[1,1],
+              "match_five": [0,5],
+              "match_six":[3,3],
+              "match_seven": [1,1],
+              "match_one": [5, 3],
+              "match_two": [2, 1],
+              "match_three": [1, 1]
+            }
+    }
+      
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+      }
+      },
+      {
+        "fixture": "Lille vs Strasbourg",
+        "stadium": "Stade Pierre-Mauroy",
+        "Weather": "Rain",
+        "pitch_condition": "Wet",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Brisard J.",
+          "fouls_per_tackle": 0.73,
+          "yellow_per_game": 3.83
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["Lille", "Strasbourg"],
+            "match_two": ["Strasbourg", "Lille"],
+            "match_three": ["Lille", "Strasbourg"],
+            "match_four": ["Strasbourg", "Lille"],
+            "match_five": ["Lille", "Strasbourg"]
+          },
+          "goals": {
+            "match_one": [1, 0],
+            "match_two": [2, 1],
+            "match_three": [2, 0],
+            "match_four": [0, 3],
+            "match_five": [1, 0]
+          },
+          "x_goals": {
+            "match_one": [0.9, 1.06],
+            "match_two": [0.7, 0.72],
+            "match_three": [2.94, 0.28],
+            "match_four": [],
+            "match_five": []
+          },
+          "corners": {
+            "match_one": [4, 4],
+            "match_two": [6, 5],
+            "match_three": [5, 4],
+            "match_four": [3, 0],
+            "match_five": [4, 6]
+          },
+          "fouls": {
+            "match_one": [11, 19],
+            "match_two": [19, 10],
+            "match_three": [13, 13],
+            "match_four": [12, 17],
+            "match_five": [18, 18]
+          },
+          "HT_cards": {
+            "match_one": [1, 1],
+            "match_two": [1, 1],
+            "match_three": [0, 1],
+            "match_four": [2, 1],
+            "match_five": [1, 1]
+          },
+          "FT_cards": {
+            "match_one": [2, 3],
+            "match_two": [1, 2],
+            "match_three": [1, 2],
+            "match_four": [3, 1],
+            "match_five": [2, 3]
+          }
+        },
+        "home_team" : {
+        
+          "name": "Lille",
+          "coach": "Bruno Génésio",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/lille.png",
+          "playing_style": "Short passes; Ball retention; Draws fouls",
+          "pressing_style": "Non-aggressive",
+          "attacking_style": "Take long shots; Attack through the middle",
+          "defensive_style": "High Line; Use offside positioning",
+          "aggressive_players": ["Benjamin André","Tiago Santos"],
+          "provocative_players": ["Jonathan David","Romain Faivre","Benjamin André"],
+          "unavailable_attacking_players": [],
+          "recent_matches": {
+            "teams": {
+              "match_four":["St Etienne","Lille"],
+              "match_five": ["Lille", "PSG"],
+              "match_six": ["Lille", "Angers"],
+              "match_seven": ["Reims","Lille"],
+              "match_one": ["Lille", "Nice"],
+              "match_two": ["Nantes", "Lille"],
+              "match_three": ["Lille", "Lyon"]
+            },
+            
+            "goals": {
+              "match_four":[1,0],
+              "match_five": [1,3],
+              "match_six": [2, 0],
+              "match_seven": [0,2],
+              "match_one": [2, 2],
+              "match_two": [1, 2],
+              "match_three": [3, 4]
+            },
+            "x_goals": {
+              "match_four":[1.50,1.11],
+              "match_five": [0.74,1.93],
+              "match_six": [1.24,0.60],
+              "match_seven": [0.06,1.66],
+              "match_one": [1.06, 0.86],
+              "match_two": [0.72, 1.47],
+              "match_three": [0.93, 2.44]
+            },
+            "corners": {
+              "match_four":[2,7],
+              "match_five": [3,1],
+              "match_six": [3, 2],
+              "match_seven": [0,8],
+              "match_one": [3, 5],
+              "match_two": [5, 4],
+              "match_three": [4, 4]
+            },
+            "fouls": {
+              "match_four":[12,10],
+              "match_five": [9, 9],
+              "match_six": [9, 17],
+              "match_seven": [6,13],
+              "match_one": [9, 9],
+              "match_two": [17, 7],
+              "match_three": [14, 14]
+            },
+            "HT_cards": {
+              "match_four":[0,0],
+              "match_five": [1, 1],
+              "match_six": [1, 1],
+              "match_seven": [1,0],
+              "match_one": [0, 0],
+              "match_two": [2, 1],
+              "match_three": [1, 1]
+            },
+            "FT_cards": {
+              "match_four":[1,1],
+              "match_five": [3,2],
+              "match_six": [1, 2],
+              "match_seven": [3,2],
+              "match_one": [4, 3],
+              "match_two": [4, 2],
+              "match_three": [3, 1]
+            }
+          }      
+     
+        },
+        "away_team": {
+    
+          "name": "Strasbourg",
+          "coach": "Liam Rosenior",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/strasbourg.png",
+          "playing_style": "Deep positioning",
+          "pressing_style": " ",
+          "attacking_style": "Attacking down the right; Take long shots; Frequent through ball attempts",
+          "defensive_style": "High Line; Use offside positioning",
+          "aggressive_players": ["Habib Diarra","Abakar Sylla","Thomas Delaine"],
+          "provocative_players": ["Dilane Bakwa","Marvin Senaya"],
+          "unavailable_attacking_players": [],
+          
+          "recent_matches": {
+            "teams": {
+              "match_four": ["Strasbourg", "Angers"],
+              "match_five": ["Lyon", "Strasbourg"],
+              "match_six": ["Strasbourg", "Rennes"],
+              "match_seven": ["Montpellier","Strasbourg"],
+              "match_one": ["Lyon", "Strasbourg"],
+              "match_two": ["Strasbourg", "Metz"],
+              "match_three": ["Le Havre", "Strasbourg"]
+            },
+            
+            "goals": {
+              "match_four": [1,1],
+              "match_five": [4,3],
+              "match_six": [3, 1],
+              "match_seven": [1,1],
+              "match_one": [2, 1],
+              "match_two": [2, 1],
+              "match_three": [3, 1]
+            },
+            "x_goals": {
+              "match_four": [1.45,0.75],
+              "match_five": [2.23,2.24],
+              "match_six": [0.90,1.34],
+              "match_seven":  [1.50,1.23],
+              "match_one": [2.99, 1.11],
+              "match_two": [1.14, 0.91],
+              "match_three": [1.83, 0.66]
+            },
+            "corners": {
+              "match_four": [6,9],
+              "match_five": [9, 2],
+              "match_six": [2, 5],
+              "match_seven": [6,4],
+              "match_one": [7, 2],
+              "match_two": [3, 6],
+              "match_three": [3, 2]
+            },
+            "fouls": {
+              "match_four": [11, 14],
+              "match_five": [11,6],
+              "match_six": [7, 19],
+              "match_seven": [20,18],
+              "match_one": [7, 10],
+              "match_two": [10, 10],
+              "match_three": [6, 13]
+            },
+            "HT_cards": {
+              "match_four": [2,0],
+              "match_five": [1,1],
+              "match_six": [0, 2],
+              "match_seven": [1,1],
+              "match_one": [0, 0],
+              "match_two": [0, 1],
+              "match_three": [1, 0]
+            },
+            "FT_cards": {
+              "match_four": [4,1],
+              "match_five": [3,2],
+              "match_six": [2, 4],
+              "match_seven": [4,3],
+              "match_one": [1, 1],
+              "match_two": [2, 2],
+              "match_three": [3, 1]
+            }
+          }     
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+      }
+      },
+      {
+        "fixture": "Rennes vs Lens",
+        "stadium": "Roazhon Park",
+        "Weather": "Mostly cloudy",
+        "pitch_condition": "Good",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Stinat J.",
+          "fouls_per_tackle": 0.64,
+          "yellow_per_game": 3.43
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["Rennes", "Lens"],
+            "match_two": ["Lens", "Rennes"],
+            "match_three": ["Rennes", "Lens"],
+            "match_four": ["Lens", "Rennes"],
+            "match_five": ["Lens", "Rennes"]
+          },
+          "goals": {
+            "match_one": [1, 1],
+            "match_two": [1, 1],
+            "match_three": [0, 1],
+            "match_four": [2, 1],
+            "match_five": [1, 0]
+          },
+          "x_goals": {
+            "match_one": [1.39, 0.48],
+            "match_two": [0.86, 1.21],
+            "match_three": [1.09, 1.86],
+            "match_four": [],
+            "match_five": []
+          },
+          "corners": {
+            "match_one": [4, 3],
+            "match_two": [11, 0],
+            "match_three": [5, 5],
+            "match_four": [7, 2],
+            "match_five": [12, 1]
+          },
+          "fouls": {
+            "match_one": [12, 14],
+            "match_two": [15, 10],
+            "match_three": [13, 11],
+            "match_four": [15, 13],
+            "match_five": [5, 6]
+          },
+          "HT_cards": {
+            "match_one": [1, 2],
+            "match_two": [0, 0],
+            "match_three": [1, 1],
+            "match_four": [0, 1],
+            "match_five": [1, 0]
+          },
+          "FT_cards": {
+            "match_one": [2, 3],
+            "match_two": [2, 1],
+            "match_three": [2, 2],
+            "match_four": [0, 1],
+            "match_five": [1, 1]
+          }
+        },
+        "home_team" : {
+        
+          "name": "Rennes",
+          "coach": "Julien Stéphan",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/rennes.png",
+          "playing_style": "High territorial control; Draws fouls",
+          "pressing_style": " ",
+          "attacking_style": "Attacking down the left",
+          "defensive_style": "High Line; Use offside positioning",
+          "aggressive_players": ["Ludovic Blas"],
+          "provocative_players": [],
+          "unavailable_attacking_players": [],
+        
+          "recent_matches": {
+            "teams": {
+              "match_four": ["Rennes","Montpellier"],
+              "match_five": ["Reims", "Rennes"],
+              "match_six": ["Strasbourg", "Rennes"],
+              "match_seven": ["Rennes","Lyon"],
+              "match_one": ["Reims", "Rennes"],
+              "match_two": ["Rennes", "Lens"],
+              "match_three": ["Metz", "Rennes"]
+            },
+        
+            "goals": {
+              "match_four": [3,0],
+              "match_five": [2,1],
+              "match_six": [3, 1],
+              "match_seven": [3,0],
+              "match_one": [2, 1],
+              "match_two": [1, 1],
+              "match_three": [2, 3]
+            },
+            "x_goals": {
+              "match_four": [1.42,0.31],
+              "match_five": [1.66,1.18],
+              "match_six": [0.90,1.34],
+              "match_seven": [2.16,1.64],
+              "match_one": [1.26, 1.2],
+              "match_two": [1.39, 0.48],
+              "match_three": [0.61,1.96]
+            },
+            "corners": {
+              "match_four": [3,4],
+              "match_five": [3,5],
+              "match_six": [2, 5],
+              "match_seven": [7,7],
+              "match_one": [2, 4],
+              "match_two": [4, 3],
+              "match_three": [2,5]
+            },
+            "fouls": {
+              "match_four": [10,7],
+              "match_five": [9,13],
+              "match_six": [7, 19],
+              "match_seven": [13,12],
+              "match_one": [11, 17],
+              "match_two": [12, 14],
+              "match_three": [15, 14]
+            },
+            "HT_cards": {
+              "match_four": [1,1],
+              "match_five": [1, 0],
+              "match_six": [0, 2],
+              "match_seven": [1,1],
+              "match_one": [0, 0],
+              "match_two": [1, 2],
+              "match_three": [0, 1]
+            },
+            "FT_cards": {
+              "match_four": [1,3],
+              "match_five": [2,2],
+              "match_six": [2,4],
+              "match_seven": [2,1],
+              "match_one": [1,1],
+              "match_two": [2,3],
+              "match_three": [3,3]
+            }
+          }       
+     
+        },
+        "away_team": {
+        
+          "name": "Lens",
+          "coach": "Will Still",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/lens.png",
+          "playing_style": "High territorial control",
+          "pressing_style": "Aggressive",
+          "attacking_style": "High crossing frequency; Attacking down the right",
+          "defensive_style": " ",
+          "aggressive_players": ["Deiver Machado","Facundo Medina","Ernest Nuamah","Alexandre Lacazette","Stijn Spierings"],
+          "provocative_players": ["Kevin Danso","Neil El Aynaoui","Deiver Machado"],
+          "unavailable_attacking_players": [],
+          "recent_matches": {
+            "teams": {
+              "match_four": ["Lens", "Lyon"],
+              "match_five": ["Monaco","Lens"],
+              "match_six": ["Lens","Brest"],
+              "match_seven": ["Angers","Lens"],
+              "match_one": ["Lens","Montpellier"],
+              "match_two": ["Rennes","Lens"],
+              "match_three": ["Lens","Lorient"]
+            },
+            "goals": {
+              "match_four": [0,0],
+              "match_five": [1,1],
+              "match_six": [2, 0],
+              "match_seven": [0,1],
+              "match_one": [2, 2],
+              "match_two": [1, 1],
+              "match_three": [2, 0]
+            },
+            "x_goals": {
+              "match_four": [0.70,0.43],
+              "match_five": [1.02,2.29],
+              "match_six": [1.95,0.67],
+              "match_seven": [0.26,0.92],
+              "match_one": [4.32, 0.72],
+              "match_two": [1.39, 0.48],
+              "match_three": [2.04, 0.56]
+            },
+            "corners": {
+              "match_four": [5,8],
+              "match_five": [7,7],
+              "match_six": [5, 2],
+              "match_seven": [7,3],
+              "match_one": [1, 0],
+              "match_two": [4, 3],
+              "match_three": [4, 4]
+            },
+            "fouls": {
+              "match_four": [12,11],
+              "match_five": [11,21],
+              "match_six": [8, 6],
+              "match_seven": [12,14],
+              "match_one": [10, 13],
+              "match_two": [12, 14],
+              "match_three": [10, 14]
+            },
+            "HT_cards": {
+              "match_four": [0,0],
+              "match_five": [0,3],
+              "match_six": [1, 1],
+              "match_seven": [0,0],
+              "match_one": [0, 0],
+              "match_two": [1, 2],
+              "match_three": [0,1]
+            },
+            "FT_cards": {
+              "match_four": [0,0],
+              "match_five": [1,4],
+              "match_six": [3, 3],
+              "match_seven": [1,0],
+              "match_one": [0,1],
+              "match_two": [2,3],
+              "match_three": [1,2]
+            }
+          }           
+      
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+      }
+      },
+      {
+        "fixture": "Reims vs PSG",
+        "stadium": "Stade Auguste-Delaune",
+        "Weather": "Mostly cloudy",
+        "pitch_condition": "Very Good",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Pignard J.",
+          "fouls_per_tackle": 0.68,
+          "yellow_per_game": 3.87
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["PSG", "Reims"],
+            "match_two": ["Reims", "PSG"],
+            "match_three": ["PSG", "Reims"],
+            "match_four": ["Reims", "PSG"],
+            "match_five": ["PSG", "Reims"]
+          },
+          "goals": {
+            "match_one": [2, 2],
+            "match_two": [0, 3],
+            "match_three": [1, 1],
+            "match_four": [0, 0],
+            "match_five": [4, 0]
+          },
+          "x_goals": {
+            "match_one": [1.28, 1.42],
+            "match_two": [1.22, 1.73],
+            "match_three": [],
+            "match_four": [],
+            "match_five": []
+          },
+          "corners": {
+            "match_one": [7, 2],
+            "match_two": [8, 4],
+            "match_three": [3, 3],
+            "match_four": [7, 3],
+            "match_five": [14, 0]
+          },
+          "fouls": {
+            "match_one": [10, 13],
+            "match_two": [14, 6],
+            "match_three": [5, 10],
+            "match_four": [20, 12],
+            "match_five": [6, 10]
+          },
+          "HT_cards": {
+            "match_one": [1, 1],
+            "match_two": [0, 0],
+            "match_three": [1, 1],
+            "match_four": [1, 3],
+            "match_five": [0, 0]
+          },
+          "FT_cards": {
+            "match_one": [2, 3],
+            "match_two": [1, 0],
+            "match_three": [2, 1],
+            "match_four": [3, 6],
+            "match_five": [0, 1]
+          }
+        },
+        "home_team" : {
+        
+          "name": "de Reims",
+          "coach": "Luka Elsner",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/reims.png",
+          "playing_style": "Wide play",
+          "pressing_style": " ",
+          "attacking_style": "Attacking down the right",
+          "defensive_style": " ",
+          "aggressive_players": [],
+          "provocative_players": [],
+          "unavailable_attacking_players": [""],
+          "recent_matches": {
+            "teams": {
+              "match_four": ["Nantes", "Reims"],
+              "match_five": ["Reims", "Rennes"],
+              "match_six": ["Marseille", "Reims"],
+              "match_seven": ["Reims","Lille"],
+              "match_one": ["Reims", "Rennes"],
+              "match_two": ["Reims", "Marseille"],
+              "match_three": ["Brest", "Reims"]
+            },
+          
+            "goals": {
+              "match_four": [1,2],
+              "match_five": [2,1],
+              "match_six": [2, 2],
+              "match_seven": [0,2],
+              "match_one": [2, 1],
+              "match_two": [1, 0],
+              "match_three": [1, 1]
+            },
+            "x_goals": {
+              "match_four": [1.61,0.53],
+              "match_five": [1.66,1.18],
+              "match_six": [2.66,0.88],
+              "match_seven": [0.06,1.66],
+              "match_one": [1.26, 1.2],
+              "match_two": [0.9, 1.51],
+              "match_three": [1.23, 0.5]
+            },
+            "corners": {
+              "match_four": [6,3],
+              "match_five": [3,5],
+              "match_six": [2, 4],
+              "match_seven": [0,8],
+              "match_one": [2, 4],
+              "match_two": [3, 10],
+              "match_three": [3, 4]
+            },
+            "fouls": {
+              "match_four": [14,5],
+              "match_five": [9,13],
+              "match_six": [10, 13],
+              "match_seven": [6,13],
+              "match_one": [11, 17],
+              "match_two": [17, 9],
+              "match_three": [12, 12]
+            },
+            "HT_cards": {
+              "match_four": [1,0],
+              "match_five": [1, 0],
+              "match_six": [0, 0],
+              "match_seven": [1,0],
+              "match_one": [0, 0],
+              "match_two": [2, 0],
+              "match_three": [0, 2]
+            },
+            "FT_cards": {
+              "match_four": [3,1],
+              "match_five": [2, 2],
+              "match_six": [1,1],
+              "match_seven": [3,2],
+              "match_one": [1, 1],
+              "match_two": [3, 1],
+              "match_three": [2, 3]
+            }
+          }          
+      
+        },
+        "away_team": {
+        
+          "name": "PSG",
+          "coach": "Luis Enrique",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/psg.png",
+          "playing_style": "High territorial control; Short passes; Ball retention",
+          "pressing_style": "Non-aggressive",
+          "attacking_style": "Frequent through ball attempts; Attacking down the right",
+          "defensive_style": " ",
+          "aggressive_players": ["Randal Kolo Muani","Manuel Ugarte"],
+          "provocative_players": [],
+          "unavailable_attacking_players": ["Donnarumma G"],
+          "recent_matches": {
+          "teams": {
+            "match_three": ["PSG", "Brest"],
+            "match_six": ["Lille", "PSG"],
+            "match_seven": ["PSG", "Montpellier"],
+            "match_four": ["Le Havre","PSG"],
+            "match_five": ["Lyon", "PSG"],
+            "match_one": ["Metz", "PSG"],
+            "match_two": ["Nice", "PSG"]
+          },
+          
+          "goals": {
+            "match_three": [3,1],
+            "match_six": [1,3],
+            "match_seven": [6,0],
+            "match_four": [1,4],
+            "match_five": [1, 2],
+            "match_one": [0, 2],
+            "match_two": [1, 2]
+          },
+          "x_goals": {
+            "match_three": [2.87,0.93],
+            "match_six": [0.74,1.93],
+            "match_seven": [2.94,0.40],
+            "match_four": [0.09,1.89],
+            "match_five": [0.64, 3.14],
+            "match_one": [0.9, 2.14],
+            "match_two": [1.34, 0.76]
+          },
+          "corners": {
+            "match_three": [9,1],
+            "match_six": [3,1],
+            "match_seven": [10, 2],
+            "match_four": [2,8],
+            "match_five": [6, 5],
+            "match_one": [1, 11],
+            "match_two": [7, 2]
+          },
+          "fouls": {
+            "match_three": [7,13],
+            "match_six": [9, 9],
+            "match_seven": [9, 16],
+            "match_four": [9,9],
+            "match_five": [11, 11],
+            "match_one": [6, 9],
+            "match_two": [13, 10]
+          },
+          "HT_cards": {
+            "match_three": [2,1],
+            "match_six": [1, 1],
+            "match_seven": [0, 2],
+            "match_four": [0,2],
+            "match_five": [1, 0],
+            "match_one": [0, 1],
+            "match_two": [0, 3]
+          },
+          "FT_cards": {
+            "match_three": [2,3],
+            "match_six": [3,2],
+            "match_seven": [1, 4],
+            "match_four": [3,2],
+            "match_five": [2, 1],
+            "match_one": [2, 1],
+            "match_two": [2, 3]
+          }
+          }
+              
+      
+          
+      
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+      }
+      },
+      {
+        "fixture": "Monaco vs Le Havre",
+        "stadium": "Stade Louis II",
+        "Weather": "Scattered showers",
+        "pitch_condition": "Wet",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Frappart S.",
+          "fouls_per_tackle": 0.85,
+          "yellow_per_game": 3.43
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["Monaco", "Le Havre"],
+            "match_two": ["Le Havre", "Monaco"]
+          },
+          "goals": {
+            "match_one": [1, 1],
+            "match_two": [0, 0]
+          },
+          "x_goals": {
+            "match_one": [1.49, 0.09],
+            "match_two": [1.63, 0.62]
+          },
+          "corners": {
+            "match_one": [9, 4],
+            "match_two": [2, 4]
+          },
+          "fouls": {
+            "match_one": [16, 11],
+            "match_two": [10, 18]
+          },
+          "HT_cards": {
+            "match_one": [1, 0],
+            "match_two": [1, 1]
+          },
+          "FT_cards": {
+            "match_one": [3, 2],
+            "match_two": [2, 3]
+          }
+        },
+        "home_team" : {
+        
+          "name": "AJ Auxerre",
+          "coach": "Christophe Pélissier",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/auxerre.png",
+          "playing_style": "Balanced",
+          "pressing_style": "High-Pressing",
+          "attacking_style": "Wide Play",
+          "defensive_style": "Organized",
+          "aggressive_players": ["Gautier Lloris"],
+          "provocative_players": [],
+          "unavailable_attacking_players": ["Gauthier Hein"],
+          "recent_matches": {
+            "teams": {
+              "match_four":["Auxerre","Monaco"],
+              "match_five": ["Le Havre", "Auxerre"],
+              "match_six": ["Nantes", "Auxerre"],
+              "match_seven": ["Auxerre","Nice"],
+              "match_one": ["Auxerre", "Concarneau"],
+              "match_two": ["Amiens", "Auxerre"],
+              "match_three": ["Auxerre", "Paris FC"]
+            },
+            "goals": {
+              "match_four":[0,3],
+              "match_five": [3,1],
+              "match_six":[2,0],
+              "match_seven": [2,1],
+              "match_one": [4, 1],
+              "match_two": [0, 0],
+              "match_three": [2, 0]
+            },
+            "x_goals": {
+              "match_four":[0.77,2.93],
+              "match_five": [2.57,0.35],
+              "match_six":[1.72,1.61],
+              "match_seven": [2.11,0.67],
+              "match_one": [3.16, 0.94],
+              "match_two": [1.49, 0.49],
+              "match_three": [1.58, 0.56]
+            },
+            "corners": {
+              "match_four":[1,6],
+              "match_five": [2, 2],
+              "match_six":[3,12],
+              "match_seven": [3,5],
+              "match_one": [2, 1],
+              "match_two": [4, 4],
+              "match_three": [5, 2]
+            },
+            "fouls": {
+              "match_four":[13,16],
+              "match_five": [10,15],
+              "match_six":[9,6],
+              "match_seven": [11,17],
+              "match_one": [9, 7],
+              "match_two": [18, 16],
+              "match_three": [11, 10]
+            },
+            "HT_cards": {
+              "match_four":[3,0],
+              "match_five": [0,5],
+              "match_six":[0,1],
+              "match_seven": [0,0],
+              "match_one": [0, 0],
+              "match_two": [0, 2],
+              "match_three": [0, 2]
+            },
+            "FT_cards": {
+              "match_four":[3,0],
+              "match_five": [1,6],
+              "match_six":[2,2],
+              "match_seven": [0,0],
+              "match_one": [0, 0],
+              "match_two": [1, 2],
+              "match_three": [0, 3]
+            }
+          }
+                    
+            
+                
+      
+        },
+        "away_team": {
+        
+          "name": "Le Havre",
+          "coach": "Didier Digard",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/havre.png",
+          "playing_style": "Wide play",
+          "pressing_style": " ",
+          "attacking_style": "Attacking down the left; Take long shots; High shot volume",
+          "defensive_style": "High Line; Use offside positioning",
+          "aggressive_players": ["Arouna Sangante"],
+          "provocative_players": [],
+          "unavailable_attacking_players": [""],
+          "recent_matches": {
+          "teams": {
+            "match_four": ["Toulouse", "Le Havre"],
+            "match_five": ["Le Havre", "Auxerre"],
+            "match_six":["St Etienne","Le Havre"],
+            "match_seven": ["Le Havre","PSG"],
+            "match_one": ["Le Havre", "Marseille"],
+            "match_two": ["Nice", "Le Havre"],
+            "match_three": ["Le Havre", "Strasbourg"]
+          },
+          
+          "goals": {
+            "match_four": [2,0],
+            "match_five": [3,1],
+            "match_six":[0,2],
+          "match_seven": [1,4],
+            "match_one": [1, 2],
+            "match_two": [1, 0],
+            "match_three": [3, 1]
+          },
+          "x_goals": {
+            "match_four": [2.09,0.54],
+            "match_five": [2.57,0.35],
+            "match_six":[1.31,2.24],
+            "match_seven": [0.09,1.89],
+            "match_one": [1.51, 1.32],
+            "match_two": [1.38, 0.34],
+            "match_three": [1.83, 0.66]
+          },
+          "corners": {
+            "match_four": [6,5],
+            "match_five": [2, 2],
+            "match_six":[2,4],
+            "match_seven": [2,8],
+            "match_one": [5, 3],
+            "match_two": [6, 1],
+            "match_three": [3, 2]
+          },
+          "fouls": {
+            "match_four": [10, 11],
+            "match_five": [10,15],
+            "match_six":[11,9],
+            "match_seven": [9,9],
+            "match_one": [11, 11],
+            "match_two": [10, 9],
+            "match_three": [6, 13]
+          },
+          "HT_cards": {
+            "match_four": [0,0],
+            "match_five": [0,5],
+            "match_six":[2,2],
+            "match_seven": [0,2],
+            "match_one": [0, 0],
+            "match_two": [1, 0],
+            "match_three": [1, 0]
+          },
+          "FT_cards": {
+            "match_four": [1,1],
+            "match_five": [1,6],
+            "match_six":[3,3],
+            "match_seven": [3,2],
+            "match_one": [1, 0],
+            "match_two": [2, 0],
+            "match_three": [3, 1]
+          }
+          } 
+      
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+      }
+      },
+      {
+        "fixture": "Angers vs Nantes",
+        "stadium": "Stade Raymond-Kopa",
+        "Weather": "Scattered thunderstorms",
+        "pitch_condition": "Wet",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Vernice M.",
+          "fouls_per_tackle": 0.76,
+          "yellow_per_game": 4.69
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["Nantes", "Angers"],
+            "match_two": ["Angers", "Nantes"],
+            "match_three": ["Angers", "Nantes"],
+            "match_four": ["Nantes", "Angers"],
+            "match_five": ["Angers", "Nantes"]
+          },
+          "goals": {
+            "match_one": [1, 0],
+            "match_two": [1, 2],
+            "match_three": [0, 0],
+            "match_four": [1, 1],
+            "match_five": [1, 4]
+          },
+          "x_goals": {
+            "match_one": [0.86, 0.33],
+            "match_two": [],
+            "match_three": [],
+            "match_four": [],
+            "match_five": []
+          },
+          "corners": {
+            "match_one": [8, 1],
+            "match_two": [5, 13],
+            "match_three": [3, 6],
+            "match_four": [14, 5],
+            "match_five": [10, 5]
+          },
+          "fouls": {
+            "match_one": [12, 13],
+            "match_two": [12, 17],
+            "match_three": [15, 13],
+            "match_four": [12, 10],
+            "match_five": [10, 16]
+          },
+          "HT_cards": {
+            "match_one": [0, 0],
+            "match_two": [0, 0],
+            "match_three": [1, 1],
+            "match_four": [1, 0],
+            "match_five": [2, 2]
+          },
+          "FT_cards": {
+            "match_one": [1, 0],
+            "match_two": [0, 2],
+            "match_three": [3, 3],
+            "match_four": [4, 1],
+            "match_five": [2, 2]
+          }
+        },
+        "home_team" : {
+        
+          "name": "Angers",
+          "coach": "Alexandre Dujeux",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/angers.png",
+          "playing_style": "Counter-Attack",
+          "pressing_style": "Mid-Block",
+          "attacking_style": "Direct Play",
+          "defensive_style": "Compact",
+          "aggressive_players": ["Pierrick Capelle"],
+          "provocative_players": [],
+          "unavailable_attacking_players": [""],
+          "recent_matches": {
+            "teams": {
+              "match_four": ["Strasbourg", "Angers"],
+              "match_five": ["Angers", "Nice"],
+              "match_six": ["Lille", "Angers"],
+              "match_seven": ["Angers","Lens"],
+              "match_one": ["Angers", "Dunkerque"],
+              "match_two": ["Annecy", "Angers"],
+              "match_three": ["Angers", "Pau FC"]
+            },
+            "goals": {
+              "match_four": [1,1],
+              "match_five": [1,4],
+              "match_six": [2, 0],
+              "match_seven": [0,1],
+              "match_one": [0, 0],
+              "match_two": [1, 2],
+              "match_three": [2, 1]
+            },
+            "x_goals": {
+              "match_four": [1.45,0.75],
+              "match_five": [1.47,2.56],
+              "match_six": [1.24,0.60],
+              "match_seven": [0.26,0.92],
+              "match_one": [0.56, 0.14],
+              "match_two": [1.2, 0.72],
+              "match_three": [1.26, 0.63]
+            },
+            "corners": {
+              "match_four": [6,9],
+              "match_five": [4,7],
+              "match_six": [3, 2],
+              "match_seven": [7,3],
+              "match_one": [12, 1],
+              "match_two": [3, 2],
+              "match_three": [7, 6]
+            },
+            "fouls": {
+              "match_four": [11, 14],
+              "match_five": [14,13],
+              "match_six": [9, 17],
+              "match_seven": [12,14],
+              "match_one": [11, 7],
+              "match_two": [10, 12],
+              "match_three": [10, 10]
+            },
+            "HT_cards": {
+              "match_four": [2,0],
+              "match_five": [4,2],
+              "match_six": [1, 1],
+              "match_seven": [0,0],
+              "match_one": [0, 0],
+              "match_two": [0, 0],
+              "match_three": [0, 0]
+            },
+            "FT_cards": {
+              "match_four": [4,1],
+              "match_five": [6,5],
+              "match_six": [1, 2],
+              "match_seven": [1,0],
+              "match_one": [0, 1],
+              "match_two": [1, 2],
+              "match_three": [1, 4]
+            }
+          }
+                    
+            
+               
+      
+        },
+        "away_team": {
+        
+          "name": "Nantes",
+          "coach": "Antoine Kombouaré",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/nantes.png",
+          "playing_style": "Wide play; Long balls; Deep positioning",
+          "pressing_style": " ",
+          "attacking_style": "Attacking down the left; High crossing frequency; Frequent through ball attempts",
+          "defensive_style": " ",
+          "aggressive_players": ["Jean-Kévin Duverne","Douglas Augusto"],
+          "provocative_players": [],
+          "unavailable_attacking_players": [],
+          "recent_matches": {
+            "teams": {
+              "match_four": ["Nantes", "Reims"],
+              "match_five": ["Montpellier", "Nantes"],
+              "match_six": ["Nantes", "Auxerre"],
+              "match_seven": ["Toulouse","Nantes"],
+              "match_one": ["Monaco", "Nantes"],
+              "match_two": ["Nantes", "Lille"],
+              "match_three": ["Brest", "Nantes"]
+            },
+            "goals": {
+              "match_four": [1,2],
+              "match_five": [1,3],
+              "match_six":[2,0],
+              "match_seven": [0,0],
+              "match_one": [4,0],
+              "match_two": [1,2],
+              "match_three": [0,0]
+            },
+            "x_goals": {
+              "match_four": [1.61,0.53],
+              "match_five": [1.07,1.70],
+              "match_six":[1.72,1.61],
+              "match_seven": [1.01,0.33],
+              "match_one": [1.34, 0.67],
+              "match_two": [0.72, 1.47],
+              "match_three": [0.4, 1.4]
+            },
+            "corners": {
+              "match_four": [6,3],
+              "match_five": [8,3],
+              "match_six":[3,12],
+              "match_seven": [10,5],
+              "match_one": [2, 2],
+              "match_two": [5, 4],
+              "match_three": [6, 0]
+            },
+            "fouls": {
+              "match_four": [14,5],
+              "match_five": [11,14],
+              "match_six":[9,6],
+              "match_seven": [10,8],
+              "match_one": [14, 23],
+              "match_two": [17, 7],
+              "match_three": [7, 14]
+            },
+            "HT_cards": {
+              "match_four": [1,0],
+              "match_five": [0,0],
+              "match_six":[0,1],
+              "match_seven": [1,1],
+              "match_one": [1, 2],
+              "match_two": [2, 1],
+              "match_three": [1, 0]
+            },
+            "FT_cards": {
+              "match_four": [3,1],
+              "match_five": [2,2],
+              "match_six":[2,2],
+              "match_seven": [1,3],
+              "match_one": [1,2],
+              "match_two": [4,2],
+              "match_three": [3,2]
+            }
+          }
+                    
+            
+               
+      
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+      }
+      },
+      {
+        "fixture": "Brest vs Toulouse",
+        "stadium": "Stade Francis-Le Blé",
+        "Weather": "Fog",
+        "pitch_condition": "Very Good",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Batta F.",
+          "fouls_per_tackle": 0.90,
+          "yellow_per_game": 3.31
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["Toulouse", "Brest"],
+            "match_two": ["Brest", "Toulouse"],
+            "match_three": ["Brest", "Toulouse"],
+            "match_four": ["Toulouse", "Brest"],
+            "match_five": ["Toulouse", "Brest"]
+          },
+          "goals": {
+            "match_one": [0, 3],
+            "match_two": [1, 1],
+            "match_three": [3, 1],
+            "match_four": [1, 1],
+            "match_five": [2, 5]
+          },
+          "x_goals": {
+            "match_one": [],
+            "match_two": [1.72, 1.02],
+            "match_three": [1.38, 1.59],
+            "match_four": [],
+            "match_five": []
+          },
+          "corners": {
+            "match_one": [6, 2],
+            "match_two": [3, 5],
+            "match_three": [4, 2],
+            "match_four": [10, 5],
+            "match_five": [5, 6]
+          },
+          "fouls": {
+            "match_one": [12, 17],
+            "match_two": [18, 18],
+            "match_three": [16, 12],
+            "match_four": [17, 12],
+            "match_five": [19, 10]
+          },
+          "HT_cards": {
+            "match_one": [0, 0],
+            "match_two": [1, 1],
+            "match_three": [2, 2],
+            "match_four": [1, 2],
+            "match_five": [0, 0]
+          },
+          "FT_cards": {
+            "match_one": [1, 2],
+            "match_two": [2, 2],
+            "match_three": [2, 6],
+            "match_four": [2, 2],
+            "match_five": [1, 0]
+          }
+        },
+        "home_team" : {
+        
+          "name": "Brest",
+          "coach": "Éric Roy",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/brest.png",
+          "playing_style": "Wide play; Ball retention",
+          "pressing_style": "Aggressive",
+          "attacking_style": "High crossing frequency",
+          "defensive_style": "High Line; Use offside positioning",
+          "aggressive_players": ["Pierre Lees-Melou"],
+          "provocative_players": ["Pierre Lees-Melou","Romain Del Castillo"],
+          "unavailable_attacking_players": ["Jérémy Le Douaron"],
+          "recent_matches": {
+            "teams": {
+              "match_four": ["PSG", "Brest"],
+              "match_five": ["Brest", "St Etienne"],
+              "match_six": ["Lens", "Brest"],
+              "match_seven": ["Brest","Marseille"],
+              "match_one": ["Toulouse", "Brest"],
+              "match_two": ["Brest", "Reims"],
+              "match_three": ["Brest", "Nantes"]
+            },
+        
+            "goals": {
+              "match_four": [3,1],
+              "match_five": [4,0],
+              "match_six": [2, 0],
+              "match_seven": [1,5],
+              "match_one": [0, 3],
+              "match_two": [1, 1],
+              "match_three": [0, 0]
+            },
+            "x_goals": {
+              "match_four": [2.87,0.93],
+              "match_five": [3.40,0.31],
+              "match_six": [1.95,0.67],
+              "match_seven": [1.18,2.58],
+              "match_one": [0.54, 0.46],
+              "match_two": [1.23, 0.5],
+              "match_three": [0.4, 1.4]
+            },
+            "corners": {
+              "match_four": [9,1],
+              "match_five": [7,2],
+              "match_six": [5, 2],
+              "match_seven": [5,0],
+              "match_one": [6, 2],
+              "match_two": [3, 4],
+              "match_three": [6, 0]
+            },
+            "fouls": {
+              "match_four": [7,13],
+              "match_five": [12,28],
+              "match_six": [8, 6],
+              "match_seven": [10,8],
+              "match_one": [12, 17],
+              "match_two": [12, 12],
+              "match_three": [7, 14]
+            },
+            "HT_cards": {
+              "match_four": [2,1],
+              "match_five": [0, 1],
+              "match_six": [1, 1],
+              "match_seven": [4,1],
+              "match_one": [0, 0],
+              "match_two": [0, 2],
+              "match_three": [1, 0]
+            },
+            "FT_cards": {
+              "match_four": [2,3],
+              "match_five": [0,5],
+              "match_six": [3, 3],
+              "match_seven": [4,1],
+              "match_one": [1, 2],
+              "match_two": [2, 3],
+              "match_three": [3, 2]
+            }
+          }      
+      
+        },
+        "away_team": {
+        
+          "name": "Toulouse",
+          "coach": "Carles Martínez",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/toulouse.png",
+          "playing_style": " ",
+          "pressing_style": "Aggressive",
+          "attacking_style": "Attacking down the right",
+          "defensive_style": " ",
+          "aggressive_players": ["Vincent Sierro","Frank Magri","Rasmus Nicolaisen","Cristian Cásseres"],
+          "provocative_players": ["Vincent Sierro"],
+          "unavailable_attacking_players": [],
+          
+          "recent_matches": {
+            "teams": {
+              "match_four": ["Toulouse", "Le Havre"],
+              "match_five": ["Toulouse", "Marseille"],
+              "match_six": ["Nice", "Toulouse"],
+              "match_seven": ["Toulouse","Nantes"],
+              "match_one": ["Toulouse", "Brest"],
+              "match_two": ["PSG", "Toulouse"],
+              "match_three": ["Toulouse", "Montpellier"]
+            },
+          
+            "goals": {
+              "match_four": [2,0],
+              "match_five": [1,3],
+              "match_six": [1, 1],
+              "match_seven": [0,0],
+              "match_one": [0, 3],
+              "match_two": [1, 3],
+              "match_three": [1, 3]
+            },
+            "x_goals": {
+              "match_four": [2.09,0.54],
+              "match_five": [1.04,1.40],
+              "match_six": [1.27,1.00],
+              "match_seven": [1.01,0.33],
+              "match_one": [0.54, 0.46],
+              "match_two": [1.77, 1.52],
+              "match_three": [1.51, 0.37]
+            },
+            "corners": {
+              "match_four": [6,5],
+              "match_five": [2,3],
+              "match_six": [4, 4],
+              "match_seven": [10,5],
+              "match_one": [6, 2],
+              "match_two": [4, 6],
+              "match_three": [8, 0]
+            },
+            "fouls": {
+              "match_four": [10, 11],
+              "match_five": [10,15],
+              "match_six": [11, 21],
+              "match_seven": [10,8],
+              "match_one": [12, 17],
+              "match_two": [12, 8],
+              "match_three": [17, 14]
+            },
+            "HT_cards": {
+              "match_four": [0,0],
+              "match_five": [2,1],
+              "match_six": [1, 0],
+              "match_seven": [1,1],
+              "match_one": [0, 0],
+              "match_two": [0, 0],
+              "match_three": [0, 2]
+            },
+            "FT_cards": {
+              "match_four": [1,1],
+              "match_five": [5, 2],
+              "match_six": [4, 2],
+              "match_seven": [1,3],
+              "match_one": [1, 2],
+              "match_two": [0, 0],
+              "match_three": [4, 4]
+            }
+          }        
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+      }
+      },
+      {
+        "fixture": "Montpellier vs Auxerre",
+        "stadium": "Stade de la Mosson",
+        "Weather": "Rain",
+        "pitch_condition": "Wet",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Ben El Hadj Salem H",
+          "fouls_per_tackle": 0.72,
+          "yellow_per_game": 3.82
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["Auxerre", "Montpellier"],
+            "match_two": ["Montpellier", "Auxerre"]
+          },
+          "goals": {
+            "match_one": [0, 2],
+            "match_two": [1, 2]
+          },
+          "x_goals": {
+            "match_one": [],
+            "match_two": []
+          },
+          "corners": {
+            "match_one": [5, 3],
+            "match_two": [7, 2]
+          },
+          "fouls": {
+            "match_one": [13, 18],
+            "match_two": [10, 13]
+          },
+          "HT_cards": {
+            "match_one": [0, 1],
+            "match_two": [0, 2]
+          },
+          "FT_cards": {
+            "match_one": [1, 3],
+            "match_two": [3, 5]
+          }
+        },
+        "home_team" : {
+        
+          "name": "Montpellier",
+          "coach": "Michel Der Zakarian",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/montpellier.png",
+          "playing_style": "Wide play; Long balls; Draws fouls; Deep positioning",
+          "pressing_style": "Aggressive",
+          "attacking_style": "Attacking down the right; High shot volume; Take long shots; High crossing frequency",
+          "defensive_style": " ",
+          "aggressive_players": ["Jordan Ferri","Kiki Kouyaté"],
+          "provocative_players": ["Téji Savanier","Arnaud Nordin","Mousa Tamari","Jordan Ferri"],
+          "unavailable_attacking_players": [],
+          "recent_matches": {
+            "teams": {
+              "match_four": ["Rennes","Montpellier"],
+              "match_five": ["Montpellier", "Nantes"],
+              "match_six": ["PSG", "Montpellier"],
+              "match_seven": ["Montpellier","Strasbourg"],
+              "match_one": ["Lens", "Montepellier"],
+              "match_two": ["Montepellier", "Monaco"],
+              "match_three": ["Toulouse", "Montpellier"]
+            },
+          
+            "goals": {
+              "match_four": [3,0],
+              "match_five": [1,3],
+              "match_six": [6,0],
+              "match_seven": [1,1],
+              "match_one": [2, 2],
+              "match_two": [0, 2],
+              "match_three": [1, 2]
+            },
+            "x_goals": {
+              "match_four": [1.42,0.31],
+              "match_five": [1.07,1.70],
+              "match_six": [2.94,0.40],
+              "match_seven":  [1.50,1.23],
+              "match_one": [4.32, 0.72],
+              "match_two": [0.82, 1.95],
+              "match_three": [1.51, 0.37]
+            },
+            "corners": {
+              "match_four": [3,4],
+              "match_five": [8,3],
+              "match_six": [10,2],
+              "match_seven": [6,4],
+              "match_one": [1,0],
+              "match_two": [3,3],
+              "match_three": [8,0]
+            },
+            "fouls": {
+              "match_four": [10,7],
+              "match_five": [11,14],
+              "match_six": [9, 16],
+              "match_seven": [20,18],
+              "match_one": [10, 13],
+              "match_two": [20, 10],
+              "match_three": [17, 14]
+            },
+            "HT_cards": {
+              "match_four": [1,1],
+              "match_five": [0,0],
+              "match_six": [0, 2],
+              "match_seven": [1,1],
+              "match_one": [0, 0],
+              "match_two": [1, 0],
+              "match_three": [0, 2]
+            },
+            "FT_cards": {
+              "match_four": [1,3],
+              "match_five": [2,2],
+              "match_six": [1, 4],
+              "match_seven": [4,3],
+              "match_one": [0, 1],
+              "match_two": [1, 1],
+              "match_three": [4, 4]
+            }
+          }
+                    
+            
+                
+      
+        },
+        "away_team": {
+        
+          "name": "AJ Auxerre",
+          "coach": "Christophe Pélissier",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/auxerre.png",
+          "playing_style": "Balanced",
+          "pressing_style": "High-Pressing",
+          "attacking_style": "Wide Play",
+          "defensive_style": "Organized",
+          "aggressive_players": ["Gautier Lloris"],
+          "provocative_players": [],
+          "unavailable_attacking_players": ["Gauthier Hein"],
+          "recent_matches": {
+            "teams": {
+              "match_four":["Auxerre","Monaco"],
+              "match_five": ["Le Havre", "Auxerre"],
+              "match_six": ["Nantes", "Auxerre"],
+              "match_seven": ["Auxerre","Nice"],
+              "match_one": ["Auxerre", "Concarneau"],
+              "match_two": ["Amiens", "Auxerre"],
+              "match_three": ["Auxerre", "Paris FC"]
+            },
+            "goals": {
+              "match_four":[0,3],
+              "match_five": [3,1],
+              "match_six":[2,0],
+              "match_seven": [2,1],
+              "match_one": [4, 1],
+              "match_two": [0, 0],
+              "match_three": [2, 0]
+            },
+            "x_goals": {
+              "match_four":[0.77,2.93],
+              "match_five": [2.57,0.35],
+              "match_six":[1.72,1.61],
+              "match_seven": [2.11,0.67],
+              "match_one": [3.16, 0.94],
+              "match_two": [1.49, 0.49],
+              "match_three": [1.58, 0.56]
+            },
+            "corners": {
+              "match_four":[1,6],
+              "match_five": [2, 2],
+              "match_six":[3,12],
+              "match_seven": [3,5],
+              "match_one": [2, 1],
+              "match_two": [4, 4],
+              "match_three": [5, 2]
+            },
+            "fouls": {
+              "match_four":[13,16],
+              "match_five": [10,15],
+              "match_six":[9,6],
+              "match_seven": [11,17],
+              "match_one": [9, 7],
+              "match_two": [18, 16],
+              "match_three": [11, 10]
+            },
+            "HT_cards": {
+              "match_four":[3,0],
+              "match_five": [0,5],
+              "match_six":[0,1],
+              "match_seven": [0,0],
+              "match_one": [0, 0],
+              "match_two": [0, 2],
+              "match_three": [0, 2]
+            },
+            "FT_cards": {
+              "match_four":[3,0],
+              "match_five": [1,6],
+              "match_six":[2,2],
+              "match_seven": [0,0],
+              "match_one": [0, 0],
+              "match_two": [1, 2],
+              "match_three": [0, 3]
+            }
+          }
+                    
+            
+                
+      
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+      }
+      },
+      {
+        "fixture": "Lyon vs Marseille",
+        "stadium": "Parc Olympique Lyonnais",
+        "Weather": "Rain",
+        "pitch_condition": "Wet",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Bastien B.",
+          "fouls_per_tackle": 0.69,
+          "yellow_per_game": 4.05
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["Lyon", "Marseille"],
+            "match_two": ["Marseille", "Lyon"],
+            "match_three": ["Lyon", "Marseille"],
+            "match_four": ["Marseille", "Lyon"],
+            "match_five": ["Marseille", "Lyon"]
+          },
+          "goals": {
+            "match_one": [1, 0],
+            "match_two": [3, 0],
+            "match_three": [1, 2],
+            "match_four": [1, 0],
+            "match_five": [0, 3]
+          },
+          "x_goals": {
+            "match_one": [1.32, 0.29],
+            "match_two": [1.95, 0.17],
+            "match_three": [1.09, 2.28],
+            "match_four": [],
+            "match_five": []
+          },
+          "corners": {
+            "match_one": [3, 2],
+            "match_two": [10, 3],
+            "match_three": [5, 3],
+            "match_four": [6, 4],
+            "match_five": [3, 6]
+          },
+          "fouls": {
+            "match_one": [14, 10],
+            "match_two": [14, 11],
+            "match_three": [11, 18],
+            "match_four": [9, 13],
+            "match_five": [5, 13]
+          },
+          "HT_cards": {
+            "match_one": [1, 0],
+            "match_two": [0, 1],
+            "match_three": [1, 0],
+            "match_four": [0, 0],
+            "match_five": [0, 0]
+          },
+          "FT_cards": {
+            "match_one": [2, 1],
+            "match_two": [1, 2],
+            "match_three": [2, 1],
+            "match_four": [0, 1],
+            "match_five": [2, 1]
+          }
+        },
+        "home_team" : {
+          "name": "Lyon",
+      "coach": "Pierre Sage",
+      "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/lyon.png",
+      "playing_style": " ",
+      "pressing_style": " ",
+      "attacking_style": "Frequent through ball attempts",
+      "defensive_style": " ",
+      "aggressive_players": ["Nicolás Tagliafico","Saël Kumbedi"],
+      "provocative_players": [],
+      "unavailable_attacking_players": [],
+      
+      "recent_matches": {
+      "teams": {
+        "match_four": ["Lens", "Lyon"],
+        "match_five": ["Lyon", "Strasbourg"],
+      "match_six": ["Lyon", "Monaco"],
+      "match_seven": ["Rennes","Lyon"],
+      "match_one": ["Lyon","PSG"],
+      "match_two": ["Lyon","Strasbourg"],
+      "match_three": ["Clermont","Lyon"]
+      },
+      "goals": {
+        "match_four": [0,0],
+        "match_five": [4,3],
+      "match_six": [0,2],
+      "match_seven": [3,0],
+          "match_one": [1,2],
+          "match_two": [2,1],
+          "match_three": [0,1]
+      },
+      "x_goals": {
+        "match_four": [0.70,0.43],
+        "match_five": [2.23,2.24],
+        "match_six": [0.44,2.82],
+        "match_seven": [2.16,1.64],
+          "match_one": [0.64,3.14],
+          "match_two": [2.99,1.11],
+          "match_three": [1.16,0.31]
+      },
+      "corners": {
+        "match_four": [5,8],
+        "match_five": [9, 2],
+        "match_six": [0, 6],
+        "match_seven": [7,7],
+          "match_one": [6,5],
+          "match_two": [7,2],
+          "match_three": [7,2]
+      },
+      "fouls": {
+        "match_four": [12,11],
+        "match_five": [11,6],
+        "match_six": [10, 7],
+        "match_seven": [13,12],
+          "match_one": [11,11],
+          "match_two": [7,10],
+          "match_three": [8,12]
+      },
+      "HT_cards": {
+        "match_four": [0,0],
+        "match_five": [1,1],
+        "match_six": [0,1],
+        "match_seven": [1,1],
+          "match_one": [1,0],
+          "match_two": [0,0],
+          "match_three": [0,0]
+      },
+      "FT_cards": {
+        "match_four": [0,0],
+        "match_five": [3,2],
+        "match_six": [2, 4],
+        "match_seven": [2,1],
+          "match_one": [2,1],
+          "match_two": [1,1],
+          "match_three": [1,2]
+      }
+      }
+        
+         
+        },
+        "away_team": {
+        
+          "name": "Marseille",
+          "coach": "Roberto De Zerbi",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/marseille.png",
+          "playing_style": "Ball retention; High territorial control; Draws fouls",
+          "pressing_style": "Non-aggressive",
+          "attacking_style": "High crossing frequency; Attack through the middle",
+          "defensive_style": " ",
+          "aggressive_players": [],
+          "provocative_players": ["Amine Harit"],
+          "unavailable_attacking_players": [],
+          "recent_matches": {
+             "teams": {
+              "match_four": ["Marseille", "Nice"],
+              "match_five": ["Toulouse", "Marseille"],
+              "match_six": ["Marseille", "Reims"],
+              "match_seven": ["Brest","Marseille"],
+            "match_one": ["Le Havre","Marseille"],
+            "match_two": ["Reims","Marseille"],
+            "match_three": ["Marseille","Lorient"]
+          },
+           "goals": {
+            "match_four": [2,0],
+            "match_five": [1,3],
+            "match_six": [2, 2],
+            "match_seven": [1,5],
+              "match_one": [1, 2],
+              "match_two": [1, 0],
+              "match_three": [3,1]
+          },
+          "x_goals": {
+            "match_four": [1.45,1.93],
+            "match_five": [1.04,1.40],
+            "match_six": [2.66,0.88],
+            "match_seven": [1.18,2.58],
+              "match_one": [1.51, 1.32],
+              "match_two": [0.90, 1.51],
+              "match_three": [1.28,3.19]
+          },
+          "corners": {
+            "match_four": [1,2],
+            "match_five": [2,3],
+            "match_six": [2, 4],
+            "match_seven": [5,0],
+              "match_one": [5, 3],
+              "match_two": [3, 10],
+              "match_three": [9,5]
+          },
+          "fouls": {
+            "match_four": [18,4],
+            "match_five": [10,15],
+            "match_six": [10, 13],
+            "match_seven": [10,8],
+              "match_one": [11, 11],
+              "match_two": [17, 9],
+              "match_three": [9,6]
+          },
+          "HT_cards": {
+            "match_four": [1,1],
+            "match_five": [2,1],
+            "match_six": [0, 0],
+            "match_seven": [3,1],
+              "match_one": [0, 0],
+              "match_two": [2, 0],
+              "match_three": [0,1]
+          },
+          "FT_cards": {
+            "match_four": [5,2],
+            "match_five": [5, 2],
+            "match_six": [1, 1],
+            "match_seven": [4,1],
+              "match_one": [1, 0],
+              "match_two": [3 ,1],
+              "match_three": [3,4]
+          }
+            }       
+       
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+      }
+      }                                                     
+]
