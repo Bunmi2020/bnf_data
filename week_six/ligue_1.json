@@ -544,7 +544,7 @@
           "unavailable_attacking_players": [],
           "recent_matches": {
             "teams": {
-              "match_three": ["Lille", "Strasbourg"],
+              "match_three": ["Rennes", "Lens"],
               "match_four": ["Lens", "Lyon"],
               "match_five": ["Monaco","Lens"],
               "match_six": ["Lens","Brest"],
@@ -693,19 +693,19 @@
         },
         "summary":{
         "cards":{
-            "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "discuss":"Considering the style of play, player attitude and ref's issuance rate",
+            "ht": "Ov 1.5",
+            "ft": "OV 3.5"
         },
         "corners":{
-            "discuss":" ",
-            "ht": " ",
+            "discuss":"Their style does not support much of corners, and so is the form, despite the inconsistent results",
+            "ht": "U 12.5",
             "ft": " "
         },
         "goals":{
-            "discuss":" ",
+            "discuss":"Both teams has scored in six of their recent games, with most of the matches seeing BTS, despite these, the H2H and Lens matches calls for caution",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 1.5"
         }
         }
       },
@@ -917,17 +917,17 @@
         "cards":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         },
         "corners":{
-            "discuss":" ",
+            "discuss":"Too much inconsistency",
             "ht": " ",
             "ft": " "
         },
         "goals":{
-            "discuss":" ",
+            "discuss":"Based on form",
             "ht": " ",
-            "ft": " "
+            "ft": "U 4.5"
         }
         }
       },
@@ -996,87 +996,84 @@
         },
         "home_team" : {
         
-          "name": "AJ Auxerre",
-          "coach": "Christophe Pélissier",
-          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/auxerre.png",
-          "playing_style": "Balanced",
-          "pressing_style": "High-Pressing",
-          "attacking_style": "Wide Play",
-          "defensive_style": "Organized",
-          "aggressive_players": ["Gautier Lloris"],
-          "provocative_players": [],
-          "unavailable_attacking_players": ["Gauthier Hein"],
+          "name": "Monaco",
+          "coach": "Adi Hütter",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/monaco.png",
+          "playing_style": "High territorial control; Ball retention; Short passes",
+          "pressing_style": "Aggressive",
+          "attacking_style": "Frequent through ball attempts; Attack through the middle",
+          "defensive_style": "High Line; Use offside positioning",
+          "aggressive_players": ["Denis Zakaria","Wilfried Singo","Vanderson","Soungoutou Magassa","Lamine Camara"],
+          "provocative_players": ["Wilfried Singo","Lamine Camara","Aleksandr Golovin"],
+          "unavailable_attacking_players": [],
           "recent_matches": {
             "teams": {
               "match_three": ["Monaco", "Le Havre"],
               "match_four":["Auxerre","Monaco"],
-              "match_five": ["Le Havre", "Auxerre"],
-              "match_six": ["Nantes", "Auxerre"],
-              "match_seven": ["Auxerre","Nice"],
-              "match_one": ["Auxerre", "Concarneau"],
-              "match_two": ["Amiens", "Auxerre"]
+              "match_five": ["Monaco", "Lens"],
+              "match_six": ["Lyon", "Monaco"],
+              "match_seven": ["Monaco","St Etienne"],
+              "match_one": ["Monaco", "Nantes"],
+              "match_two": ["Montpellier", "Monaco"]
             },
+            
             "goals": {
               "match_three": [3,1],
               "match_four":[0,3],
-              "match_five": [3,1],
-              "match_six":[2,0],
-              "match_seven": [2,1],
-              "match_one": [4, 1],
-              "match_two": [0, 0]
+              "match_five": [1,1],
+              "match_six": [0,2],
+              "match_seven": [1,0],
+              "match_one": [4, 0],
+              "match_two": [0, 2]
             },
             "x_goals": {
               "match_three": [1.78, 0.38],
               "match_four":[0.77,2.93],
-              "match_five": [2.57,0.35],
-              "match_six":[1.72,1.61],
-              "match_seven": [2.11,0.67],
-              "match_one": [3.16, 0.94],
-              "match_two": [1.49, 0.49]
+              "match_five": [1.02,2.29],
+              "match_six": [0.44,2.82],
+              "match_seven": [1.55,0.69],
+              "match_one": [1.34, 0.67],
+              "match_two": [0.82, 1.95]
             },
             "corners": {
               "match_three": [6,4],
               "match_four":[1,6],
-              "match_five": [2, 2],
-              "match_six":[3,12],
-              "match_seven": [3,5],
-              "match_one": [2, 1],
-              "match_two": [4, 4]
+              "match_five": [7,7],
+              "match_six": [0, 6],
+              "match_seven": [5,4],
+              "match_one": [2, 2],
+              "match_two": [3, 3]
             },
             "fouls": {
               "match_three": [10,17],
               "match_four":[13,16],
-              "match_five": [10,15],
-              "match_six":[9,6],
-              "match_seven": [11,17],
-              "match_one": [9, 7],
-              "match_two": [18, 16]
+              "match_five": [11,21],
+              "match_six": [10, 7],
+              "match_seven": [13,14],
+              "match_one": [14, 23],
+              "match_two": [20, 10]
             },
             "HT_cards": {
               "match_three": [1,2],
               "match_four":[3,0],
-              "match_five": [0,5],
-              "match_six":[0,1],
+              "match_five": [0,3],
+              "match_six": [0,1],
               "match_seven": [0,0],
-              "match_one": [0, 0],
-              "match_two": [0, 2]
+              "match_one": [1, 2],
+              "match_two": [1, 0]
             },
             "FT_cards": {
               "match_three": [1,3],
               "match_four":[3,0],
-              "match_five": [1,6],
-              "match_six":[2,2],
-              "match_seven": [0,0],
-              "match_one": [0, 0],
-              "match_two": [1, 2]
+              "match_five": [1,4],
+              "match_six": [2, 4],
+              "match_seven": [1,1],
+              "match_one": [1, 2],
+              "match_two": [1, 1]
             }
           }
-                    
-            
-                
-      
-        
-        },
+          
+      },
         "away_team": {
         
           "name": "Montpellier",
