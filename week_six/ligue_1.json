@@ -1,0 +1,743 @@
+[
+    {
+        "fixture": "Auxerre vs Brest",
+        "league":"🇫🇷 Ligue 1",
+        "stadium": "Borussia-Park",
+        "weather": "Partly cloudy",
+        "pitch_condition": "Good",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "*n/a",
+          "fouls_per_tackle": 0,
+          "yellow_per_game": 0
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["Brest", "Auxerre"],
+            "match_two": ["Auxerre", "Brest"]
+          },
+          "goals": {
+            "match_one": [1, 0],
+            "match_two": [1, 1]
+          },
+          "x_goals": {
+            "match_one": [1.99, 0.67],
+            "match_two": []
+          },
+          "corners": {
+            "match_one": [6, 0],
+            "match_two": [0, 6]
+          },
+          "fouls": {
+            "match_one": [8, 8],
+            "match_two": [15, 18]
+          },
+          "HT_cards": {
+            "match_one": [0, 0],
+            "match_two": [2, 1]
+          },
+          "FT_cards": {
+            "match_one": [0, 0],
+            "match_two": [5, 4]
+          }
+        },
+        "home_team" : {
+        
+        },
+        "away_team": {
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+        }
+      },
+      {
+        "fixture": "PSG vs Rennes",
+        "league":"🇫🇷 Ligue 1",
+        "stadium": "Borussia-Park",
+        "weather": "Partly cloudy",
+        "pitch_condition": "Good",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "*n/a",
+          "fouls_per_tackle": 0,
+          "yellow_per_game": 0
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["PSG", "Rennes"],
+            "match_two": ["Rennes", "PSG"],
+            "match_three": ["PSG", "Rennes"],
+            "match_four": ["Rennes", "PSG"],
+            "match_five": ["PSG", "Rennes"]
+          },
+          "goals": {
+            "match_one": [1, 1],
+            "match_two": [1, 3],
+            "match_three": [0, 2],
+            "match_four": [1, 0],
+            "match_five": [1, 0]
+          },
+          "x_goals": {
+            "match_one": [1.96, 0.78],
+            "match_two": [1.14, 3.42],
+            "match_three": [2.09, 1.46],
+            "match_four": [],
+            "match_five": []
+          },
+          "corners": {
+            "match_one": [4, 0],
+            "match_two": [1, 7],
+            "match_three": [6, 3],
+            "match_four": [4, 5],
+            "match_five": [5, 3]
+          },
+          "fouls": {
+            "match_one": [13, 16],
+            "match_two": [12, 15],
+            "match_three": [11, 12],
+            "match_four": [8, 17],
+            "match_five": [13, 10]
+          },
+          "HT_cards": {
+            "match_one": [0, 0],
+            "match_two": [1, 0],
+            "match_three": [0, 0],
+            "match_four": [0, 0],
+            "match_five": [1, 0]
+          },
+          "FT_cards": {
+            "match_one": [5, 3],
+            "match_two": [1, 0],
+            "match_three": [1, 1],
+            "match_four": [0, 0],
+            "match_five": [1, 1]
+          }
+        },
+        "home_team" : {
+        
+        },
+        "away_team": {
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+        }
+      },
+      {
+        "fixture": "Lens vs Nice",
+        "league":"🇫🇷 Ligue 1",
+        "stadium": "Borussia-Park",
+        "weather": "Partly cloudy",
+        "pitch_condition": "Good",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "*n/a",
+          "fouls_per_tackle": 0,
+          "yellow_per_game": 0
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["Lens", "Nice"],
+            "match_two": ["Nice", "Lens"],
+            "match_three": ["Lens", "Nice"],
+            "match_four": ["Nice", "Lens"],
+            "match_five": ["Lens", "Nice"]
+          },
+          "goals": {
+            "match_one": [1, 3],
+            "match_two": [2, 0],
+            "match_three": [0, 1],
+            "match_four": [0, 0],
+            "match_five": [3, 0]
+          },
+          "x_goals": {
+            "match_one": [0.91, 1.97],
+            "match_two": [2.69, 0.49],
+            "match_three": [],
+            "match_four": [],
+            "match_five": []
+          },
+          "corners": {
+            "match_one": [11, 3],
+            "match_two": [5, 6],
+            "match_three": [5, 3],
+            "match_four": [4, 6],
+            "match_five": [1, 7]
+          },
+          "fouls": {
+            "match_one": [9, 2],
+            "match_two": [14, 11],
+            "match_three": [12, 8],
+            "match_four": [11, 18],
+            "match_five": [8, 15]
+          },
+          "HT_cards": {
+            "match_one": [1, 1],
+            "match_two": [1, 0],
+            "match_three": [0, 0],
+            "match_four": [0, 1],
+            "match_five": [2, 2]
+          },
+          "FT_cards": {
+            "match_one": [4, 3],
+            "match_two": [2, 2],
+            "match_three": [0, 2],
+            "match_four": [2, 3],
+            "match_five": [3, 6]
+          }
+        },
+        "home_team" : {
+        
+        },
+        "away_team": {
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+        }
+      },
+      {
+        "fixture": "Le Havre vs Lille",
+        "league":"🇫🇷 Ligue 1",
+        "stadium": "Borussia-Park",
+        "weather": "Partly cloudy",
+        "pitch_condition": "Good",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "*n/a",
+          "fouls_per_tackle": 0,
+          "yellow_per_game": 0
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["Lille", "Le Havre"],
+            "match_two": ["Le Havre", "Lille"]
+          },
+          "goals": {
+            "match_one": [3, 0],
+            "match_two": [0, 2]
+          },
+          "x_goals": {
+            "match_one": [3.87, 0.63],
+            "match_two": [0.86, 1.1]
+          },
+          "corners": {
+            "match_one": [1, 3],
+            "match_two": [6, 6]
+          },
+          "fouls": {
+            "match_one": [11, 17],
+            "match_two": [18, 6]
+          },
+          "HT_cards": {
+            "match_one": [1, 1],
+            "match_two": [0, 0]
+          },
+          "FT_cards": {
+            "match_one": [2, 3],
+            "match_two": [0, 0]
+          }
+        },
+        "home_team" : {
+        
+        },
+        "away_team": {
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+        }
+      },
+      {
+        "fixture": "Monaco vs Montpellier",
+        "league":"🇫🇷 Ligue 1",
+        "stadium": "Borussia-Park",
+        "weather": "Partly cloudy",
+        "pitch_condition": "Good",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "*n/a",
+          "fouls_per_tackle": 0,
+          "yellow_per_game": 0
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["Montpellier", "Monaco"],
+            "match_two": ["Monaco", "Montpellier"],
+            "match_three": ["Monaco", "Montpellier"],
+            "match_four": ["Montpellier", "Monaco"],
+            "match_five": ["Montpellier", "Monaco"]
+          },
+          "goals": {
+            "match_one": [0, 2],
+            "match_two": [2, 0],
+            "match_three": [0, 4],
+            "match_four": [0, 2],
+            "match_five": [3, 2]
+          },
+          "x_goals": {
+            "match_one": [0.82, 1.95],
+            "match_two": [1.85, 0.71],
+            "match_three": [0.73, 1.75],
+            "match_four": [],
+            "match_five": []
+          },
+          "corners": {
+            "match_one": [3, 3],
+            "match_two": [8, 2],
+            "match_three": [3, 11],
+            "match_four": [7, 2],
+            "match_five": [5, 10]
+          },
+          "fouls": {
+            "match_one": [20, 10],
+            "match_two": [15, 13],
+            "match_three": [11, 12],
+            "match_four": [13, 16],
+            "match_five": [10, 10]
+          },
+          "HT_cards": {
+            "match_one": [1, 0],
+            "match_two": [1, 1],
+            "match_three": [2, 0],
+            "match_four": [1, 1],
+            "match_five": [0, 1]
+          },
+          "FT_cards": {
+            "match_one": [1, 1],
+            "match_two": [2, 4],
+            "match_three": [2, 1],
+            "match_four": [2, 3],
+            "match_five": [2, 2]
+          }
+        },
+        "home_team" : {
+        
+        },
+        "away_team": {
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+        }
+      },
+      {
+        "fixture": "Toulouse vs Lyon",
+        "league":"🇫🇷 Ligue 1",
+        "stadium": "Borussia-Park",
+        "weather": "Partly cloudy",
+        "pitch_condition": "Good",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "*n/a",
+          "fouls_per_tackle": 0,
+          "yellow_per_game": 0
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["Toulouse", "Lyon"],
+            "match_two": ["Lyon", "Toulouse"],
+            "match_three": ["Toulouse", "Lyon"],
+            "match_four": ["Lyon", "Toulouse"],
+            "match_five": ["Lyon", "Toulouse"]
+          },
+          "goals": {
+            "match_one": [2, 3],
+            "match_two": [3, 0],
+            "match_three": [1, 2],
+            "match_four": [1, 1],
+            "match_five": [3, 0]
+          },
+          "x_goals": {
+            "match_one": [2.38, 1.26],
+            "match_two": [1.94, 1.5],
+            "match_three": [1.47, 3.02],
+            "match_four": [],
+            "match_five": []
+          },
+          "corners": {
+            "match_one": [5, 3],
+            "match_two": [2, 1],
+            "match_three": [8, 5],
+            "match_four": [4, 5],
+            "match_five": [8, 2]
+          },
+          "fouls": {
+            "match_one": [18, 12],
+            "match_two": [15, 15],
+            "match_three": [14, 10],
+            "match_four": [13, 11],
+            "match_five": [8, 5]
+          },
+          "HT_cards": {
+            "match_one": [2, 2],
+            "match_two": [0, 2],
+            "match_three": [0, 2],
+            "match_four": [0, 2],
+            "match_five": [0, 0]
+          },
+          "FT_cards": {
+            "match_one": [2, 2],
+            "match_two": [2, 4],
+            "match_three": [1, 4],
+            "match_four": [2, 2],
+            "match_five": [0, 1]
+          }
+        },
+        "home_team" : {
+        
+        },
+        "away_team": {
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+        }
+      },
+      {
+        "fixture": "Angers vs Reims",
+        "league":"🇫🇷 Ligue 1",
+        "stadium": "Borussia-Park",
+        "weather": "Partly cloudy",
+        "pitch_condition": "Good",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "*n/a",
+          "fouls_per_tackle": 0,
+          "yellow_per_game": 0
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["Reims", "Angers"],
+            "match_two": ["Angers", "Reims"],
+            "match_three": ["Angers", "Reims"],
+            "match_four": ["Reims", "Angers"],
+            "match_five": ["Reims", "Angers"]
+          },
+          "goals": {
+            "match_one": [2, 2],
+            "match_two": [2, 4],
+            "match_three": [0, 1],
+            "match_four": [1, 2],
+            "match_five": [0, 0]
+          },
+          "x_goals": {
+            "match_one": [1.29, 0.91],
+            "match_two": [],
+            "match_three": [],
+            "match_four": [],
+            "match_five": []
+          },
+          "corners": {
+            "match_one": [7, 3],
+            "match_two": [4, 3],
+            "match_three": [4, 2],
+            "match_four": [7, 4],
+            "match_five": [4, 5]
+          },
+          "fouls": {
+            "match_one": [14, 11],
+            "match_two": [9, 15],
+            "match_three": [19, 8],
+            "match_four": [8, 13],
+            "match_five": [6, 8]
+          },
+          "HT_cards": {
+            "match_one": [0, 0],
+            "match_two": [0, 0],
+            "match_three": [0, 2],
+            "match_four": [4, 2],
+            "match_five": [1, 1]
+          },
+          "FT_cards": {
+            "match_one": [0, 2],
+            "match_two": [1, 7],
+            "match_three": [7, 3],
+            "match_four": [5, 3],
+            "match_five": [2, 1]
+          }
+        },
+        "home_team" : {
+        
+        },
+        "away_team": {
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+        }
+      },
+      {
+        "fixture": "Nantes vs St Etienne",
+        "league":"🇫🇷 Ligue 1",
+        "stadium": "Borussia-Park",
+        "weather": "Partly cloudy",
+        "pitch_condition": "Good",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "*n/a",
+          "fouls_per_tackle": 0,
+          "yellow_per_game": 0
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["Nantes", "St Etienne"],
+            "match_two": ["St Etienne", "Nantes"],
+            "match_three": ["St Etienne", "Nantes"],
+            "match_four": ["Nantes", "St Etienne"],
+            "match_five": ["St Etienne", "Nantes"]
+          },
+          "goals": {
+            "match_one": [1, 1],
+            "match_two": [0, 1],
+            "match_three": [1, 1],
+            "match_four": [2, 2],
+            "match_five": [0, 2]
+          },
+          "x_goals": {
+            "match_one": [],
+            "match_two": [],
+            "match_three": [],
+            "match_four": [],
+            "match_five": []
+          },
+          "corners": {
+            "match_one": [5, 5],
+            "match_two": [5, 4],
+            "match_three": [5, 5],
+            "match_four": [4, 2],
+            "match_five": [2, 1]
+          },
+          "fouls": {
+            "match_one": [8, 9],
+            "match_two": [13, 12],
+            "match_three": [15, 19],
+            "match_four": [12, 17],
+            "match_five": [14, 10]
+          },
+          "HT_cards": {
+            "match_one": [1, 0],
+            "match_two": [0, 0],
+            "match_three": [0, 0],
+            "match_four": [0, 1],
+            "match_five": [0, 0]
+          },
+          "FT_cards": {
+            "match_one": [2, 0],
+            "match_two": [1, 1],
+            "match_three": [3, 1],
+            "match_four": [2, 2],
+            "match_five": [2, 1]
+          }
+        },
+        "home_team" : {
+        
+        },
+        "away_team": {
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+        }
+      },
+      {
+        "fixture": "Strasbourg vs Marseille",
+        "league":"🇫🇷 Ligue 1",
+        "stadium": "Borussia-Park",
+        "weather": "Partly cloudy",
+        "pitch_condition": "Good",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "*n/a",
+          "fouls_per_tackle": 0,
+          "yellow_per_game": 0
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["Marseille", "Strasbourg"],
+            "match_two": ["Strasbourg", "Marseille"],
+            "match_three": ["Marseille", "Strasbourg"],
+            "match_four": ["Strasbourg", "Marseille"],
+            "match_five": ["Marseille", "Strasbourg"]
+          },
+          "goals": {
+            "match_one": [1, 1],
+            "match_two": [1, 1],
+            "match_three": [2, 2],
+            "match_four": [2, 2],
+            "match_five": [4, 0]
+          },
+          "x_goals": {
+            "match_one": [1.39, 0.95],
+            "match_two": [1.17, 1.73],
+            "match_three": [1.93, 2.55],
+            "match_four": [],
+            "match_five": []
+          },
+          "corners": {
+            "match_one": [6, 4],
+            "match_two": [7, 11],
+            "match_three": [1, 8],
+            "match_four": [3, 0],
+            "match_five": [7, 3]
+          },
+          "fouls": {
+            "match_one": [11, 10],
+            "match_two": [14, 16],
+            "match_three": [6, 15],
+            "match_four": [14, 11],
+            "match_five": [11, 16]
+          },
+          "HT_cards": {
+            "match_one": [1, 0],
+            "match_two": [0, 0],
+            "match_three": [1, 2],
+            "match_four": [0, 1],
+            "match_five": [1, 0]
+          },
+          "FT_cards": {
+            "match_one": [3, 2],
+            "match_two": [1, 2],
+            "match_three": [1, 4],
+            "match_four": [0, 2],
+            "match_five": [2, 1]
+          }
+        },
+        "home_team" : {
+        
+        },
+        "away_team": {
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": " "
+        }
+        }
+      }
+]
