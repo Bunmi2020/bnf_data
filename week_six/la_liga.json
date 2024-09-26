@@ -15,51 +15,37 @@
           "teams": {
             "match_one": ["Valladolid", "Mallorca"],
             "match_two": ["Mallorca", "Valladolid"],
-            "match_three": ["Mallorca", "Valladolid"],
-            "match_four": [],
-            "match_five": []
+            "match_three": ["Mallorca", "Valladolid"]
           },
           "goals": {
             "match_one": [3, 3],
             "match_two": [1, 0],
-            "match_three": [0, 1],
-            "match_four": [],
-            "match_five": []
+            "match_three": [0, 1]
           },
           "x_goals": {
             "match_one": [1.23, 1.79],
             "match_two": [1.28, 0.61],
-            "match_three": [],
-            "match_four": [],
-            "match_five": []
+            "match_three": []
           },
           "corners": {
             "match_one": [1, 2],
             "match_two": [6, 2],
-            "match_three": [8, 5],
-            "match_four": [],
-            "match_five": []
+            "match_three": [8, 5]
           },
           "fouls": {
             "match_one": [13, 20],
             "match_two": [14, 17],
-            "match_three": [11, 10],
-            "match_four": [],
-            "match_five": []
+            "match_three": [11, 10]
           },
           "HT_cards": {
             "match_one": [1, 2],
             "match_two": [1, 0],
-            "match_three": [3, 0],
-            "match_four": [],
-            "match_five": []
+            "match_three": [3, 0]
           },
           "FT_cards": {
             "match_one": [3, 5],
             "match_two": [2, 3],
-            "match_three": [4, 1],
-            "match_four": [],
-            "match_five": []
+            "match_three": [4, 1]
           }
         },
         "home_team" : {
@@ -227,19 +213,19 @@
         },
         "summary":{
         "cards":{
-            "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "discuss":"Based on form",
+            "ht": "Ov 1.5",
+            "ft": "Ov 2.5"
         },
         "corners":{
-            "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "discuss":"Mallorca's style suggest they would have the edge, and also considering their H2H",
+            "ht": "Ov 7.5",
+            "ft": "Mallorca"
         },
         "goals":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "U 4.5"
         }
         }
     },
