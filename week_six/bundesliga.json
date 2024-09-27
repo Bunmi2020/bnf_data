@@ -460,50 +460,43 @@
     "match_one": ["B. Monchengladbach","Union Berlin"],
     "match_two": ["Union Berlin", "B. Monchengladbach"],
     "match_three": ["B. Monchengladbach","Union Berlin"],
-    "match_four": ["Union Berlin", "B. Monchengladbach"],
-    "match_five": []
+    "match_four": ["Union Berlin", "B. Monchengladbach"]
     },
     "goals": {
     "match_one": [0,0],
     "match_two": [3,1],
     "match_three": [0,1],
-    "match_four": [2,1],
-    "match_five": [1,2]
+    "match_four": [2,1]
     },
     "x_goals": {
     "match_one": [0.97,0.93],
     "match_two": [2.83,1.17],
     "match_three": [0.49,1.72],
-    "match_four": [],
-    "match_five": []
+    "match_four": []
     },
     "corners": {
     "match_one": [3,4],
     "match_two": [6,7],
     "match_three": [2,2],
-    "match_four": [6,5],
-    "match_five": [4,1]
+    "match_four": [6,5]
     },
     "fouls": {
     "match_one": [3,13],
     "match_two": [9,8],
     "match_three": [10,12],
-    "match_four": [17,6],
-    "match_five": [11,18]
+    "match_four": [17,6]
     },
     "HT_cards": {
     "match_one": [0,1],
     "match_two": [1, 2],
     "match_three": [3,2],
-    "match_four": [0,0],
-    "match_five": [0,0]
+    "match_four": [0,0]
     },
     "FT_cards": {
     "match_one": [2,2],
     "match_two": [1,3],
     "match_three": [3,2],
-    "match_four": [3,2],
-    "match_five": [1,2]
+    "match_four": [3,2]
     }
 },
 "home_team" : {
@@ -878,17 +871,17 @@
 "cards":{
     "discuss":" ",
     "ht": " ",
-    "ft": " "
+    "ft": "Ov 3.5"
 },
 "corners":{
     "discuss":" ",
-    "ht": " ",
+    "ht": "Ov 7.5",
     "ft": " "
 },
 "goals":{
     "discuss":" ",
     "ht": " ",
-    "ft": " "
+    "ft": "U 4.5"
 }
 }
 },
@@ -1297,17 +1290,17 @@
 },
 "summary":{
 "cards":{
-    "discuss":" ",
-    "ht": " ",
+    "discuss":"They both play a non-aggressive football and the ref's issuance rate is also low.",
+    "ht": "U 2.5",
     "ft": " "
 },
 "corners":{
     "discuss":" ",
-    "ht": " ",
+    "ht": "Ov 7.5",
     "ft": " "
 },
 "goals":{
-    "discuss":" ",
+    "discuss":"Too many inconsistent result to make a prediction",
     "ht": " ",
     "ft": " "
 }
@@ -1322,8 +1315,8 @@
 "type_of_match": "Regular",
 "referee": {
     "name": "Florian Exner",
-    "fouls_per_tackle": "",
-    "yellow_per_game": ""
+    "fouls_per_tackle": 0.67,
+    "yellow_per_game": 4.00
 },
 "head_to_head": {
     "teams": {
@@ -1620,19 +1613,19 @@
 },
 "summary":{
 "cards":{
-    "discuss":" ",
+    "discuss":"Based on form and ref's issuance rate",
     "ht": " ",
-    "ft": " "
+    "ft": "Ov 3.5"
 },
 "corners":{
     "discuss":" ",
-    "ht": " ",
+    "ht": "Ov 7.5",
     "ft": " "
 },
 "goals":{
-    "discuss":" ",
-    "ht": " ",
-    "ft": " "
+    "discuss":"They both have scored in most of their recent matches",
+    "ht": "Yes",
+    "ft": "Ov 2.5"
 }
 }
 },
@@ -1645,8 +1638,8 @@
 "type_of_match": "Regular",
 "referee": {
     "name": "Daniel Siebert",
-    "fouls_per_tackle": "0.67",
-    "yellow_per_game": "4.31"
+    "fouls_per_tackle": 0.67,
+    "yellow_per_game": 4.31
 },
 "head_to_head": {
     "teams": {
@@ -2071,17 +2064,17 @@
 "cards":{
     "discuss":" ",
     "ht": " ",
-    "ft": " "
+    "ft": "Ov 2.5"
 },
 "corners":{
-    "discuss":" ",
-    "ht": " ",
+    "discuss":"Based of form and style of play of especially Augsburg",
+    "ht": "Ov 7.5",
     "ft": " "
 },
 "goals":{
     "discuss":" ",
     "ht": " ",
-    "ft": " "
+    "ft": "OV 1.5"
 }
 }
 },
@@ -2095,8 +2088,8 @@
 "type_of_match": "Regular",
 "referee": {
     "name": "Sven Jablonski",
-    "fouls_per_tackle": "0.57",
-    "yellow_per_game": "3.38"
+    "fouls_per_tackle": 0.57,
+    "yellow_per_game": 3.38
 },
 "head_to_head": {
     "teams": {
@@ -2519,19 +2512,19 @@
 },
 "summary":{
 "cards":{
-    "discuss":" ",
+    "discuss":"Wolfsburg  are not just aggressive, they attarct fouls as well",
     "ht": " ",
-    "ft": " "
+    "ft": "Ov 3.5"
 },
 "corners":{
-    "discuss":" ",
-    "ht": " ",
+    "discuss":"Considering Wolfsburg  style of play and bothe teams recent results:",
+    "ht": "Ov 7.5",
     "ft": " "
 },
 "goals":{
-    "discuss":" ",
-    "ht": " ",
-    "ft": " "
+    "discuss":"Based  on form",
+    "ht": "Yes",
+    "ft": "Ov 2.5"
 }
 }
 },
@@ -2544,8 +2537,8 @@
 "type_of_match": "Top Rivals",
 "referee": {
     "name": "Felix",
-    "fouls_per_tackle": "0.70",
-    "yellow_per_game": "4.11"
+    "fouls_per_tackle": 0.70,
+    "yellow_per_game": 4.11
 },
 "head_to_head": {
     "teams": {
@@ -2968,19 +2961,19 @@
 },
 "summary":{
 "cards":{
-    "discuss":" ",
+    "discuss":"Results are inconsistent, but considering the significance of the match and ref's issuance rate",
     "ht": " ",
-    "ft": " "
+    "ft": "Ov 3.5"
 },
 "corners":{
-    "discuss":" ",
-    "ht": " ",
+    "discuss":"Based  on form",
+    "ht": "Ov 7.5",
     "ft": " "
 },
 "goals":{
-    "discuss":" ",
-    "ht": " ",
-    "ft": " "
+    "discuss":"Seem staright forward, considering the H2H and recent matches",
+    "ht": "BTS",
+    "ft": "Ov 2.5"
 }
 }
 },
