@@ -1,0 +1,704 @@
+[
+    {
+        "fixture": "Bournemouth vs Southampton",
+        "league": "🇬🇧 Premier League",
+        "stadium": "Vitality Stadium",
+        "weather": "Mostly Sunny",
+        "pitch_condition": "Good",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Oliver M.",
+          "fouls_per_tackle": "0.58",
+          "yellow_per_game": "3.96"
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["Southampton", "Bournemouth"],
+            "match_two": ["Bournemouth", "Southampton"],
+            "match_three": ["Bournemouth", "Southampton"],
+            "match_four": ["Bournemouth", "Southampton"]
+          },
+          "goals": {
+            "match_one": [0,1],
+            "match_two": [0,1],
+            "match_three": [0,3],
+            "match_four": [0,2]
+          },
+          "x_goals": {
+            "match_one": [0.53,1.05],
+            "match_two": [],
+            "match_three": [],
+            "match_four": []
+          },
+          "corners": {
+            "match_one": [6,4],
+            "match_two": [7,3],
+            "match_three": [2,5],
+            "match_four": [12,6]
+          },
+          "fouls": {
+            "match_one": [9,11],
+            "match_two": [8,13],
+            "match_three": [13,12],
+            "match_four": [12,11]
+          },
+          "HT_cards": {
+            "match_one": [0,0],
+            "match_two": [1,2],
+            "match_three": [0,1],
+            "match_four": [0,1]
+          },
+          "FT_cards": {
+            "match_one": [0,3],
+            "match_two": [1,3],
+            "match_three": [2,2],
+            "match_four": [2,2]
+          }
+        },
+        "home_team" : {
+    
+          "name": "Bournemouth",
+          "coach": "Andoni Iraola",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/bournemouth.png",
+          "playing_style": "Counter-Attack",
+          "pressing_style": "Medium-pressing",
+          "attacking_style": "Quick transitions and use of set pieces",
+          "defensive_style": "Compact",
+          "aggressive_players": ["Justin Kluivert","Ryan Christie","Antoine Semenyo","Dominic Solanke","Marcos Senesi","Lewis Cook"],
+          "provocative_players": ["Dominic Solanke", "Romain Faivre"],
+          "unavailable_attacking_players": [],
+        
+          "recent_matches": {
+              "teams": {
+                  "match_three": ["Liverpool","Bournemouth"],
+                "match_four": ["Bournemouth","Chelsea"],
+              "match_five": ["Everton", "Bournemouth"],
+              "match_six": ["Bournemouth", "Newcastle"],
+              "match_seven": ["Nottingham","Bournemouth"],
+          "match_one": ["Chelsea","Bournemouth"],
+          "match_two": ["Bournemouth","Brentford"]
+        },
+          
+        "goals": {
+          "match_three": [3,0],
+          "match_four": [0,1],
+          "match_five": [2,3],
+          "match_six": [1,1],
+            "match_seven": [1,1],
+              "match_one": [2,1],
+              "match_two": [1,2]
+            },
+            "x_goals": {
+              "match_three": [2.00,1.04],
+              "match_four": [2.16,0.87],
+              "match_five": [1.77,2.44],
+              "match_six": [2.01,1.96],
+              "match_seven": [1.28,1.53],
+              "match_one": [0.90,2.34],
+              "match_two": [0.59,1.60]
+            },
+            "corners": {
+              "match_three": [3,9],
+              "match_four": [6,3],
+              "match_five": [8,4],
+              "match_six": [8,9],
+              "match_seven": [2,6],
+              "match_one": [6,5],
+              "match_two": [3,8]
+            },
+            "fouls": {
+              "match_three": [10,12],
+              "match_four": [16,9],
+              "match_five": [6,11],
+              "match_six": [19,8],
+              "match_seven": [18,9],
+              "match_one": [5,9],
+              "match_two": [16,12]
+            },
+            "HT_cards": {
+              "match_three": [0,3],
+              "match_four": [3,3],
+              "match_five": [0,0],
+              "match_six": [1,0],
+              "match_seven": [0,1],
+              "match_one": [1,2],
+              "match_two": [2,0]
+            },
+            "FT_cards": {
+              "match_three": [1,4],
+              "match_four": [6,8],
+              "match_five": [2,1],
+              "match_six": [2,2],
+              "match_seven": [1,3],
+              "match_one": [2,3],
+              "match_two": [2,2]
+            }
+          }
+          
+        
+      
+        },
+        "away_team": {
+        
+          "name": "Southampton",
+          "coach": "Ruben Selles",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/southampton.png",
+          "playing_style": "Ball Retention; Wide play; Short passes",
+          "pressing_style": " ",
+          "attacking_style": "Attack through the middle",
+          "defensive_style": " ",
+          "aggressive_players": ["Flynn Downes","Adam Armstrong","Jan Bednarek"],
+          "provocative_players": ["Flynn Downes","Ryan Manning","Che Adams","Kyle Walker-Peters"],
+          "unavailable_attacking_players": [],
+          "recent_matches": {
+             "teams": {
+              "match_three": ["Southampton","Ipswich"],
+              "match_four": ["Southampton","Man United"],
+              "match_five": ["Brentford", "Southampton"],
+              "match_six": ["Southampton", "Nottingham"],
+              "match_seven": ["Newcastle","Southampton"],
+                "match_one": ["Leeds","Southampton"],
+                "match_two": ["Southampton","West Brom"]
+              },
+            "goals": {
+              "match_three": [1,1],
+              "match_four": [0,3],
+              "match_five": [3,1],
+              "match_six":[0,1],
+              "match_seven": [1,0],
+              "match_one": [0,1],
+              "match_two": [3,1]
+              },
+              "x_goals": {
+                  "match_three": [1.55,0.75],
+                "match_four": [1.15,2.61],
+                "match_five": [2.59,1.74],
+                "match_six":[0.26,2.14],
+                "match_seven": [0.38,0.94],
+              "match_one": [0.66,0.56],
+              "match_two": [1.51,0.58]
+              },
+              "corners": {
+                  "match_three": [2,10],
+                "match_four": [0,7],
+                "match_five": [2,8],
+                "match_six":[4,10],
+                "match_seven": [3,12],
+              "match_one": [4,4],
+              "match_two": [3,8]
+              },
+              "fouls": {
+                  "match_three": [16,16],
+                "match_four": [11,14],
+                "match_five": [10,7],
+                "match_six":[14,13],
+                "match_seven": [15,16],
+              "match_one": [18,13],
+              "match_two": [13,12]
+              },
+              "HT_cards": {
+                  "match_three": [1,0],
+                "match_four": [0,1],
+                "match_five": [1,1],
+                "match_six":[2,0],
+                "match_seven": [2,2],
+              "match_one": [1,1],
+              "match_two": [0,0]
+              },
+              "FT_cards": {
+                  "match_three": [4,4],
+                "match_four": [2,4],
+                "match_five": [2,1],
+                "match_six":[3,3],
+                "match_seven": [3,4],
+              "match_one": [2,6],
+              "match_two": [0,4]
+              }
+            }
+              
+        
+      
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": "Ov 3.5"
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": "Ov 7.5",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": "U 3.5"
+        }
+      }
+      },
+      {
+        "fixture": "Parma vs Cagliari",
+        "league":"🇮🇹 Serie A",
+        "stadium": "Ennio Tardini",
+        "weather": "Mostly Sunny",
+        "pitch_condition": "Good",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Fourneau F.",
+          "fouls_per_tackle": 0.77,
+          "yellow_per_game": 3.60
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["Parma", "Cagliari"],
+            "match_two": ["Cagliari", "Parma"],
+            "match_three": ["Parma", "Cagliari"],
+            "match_four": ["Cagliari", "Parma"],
+            "match_five": ["Cagliari", "Parma"]
+          },
+          "goals": {
+            "match_one": [0, 0],
+            "match_two": [3, 2],
+            "match_three": [2, 1],
+            "match_four": [1, 1],
+            "match_five": [4, 3]
+          },
+          "x_goals": {
+            "match_one": [0.76, 1.25],
+            "match_two": [0.74, 0.48],
+            "match_three": [0.57, 0.52],
+            "match_four": [],
+            "match_five": []
+          },
+          "corners": {
+            "match_one": [5, 6],
+            "match_two": [3, 3],
+            "match_three": [3, 5],
+            "match_four": [5, 7],
+            "match_five": [0, 4]
+          },
+          "fouls": {
+            "match_one": [10, 11],
+            "match_two": [16, 10],
+            "match_three": [15, 20],
+            "match_four": [15, 14],
+            "match_five": [14, 12]
+          },
+          "HT_cards": {
+            "match_one": [0, 1],
+            "match_two": [0, 1],
+            "match_three": [1, 0],
+            "match_four": [0, 1],
+            "match_five": [1, 1]
+          },
+          "FT_cards": {
+            "match_one": [2, 4],
+            "match_two": [0, 5],
+            "match_three": [5, 4],
+            "match_four": [2, 3],
+            "match_five": [4, 2]
+          }
+        },
+        "home_team" : {
+    
+          "name": "Parma",
+          "coach": "Fabio Pecchia",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/parma.png",
+          "playing_style": "Counter-Attack",
+          "pressing_style": " ",
+          "attacking_style": "Direct Play",
+          "defensive_style": "Deep Block",
+          "aggressive_players": [],
+          "provocative_players": [],
+          "unavailable_attacking_players": [],
+          "recent_matches": {
+              "teams": {
+                "match_three": ["Lecce","Parma"],
+                "match_four": ["Parma", "Udinese"],
+                "match_five": ["Napoli", "Parma"],
+                "match_six":["Parma","AC Milan"],
+                "match_seven": ["Parma","Fiorentina"],
+                "match_one": ["Reggiana","Parma"],
+                "match_two": ["Parma","Cremonese"]
+              },
+              "goals": {
+                "match_three": [2,2],
+                "match_four": [2,3],
+                "match_five":[2,1],
+                "match_six":[2,1],
+                "match_seven": [1,1],
+              "match_one": [1,1],
+              "match_two": [1,1]
+            },
+            "x_goals": {
+              "match_three": [0.97,1.51],
+              "match_four": [1.16,2.53],
+              "match_five":[2.28,2.49],
+              "match_six":[1.61,2.21],
+              "match_seven": [1.81,0.92],
+              "match_one": [0.63,2.44],
+              "match_two": [1.37,1.21]
+            },
+            "corners": {
+              "match_three": [2,12],
+              "match_four": [5,6],
+              "match_five":[6,4],
+              "match_six":[3,9],
+              "match_seven": [4,9],
+              "match_one": [4,4],
+              "match_two": [8,2]
+            },
+            "fouls": {
+              "match_three": [12,11],
+              "match_four": [8,18],
+              "match_five":[12,6],
+              "match_six":[9,13],
+              "match_seven": [15,9],
+              "match_one": [10,15],
+              "match_two": [12,17]
+            },
+            "HT_cards": {
+              "match_three": [1,0],
+              "match_four": [0,1],
+              "match_five":[1,0],
+              "match_six":[0,1],
+              "match_seven": [1,1],
+              "match_one": [0,1],
+              "match_two": [2,4]
+            },
+            "FT_cards": {
+              "match_three": [5,1],
+              "match_four": [3,3],
+              "match_five":[2,4],
+              "match_six":[0,3],
+              "match_seven": [3,3],
+              "match_one": [4,2],
+              "match_two": [4,6]
+            }
+          }
+      
+        
+         
+        
+        },
+        "away_team": {
+            
+          "name": "Cagliari",
+  "coach": "Davide Nicola",
+  "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/cagliari.png",
+  "playing_style": "Wide play; Long balls",
+  "pressing_style": " ",
+  "attacking_style": "High crossing frequency; Frequent through ball attempts; Attacking down the right; High shot volume",
+  "defensive_style": "High Line; Use offside positioning",
+  "aggressive_players": [],
+  "provocative_players": ["Zito Luvumbo"],
+  "unavailable_attacking_players": [],
+  "recent_matches": {
+     "teams": {
+      "match_three": ["Cagliari","Empoli"],
+      "match_four": ["Cagliari", "Napoli"],
+      "match_five":["Lecce","Cagliari"],
+      "match_six": ["Cagliari", "Como"],
+      "match_seven": ["Cagliari","AS Roma"],
+  "match_one": ["Cagliari","Fiorentina"],
+  "match_two": ["Sassuolo","Cagliari"]
+},
+    
+  "goals": {
+    "match_three": [0,2],
+    "match_four": [4,0],
+    "match_five":[1,0],
+    "match_six":[1,1],
+    "match_seven": [0,0],
+      "match_one": [2,3],
+      "match_two": [0,2]
+    },
+    "x_goals": {
+    "match_three": [2.30,0.84],
+      "match_four": [1.03,1.75],
+      "match_five":[2.25,1.75],
+      "match_six":[1.12,1.36],
+      "match_seven": [0.76,1.25],
+      "match_one": [1.50,1.20],
+      "match_two": [0.29,1.49]
+    },
+    "corners": {
+      "match_three": [10,4],
+      "match_four": [7,4],
+      "match_five":[7,10],
+      "match_six":[5,6],
+      "match_seven": [5,3],
+      "match_one": [4,5],
+      "match_two": [5,6]
+    },
+    "fouls": {
+      "match_three": [15,21],
+      "match_four": [22,11],
+      "match_five":[10,13],
+      "match_six":[12,10],
+      "match_seven": [15,7],
+      "match_one": [13,14],
+      "match_two": [14,9]
+    },
+    "HT_cards": {
+      "match_three": [0,1],
+      "match_four": [0,1],
+      "match_five":[1,1],
+      "match_six":[1,2],
+      "match_seven": [0,0],
+      "match_one": [0,2],
+      "match_two": [0,0]
+    },
+    "FT_cards": {
+      "match_three": [1,2],
+      "match_four": [1,2],
+      "match_five":[2,3],
+      "match_six":[2,2],
+      "match_seven": [2,0],
+      "match_one": [2,4],
+      "match_two": [4,2]
+    }
+  }
+      
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":"Based on form",
+            "ht": "U 2.5",
+            "ft": "Ov 2.5"
+        },
+        "corners":{
+            "discuss":"Based on form",
+            "ht": "Ov 7.5",
+            "ft": "Cagliari "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": "Yes",
+            "ft": "Ov 2.5"
+        }
+        }
+      },
+      {
+        "fixture": "Villarreal vs Las Palmas",
+        "league":"🇪🇸 La Liga",
+        "stadium": "Estadio de la Ceramica",
+        "weather": "Sunny",
+        "pitch_condition": "Good",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Lopez M.",
+          "fouls_per_tackle": 0.74,
+          "yellow_per_game": 4.44
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["Las Palmas", "Villarreal"],
+            "match_two": ["Villarreal", "Las Palmas"]
+          },
+          "goals": {
+            "match_one": [3, 0],
+            "match_two": [1, 2]
+          },
+          "x_goals": {
+            "match_one": [0.78, 2.01],
+            "match_two": [0.99, 1.12]
+          },
+          "corners": {
+            "match_one": [4, 6],
+            "match_two": [7, 2]
+          },
+          "fouls": {
+            "match_one": [13, 11],
+            "match_two": [17, 7]
+          },
+          "HT_cards": {
+            "match_one": [4, 3],
+            "match_two": [1, 0]
+          },
+          "FT_cards": {
+            "match_one": [4, 3],
+            "match_two": [4, 4]
+          }
+        },
+        "home_team" : {
+          "name": "Villarreal",
+    "coach": "Marcelino",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/villareal.png",
+    "playing_style": "Short passes; Deep positioning",
+    "pressing_style": "Aggressive",
+    "attacking_style": "Attack through the middle; Attacking down the right; Frequent through ball attempts",
+    "defensive_style": "Compact",
+    "aggressive_players": ["Sergi Cardona","Álex Baena","Ilias Akhomach"],
+    "provocative_players": ["Sergi Cardona","Álex Baena","Dani Parejo"],
+    "unavailable_attacking_players": [],
+    "recent_matches": {
+       "teams": {
+        "match_two": ["Villarreal","Barcelona"],
+        "match_three": ["Mallorca","Villarreal"],
+        "match_four": ["Valencia", "Villarreal"],
+        "match_five": ["Villarreal","Celta Vigo"],
+        "match_six": ["Sevilla", "Villarreal"],
+        "match_seven": ["Villarreal","Atl. Madrid"],
+    "match_one": ["Osasuna","Villarreal"]
+    },
+     "goals": {
+      "match_two": [1,5],
+      "match_three": [1,2],
+      "match_four": [1,1],
+      "match_five": [4,3],
+      "match_six": [1,2],
+      "match_seven": [2,2],
+        "match_one": [1,1]
+      },
+      "x_goals": {
+        "match_two": [2.49,3.63],
+        "match_three": [0.39,1.45],
+        "match_four": [1.28,0.45],
+        "match_five": [4.11,3.18],
+        "match_six": [1.41,1.16],
+        "match_seven": [0.87,0.97],
+        "match_one": [0.95,1.55]
+      },
+      "corners": {
+        "match_two": [7,3],
+        "match_three": [7,6],
+        "match_four": [14,3],
+        "match_five": [7,4],
+        "match_six": [7,2],
+        "match_seven": [2,3],
+        "match_one": [6,4]
+      },
+      "fouls": {
+        "match_two": [12,12],
+        "match_three": [11,10],
+        "match_four": [15,11],
+        "match_five": [8,7],
+        "match_six": [16,8],
+        "match_seven": [7,12],
+        "match_one": [13,6]
+      },
+      "HT_cards": {
+        "match_two": [1,0],
+        "match_three": [2,1],
+        "match_four": [1,1],
+        "match_five": [0,0],
+        "match_six": [1,1],
+        "match_seven": [1,2],
+        "match_one": [1,2]
+      },
+      "FT_cards": {
+        "match_two": [6,1],
+        "match_three": [4,3],
+        "match_four": [3,6],
+        "match_five": [4,3],
+        "match_six": [3,5],
+        "match_seven": [1,3],
+        "match_one": [4,3]
+      }
+    }   
+        
+        
+        
+        },
+        "away_team": {
+          "name": "Las Palmas",
+          "coach": "Luis Miguel Carrión",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/las_palmas.png",
+          "playing_style": "Ball Retention; Short passes; Deep positioning; Draws fouls",
+          "pressing_style": "Non-aggressive",
+          "attacking_style": "Take long shots; Attacking down the left",
+          "defensive_style": "High Line; Use offside positioning",
+          "aggressive_players": ["Jaime Mata"],
+          "provocative_players": ["Sandro Ramírez"],
+          "unavailable_attacking_players": [],
+          "recent_matches": {
+             "teams": {
+              "match_two": ["Osasuna","Las Palmas"],
+              "match_three":["Las Palmas","Ath Bilbao"],
+              "match_four":["Alaves","Las Palmas"],
+              "match_five": ["Las Palmas","Real Madrid"],
+              "match_six": ["Leganes", "Las Palmas"],
+              "match_seven": ["Las Palmas","Sevilla"],
+          "match_one": ["Cadiz CF","Las Palmas"]
+        },
+            "goals": {
+              "match_two": [2,1],
+              "match_three":[2,3],
+              "match_four":[2,0],
+              "match_five": [1,1],
+              "match_six": [2,1],
+              "match_seven": [2,2],
+              "match_one": [0,0]
+            },
+            "x_goals": {
+              "match_two": [1.57,1.05],
+              "match_three":[1.65,2.38],
+              "match_four":[2.05,0.94],
+              "match_five": [0.81,2.74],
+              "match_six": [1.76,0.76],
+              "match_seven": [0.86,1.67],
+              "match_one": [0.80,0.61]
+            },
+            "corners": {
+              "match_two": [2,4],
+              "match_three":[9,3],
+              "match_four":[6,5],
+              "match_five": [2,6],
+              "match_six": [3,7],
+              "match_seven": [6,3],
+              "match_one": [5,3]
+            },
+            "fouls": {
+              "match_two": [14,11],
+              "match_three":[8,12],
+              "match_four":[13,9],
+              "match_five": [16,13],
+              "match_six": [11,10],
+              "match_seven": [14,15],
+              "match_one": [13,12]
+            },
+            "HT_cards": {
+              "match_two": [0,3],
+              "match_three":[1,2],
+              "match_four":[2,0],
+              "match_five": [0,1],
+              "match_six": [1,1],
+              "match_seven": [0,1],
+              "match_one": [1,0]
+            },
+            "FT_cards": {
+              "match_two": [2,5],
+              "match_three":[1,3],
+              "match_four":[3,0],
+              "match_five": [0,2],
+              "match_six": [1,1],
+              "match_seven": [2,2],
+              "match_one": [4,1]
+            }
+          }    
+        
+        
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":"Based on form and style of play of Villarreal, and considering the ref's issuance rate",
+            "ht": "Ov 1.5",
+            "ft": "Ov 3.5"
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": "Ov 7.5",
+            "ft": "Villarreal "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": "Yes",
+            "ft": "Ov 2.5"
+        }
+        }
+    }
+]
