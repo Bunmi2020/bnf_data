@@ -1,0 +1,80 @@
+{
+    "name": "Villarreal",
+"coach": "Marcelino",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/villareal.png",
+"playing_style": "Short passes; Deep positioning",
+"pressing_style": "Aggressive",
+"attacking_style": "Attack through the middle; Attacking down the right; Frequent through ball attempts",
+"defensive_style": "Compact",
+"aggressive_players": ["Sergi Cardona","Álex Baena","Ilias Akhomach"],
+"provocative_players": ["Sergi Cardona","Álex Baena","Dani Parejo"],
+"unavailable_attacking_players": [],
+"recent_matches": {
+ "teams": {
+  "match_one": ["Villarreal","Las Palmas"],
+  "match_two": ["Villarreal","Barcelona"],
+  "match_three": ["Mallorca","Villarreal"],
+  "match_four": ["Valencia", "Villarreal"],
+  "match_five": ["Villarreal","Celta Vigo"],
+  "match_six": ["Sevilla", "Villarreal"],
+  "match_seven": ["Villarreal","Atl. Madrid"]
+},
+"goals": {
+  "match_one": [3,1],
+"match_two": [1,5],
+"match_three": [1,2],
+"match_four": [1,1],
+"match_five": [4,3],
+"match_six": [1,2],
+"match_seven": [2,2]
+},
+"x_goals": {
+  "match_one": [2.68,0.75],
+  "match_two": [2.49,3.63],
+  "match_three": [0.39,1.45],
+  "match_four": [1.28,0.45],
+  "match_five": [4.11,3.18],
+  "match_six": [1.41,1.16],
+  "match_seven": [0.87,0.97]
+},
+"corners": {
+  "match_one": [3,2],
+  "match_two": [7,3],
+  "match_three": [7,6],
+  "match_four": [14,3],
+  "match_five": [7,4],
+  "match_six": [7,2],
+  "match_seven": [2,3]
+},
+"fouls": {
+  "match_one": [15,11],
+  "match_two": [12,12],
+  "match_three": [11,10],
+  "match_four": [15,11],
+  "match_five": [8,7],
+  "match_six": [16,8],
+  "match_seven": [7,12]
+},
+"HT_cards": {
+  "match_one": [0,1],
+  "match_two": [1,0],
+  "match_three": [2,1],
+  "match_four": [1,1],
+  "match_five": [0,0],
+  "match_six": [1,1],
+  "match_seven": [1,2]
+},
+"FT_cards": {
+  "match_one": [0,3],
+  "match_two": [6,1],
+  "match_three": [4,3],
+  "match_four": [3,6],
+  "match_five": [4,3],
+  "match_six": [3,5],
+  "match_seven": [1,3]
+}
+}   
+  
+  
+  
+  }

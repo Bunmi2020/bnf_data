@@ -1,0 +1,82 @@
+{
+    
+    "name": "Parma",
+    "coach": "Fabio Pecchia",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/parma.png",
+    "playing_style": "Counter-Attack",
+    "pressing_style": " ",
+    "attacking_style": "Direct Play",
+    "defensive_style": "Deep Block",
+    "aggressive_players": [],
+    "provocative_players": [],
+    "unavailable_attacking_players": [],
+    "recent_matches": {
+        "teams": {
+          "match_two": ["Parma","Cagliari"],
+          "match_three": ["Lecce","Parma"],
+          "match_four": ["Parma", "Udinese"],
+          "match_five": ["Napoli", "Parma"],
+          "match_six":["Parma","AC Milan"],
+          "match_seven": ["Parma","Fiorentina"],
+          "match_one": ["Reggiana","Parma"]
+        },
+        "goals": {
+          "match_two": [2,3],
+          "match_three": [2,2],
+          "match_four": [2,3],
+          "match_five":[2,1],
+          "match_six":[2,1],
+          "match_seven": [1,1],
+        "match_one": [1,1]
+      },
+      "x_goals": {
+        "match_two": [1.92,1.36],
+        "match_three": [0.97,1.51],
+        "match_four": [1.16,2.53],
+        "match_five":[2.28,2.49],
+        "match_six":[1.61,2.21],
+        "match_seven": [1.81,0.92],
+        "match_one": [0.63,2.44]
+      },
+      "corners": {
+        "match_two": [5,3],
+        "match_three": [2,12],
+        "match_four": [5,6],
+        "match_five":[6,4],
+        "match_six":[3,9],
+        "match_seven": [4,9],
+        "match_one": [4,4]
+      },
+      "fouls": {
+        "match_two": [10,16],
+        "match_three": [12,11],
+        "match_four": [8,18],
+        "match_five":[12,6],
+        "match_six":[9,13],
+        "match_seven": [15,9],
+        "match_one": [10,15]
+      },
+      "HT_cards": {
+        "match_two": [1,0],
+        "match_three": [1,0],
+        "match_four": [0,1],
+        "match_five":[1,0],
+        "match_six":[0,1],
+        "match_seven": [1,1],
+        "match_one": [0,1]
+      },
+      "FT_cards": {
+        "match_two": [3,2],
+        "match_three": [5,1],
+        "match_four": [3,3],
+        "match_five":[2,4],
+        "match_six":[0,3],
+        "match_seven": [3,3],
+        "match_one": [4,2]
+      }
+    }
+
+  
+   
+  
+  }

@@ -1,0 +1,82 @@
+{
+        
+    "name": "Everton",
+    "coach": "Sean Dyche",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/everton.png",
+    "playing_style": "Wide play; Long balls",
+    "pressing_style": "Mid-block",
+    "attacking_style": "High crossing frequency; High shot volume; Attacking down the right; Take long shots",
+    "defensive_style": "Compact",
+    "aggressive_players": ["James Tarkowski","Abdoulaye Doucoure","James Garner"],
+    "provocative_players": ["James Garner"],
+    "unavailable_attacking_players": [],
+    "recent_matches": {
+       "teams": {
+        "match_two": ["Everton","Crystal Palace"],
+        "match_three": ["Leicester","Everton"],
+        "match_four": ["Aston Villa","Everton"],
+        "match_five": ["Everton", "Bournemouth"],
+         "match_six": ["Tottenham", "Everton"],
+        "match_seven": ["Everton","Brighton"],
+      "match_one": ["Arsenal","Everton"]
+    },
+     
+    "goals": {
+      "match_two": [2,1],
+        "match_three": [1,1],
+      "match_four": [3,2],
+      "match_five": [2,3],
+     "match_six": [4,0],
+      "match_seven": [0,3],
+        "match_one": [2,1]
+      },
+      "x_goals": {
+        "match_two": [1.15,0.89],
+        "match_three": [0.88,0.84],
+        "match_four": [2.23,0.75],
+        "match_five": [1.77,2.44],
+       "match_six": [2.58,0.48],
+        "match_seven": [0.44,1.30],
+        "match_one": [3.12,0.50]
+      },
+      "corners": {
+        "match_two": [5,8],
+        "match_three": [6,1],
+        "match_four": [6,2],
+        "match_five": [8,4],
+       "match_six": [12,5],
+        "match_seven": [1,5],
+        "match_one": [8,1]
+      },
+      "fouls": {
+        "match_two": [13,11],
+        "match_three": [11,12],
+        "match_four": [10,12],
+        "match_five": [6,11],
+       "match_six": [11,15],
+        "match_seven": [8,8],
+        "match_one": [8,11]
+      },
+      "HT_cards": {
+        "match_two": [0,0],
+        "match_three": [0,0],
+        "match_four": [0,2],
+        "match_five": [0,0],
+       "match_six": [0,0],
+        "match_seven": [0,1],
+        "match_one": [1,0]
+      },
+      "FT_cards": {
+        "match_two": [2,0],
+        "match_three": [1,2],
+        "match_four": [1,4],
+        "match_five": [2,1],
+       "match_six": [0,0],
+        "match_seven": [2,1],
+        "match_one": [4,3]
+      }
+    }
+      
+  
+
+  }

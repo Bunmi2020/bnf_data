@@ -1,0 +1,80 @@
+{
+    "name": "Almere City",
+  "coach": "Hedwiges Maduro",
+  "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/eredivisie/almere.png",
+  "playing_style": "Long balls, Wide play",
+  "pressing_style": " ",
+  "attacking_style": "Attacking down the left",
+  "defensive_style": "Aggressive",
+  "aggressive_players": ["Peer Koopmeiners","Stije Resink","Damian van Bruggen","Sherel Floranus","Joey Jacobs","Rajiv van La Parra","Hamdi Akujobi"],
+  "provocative_players": ["Rajiv van La Parra"],
+  "unavailable_attacking_players": [],
+  "recent_matches": {
+     "teams": {
+      "match_five": ["Zwolle","Almere City"],
+    "match_six": ["Almere City","Twente"],
+      "match_seven":["Heracles","Almere City"],
+    "match_one": ["Almere City","Groningen"],
+    "match_two": ["Almere City","PSV"],
+    "match_three": ["Fortuna","Almere City"],
+    "match_four": ["Almere City","AZ_Alkmaar"]
+  },
+    
+  "goals": {
+    "match_five": [1,0],
+    "match_six": [0,5],
+    "match_seven":[0,0],
+      "match_one": [1,1],
+      "match_two": [1,7],
+      "match_three": [3,0],
+      "match_four": [0,1]
+    },
+    "x_goals": {
+      "match_five": [1.66,1.22],
+      "match_six": [1.61,1.20],
+      "match_seven":[2.15,0.78],
+      "match_one": [1.16,0.56],
+      "match_two": [0.26,3.39],
+      "match_three": [3.22,0.67],
+      "match_four": [0.44,0.86]
+    },
+    "corners": {
+      "match_five": [6,8],
+      "match_six": [7,5],
+      "match_seven":[10,2],
+      "match_one": [6,4],
+      "match_two": [1,9],
+      "match_three": [9,3],
+      "match_four": [2,8]
+    },
+    "fouls": {
+      "match_five": [10,13],
+      "match_six": [9,5],
+      "match_seven":[9,8],
+      "match_one": [9,14],
+      "match_two": [10,6],
+      "match_three": [7,12],
+      "match_four": [13,11]
+    },
+    "HT_cards": {
+      "match_five": [0,0],
+      "match_six": [1,1],
+      "match_seven":[1,1],
+      "match_one": [1,0],
+      "match_two": [0,1],
+      "match_three": [0,0],
+      "match_four": [2,1]
+    },
+    "FT_cards": {
+      "match_five": [2,4],
+      "match_six": [1,1],
+      "match_seven":[1,2],
+      "match_one": [1,2],
+      "match_two": [1,1],
+      "match_three": [2,3],
+      "match_four": [3,1]
+    }
+  }
+    
+  
+  }

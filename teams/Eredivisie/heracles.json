@@ -1,0 +1,80 @@
+{
+    "name": "Heracles",
+    "coach": "Erwin Van de Looi",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/eredivisie/heracles.png",
+    "playing_style": "Long balls, ",
+    "pressing_style": " ",
+    "attacking_style": "Take long shots, Frequent through ball attempts, High shot volume, Attacking down the left",
+    "defensive_style": " ",
+    "aggressive_players": ["Navajo Bakboord","Anas Ouahim","Sherel Floranus","Jizz Hornkamp","Marko Vejinovic","Brian De Keersmaecker"],
+    "provocative_players": ["Anas Ouahim","Thomas Bruns"],
+    "unavailable_attacking_players": [],
+    "recent_matches": {
+    "teams": {
+        "match_five": ["Heracles","Heerenveen"],
+        "match_six": ["Nijmegen","Heracles"],
+        "match_seven":["Heracles","Almere City"],
+        "match_one": ["Zwolle","Heracles"],
+        "match_two": ["Heracles","Willem II"],
+        "match_three": ["Heracles","PSV"],
+        "match_four": ["Sparta Rotterdam","Heracles"]
+    },
+
+    "goals": {
+        "match_five": [2,1],
+        "match_six": [1,2],
+        "match_seven":[0,0],
+        "match_one": [3,0],
+        "match_two": [1,1],
+        "match_three": [1,3],
+        "match_four": [0,0]
+    },
+    "x_goals": {
+        "match_five": [1.26,0.64],
+        "match_six": [1.11,1.23],
+        "match_seven":[2.15,0.78],
+        "match_one": [2.42,0.60],
+        "match_two": [1.06,0.74],
+        "match_three": [1.20,2.44],
+        "match_four": [0.54,0.54]
+    },
+    "corners": {
+        "match_five": [9,4],
+        "match_six": [7,3],
+        "match_seven":[10,2],
+        "match_one": [4,4],
+        "match_two": [8,6],
+        "match_three": [2,12],
+        "match_four": [3,4]
+    },
+    "fouls": {
+        "match_five": [9,15],
+        "match_six": [16,15],
+        "match_seven":[9,8],
+        "match_one": [16,14],
+        "match_two": [11,13],
+        "match_three": [12,7],
+        "match_four": [14,12]
+    },
+    "HT_cards": {
+        "match_five": [1,1],
+        "match_six": [1,2],
+        "match_seven":[1,1],
+        "match_one": [0,1],
+        "match_two": [0,0],
+        "match_three": [0,0],
+        "match_four": [1,1]
+    },
+    "FT_cards": {
+        "match_five": [2,2],
+        "match_six": [3,4],
+        "match_seven":[1,2],
+        "match_one": [1,2],
+        "match_two": [2,3],
+        "match_three": [1,0],
+        "match_four": [1,1]
+        }
+    }
+
+  
+}

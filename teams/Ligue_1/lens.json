@@ -1,0 +1,80 @@
+{
+        
+    "name": "Lens",
+    "coach": "Will Still",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/lens.png",
+    "playing_style": "High territorial control",
+    "pressing_style": "Aggressive",
+    "attacking_style": "High crossing frequency; Attacking down the right",
+    "defensive_style": " ",
+    "aggressive_players": ["Deiver Machado","Facundo Medina","Ernest Nuamah","Alexandre Lacazette","Stijn Spierings"],
+    "provocative_players": ["Kevin Danso","Neil El Aynaoui","Deiver Machado"],
+    "unavailable_attacking_players": [],
+    "recent_matches": {
+      "teams": {
+        "match_two": ["Lens","Nice"],
+        "match_three": ["Rennes", "Lens"],
+        "match_four": ["Lens", "Lyon"],
+        "match_five": ["Monaco","Lens"],
+        "match_six": ["Lens","Brest"],
+        "match_seven": ["Angers","Lens"],
+        "match_one": ["Lens","Montpellier"]
+      },
+      "goals": {
+        "match_two": [0,0],
+        "match_three": [1,1],
+        "match_four": [0,0],
+        "match_five": [1,1],
+        "match_six": [2, 0],
+        "match_seven": [0,1],
+        "match_one": [2, 2]
+      },
+      "x_goals": {
+        "match_two": [1.61,0.80],
+        "match_three": [1.37,0.88],
+        "match_four": [0.70,0.43],
+        "match_five": [1.02,2.29],
+        "match_six": [1.95,0.67],
+        "match_seven": [0.26,0.92],
+        "match_one": [4.32, 0.72]
+      },
+      "corners": {
+        "match_two": [11,4],
+        "match_three": [4,3],
+        "match_four": [5,8],
+        "match_five": [7,7],
+        "match_six": [5, 2],
+        "match_seven": [7,3],
+        "match_one": [1, 0]
+      },
+      "fouls": {
+        "match_two": [16,7],
+        "match_three": [16,20],
+        "match_four": [12,11],
+        "match_five": [11,21],
+        "match_six": [8, 6],
+        "match_seven": [12,14],
+        "match_one": [10, 13]
+      },
+      "HT_cards": {
+        "match_two": [0,1],
+        "match_three": [1,1],
+        "match_four": [0,0],
+        "match_five": [0,3],
+        "match_six": [1, 1],
+        "match_seven": [0,0],
+        "match_one": [0, 0]
+      },
+      "FT_cards": {
+        "match_two": [4,2],
+        "match_three": [2,4],
+        "match_four": [0,0],
+        "match_five": [1,4],
+        "match_six": [3, 3],
+        "match_seven": [1,0],
+        "match_one": [0,1]
+      }
+    }           
+
+  
+  }

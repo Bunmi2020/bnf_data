@@ -1,0 +1,82 @@
+{
+        
+    "name": "Toulouse",
+    "coach": "Carles Martínez",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/toulouse.png",
+    "playing_style": " ",
+    "pressing_style": "Aggressive",
+    "attacking_style": "Attacking down the right",
+    "defensive_style": " ",
+    "aggressive_players": ["Vincent Sierro","Frank Magri","Rasmus Nicolaisen","Cristian Cásseres"],
+    "provocative_players": ["Vincent Sierro"],
+    "unavailable_attacking_players": [],
+    
+    "recent_matches": {
+      "teams": {
+        "match_two": ["Toulouse", "Lyon"],
+        "match_three": ["Brest", "Toulouse"],
+        "match_four": ["Toulouse", "Le Havre"],
+        "match_five": ["Toulouse", "Marseille"],
+        "match_six": ["Nice", "Toulouse"],
+        "match_seven": ["Toulouse","Nantes"],
+        "match_one": ["Toulouse", "Brest"]
+      },
+    
+      "goals": {
+        "match_two": [1,2],
+        "match_three": [2,0],
+        "match_four": [2,0],
+        "match_five": [1,3],
+        "match_six": [1, 1],
+        "match_seven": [0,0],
+        "match_one": [0, 3]
+      },
+      "x_goals": {
+        "match_two": [0.91,0.72],
+        "match_three": [0.84, 2.08],
+        "match_four": [2.09,0.54],
+        "match_five": [1.04,1.40],
+        "match_six": [1.27,1.00],
+        "match_seven": [1.01,0.33],
+        "match_one": [0.54, 0.46]
+      },
+      "corners": {
+        "match_two": [3,4],
+        "match_three": [4,3],
+        "match_four": [6,5],
+        "match_five": [2,3],
+        "match_six": [4, 4],
+        "match_seven": [10,5],
+        "match_one": [6, 2]
+      },
+      "fouls": {
+        "match_two": [12,15],
+        "match_three": [15,18],
+        "match_four": [10, 11],
+        "match_five": [10,15],
+        "match_six": [11, 21],
+        "match_seven": [10,8],
+        "match_one": [12, 17]
+      },
+      "HT_cards": {
+        "match_two": [0,1],
+        "match_three": [1,1],
+        "match_four": [0,0],
+        "match_five": [2,1],
+        "match_six": [1, 0],
+        "match_seven": [1,1],
+        "match_one": [0, 0]
+      },
+      "FT_cards": {
+        "match_two": [2,2],
+        "match_three": [1,1],
+        "match_four": [1,1],
+        "match_five": [5, 2],
+        "match_six": [4, 2],
+        "match_seven": [1,3],
+        "match_one": [1, 2]
+      }
+    }        
+  
+  
+  }

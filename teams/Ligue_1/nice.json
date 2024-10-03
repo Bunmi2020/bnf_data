@@ -1,0 +1,81 @@
+{
+        
+    "name": "Nice",
+    "coach": "Franck Haise",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/nice.png",
+    "playing_style": "Short passes;Deep positioning ",
+    "pressing_style": " ",
+    "attacking_style": "Attack through the middle",
+    "defensive_style": " ",
+    "aggressive_players": ["Dante"],
+    "provocative_players": ["Evann Guessand"],
+    "unavailable_attacking_players": [],
+    "recent_matches": {
+      "teams": {
+        "match_two": ["Lens","Nice"],
+        "match_three": ["Nice", "St Etienne"],
+        "match_four": ["Marseille", "Nice"],
+        "match_five": ["Angers", "Nice"],
+        "match_six": ["Nice", "Toulouse"],
+        "match_seven": ["Auxerre","Nice"],
+        "match_one": ["Lille", "Nice"]
+      },
+     
+      "goals": {
+        "match_two": [0,0],
+        "match_three": [8,0],
+        "match_four": [2,0],
+        "match_five": [1,4],
+        "match_six": [1, 1],
+        "match_seven": [2,1],
+        "match_one": [2, 2]
+      },
+      "x_goals": {
+        "match_two": [1.61,0.80],
+        "match_three": [4.73, 0.32],
+        "match_four": [1.45,1.93],
+        "match_five": [1.47,2.56],
+        "match_six": [1.27,1.00],
+        "match_seven": [2.11,0.67],
+        "match_one": [1.06, 0.86]
+      },
+      "corners": {
+        "match_two": [11,4],
+        "match_three": [3,2],
+        "match_four": [1,2],
+        "match_five": [4,7],
+        "match_six": [4, 4],
+        "match_seven": [3,5],
+        "match_one": [3, 5]
+      },
+      "fouls": {
+        "match_two": [16,7],
+        "match_three": [7,13],
+        "match_four": [18,4],
+        "match_five": [14,13],
+        "match_six": [11, 21],
+        "match_seven": [11,17],
+        "match_one": [9, 9]
+      },
+      "HT_cards": {
+        "match_two": [0,1],
+        "match_three": [0,1],
+        "match_four": [1,1],
+        "match_five": [4,2],
+        "match_six": [1, 0],
+        "match_seven": [0,0],
+        "match_one": [0, 0]
+      },
+      "FT_cards": {
+        "match_two": [4,2],
+        "match_three": [0,1],
+        "match_four": [5,2],
+        "match_five": [6,5],
+        "match_six": [4,2],
+        "match_seven": [0,0],
+        "match_one": [4,3]
+      }
+    }       
+
+  
+  }

@@ -1,0 +1,80 @@
+{
+    "name": "Waalwijk",
+  "coach": "Henk Fraser",
+  "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/eredivisie/waalwijk.png",
+  "playing_style": "Long balls, High crossing frequency",
+  "pressing_style": " ",
+  "attacking_style": "Take long shots, Attack through the middle",
+  "defensive_style": "Aggressive, High Line; Use offside positioning, Deep positioning",
+  "aggressive_players": ["Yassin Oukili"],
+  "provocative_players": [" "],
+  "unavailable_attacking_players": [],
+  "recent_matches": {
+     "teams": {
+      "match_five": ["Waalwijk","Ajax"],
+      "match_six": ["Waalwijk","Sparta Rotterdam"],
+      "match_seven": ["Willem II","Waalwijk"],
+    "match_one": ["Waalwijk","Az Alkmaar"],
+    "match_two": ["GA Eagles","Waalwijk"],
+    "match_three": ["Waalwijk","Groningen"],
+    "match_four": ["PSV","Waalwijk"]
+  },
+    
+  "goals": {
+    "match_five": [0,2],
+    "match_six": [2,1],
+    "match_seven": [3,0],
+      "match_one": [0,3],
+      "match_two": [2,0],
+      "match_three": [1,2],
+      "match_four": [5,1]
+    },
+    "x_goals": {
+      "match_five": [0.21,1.20],
+      "match_six": [2.68,1.13],
+      "match_seven": [2.02,1.08],
+      "match_one": [0.11,2.96],
+      "match_two": [2.26,0.48],
+      "match_three": [0.80,1.94],
+      "match_four": [3.28,1.30]
+    },
+    "corners": {
+      "match_five": [2,12],
+      "match_six": [6,2],
+      "match_seven": [4,4],
+      "match_one": [3,10],
+      "match_two": [7,1],
+      "match_three": [7,1],
+      "match_four": [7,3]
+    },
+    "fouls": {
+      "match_five": [9,6],
+      "match_six": [10,10],
+      "match_seven": [4,5],
+      "match_one": [9,13],
+      "match_two": [9,9],
+      "match_three": [11,7],
+      "match_four": [4,8]
+    },
+    "HT_cards": {
+      "match_five": [1,1],
+      "match_six": [0,1],
+      "match_seven": [0,0],
+      "match_one": [3,0],
+      "match_two": [2,2],
+      "match_three": [0,0],
+      "match_four": [0,0]
+    },
+    "FT_cards": {
+      "match_five": [2,1],
+      "match_six": [0,1],
+      "match_seven": [2,1],
+      "match_one": [6,3],
+      "match_two": [3,2],
+      "match_three": [3,2],
+      "match_four": [0,0]
+    }
+  }
+    
+  
+  }

@@ -1,0 +1,82 @@
+{
+        
+    "name": "Ipswich",
+    "coach": "Kieran McKenna",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/ipswich_town.png",
+    "playing_style": "Short passes; ",
+    "pressing_style": "Aggressive",
+    "attacking_style": "Attack through the middle; Frequent through ball attempts; High shot volume",
+    "defensive_style": " ",
+    "aggressive_players": ["Massimo Luongo","Leif Davis","Samy Morsy","Omari Hutchinson"],
+    "provocative_players": ["Massimo Luongo","Leif Davis","Samy Morsy","Conor Chaplin"],
+    "unavailable_attacking_players": [],
+    "recent_matches": {
+       "teams": {
+        "match_two": ["Ipswich","Aston Villa"],
+        "match_three": ["Southampton","Ipswich"],
+      "match_four": ["Brighton","Ipswich"],
+        "match_five":["Ipswich", "Fulham"],
+        "match_six": ["Man City","Ipswich"],
+        "match_seven": ["Ipswich","Liverpool"],
+          "match_one": ["Ipswich","Huddersfield"]
+        },
+       
+       "goals": {
+        "match_two": [2,2],
+        "match_three": [1,1],
+        "match_four": [0,0],
+        "match_five":[1,1],
+        "match_six": [4,1],
+        "match_seven": [0,2],
+        "match_one": [2,0]
+        },
+        "x_goals": {
+          "match_two": [1.73,1.13],
+            "match_three": [1.55,0.75],
+          "match_four": [1.76,0.56],
+          "match_five":[1.28,1.32],
+          "match_six": [2.66,0.37],
+          "match_seven": [0.28,2.51],
+        "match_one": [1.43,0.07]
+        },
+        "corners": {
+          "match_two": [10,0],
+            "match_three": [2,10],
+          "match_four": [9,2],
+          "match_five":[8,6],
+          "match_six": [10,1],
+          "match_seven": [2,10],
+        "match_one": [8,0]
+        },
+        "fouls": {
+          "match_two": [10,14],
+            "match_three": [16,16],
+          "match_four": [14,16],
+          "match_five":[15,15],
+          "match_six": [4,15],
+          "match_seven": [9,18],
+        "match_one": [9,12]
+        },
+        "HT_cards": {
+          "match_two": [2,0],
+            "match_three": [1,0],
+          "match_four": [0,1],
+          "match_five":[1.0],
+          "match_six": [0,1],
+          "match_seven": [3,0],
+        "match_one": [0,0]
+        },
+        "FT_cards": {
+          "match_two": [4,1],
+            "match_three": [4,4],
+          "match_four": [4,3],
+          "match_five":[2,3],
+          "match_six": [2,3],
+          "match_seven": [3,1],
+        "match_one": [1,1]
+        }
+    }
+        
+  
+
+  }

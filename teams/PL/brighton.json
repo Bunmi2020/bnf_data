@@ -1,0 +1,82 @@
+{
+        
+    "name": "Brighton",
+    "coach": "Fabian Hürzeler",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/brighton.png",
+    "playing_style": "Ball Retention; Short passes; Draws fouls",
+    "pressing_style": "Aggressive",
+    "attacking_style": "Attack through the middle; Attacking down the left; ",
+    "defensive_style": " ",
+    "aggressive_players": ["Carlos Balepa","Noom Quomah"],
+    "provocative_players": ["Joao Pedro", "Joel Veltman","Facundo Buonanotte"],
+    "unavailable_attacking_players": [],
+    "recent_matches": {
+       "teams": {
+        "match_two": ["Chelsea"," Brighton"],
+        "match_three": ["Brighton","Nottingham"],
+        "match_four": ["Brighton","Ipswich"],
+        "match_five": ["Arsenal", "Brighton"],
+        "match_six": ["Brighton", "Man United"],
+        "match_seven": ["Everton","Brighton"],
+      "match_one": ["Brighton","Man United"]
+    },
+     
+    "goals": {
+      "match_two": [4,2],
+        "match_three": [2,2],
+      "match_four": [0,0],
+      "match_five": [1,1],
+      "match_six": [2,1],
+      "match_seven": [0,3],
+        "match_one": [0,2]
+      },
+      "x_goals": {
+        "match_two": [3.31,1.14],
+        "match_three": [0.84,1.27],
+        "match_four": [1.76,0.56],
+        "match_five": [1.70,1.63],
+        "match_six": [2.34,1.65],
+        "match_seven": [0.44,1.30],
+        "match_one": [1.76,1.37]
+      },
+      "corners": {
+        "match_two": [8,2],
+        "match_three": [9,1],
+        "match_four": [9,2],
+        "match_five": [3,7],
+        "match_six": [4,4],
+        "match_seven": [1,5],
+        "match_one": [7,5]
+      },
+      "fouls": {
+        "match_two": [11,8],
+        "match_three": [12,11],
+        "match_four": [14,16],
+        "match_five": [12,7],
+        "match_six": [9,13],
+        "match_seven": [8,8],
+        "match_one": [10,9]
+      },
+      "HT_cards": {
+        "match_two": [2,2],
+        "match_three": [2,1],
+        "match_four": [0,1],
+        "match_five": [2,0],
+        "match_six": [0,0],
+        "match_seven": [0,1],
+        "match_one": [0,2]
+      },
+      "FT_cards": {
+        "match_two": [3,2],
+        "match_three": [3,7],
+        "match_four": [4,3],
+        "match_five": [6,2],
+        "match_six": [1,2],
+        "match_seven": [2,1],
+        "match_one": [1,3]
+      }
+      }
+
+   
+
+  }

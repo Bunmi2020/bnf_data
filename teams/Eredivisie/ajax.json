@@ -1,0 +1,81 @@
+{
+    "name": "Ajax",
+  "coach": "Francesco Farioli",
+  "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/eredivisie/ajax.png",
+  "playing_style": "Short passes, Control the game in the opposition's half",
+  "pressing_style": " ",
+  "attacking_style": "Attack through the middle, Take long shots",
+  "defensive_style": "Non-aggressive",
+  "aggressive_players": ["Benjamin Tahirovic"],
+  "provocative_players": ["Brian Brobbey."],
+  "unavailable_attacking_players": [],
+  "recent_matches": {
+     "teams": {
+      "match_five": ["Waalwijk","Ajax"],
+      "match_six": ["GA Eagles","Ajax"],
+      "match_seven": ["Ajax","Sittard"],
+    "match_one": ["Ajax","Jagiellonia"],
+    "match_two": ["Jagiellonia","Ajax"],
+    "match_three": ["NAC Breda","Ajax"],
+    "match_four": ["Ajax","Panathinaikos"]
+  },
+    
+  "goals": {
+    "match_five": [0,2],
+    "match_six": [1,1],
+    "match_seven": [5,0],
+      "match_one": [3,0],
+      "match_two": [1,4],
+      "match_three": [2,1],
+      "match_four": [0,1]
+    },
+    "x_goals": {
+      "match_five": [0.21,1.20],
+      "match_six": [0.59,1.17],
+      "match_seven": [3.45,0.09],
+      "match_one": [],
+      "match_two": [],
+      "match_three": [1.06,1.38],
+      "match_four": []
+    },
+    "corners": {
+      
+      "match_five": [2,12],
+      "match_six": [7,2],
+      "match_seven": [15,0],
+      "match_one": [4,1],
+      "match_two": [3,6],
+      "match_three": [1,8],
+      "match_four": [6,4]
+    },
+    "fouls": {
+      "match_five": [9,6],
+      "match_six": [9,11],
+      "match_seven": [8,6],
+      "match_one": [16,6],
+      "match_two": [3,7],
+      "match_three": [15,14],
+      "match_four": [14,14]
+    },
+    "HT_cards": {
+      "match_five": [1,1],
+      "match_six": [0,0],
+      "match_seven": [0,2],
+      "match_one": [1,1],
+      "match_two": [0,0],
+      "match_three": [0,0],
+      "match_four": [0,1]
+    },
+    "FT_cards": {
+      "match_five": [2,1],
+      "match_six": [2,2],
+      "match_seven": [0,2],
+      "match_one": [1,1],
+      "match_two": [1,2],
+      "match_three": [0,1],
+      "match_four": [2,7]
+    }
+  }
+    
+  
+  }

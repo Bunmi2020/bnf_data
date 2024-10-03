@@ -1,0 +1,81 @@
+{
+        
+    "name": "Lille",
+    "coach": "Bruno Génésio",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/lille.png",
+    "playing_style": "Short passes; Ball retention; Draws fouls",
+    "pressing_style": "Non-aggressive",
+    "attacking_style": "Take long shots; Attack through the middle",
+    "defensive_style": "High Line; Use offside positioning",
+    "aggressive_players": ["Benjamin André","Tiago Santos"],
+    "provocative_players": ["Jonathan David","Romain Faivre","Benjamin André"],
+    "unavailable_attacking_players": [],
+    "recent_matches": {
+      "teams": {
+        "match_two": ["Le Havre", "Lille"],
+        "match_three": ["Lille", "Strasbourg"],
+        "match_four":["St Etienne","Lille"],
+        "match_five": ["Lille", "PSG"],
+        "match_six": ["Lille", "Angers"],
+        "match_seven": ["Reims","Lille"],
+        "match_one": ["Lille", "Nice"]
+      },
+      
+      "goals": {
+        "match_two": [0,3],
+        "match_three": [3,3],
+        "match_four":[1,0],
+        "match_five": [1,3],
+        "match_six": [2, 0],
+        "match_seven": [0,2],
+        "match_one": [2, 2]
+      },
+      "x_goals": {
+        "match_two": [0.60,4.14],
+        "match_three": [2.56,2.93],
+        "match_four":[1.50,1.11],
+        "match_five": [0.74,1.93],
+        "match_six": [1.24,0.60],
+        "match_seven": [0.06,1.66],
+        "match_one": [1.06, 0.86]
+      },
+      "corners": {
+        "match_two": [1,5],
+        "match_three": [9,5],
+        "match_four":[2,7],
+        "match_five": [3,1],
+        "match_six": [3, 2],
+        "match_seven": [0,8],
+        "match_one": [3, 5]
+      },
+      "fouls": {
+        "match_two": [11, 9],
+        "match_three": [16,12],
+        "match_four":[12,10],
+        "match_five": [9, 9],
+        "match_six": [9, 17],
+        "match_seven": [6,13],
+        "match_one": [9, 9]
+      },
+      "HT_cards": {
+        "match_two": [1,0],
+        "match_three": [0,1],
+        "match_four":[0,0],
+        "match_five": [1, 1],
+        "match_six": [1, 1],
+        "match_seven": [1,0],
+        "match_one": [0, 0]
+      },
+      "FT_cards": {
+        "match_two": [2,1],
+        "match_three": [2,2],
+        "match_four":[1,1],
+        "match_five": [3,2],
+        "match_six": [1, 2],
+        "match_seven": [3,2],
+        "match_one": [4, 3]
+      }
+    }      
+
+ 
+  }

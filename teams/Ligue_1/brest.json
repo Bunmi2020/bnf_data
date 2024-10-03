@@ -1,0 +1,81 @@
+{
+        
+    "name": "Brest",
+    "coach": "Éric Roy",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/brest.png",
+    "playing_style": "Wide play; Ball retention",
+    "pressing_style": "Aggressive",
+    "attacking_style": "High crossing frequency",
+    "defensive_style": "High Line; Use offside positioning",
+    "aggressive_players": ["Pierre Lees-Melou"],
+    "provocative_players": ["Pierre Lees-Melou","Romain Del Castillo"],
+    "unavailable_attacking_players": ["Jérémy Le Douaron"],
+    "recent_matches": {
+      "teams": {
+        "match_two": ["Auxerre", "Brest"],
+        "match_three": ["Brest", "Toulouse"],
+        "match_four": ["PSG", "Brest"],
+        "match_five": ["Brest", "St Etienne"],
+        "match_six": ["Lens", "Brest"],
+        "match_seven": ["Brest","Marseille"],
+        "match_one": ["Toulouse", "Brest"]
+      },
+  
+      "goals": {
+        "match_two": [3, 0],
+        "match_three": [2,0],
+        "match_four": [3,1],
+        "match_five": [4,0],
+        "match_six": [2, 0],
+        "match_seven": [1,5],
+        "match_one": [0, 3]
+      },
+      "x_goals": {
+        "match_two": [2.01,0.62],
+        "match_three": [0.84, 2.08],
+        "match_four": [2.87,0.93],
+        "match_five": [3.40,0.31],
+        "match_six": [1.95,0.67],
+        "match_seven": [1.18,2.58],
+        "match_one": [0.54, 0.46]
+      },
+      "corners": {
+        "match_two": [2,3],
+        "match_three": [4,3],
+        "match_four": [9,1],
+        "match_five": [7,2],
+        "match_six": [5, 2],
+        "match_seven": [5,0],
+        "match_one": [6, 2]
+      },
+      "fouls": {
+        "match_two": [13,16],
+        "match_three": [15,18],
+        "match_four": [7,13],
+        "match_five": [12,28],
+        "match_six": [8, 6],
+        "match_seven": [10,8],
+        "match_one": [12, 17]
+      },
+      "HT_cards": {
+        "match_two": [1,0],
+        "match_three": [1,1],
+        "match_four": [2,1],
+        "match_five": [0, 1],
+        "match_six": [1, 1],
+        "match_seven": [4,1],
+        "match_one": [0, 0]
+      },
+      "FT_cards": {
+        "match_two": [2,0],
+        "match_three": [1,1],
+        "match_four": [2,3],
+        "match_five": [0,5],
+        "match_six": [3, 3],
+        "match_seven": [4,1],
+        "match_one": [1, 2]
+      }
+    }      
+
+  
+  }

@@ -1,0 +1,79 @@
+{
+    "name": "Udinese",
+    "coach": "Kosta Runjaic",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/udinese.png",
+    "playing_style": "Long balls; Deep positioning",
+    "pressing_style": "Aggressive",
+    "attacking_style": "High shot volume; Attacking down the right; Take long shots; High crossing frequency",
+    "defensive_style": " ",
+    "aggressive_players": ["Martín Payero", "Lorenzo Lucca"],
+    "provocative_players": ["Lorenzo Lucca","Festy Ebosele"],
+    "unavailable_attacking_players": [],
+    "recent_matches": {
+       "teams": {
+        "match_two": ["Udinese","Inter"],
+        "match_three": ["AS Roma","Udinese"],
+        "match_four": ["Parma", "Udinese"],
+        "match_five": ["Udinese", "Como"],
+        "match_six":["Udinese","Lazio"],
+        "match_seven": ["Bologna","Udinese"],
+        "match_one": ["Frosinone","Udinese"]
+      },
+      "goals": {
+        "match_two": [2,3],
+        "match_three": [3,0],
+        "match_four": [2,3],
+        "match_five": [1,0],
+        "match_six": [2, 1],
+        "match_seven": [1,1],
+        "match_one": [0,1]
+      },
+      "x_goals": {
+        "match_two": [0.88,2.91],
+        "match_three": [1.98,0.39],
+        "match_four": [1.16,2.53],
+        "match_five": [0.63,1.99],
+        "match_six": [0.92,1.17],
+        "match_seven": [3.11,0.89],
+        "match_one": [0.91,0.86]
+      },
+      "corners": {
+        "match_two": [7,3],
+        "match_three": [2,1],
+        "match_four": [5,6],
+        "match_five": [4,6],
+        "match_six": [4, 13],
+        "match_seven": [7,5],
+        "match_one": [11,1]
+      },
+      "fouls": {
+        "match_two": [13,6],
+        "match_three": [15,11],
+        "match_four": [8,18],
+        "match_five": [16,9],
+        "match_six": [15, 10],
+        "match_seven": [15,13],
+        "match_one": [6,13]
+      },
+      "HT_cards": {
+        "match_two": [1,0],
+        "match_three": [1,2],
+        "match_four": [0,1],
+        "match_five": [0,0],
+        "match_six": [1, 0],
+        "match_seven": [0,1],
+        "match_one": [0,0]
+      },
+      "FT_cards": {
+        "match_two": [1,0],
+        "match_three": [2,2],
+        "match_four": [3,3],
+        "match_five": [3,0],
+        "match_six": [5, 1],
+        "match_seven": [0,4],
+        "match_one": [0,2]
+      }
+        }
+    
+  
+  }

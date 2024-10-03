@@ -1,0 +1,81 @@
+{
+        
+    "name": "Crystal Palace",
+    "coach": "Oliver Glasner",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/crystal_palace.png",
+    "playing_style": "Long balls",
+    "pressing_style": " ",
+    "attacking_style": "High shot volume; Wide paly; Take long shots",
+    "defensive_style": "Compact",
+    "aggressive_players": ["Jordan Ayew","Jefferson Lerma","Joachim","Andersen","Will Hughes","Daichi Kamada"],
+    "provocative_players": ["Eberechi Eze", "Jordan Ayew","Ismaïla Sarr"],
+    "unavailable_attacking_players": [],
+    "recent_matches": {
+       "teams": {
+        "match_two": ["Everton","Crystal Palace"],
+        "match_three": ["Crystal Palace","Man United"],
+        "match_four": ["Crystal Palace","Leicester"],
+        "match_five": ["Chelsea", "Crystal Palace"],
+        "match_six": ["Crystal Palace", "West Ham"],
+        "match_seven": ["Brentford","Crystal Palace"],
+      "match_one": ["Crystal Palace","Aston Villa"]
+    },
+      
+      "goals": {
+        "match_two": [2,1],
+        "match_three": [0,0],
+        "match_four": [2,2],
+        "match_five": [1,1],
+        "match_six": [0,2],
+        "match_seven": [2,1],
+        "match_one": [5,0]
+      },
+      "x_goals": {
+        "match_two": [1.15,0.89],
+        "match_three": [1.03,1.86],
+        "match_four": [2.17,1.13],
+        "match_five": [2.34,0.52],
+        "match_six": [1.37,1.41],
+        "match_seven": [1.52,1.06],
+        "match_one": [2.31,1.20]
+      },
+      "corners": {
+        "match_two": [5,8],
+        "match_three": [4,11],
+        "match_four": [5,2],
+        "match_five": [4,4],
+        "match_six": [3,3],
+        "match_seven": [4,7],
+        "match_one": [2,4]
+      },
+      "fouls": {
+        "match_two": [13,11],
+        "match_three": [7,12],
+        "match_four": [11,15],
+        "match_five": [9,13],
+        "match_six": [9,17],
+        "match_seven": [6,15],
+        "match_one": [10,8]
+      },
+      "HT_cards": {
+        "match_two": [0,0],
+        "match_three": [0,1],
+        "match_four": [0,0],
+        "match_five": [2,1],
+        "match_six": [0,0],
+        "match_seven": [1,2],
+        "match_one": [1,1]
+      },
+      "FT_cards": {
+        "match_two": [2,0],
+        "match_three": [3,2],
+        "match_four": [0,3],
+        "match_five": [4,2],
+        "match_six": [1,1],
+        "match_seven": [1,5],
+        "match_one": [1,4]
+      }
+      }
+ 
+
+  }

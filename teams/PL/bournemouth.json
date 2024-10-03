@@ -1,0 +1,83 @@
+{
+    
+    "name": "Bournemouth",
+    "coach": "Andoni Iraola",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/bournemouth.png",
+    "playing_style": "Counter-Attack",
+    "pressing_style": "Medium-pressing",
+    "attacking_style": "Quick transitions and use of set pieces",
+    "defensive_style": "Compact",
+    "aggressive_players": ["Justin Kluivert","Ryan Christie","Antoine Semenyo","Dominic Solanke","Marcos Senesi","Lewis Cook"],
+    "provocative_players": ["Dominic Solanke", "Romain Faivre"],
+    "unavailable_attacking_players": [],
+  
+    "recent_matches": {
+        "teams": {
+          "match_two": ["Bournemouth","Southampton"],
+            "match_three": ["Liverpool","Bournemouth"],
+          "match_four": ["Bournemouth","Chelsea"],
+        "match_five": ["Everton", "Bournemouth"],
+        "match_six": ["Bournemouth", "Newcastle"],
+        "match_seven": ["Nottingham","Bournemouth"],
+    "match_one": ["Chelsea","Bournemouth"]
+  },
+    
+  "goals": {
+    "match_two": [3,1],
+    "match_three": [3,0],
+    "match_four": [0,1],
+    "match_five": [2,3],
+    "match_six": [1,1],
+      "match_seven": [1,1],
+        "match_one": [2,1]
+      },
+      "x_goals": {
+        "match_two": [1.86,0.98],
+        "match_three": [2.00,1.04],
+        "match_four": [2.16,0.87],
+        "match_five": [1.77,2.44],
+        "match_six": [2.01,1.96],
+        "match_seven": [1.28,1.53],
+        "match_one": [0.90,2.34]
+      },
+      "corners": {
+        "match_two": [6,4],
+        "match_three": [3,9],
+        "match_four": [6,3],
+        "match_five": [8,4],
+        "match_six": [8,9],
+        "match_seven": [2,6],
+        "match_one": [6,5]
+      },
+      "fouls": {
+        "match_two": [19,12],
+        "match_three": [10,12],
+        "match_four": [16,9],
+        "match_five": [6,11],
+        "match_six": [19,8],
+        "match_seven": [18,9],
+        "match_one": [5,9]
+      },
+      "HT_cards": {
+        "match_two": [1,1],
+        "match_three": [0,3],
+        "match_four": [3,3],
+        "match_five": [0,0],
+        "match_six": [1,0],
+        "match_seven": [0,1],
+        "match_one": [1,2]
+      },
+      "FT_cards": {
+        "match_two": [2,5],
+        "match_three": [1,4],
+        "match_four": [6,8],
+        "match_five": [2,1],
+        "match_six": [2,2],
+        "match_seven": [1,3],
+        "match_one": [2,3]
+      }
+    }
+    
+  
+
+  }

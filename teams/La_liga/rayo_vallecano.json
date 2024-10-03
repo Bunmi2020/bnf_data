@@ -1,0 +1,81 @@
+{
+    "name": "Rayo Vallecano",
+"coach": "Iñigo Pérez",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/rayo_vallecano.png",
+"playing_style": "Wide play; Ball Retention; Draws fouls",
+"pressing_style": "Aggressive",
+"attacking_style": "Take long shots; High shot volume; Attacking down the left",
+"defensive_style": " ",
+"aggressive_players": ["Óscar Valentín","Gerard Gumbau","Unai López","Alfonso Espino","Óscar Trejo"],
+"provocative_players": ["Isi Palazon","Alfonso Espino"],
+"unavailable_attacking_players": [],
+"recent_matches": {
+"teams": {
+  "match_one": ["Rayo Vallecano","Leganes"],
+"match_two": ["Rayo Vallecano","Atl. Madrid"],
+"match_three": ["Rayo Vallecano","Osasuna"],
+"match_four": ["Espanyol", "Rayo Vallecano"],
+"match_five": ["Rayo Vallecano","Barcelona"],
+"match_six": ["Getafe", "Rayo Vallecano"],
+"match_seven": ["Real Sociedad","Rayo Vallecano"]
+},
+
+"goals": {
+  "match_one": [1,1],
+"match_two": [1,1],
+"match_three": [3,1],
+"match_four": [2,1],
+"match_five": [1,2],
+"match_six": [0,0],
+"match_seven": [1,2]
+},
+"x_goals": {
+  "match_one": [0.82,0.56],
+"match_two": [1.29,0.67],
+"match_three": [2.02,0.65],
+"match_four": [2.64,1.45],
+"match_five": [0.21,1.01],
+"match_six": [0.67,0.25],
+"match_seven": [1.55,1.50]
+},
+"corners": {
+  "match_one": [5,5],
+"match_two": [3,4],
+"match_three": [7,4],
+"match_four": [3,7],
+"match_five": [6,6],
+"match_six": [3,2],
+"match_seven": [10,5]
+},
+"fouls": {
+  "match_one": [12,7],
+"match_two": [9,12],
+"match_three": [12,15],
+"match_four": [14,16],
+"match_five": [17,11],
+"match_six": [16,18],
+"match_seven": [14,21]
+},
+"HT_cards": {
+  "match_one": [0,1],
+"match_two": [0,0],
+"match_three": [0,2],
+"match_four": [0,0],
+"match_five": [1,0],
+"match_six": [1,0],
+"match_seven": [1,1]
+},
+"FT_cards": {
+  "match_one": [2,1],
+"match_two": [0,0],
+"match_three": [3,2],
+"match_four": [3,2],
+"match_five": [3,1],
+"match_six": [1,2],
+"match_seven": [2,4]
+}
+}     
+
+
+  
+  }

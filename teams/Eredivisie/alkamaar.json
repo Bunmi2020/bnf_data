@@ -1,0 +1,80 @@
+{
+    "name": "AZ Alkmaar",
+  "coach": "Maarten Martens",
+  "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/eredivisie/alkmaar.png",
+  "playing_style": "Ball retention, Opponents play aggressively against them",
+  "pressing_style": " ",
+  "attacking_style": "Frequent through ball attempts",
+  "defensive_style": "Aggressive, High Line; Use offside positioning",
+  "aggressive_players": ["Dani de Wit"],
+  "provocative_players": ["Vangelis Pavlidis"],
+  "unavailable_attacking_players": [],
+  "recent_matches": {
+     "teams": {
+      "match_five": ["AZ Alkmaar","Utrecht"],
+      "match_six": ["Zwolle","AZ Alkmaar"],
+      "match_seven": ["AZ Alkmaar","Heerenveen"],
+    "match_one": ["Waalwijk","Az Alkmaar"],
+    "match_two": ["Groningen","AZ Alkmaar"],
+    "match_three": ["AZ Alkmaar","Nijmegen"],
+    "match_four": ["Almere city","AZ Alkmaar"]
+  },
+    
+  "goals": {
+    "match_five": [1,2],
+    "match_six": [1,2],
+    "match_seven": [9,1],
+      "match_one": [0,3],
+      "match_two": [0,0],
+      "match_three": [1,0],
+      "match_four": [0,1]
+    },
+    "x_goals": {
+      "match_five": [3.26,0.75],
+      "match_six": [1.69,1.44],
+      "match_seven": [5.25,1.48],
+      "match_one": [0.11,2.96],
+      "match_two": [0.10,0.96],
+      "match_three": [1.02,0.40],
+      "match_four": [0.44,0.86]
+    },
+    "corners": {
+      "match_five": [8,1],
+      "match_six": [10,9],
+      "match_seven": [5,3],
+      "match_one": [3,10],
+      "match_two": [2,6],
+      "match_three": [4,6],
+      "match_four": [2,8]
+    },
+    "fouls": {
+      "match_five": [9,10],
+      "match_six": [14,14],
+      "match_seven": [8,8],
+      "match_one": [9,13],
+      "match_two": [14,13],
+      "match_three": [10,11],
+      "match_four": [13,11]
+    },
+    "HT_cards": {
+      "match_five": [1,2],
+      "match_six": [0,2],
+      "match_seven": [0,0],
+      "match_one": [3,0],
+      "match_two": [2,1],
+      "match_three": [1,1],
+      "match_four": [2,1]
+    },
+    "FT_cards": {
+      "match_five": [1,2],
+      "match_six": [2,4],
+      "match_seven": [0,1],
+      "match_one": [6,3],
+      "match_two": [3,1],
+      "match_three": [2,2],
+      "match_four": [3,3]
+    }
+  }
+    
+   
+  }

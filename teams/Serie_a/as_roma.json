@@ -1,0 +1,79 @@
+{
+    "name": "AS Roma",
+    "coach": "Ivan Juric",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/roma.png",
+    "playing_style": "Short passes; Ball Retention; Draws fouls",
+    "pressing_style": "Aggressive",
+    "attacking_style": "Attack through the middle",
+    "defensive_style": " ",
+    "aggressive_players": ["Bryan Cristante","Gianluca Mancini"],
+    "provocative_players": ["Paulo Dybala","Matías Soulé"],
+    "unavailable_attacking_players": [],
+    "recent_matches": {
+       "teams": {
+        "match_two": ["AS Roma","Venezia"],
+        "match_three": ["AS Roma","Atalanta"],
+        "match_four": ["Genoa","AS Roma"],
+        "match_five": ["Juventus", "AS Roma"],
+        "match_six": ["AS Roma", "Empoli"],
+        "match_seven": ["Cagliari","AS Roma"],
+        "match_one": ["Empoli","AS Roma"]
+      },
+       "goals": {
+        "match_two": [2,1],
+        "match_three": [3,0],
+        "match_four": [1,1],
+        "match_five": [0,0],
+        "match_six": [1,2],
+        "match_seven": [0,0],
+        "match_one": [2,1]
+      },
+      "x_goals": {
+        "match_two": [1.11,1.74],
+        "match_three": [1.98,0.39],
+        "match_four": [1.10,2.32],
+        "match_five": [0.54,0.45],
+        "match_six": [2.98,2.87],
+        "match_seven": [0.76,1.25],
+        "match_one": [2.70,1.32]
+      },
+      "corners": {
+        "match_two": [6,3],
+        "match_three": [2,1],
+        "match_four": [4,5],
+        "match_five": [6,4],
+        "match_six": [8,5],
+        "match_seven": [5,3],
+        "match_one": [4,5]
+      },
+      "fouls": {
+        "match_two": [8,13],
+        "match_three": [15,11],
+        "match_four": [9,12],
+        "match_five": [11, 12],
+        "match_six": [10, 11],
+        "match_seven": [15,7],
+        "match_one": [18,12]
+      },
+      "HT_cards": {
+        "match_two": [0,1],
+        "match_three": [1,2],
+        "match_four": [0,1],
+        "match_five": [1, 1],
+        "match_six": [0, 1],
+        "match_seven": [0,0],
+        "match_one": [2,0]
+      },
+      "FT_cards": {
+        "match_two": [1,2],
+        "match_three": [2,2],
+        "match_four": [1,3],
+        "match_five": [2,2],
+        "match_six": [0, 3],
+        "match_seven": [2,0],
+        "match_one": [4,1]
+      }
+        }
+  
+  
+  }

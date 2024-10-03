@@ -1,0 +1,82 @@
+{
+    "name": "Valencia",
+"coach": "Rubén Baraja",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/valencia.png",
+"playing_style": "Wide play; Long balls; Plays in own half",
+"pressing_style": "Non-aggressive",
+"attacking_style": "Attacking down the right; Take long shots; ",
+"defensive_style": "Compact",
+"aggressive_players": ["Hugo Guillamón","Pepelu","Thierry Correia"],
+"provocative_players": ["Hugo Duro"],
+"unavailable_attacking_players": [],
+"recent_matches": {
+"teams": {
+  "match_one": ["Real Sociedad","Valencia"],
+"match_two": ["Valencia","Girona"],
+"match_three": ["Atl. Madrid","Valencia"],
+"match_four": ["Valencia", "Villarreal"],
+"match_five": ["Ath Bilbao","Valencia"],
+"match_six": ["Celta Vigo", "Valencia"],
+"match_seven": ["Valencia","Barcelona"]
+},
+
+"goals": {
+  "match_one": [3,0],
+"match_two": [2,0],
+"match_three": [3,0],
+"match_four": [1,1],
+"match_five": [1,0],
+"match_six": [3,1],
+"match_seven": [1,2]
+},
+"x_goals": {
+  "match_one": [2.34,0.41],
+"match_two": [0.69,0.75],
+"match_three": [3.20,0.15],
+"match_four": [1.28,0.45],
+"match_five": [1.07,0.06],
+"match_six": [1.77,0.71],
+"match_seven": [0.95,2.75]
+},
+"corners": {
+  "match_one": [6,4],
+"match_two": [5,4],
+"match_three": [7,3],
+"match_four": [14,3],
+"match_five": [5,3],
+"match_six": [4,7],
+"match_seven": [3,8]
+},
+"fouls": {
+  "match_one": [7,12],
+"match_two": [13,10],
+"match_three": [10,8],
+"match_four": [15,11],
+"match_five": [14,9],
+"match_six": [9,11],
+"match_seven": [11,13]
+},
+"HT_cards": {
+  "match_one": [0,0],
+"match_two": [0,2],
+"match_three": [1,2],
+"match_four": [1,1],
+"match_five": [0,2],
+"match_six": [1,0],
+"match_seven": [2,1]
+},
+"FT_cards": {
+  "match_one": [0,0],
+"match_two": [3,2],
+"match_three": [1,2],
+"match_four": [3,6],
+"match_five": [1,3],
+"match_six": [3,0],
+"match_seven": [2,3]
+}
+}
+
+
+
+  
+  }

@@ -1,0 +1,80 @@
+{
+    "name": "PSV",
+"coach": "Peter Bosz",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/eredivisie/psv.png",
+"playing_style": "Ball retention, Control the game in the opposition's half, Short passes",
+"pressing_style": " ",
+"attacking_style": "Attack through the middle, Attacking down the right, Frequent through ball attempts",
+"defensive_style": "Non-aggressive",
+"aggressive_players": [" "],
+"provocative_players": ["Malik Tillman"],
+"unavailable_attacking_players": [],
+"recent_matches": {
+"teams": {
+  "match_five": ["Willem II","PSV"],
+"match_six": ["Sittard Sittard","PSV"],
+"match_seven": ["PSV","Nijmegen"],
+"match_one": ["PSV","GA Eagles"],
+"match_two": ["Almere City","PSV"],
+"match_three": ["Heracles","PSV"],
+"match_four": ["PSV","Waalwijk"]
+},
+
+"goals": {
+  "match_five": [0,2],
+"match_six": [1,3],
+"match_seven": [2,0],
+"match_one": [3,0],
+"match_two": [1,7],
+"match_three": [1,3],
+"match_four": [5,1]
+},
+"x_goals": {
+  "match_five": [0.86,1.58],
+"match_six": [0.38,1.47],
+"match_seven": [1.72,0.09],
+"match_one": [2.69,1.17],
+"match_two": [0.26,3.39],
+"match_three": [1.20,2.44],
+"match_four": [3.28,1.30]
+},
+"corners": {
+  "match_five": [3,6],
+"match_six": [5,6],
+"match_seven": [15,3],
+"match_one": [5,3],
+"match_two": [1,9],
+"match_three": [2,12],
+"match_four": [7,2]
+},
+"fouls": {
+  "match_five": [11,9],
+"match_six": [10,11],
+"match_seven": [9,5],
+"match_one": [8,7],
+"match_two": [10,6],
+"match_three": [12,7],
+"match_four": [4,8]
+},
+"HT_cards": {
+  "match_five": [1,1],
+"match_six": [1,0],
+"match_seven": [0,1],
+"match_one": [0,0],
+"match_two": [0,1],
+"match_three": [0,0],
+"match_four": [0,0]
+},
+"FT_cards": {
+  "match_five": [1,2],
+"match_six": [3,1],
+"match_seven": [0,1],
+"match_one": [0,3],
+"match_two": [1,1],
+"match_three": [1,0],
+"match_four": [0,0]
+}
+}
+
+  
+  }

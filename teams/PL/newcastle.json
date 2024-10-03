@@ -1,0 +1,82 @@
+{
+        
+    "name": "Newcastle",
+    "coach": "Eddie Howe",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/newcastle_united.png",
+    "playing_style": "Draws fouls",
+    "pressing_style": "Non-aggressive",
+    "attacking_style": "Attack through the middle; Frequent through ball attempts",
+    "defensive_style": " ",
+    "aggressive_players": ["Bruno Guimaraes","Fabian Schar","Anthony Gordon"],
+    "provocative_players": ["Bruno Guimaraes","Anthony Gordon"],
+    "unavailable_attacking_players": [],
+    "recent_matches": {
+       "teams": {
+        "match_two": ["Newcastle ","Man Cty"],
+        "match_three": ["Fulham","Newcastle"],
+        "match_four": ["Wolves","Newcastle"],
+        "match_five": ["Newcastle", "Tottenham"],
+         "match_six": ["Bournemouth", "Newcastle"],
+        "match_seven": ["Newcastle","Southampton"],
+          "match_one": ["Brentford","Newcastle"]
+        },
+      
+        "goals": {
+          "match_two": [1,1],
+            "match_three": [3,1],
+          "match_four": [1,2],
+          "match_five": [2,1],
+         "match_six": [1,1],
+          "match_seven": [1,0],
+        "match_one": [2,4]
+        },
+        "x_goals": {
+          "match_two": [1.31,1.12],
+            "match_three": [2.35,1.33],
+          "match_four": [1.25,1.79],
+          "match_five": [1.63,1.77],
+         "match_six": [2.01,1.96],
+          "match_seven": [0.38,0.94],
+        "match_one": [1.07,3.47]
+        },
+        "corners": {
+          "match_two": [5,6],
+            "match_three": [6,0],
+          "match_four": [4,7],
+          "match_five": [7,12],
+         "match_six": [8,9],
+          "match_seven": [3,12],
+        "match_one": [3,0]
+        },
+        "fouls": {
+          "match_two": [14,10],
+            "match_three": [16,8],
+          "match_four": [17,6],
+          "match_five": [16,13],
+         "match_six": [19,8],
+          "match_seven": [15,16],
+        "match_one": [15,11]
+        },
+        "HT_cards": {
+          "match_two": [2,0],
+            "match_three": [4,0],
+          "match_four": [0,1],
+          "match_five": [3,1],
+         "match_six": [1,0],
+          "match_seven": [2,2],
+        "match_one": [2,1]
+        },
+        "FT_cards": {
+          "match_two": [4,4],
+            "match_three": [6,0],
+          "match_four": [3,3],
+          "match_five": [4,4],
+         "match_six": [2,2],
+          "match_seven": [3,4],
+        "match_one": [4,4]
+        }
+      }
+      
+  
+
+}

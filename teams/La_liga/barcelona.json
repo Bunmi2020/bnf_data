@@ -1,0 +1,81 @@
+{
+    "name": "Barcelona",
+"coach": "Hansi Flick",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/barcelona.png",
+"playing_style": "Ball Retention; Draws fouls; Short passes",
+"pressing_style": "Non-aggressive",
+"attacking_style": "Attack through the middle and down the right; ",
+"defensive_style": "Loose",
+"aggressive_players": ["Fermín López"],
+"provocative_players": ["Robert Lewandowski","Lamine Yamal"],
+"unavailable_attacking_players": [],
+"recent_matches": {
+"teams": {
+  "match_one": ["Osasuna","Barcelona"],
+"match_two": ["Villarreal","Barcelona"],
+"match_three":["Girona","Barcelona"],
+"match_four": ["Barcelona", "Valladolid"],
+"match_five": ["Rayo Vallecano","Barcelona"],
+"match_six": ["Barcelona", "Ath Bilbao"],
+"match_seven": ["Valencia","Barcelona"]
+},
+
+"goals": {
+  "match_one": [4,2],
+"match_two": [1,5],
+"match_three":[1,4],
+"match_four": [7,0],
+"match_five": [1,2],
+"match_six": [2,1],
+"match_seven": [1,2]
+},
+"x_goals": {
+  "match_one": [2.81,1.93],
+"match_two": [2.49,3.63],
+"match_three":[0.57,2.16],
+"match_four": [4.13,0.62],
+"match_five": [0.21,1.01],
+"match_six": [1.42,1.22],
+"match_seven": [0.95,2.75]
+},
+"corners": {
+  "match_one": [5,8],
+"match_two": [7,3],
+"match_three":[1,6],
+"match_four": [10,1],
+"match_five": [6,6],
+"match_six": [5,6],
+"match_seven": [3,8]
+},
+"fouls": {
+  "match_one": [13,3],
+"match_two": [12,12],
+"match_three":[13,4],
+"match_four": [6,12],
+"match_five": [17,11],
+"match_six": [11,16],
+"match_seven": [11,13]
+},
+"HT_cards": {
+  "match_one": [0,0],
+"match_two": [1,0],
+"match_three":[1,0],
+"match_four": [0,1],
+"match_five": [1,0],
+"match_six": [1,1],
+"match_seven": [2,1]
+},
+"FT_cards": {
+  "match_one": [2,2],
+"match_two": [6,1],
+"match_three":[3,3],
+"match_four": [0,3],
+"match_five": [3,1],
+"match_six": [4,5],
+"match_seven": [2,3]
+}
+}          
+  
+
+  
+  }

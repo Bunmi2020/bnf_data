@@ -1,0 +1,80 @@
+{
+    "name": "Willem II",
+  "coach": "Peter Maes",
+  "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/eredivisie/willem.png",
+  "playing_style": "High crossing frequency, Wide play",
+  "pressing_style": " ",
+  "attacking_style": " ",
+  "defensive_style": "Aggressive",
+  "aggressive_players": [" "],
+  "provocative_players": [" "," "],
+  "unavailable_attacking_players": [],
+  "recent_matches": {
+     "teams": {
+      "match_five": ["Willem II","PSV"],
+      "match_six": ["Utrecht","Willem II"],
+      "match_seven": ["Willem II","Waalwijk"],
+    "match_one": ["Willem II","Sparta Rotterdam"],
+    "match_two": ["Heracles","Willem II"],
+    "match_three": ["Willem II","GA Eagles"],
+    "match_four": ["Feyenoord","Willem II"]
+  },
+    
+  "goals": {
+    "match_five": [0,2],
+    "match_six": [3,2],
+    "match_seven": [3,0],
+      "match_one": [1,2],
+      "match_two": [1,1],
+      "match_three": [2,0],
+      "match_four": [1,1]
+    },
+    "x_goals": {
+      "match_five": [0.86,1.58],
+      "match_six": [1.20,0.90],
+      "match_seven": [2.02,1.08],
+      "match_one": [0.39,0.93],
+      "match_two": [1.06,0.74],
+      "match_three": [1.25,0.80],
+      "match_four": [1.84,0.16]
+    },
+    "corners": {
+      "match_five": [3,6],
+      "match_six": [7,7],
+      "match_seven": [4,4],
+      "match_one": [4,3],
+      "match_two": [8,6],
+      "match_three": [4,3],
+      "match_four": [14,3]
+    },
+    "fouls": {
+      "match_five": [11,9],
+      "match_six": [5,13],
+      "match_seven": [4,5],
+      "match_one": [8,7],
+      "match_two": [11,13],
+      "match_three": [12,10],
+      "match_four": [8,21]
+    },
+    "HT_cards": {
+      "match_five": [1,1],
+      "match_six": [1,1],
+      "match_seven": [0,0],
+      "match_one": [1,0],
+      "match_two": [0,0],
+      "match_three": [0,0],
+      "match_four": [0,0]
+    },
+    "FT_cards": {
+      "match_five": [1,2],
+      "match_six": [2,3],
+      "match_seven": [2,1],
+      "match_one": [1,4],
+      "match_two": [2,3],
+      "match_three": [2,2],
+      "match_four": [2,4]
+    }
+  }
+    
+  
+  }

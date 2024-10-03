@@ -1,0 +1,79 @@
+{
+    "name": "Lyon",
+"coach": "Pierre Sage",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/lyon.png",
+"playing_style": " ",
+"pressing_style": " ",
+"attacking_style": "Frequent through ball attempts",
+"defensive_style": " ",
+"aggressive_players": ["Nicolás Tagliafico","Saël Kumbedi"],
+"provocative_players": [],
+"unavailable_attacking_players": [],
+
+"recent_matches": {
+"teams": {
+  "match_two": ["Toulouse", "Lyon"],
+"match_three": ["Lyon","Marseille"],
+  "match_four": ["Lens", "Lyon"],
+  "match_five": ["Lyon", "Strasbourg"],
+"match_six": ["Lyon", "Monaco"],
+"match_seven": ["Rennes","Lyon"],
+"match_one": ["Lyon","PSG"]
+},
+"goals": {
+  "match_two": [1,2],
+  "match_three": [2,3],
+  "match_four": [0,0],
+  "match_five": [4,3],
+"match_six": [0,2],
+"match_seven": [3,0],
+    "match_one": [1,2]
+},
+"x_goals": {
+  "match_two": [0.91,0.72],
+  "match_three": [2.92,0.98],
+  "match_four": [0.70,0.43],
+  "match_five": [2.23,2.24],
+  "match_six": [0.44,2.82],
+  "match_seven": [2.16,1.64],
+    "match_one": [0.64,3.14]
+},
+"corners": {
+  "match_two": [3,4],
+  "match_three": [10,3],
+  "match_four": [5,8],
+  "match_five": [9, 2],
+  "match_six": [0, 6],
+  "match_seven": [7,7],
+    "match_one": [6,5]
+},
+"fouls": {
+  "match_two": [12,15],
+  "match_three": [17,8],
+  "match_four": [12,11],
+  "match_five": [11,6],
+  "match_six": [10, 7],
+  "match_seven": [13,12],
+    "match_one": [11,11]
+},
+"HT_cards": {
+  "match_two": [0,1],
+  "match_three": [1,2],
+  "match_four": [0,0],
+  "match_five": [1,1],
+  "match_six": [0,1],
+  "match_seven": [1,1],
+    "match_one": [1,0]
+},
+"FT_cards": {
+  "match_two": [2,2],
+"match_three": [4,3],
+  "match_four": [0,0],
+  "match_five": [3,2],
+  "match_six": [2, 4],
+  "match_seven": [2,1],
+    "match_one": [2,1]
+}
+}
+   
+  }

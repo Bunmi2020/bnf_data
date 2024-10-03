@@ -1,0 +1,81 @@
+{
+        
+    "name": "Nottingham",
+    "coach": "Nuno Espírito Santo",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/nottingham_forest.png",
+    "playing_style": "Long balls; Wide play; Deep positioning",
+    "pressing_style": " ",
+    "attacking_style": "Take long shots; High shot volume",
+    "defensive_style": " ",
+    "aggressive_players": ["Murillo","Ryan Yates"],
+    "provocative_players": ["Morgan Gibbs-White","Ryan Yates"],
+    "unavailable_attacking_players": [],
+    "recent_matches": {
+       "teams": {
+        "match_two": ["Nottingham","Fulham"],
+        "match_three": ["Brighton","Nottingham"],
+        "match_four": ["Liverpool","Nottingham"],
+        "match_five": ["Nottingham", "Wolves"],
+         "match_six": ["Southampton", "Nottingham"],
+        "match_seven": ["Nottingham","Bournemouth"],
+          "match_one": ["Burnley","Nottingham"]
+        },
+      "goals": {
+        "match_two": [0,1],
+        "match_three": [2,2],
+        "match_four": [0,1],
+        "match_five": [1,1],
+       "match_six":[0,1],
+        "match_seven": [1,1],
+        "match_one": [1,2]
+        },
+        "x_goals": {
+          "match_two": [0.67,1.47],
+            "match_three": [0.84,1.27],
+          "match_four": [0.89,0.47],
+          "match_five": [1.66,1.36],
+         "match_six":[0.26,2.14],
+          "match_seven": [1.28,1.53],
+        "match_one": [1.10,1.45]
+        },
+        "corners": {
+          "match_two": [6,5],
+            "match_three": [9,1],
+          "match_four": [7,2],
+          "match_five": [7,3],
+         "match_six":[4,10],
+          "match_seven": [2,6],
+        "match_one": [4,3]
+        },
+        "fouls": {
+          "match_two": [11,15],
+            "match_three": [12,11],
+          "match_four": [15,6],
+          "match_five": [15,18],
+         "match_six":[14,13],
+          "match_seven": [18,9],
+        "match_one": [11,5]
+        },
+        "HT_cards": {
+          "match_two": [1,0],
+            "match_three": [2,1],
+          "match_four": [0,2],
+          "match_five": [1,3],
+         "match_six":[2,0],
+          "match_seven": [0,1],
+        "match_one": [0,0]
+        },
+        "FT_cards": {
+          "match_two": [2,4],
+            "match_three": [3,7],
+          "match_four": [4,4],
+          "match_five": [3,4],
+         "match_six":[3,3],
+          "match_seven": [1,3],
+        "match_one": [1,0]
+        }
+      }
+       
+  
+
+  }

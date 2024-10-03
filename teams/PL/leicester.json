@@ -1,0 +1,82 @@
+{
+        
+    "name": "Leicester",
+    "coach": "Steve Cooper",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/leicester_city.png",
+    "playing_style": "Ball Retention; Short passes; High territorial control; Draws fouls",
+    "pressing_style": "Non-aggressive",
+    "attacking_style": "Attack through the middle; Attacking down the left",
+    "defensive_style": " ",
+    "aggressive_players": ["Harry Winks","A. Fatawu","Jannik Vestergaard"],
+    "provocative_players": ["Stephy Mavididi","A. Fatawu"],
+    "unavailable_attacking_players": [],
+    "recent_matches": {
+       "teams": {
+        "match_two": ["Arsenal","Leicester"],
+        "match_three": ["Leicester","Everton"],
+        "match_four": ["Crystal Palace","Leicester"],
+        "match_five": ["Leicester", "Aston Villa"],
+         "match_six": ["Fulham", "Leicester"],
+        "match_seven": ["Leicester","Tottenham"],
+          "match_one": ["Leicester","Blackburn"]
+        },
+       
+       "goals": {
+        "match_two": [4,2],
+        "match_three": [1,1],
+        "match_four": [2,2],
+        "match_five": [1,2],
+         "match_six":[2,1],
+        "match_seven": [1,1],
+        "match_one": [0,2]
+        },
+        "x_goals": {
+          "match_two": [4.11,0.41],
+            "match_three": [0.88,0.84],
+          "match_four": [2.17,1.13],
+          "match_five": [0.24,0.82],
+         "match_six":[0.92,0.47],
+          "match_seven": [1.15,0.98],
+        "match_one": [1.06,1.93]
+        },
+        "corners": {
+          "match_two": [17,0],
+            "match_three": [6,1],
+          "match_four": [5,2],
+          "match_five": [1,4],
+         "match_six":[7,5],
+          "match_seven": [2,13],
+        "match_one": [7,4]
+        },
+        "fouls": {
+          "match_two": [11,6],
+            "match_three": [11,12],
+          "match_four": [11,15],
+          "match_five": [13,21],
+         "match_six":[14,13],
+          "match_seven": [11,12],
+        "match_one": [5,7]
+        },
+        "HT_cards": {
+          "match_two": [0,2],
+            "match_three": [0,0],
+          "match_four": [0,0],
+          "match_five": [1,2],
+         "match_six":[0,0],
+          "match_seven": [0,0],
+        "match_one": [1,0]
+        },
+        "FT_cards": {
+          "match_two": [2,4],
+            "match_three": [1,2],
+          "match_four": [0,3],
+          "match_five": [4,5],
+         "match_six":[2,2],
+          "match_seven": [1,1],
+        "match_one": [2,2]
+        }
+      }
+       
+   
+
+  }

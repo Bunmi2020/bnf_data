@@ -1,0 +1,79 @@
+{
+    "name": "Venezia",
+    "coach": "Eusebio Di Francesco",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/venezia.png",
+    "playing_style": "Defensive",
+    "pressing_style": "Low-pressing",
+    "attacking_style": "Long balls",
+    "defensive_style": "Very Compact",
+    "aggressive_players": ["Gaetano Oristanio"],
+    "provocative_players": [],
+    "unavailable_attacking_players": [],
+    "recent_matches": {
+      "teams": {
+        "match_two": ["AS Roma","Venezia"],
+        "match_three": ["Venezia","Genoa"],
+        "match_four": ["AC Milan", "Venezia"],
+        "match_five":["Venezia", "Torino"],
+        "match_six":["Fiorentina","Venezia"],
+        "match_seven": ["Lazio","Venezia"],
+      "match_one": ["Venezia","Cremonese"]
+    },
+    "goals": {
+      "match_two": [2,1],
+      "match_three": [2,0],
+      "match_four": [4,0],
+      "match_five":[0,1],
+      "match_six":[0,0],
+      "match_seven": [3,1],
+      "match_one": [1,0]
+    },
+    "x_goals": {
+      "match_two": [1.11,1.74],
+      "match_three": [1.81,0.35],
+      "match_four": [2.40,0.43],
+      "match_five":[0.94,0.88],
+      "match_six":[1.10,0.43],
+      "match_seven": [2.43,0.55],
+      "match_one": [0.75,0.94]
+    },
+    "corners": {
+      "match_two": [6,3],
+      "match_three": [3,4],
+      "match_four": [6,1],
+      "match_five":[3,3],
+      "match_six":[7,3],
+      "match_seven": [6,3],
+      "match_one": [4,5]
+    },
+    "fouls": {
+      "match_two": [8,13],
+      "match_three": [9,12],
+      "match_four": [12,12],
+      "match_five":[7,15],
+      "match_six":[13,21],
+      "match_seven": [14,11],
+      "match_one": [16,16]
+    },
+    "HT_cards": {
+      "match_two": [0,1],
+      "match_three": [0,1],
+      "match_four": [1,1],
+      "match_five":[0,0],
+      "match_six":[0,1],
+      "match_seven": [0,1],
+      "match_one": [1,1]
+    },
+    "FT_cards": {
+      "match_two": [1,2],
+      "match_three": [2,3],
+      "match_four": [1,4],
+      "match_five":[2,4],
+      "match_six":[1,2],
+      "match_seven": [1,2],
+      "match_one": [3,4]
+    }
+  }   
+ 
+  
+  }

@@ -1,0 +1,83 @@
+{
+        
+    "name": "Man United",
+    "coach": "Erik ten Hag",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/manchester_united.png",
+    "playing_style": " ",
+    "pressing_style": " ",
+    "attacking_style": "Attacking down the left; Take long shots",
+    "defensive_style": " ",
+    "aggressive_players": ["Diogo Dalot","Bruno Fernandes"],
+    "provocative_players": ["Alejandro Garnacho"],
+    "unavailable_attacking_players": [],
+    "recent_matches": {
+       "teams": {
+        "match_two": ["Man United","Tottenham"],
+        "match_three": ["Crystal Palace","Man United"],
+        "match_four": ["Southampton","Man United"],
+        "match_five": ["Man United", "Liverpool"],
+        "match_six": ["Brighton", "Man United"],
+        "match_seven": ["Man United","Fulham"],
+          "match_one": ["Man City","Man United"]
+        },
+      "goals": {
+        "match_two": [0,3],
+        "match_three": [0,0],
+        "match_four": [0,3],
+        "match_five": [0,3],
+        "match_six": [2,1],
+        "match_seven": [1,0],
+        "match_one": [1,2]
+        
+        },
+        "x_goals": {
+          "match_two": [1.06,3.87],
+            "match_three": [1.03,1.86],
+          "match_four": [1.15,2.61],
+          "match_five": [1.29,1.43],
+          "match_six": [2.34,1.65],
+          "match_seven": [1.50,0.16],
+        "match_one": [1.30,1.52]
+        },
+        "corners": {
+          "match_two": [5,3],
+            "match_three": [4,11],
+          "match_four": [0,7],
+          "match_five": [5,2],
+          "match_six": [4,4],
+          "match_seven": [7,8],
+        "match_one": [7,1]
+        },
+        "fouls": {
+          "match_two": [16,14],
+            "match_three": [7,12],
+          "match_four": [11,14],
+          "match_five": [7,7],
+          "match_six": [9,13],
+          "match_seven": [12,10],
+        "match_one": [7,11]
+        },
+        "HT_cards": {
+          "match_two": [4,1],
+            "match_three": [0,1],
+          "match_four": [0,1],
+          "match_five": [3,0],
+          "match_six": [0,0],
+          "match_seven": [2,1],
+        "match_one": [0,1]
+        
+        },
+        "FT_cards": {
+          "match_two": [5,3],
+            "match_three": [3,2],
+          "match_four": [2,4],
+          "match_five": [4,1],
+          "match_six": [1,2],
+        "match_seven": [2,3],
+        "match_one": [1,2]
+        }
+    }
+      
+   
+
+  }

@@ -1,0 +1,80 @@
+{
+    "name": "Valladolid",
+    "coach": "Paulo Pezzolano",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/valladolid.png",
+    "playing_style": "Defensive",
+    "pressing_style": "Medium-block pressing",
+    "attacking_style": "Counter-attacking",
+    "defensive_style": "Compact",
+    "aggressive_players": ["Kike Pérez"],
+    "provocative_players": ["Kike Pérez"],
+    "unavailable_attacking_players": [],
+
+    "recent_matches": {
+    "teams": {
+    "match_two": ["Valladolid","Real Sociedad"],
+    "match_three": ["Celta Vigo","Valladolid"],
+    "match_four": ["Barcelona", "Valladolid"],
+    "match_five": ["Valladolid","Leganes"],
+    "match_six": ["Real Madrid", "Valladolid"],
+    "match_seven": ["Valladolid","Espanyol"],
+    "match_one": ["Tenerife","Valladolid"]
+    },
+
+    "goals": {
+    "match_two": [0,0],
+    "match_three": [3,1],
+    "match_four": [7,0],
+    "match_five": [0,0],
+    "match_six": [3,0],
+    "match_seven": [1,0],
+    "match_one": [2,1]
+    },
+    "x_goals": {
+    "match_two": [0.76,1.41],
+    "match_three": [1.58,0.55],
+    "match_four": [4.13,0.62],
+    "match_five": [0.58,0.09],
+    "match_six": [1.87,0.77],
+    "match_seven": [0.57,0.26],
+    "match_one": [1.66,0.85]
+    },
+    "corners": {
+    "match_two": [5,7],
+    "match_three": [5,3],
+    "match_four": [10,1],
+    "match_five": [4,4],
+    "match_six": [5,5],
+    "match_seven": [3,2],
+    "match_one": [4,7]
+    },
+    "fouls": {
+    "match_two": [15,12],
+    "match_three": [14,15],
+    "match_four": [6,12],
+    "match_five": [13,19],
+    "match_six": [10,15],
+    "match_seven": [15,8],
+    "match_one": [13,7]
+    },
+    "HT_cards": {
+    "match_two": [1,1],
+    "match_three": [1,2],
+    "match_four": [0,1],
+    "match_five": [0,1],
+    "match_six": [0,1],
+    "match_seven": [0,0],
+    "match_one": [0,0]
+    },
+    "FT_cards": {
+    "match_two": [4,4],
+    "match_three": [3,6],
+    "match_four": [0,3],
+    "match_five": [1,5],
+    "match_six": [1,1],
+    "match_seven": [2,2],
+    "match_one": [2,1]
+    }
+    }     
+  
+}

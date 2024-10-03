@@ -1,0 +1,82 @@
+{
+        
+    "name": "Liverpool",
+    "coach": "Arne Slot",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/liverpool.png",
+    "playing_style": "Short passes; Ball Retention; High territorial control",
+    "pressing_style": " ",
+    "attacking_style": "Frequent through ball attempts; Take long shots; Attack through the middle",
+    "defensive_style": "High defensive line",
+    "aggressive_players": ["Wataru Endo","Alexis Mac Alliste","Luis Diaz"],
+    "provocative_players": ["Alexis Mac Allister", "Luis Díaz"],
+    "unavailable_attacking_players": [],
+    "recent_matches": {
+       "teams": {
+        "match_two": ["Wolves","Liverpool"],
+        "match_three": ["Liverpool","Bournemouth"],
+        "match_four": ["Liverpool","Nottingham"],
+        "match_five": ["Man United", "Liverpool"],
+        "match_six": ["Liverpool", "Brentford"],
+        "match_seven": ["Ipswich","Liverpool"],
+          "match_one": ["Liverpool","Wolves"]
+        },
+       
+       "goals": {
+        "match_two": [1,2],
+        "match_three": [3,0],
+        "match_four": [0,1],
+        "match_five": [0,3],
+        "match_six": [2,0],
+        "match_seven": [0,2],
+        "match_one": [2,0]
+        },
+        "x_goals": {
+          "match_two": [0.76,2.36],
+            "match_three": [2.00,1.04],
+          "match_four": [0.89,0.47],
+          "match_five": [1.29,1.43],
+          "match_six": [2.31,0.55],
+          "match_seven": [0.28,2.51],
+        "match_one": [4.46,0.62]
+        },
+        "corners": {
+          "match_two": [2,10],
+            "match_three": [3,9],
+          "match_four": [7,2],
+          "match_five": [5,2],
+          "match_six": [9,4],
+        "match_seven": [2,10],
+        "match_one": [10,2]
+        },
+        "fouls": {
+          "match_two": [11,16],
+            "match_three": [10,12],
+          "match_four": [15,6],
+          "match_five": [7,7],
+          "match_six": [10,7],
+          "match_seven": [9,18],
+        "match_one": [14,10]
+        },
+        "HT_cards": {
+          "match_two": [1,2],
+            "match_three": [0,3],
+          "match_four": [0,2],
+          "match_five": [3,0],
+          "match_six": [2,2],
+          "match_seven": [3,0],
+        "match_one": [0,2]
+        },
+        "FT_cards": {
+          "match_two": [2,3],
+            "match_three": [1,4],
+          "match_four": [4,4],
+          "match_five": [4,1],
+          "match_six": [2,3],
+          "match_seven": [3,1],
+        "match_one": [1,2]
+        }
+    }
+    
+  
+
+  }

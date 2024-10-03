@@ -1,0 +1,83 @@
+{
+        
+    "name": "Fulham",
+    "coach": "Marco Silva",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/fulham.png",
+    "playing_style": "Wide play; Deep positioning",
+    "pressing_style": " ",
+    "attacking_style": "Take long shots",
+    "defensive_style": "High Line; Use offside positioning",
+    "aggressive_players": ["Kevin Mbabu"],
+    "provocative_players": ["Harry Wilson"],
+    "unavailable_attacking_players": [],
+    "recent_matches": {
+       "teams": {
+        "match_two": ["Nottingham","Fulham"],
+        "match_three": ["Fulham","Newcastle"],
+        "match_four": ["Fulham","West Ham"],
+        "match_five":["Ipswich", "Fulham"],
+        "match_six": ["Fulham", "Leicester"],
+        "match_seven": ["Man United","Fulham"],
+          "match_one": ["Luton","Fulham"]
+        },
+       
+       "goals": {
+        "match_two": [0,1],
+        "match_three": [3,1],
+        "match_four": [1,1],
+        "match_five":[1,1],
+        "match_six":[2,1],
+        "match_seven": [1,0],
+        "match_one": [2,4]
+        },
+        "x_goals": {
+          "match_two": [0.67,1.47],
+            "match_three": [2.35,1.33],
+          "match_four": [1.32,0.66],
+          "match_five":[1.28,1.32],
+          "match_six":[0.92,0.47],
+          "match_seven": [1.50,0.16],
+        "match_one": [2.00,1.02]
+        },
+        "corners": {
+          "match_two": [6,5],
+            "match_three": [6,0],
+          "match_four": [3,2],
+          "match_five":[8,6],
+          "match_six":[7,5],
+          "match_seven": [7,8],
+        "match_one": [4,4]
+        },
+        "fouls": {
+          "match_two": [11,15],
+            "match_three": [16,8],
+          "match_four": [15,18],
+          "match_five":[15,15],
+          "match_six":[14,13],
+          "match_seven": [12,10],
+        "match_one": [15,20]
+        },
+        "HT_cards": {
+          "match_two": [1,0],
+            "match_three": [4,0],
+          "match_four": [0,0],
+          "match_five":[1.0],
+          "match_six":[0,0],
+          "match_seven": [2,1],
+        "match_one": [1,0]
+        },
+        "FT_cards": {
+          "match_two": [2,4],
+            "match_three": [6,0],
+          "match_four": [2,3],
+          "match_five":[2,3],
+          "match_six":[2,2],
+          "match_seven": [3,2],
+        "match_one": [5,4]
+        
+        }
+    }
+      
+   
+
+  }
