@@ -404,6 +404,7 @@
         }
       }
       },
+
       {
         "fixture": "B. Leverkusen vs Holstein Kiel",
         "league": "🇩🇪 Bundesliga",
@@ -412,9 +413,9 @@
         "pitch_condition": "Excellent",
         "type_of_match": "Regular",
         "referee": {
-          "name": "*n/a",
-          "fouls_per_tackle": "",
-          "yellow_per_game": ""
+          "name":"Hartmann R.",
+            "fouls_per_tackle": 0.80,
+            "yellow_per_game": 3.50
         },
         "head_to_head": {
           "teams": {
@@ -630,8 +631,8 @@
             "Holstein Kiel"
         ],
         "match_four": [
-            "Bayern Munich",
-            "Wolfsburg"
+            "Holstein Kiel",
+            "Dusseldorf"
         ]
     },
     "goals": {
@@ -651,8 +652,8 @@
             2
         ],
         "match_four": [
-            2,
-            0
+            1,
+            1
         ]
     },
     "x_goals": {
@@ -672,8 +673,8 @@
             0.71
         ],
         "match_four": [
-            0.35,
-            0.22
+            1.35,
+            2.32
         ]
     },
     "corners": {
@@ -693,8 +694,8 @@
             3
         ],
         "match_four": [
-            4,
-            0
+            2,
+            13
         ]
     },
     "fouls": {
@@ -714,8 +715,8 @@
             9
         ],
         "match_four": [
-            7,
-            8
+            12,
+            7
         ]
     },
     "HT_cards": {
@@ -735,7 +736,7 @@
             1
         ],
         "match_four": [
-            0,
+            1,
             0
         ]
     },
@@ -756,8 +757,8 @@
             2
         ],
         "match_four": [
-            0,
-            2
+            1,
+            3
         ]
     }
 }
@@ -765,19 +766,19 @@
         },
         "summary":{
         "cards":{
-            "discuss":" ",
+            "discuss":"Though Leverkusen plays a non aggressive football, their recent games shows otherwise, considering Kiel playing style as well:",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 3.5"
         },
         "corners":{
-            "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "discuss":"Based on form",
+            "ht": "Ov 7.5",
+            "ft": "B. Leverkusen"
         },
         "goals":{
-            "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "discuss":"Based on form!",
+            "ht": "Yes",
+            "ft": "Ov 2.5"
         }
       }
       },
@@ -789,9 +790,9 @@
         "pitch_condition": "Good",
         "type_of_match": "Regular",
         "referee": {
-          "name": "*n/a",
+          "name": "Burda M.",
           "fouls_per_tackle": "",
-          "yellow_per_game": ""
+          "yellow_per_game": 4.63
         },
         "head_to_head": {
           "teams": {
@@ -1168,19 +1169,19 @@
         },
         "summary":{
         "cards":{
-            "discuss":" ",
+            "discuss":"Considering all factors",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 3.5"
         },
         "corners":{
-            "discuss":" ",
+            "discuss":"Too many inconsistency, check other betting options",
             "ht": " ",
             "ft": " "
         },
         "goals":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 1.5"
         }
       }
       },
@@ -1192,9 +1193,9 @@
         "pitch_condition": "Good",
         "type_of_match": "Regular",
         "referee": {
-          "name": "*n/a",
-          "fouls_per_tackle": "",
-          "yellow_per_game": ""
+          "name": "Reichel T.",
+          "fouls_per_tackle": 0.83,
+          "yellow_per_game": 4.78
         },
         "head_to_head": {
           "teams": {
@@ -1565,19 +1566,19 @@
         },
         "summary":{
         "cards":{
-            "discuss":" ",
+            "discuss":"Based on form and ref's issuance rate",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 3.5"
         },
         "corners":{
-            "discuss":" ",
-            "ht": " ",
+            "discuss":"Based on form and style of especially Dortmund",
+            "ht": "Ov 8.5",
             "ft": " "
         },
         "goals":{
-            "discuss":" ",
+            "discuss":"So many inconsistent results, but the most prevailing:",
             "ht": " ",
-            "ft": " "
+            "ft": "U 4.5"
         }
       }
       },
@@ -1589,9 +1590,9 @@
         "pitch_condition": "Good",
         "type_of_match": "Regular",
         "referee": {
-          "name": "*n/a",
-          "fouls_per_tackle": "",
-          "yellow_per_game": ""
+          "name": "Welz T.",
+          "fouls_per_tackle": 0.76,
+          "yellow_per_game": 4.43
         },
         "head_to_head": {
           "teams": {
@@ -1970,17 +1971,17 @@
         "cards":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         },
         "corners":{
-            "discuss":" ",
-            "ht": " ",
+            "discuss":"While their style of play does not support high corners, but considering their most recent games, especially Freiburg's",
+            "ht": "Ov 7.5",
             "ft": " "
         },
         "goals":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "U 4.5"
         }
       }
       },
@@ -1992,9 +1993,9 @@
         "pitch_condition": "Good",
         "type_of_match": "Regular",
         "referee": {
-          "name": "",
-          "fouls_per_tackle": "",
-          "yellow_per_game": ""
+          "name": "Dingert C.",
+          "fouls_per_tackle": 0.57,
+          "yellow_per_game": 4.64
         },
         "head_to_head": {
           "teams": {
@@ -2259,22 +2260,23 @@
         },
         "summary":{
         "cards":{
-            "discuss":" ",
+            "discuss":"Based on form and ref's issuance rate",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 3.5"
         },
         "corners":{
-            "discuss":" ",
-            "ht": " ",
+            "discuss":"Despite the inconsistencies, however risky, but considering the playing style of both teams and form:",
+            "ht": "Ov 7.5",
             "ft": " "
         },
         "goals":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "U 4.5"
         }
       }
       },
+      
       {
         "fixture": "Heidenheim vs RB Leipzig",
         "league": "🇩🇪 Bundesliga",
