@@ -2,18 +2,40 @@
     {
         "corners_top_picks": {
                 
-          
+            "match_one": ["Brentford vs Wolves","1X2 Corner : Brentford"],
+            "match_two": ["Feyenoord vs Twente","1X2 Corner : Feyenoord"],
+            "match_three": ["Ajax vs Groningen","1X2 Corner : Ajax"],
+            "match_four": ["Frankfurt vs B. Munich","1X2 Corner : B. Munich"],
+            "match_five": ["West Ham vs Ipswich Town","Total Corners : Ov 8.5"],
+            "match_six": ["Las Palmas vs Celta Vigo","Total Corners : Ov 7.5"],
+            "match_seven": ["Lazio vs Empoli","Total Corners : Ov 8.5"],
+            "match_eight": ["Brighton vs Tottenham","Total Corners : Ov 8.5"]
+
         },
         "cards_top_picks": {
                 
-           
+            "match_one": ["Bochum vs Wolfsburg","FT Total cards :  Ov 3.5"],
+            "match_two": ["Union Berlin vs Borussia","FT Total cards :  Ov 2.5"],
+            "match_three": ["Heidenheim vs Leipzig","FT Total cards :  Ov 2.5"],
+            "match_four": ["Arsenal vs Southampton","FT Total cards :  Ov 3.5"],
+            "match_five": ["Leicester City vs Bournemouth","FT Total cards :  Ov 3.5"],
+            "match_six": ["Chelsea vs Nottingham Forest","FT Total cards :  Ov 3.5"],
+            "match_seven": ["Rennes vs AS Monaco","FT Total cards :  Ov 2.5"],
+            "match_eight": ["Reims vs Montpellier","FT Total cards :  Ov 2.5"]
+            
+
         },
         "goals_top_picks": {
-         
+                
+           "match_one": ["Everton vs Newcastle","FT Total Goals :  Ov 1.5"],
+            "match_two": ["Crystal Palace vs Liverpool","FT Total Goals :  U 4.5"],
+            "match_three": ["Feyenoord vs Twente","FT Total Goals :  Ov 1.5"],
+            "match_four": ["Stuttgart vs Hoffenheim","FT Total cards :  Ov 2.5"],
+            "match_five": ["Frankfurt vs B. Munich","BTS/GG :  Yes"],
+            "match_six": ["Nice vs PSG","FT Total Goals :  Ov 1.5"],
+            "match_seven": ["Bologna vs Parma","FT Total Goals :  Ov 1.5"],
+            "match_eight": ["B. Leverkusen vs Holstein Kiel","FT Total Goals :  Ov 2.5"]
+            
         }
-    },
-
-    {
-        "predictions_update":"Predictions are being updated in batches (Friday matches, then Saturday matches, Sunday's and then finally Monday's)."
     }
 ]
