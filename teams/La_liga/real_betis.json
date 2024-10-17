@@ -14,68 +14,68 @@
     "recent_matches": {
 
       "teams":{
+        "match_seven": ["Sevilla","Betis"],
         "match_one": ["Betis","Espanyol"],
         "match_two": ["Betis","Mallorca"],
         "match_three": ["Betis","Getafe"],
         "match_four": ["Betis","Leganes"],
         "match_five": ["Real Madrid", "Betis"],
-        "match_six": ["Alaves", "Betis"],
-          "match_seven": ["Betis","Girona"]
+        "match_six": ["Alaves", "Betis"]
       },
       
       "goals": {
+        "match_seven": [1,0],
         "match_one": [1,0],
         "match_two": [1,2],
         "match_three": [2,1],
         "match_four": [2,0],
         "match_five": [2,0],
-        "match_six": [0,0],
-        "match_seven": [1,1]
+        "match_six": [0,0]
       },
       "x_goals": {
+        "match_seven": [1.70,1.79],
         "match_one": [2.40,0.44],
         "match_two": [1.59,1.15],
         "match_three": [2.71,0.99],
         "match_four": [1.82,0.07],
         "match_five": [2.26,0.70],
-        "match_six": [0.12,1.37],
-        "match_seven": [1.44,1.41]
+        "match_six": [0.12,1.37]
       },
       "corners": {
+        "match_seven": [4,1],
         "match_one": [8,4],
         "match_two": [6,3],
         "match_three": [8,4],
         "match_four": [11,1],
         "match_five": [7,3],
-        "match_six": [3,8],
-        "match_seven": [4,4]
+        "match_six": [3,8]
       },
       "fouls": {
+        "match_seven": [15,15],
         "match_one": [14,20],
       "match_two": [12,14],
         "match_three": [10,20],
         "match_four": [11,18],
         "match_five": [9,17],
-        "match_six": [17,16],
-        "match_seven": [11,7]
+        "match_six": [17,16]
       },
       "HT_cards": {
+        "match_seven": [0,1],
         "match_one": [0,1],
         "match_two": [3,0],
         "match_three": [2,4],
         "match_four": [0,2],
         "match_five": [0,0],
-        "match_six": [1,1],
-        "match_seven": [0,0]
+        "match_six": [1,1]
       },
       "FT_cards": {
+        "match_seven": [7,3],
         "match_one": [2,4],
         "match_two": [3,3],
         "match_three": [3,5],
         "match_four": [1,2],
         "match_five": [2,0],
-        "match_six": [2,4],
-        "match_seven": [2,0]
+        "match_six": [2,4]
       }
     
   

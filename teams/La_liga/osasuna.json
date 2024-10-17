@@ -12,68 +12,68 @@
     
     "recent_matches": {
        "teams": {
+        "match_seven": ["Getafe","Osasuna"],
         "match_one": ["Osasuna","Barcelona"],
         "match_two": ["Osasuna","Las Palmas"],
         "match_three": ["Rayo Vallecano","Osasuna"],
         "match_four": ["Osasuna", "Celta Vigo"],
         "match_five": ["Girona","Osasuna"],
-        "match_six": ["Osasuna", "Mallorca"],
-        "match_seven": ["Osasuna","Leganes"]
+        "match_six": ["Osasuna", "Mallorca"]
   },
        
       "goals": {
+        "match_seven": [1,1],
         "match_one": [4,2],
         "match_two": [2,1],
         "match_three": [3,1],
         "match_four": [3,2],
         "match_five": [4,0],
-        "match_six": [1,0],
-        "match_seven": [1,1]
+        "match_six": [1,0]
       },
       "x_goals": {
+        "match_seven": [1.06,0.62],
         "match_one": [2.81,1.93],
         "match_two": [1.57,1.05],
         "match_three": [2.02,0.65],
         "match_four": [2.19,1.68],
         "match_five": [2.42,0.07],
-        "match_six": [1.52,0.35],
-        "match_seven": [1.61,1.00]
+        "match_six": [1.52,0.35]
       },
       "corners": {
+        "match_seven": [4,2],
         "match_one": [5,8],
         "match_two": [2,4],
         "match_three": [7,4],
         "match_four": [6,3],
         "match_five": [5,0],
-        "match_six": [5,4],
-        "match_seven": [6,4]
+        "match_six": [5,4]
       },
       "fouls": {
+        "match_seven": [17,10],
         "match_one": [13,3],
         "match_two": [14,11],
         "match_three": [12,15],
         "match_four": [19,10],
         "match_five": [10,9],
-        "match_six": [10,8],
-        "match_seven": [14,12]
+        "match_six": [10,8]
       },
       "HT_cards": {
+        "match_seven": [2,1],
         "match_one": [0,0],
         "match_two": [0,3],
         "match_three": [0,2],
         "match_four": [0,0],
         "match_five": [0,0],
-        "match_six": [0,0],
-        "match_seven": [0,1]
+        "match_six": [0,0]
       },
       "FT_cards": {
+        "match_seven": [2,4],
         "match_one": [2,2],
         "match_two": [2,5],
         "match_three": [3,2],
         "match_four": [2,1],
         "match_five": [0,0],
-        "match_six": [2,1],
-        "match_seven": [3,2]
+        "match_six": [2,1]
       }
     }
   

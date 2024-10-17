@@ -11,6 +11,10 @@
     "unavailable_attacking_players": ["Amadou Haidara"],
 "recent_matches": {
     "teams": {
+        "match_four": [
+            "Heidenheim",
+            "RB Leipzig"
+        ],
         "match_five":["RB Leipzig","Augsburg"],
         "match_six": ["St. Pauli","RB Leipzig"],
         "match_seven": ["RB Leipzig", "Union Berlin"],
@@ -25,13 +29,13 @@
         "match_three": [
             "Eintracht Frankfurt",
             "RB Leipzig"
-        ],
-        "match_four": [
-            "RB Leipzig",
-            "Werder Bremen"
         ]
     },
     "goals": {
+        "match_four": [
+            0,
+            1
+        ],
         "match_five":[4,0],
         "match_six": [0,0],
         "match_seven": [0,0],
@@ -46,13 +50,13 @@
         "match_three": [
             2,
             2
-        ],
-        "match_four": [
-            1,
-            1
         ]
     },
     "x_goals": {
+        "match_four": [
+            1.46,
+            1.62
+        ],
         "match_five":[2.79,1.12],
         "match_six": [1.48,0.62],
         "match_seven": [1.43,1.13],
@@ -67,13 +71,13 @@
         "match_three": [
             2.02,
             1.73
-        ],
-        "match_four": [
-            1.93,
-            1.05
         ]
     },
     "corners": {
+        "match_four": [
+            3,
+            2
+        ],
         "match_five":[8,5],
         "match_six": [3,1],
         "match_seven": [6,5],
@@ -88,13 +92,13 @@
         "match_three": [
             8,
             3
-        ],
-        "match_four": [
-            4,
-            3
         ]
     },
     "fouls": {
+        "match_four": [
+            12,
+            13
+        ],
         "match_five":[9,13],
         "match_six": [6,9],
         "match_seven": [9,19],
@@ -109,13 +113,13 @@
         "match_three": [
             10,
             11
-        ],
-        "match_four": [
-            12,
-            6
         ]
     },
     "HT_cards": {
+        "match_four": [
+            1,
+            0
+        ],
         "match_five":[1,0],
         "match_six": [0,0],
         "match_seven": [0,1],
@@ -130,13 +134,13 @@
         "match_three": [
             0,
             0
-        ],
-        "match_four": [
-            1,
-            0
         ]
     },
     "FT_cards": {
+        "match_four": [
+            2,
+            2
+        ],
         "match_five":[1,2],
         "match_six": [0,0],
         "match_seven": [2,3],
@@ -151,10 +155,6 @@
         "match_three": [
             2,
             2
-        ],
-        "match_four": [
-            1,
-            0
         ]
     }
 }
