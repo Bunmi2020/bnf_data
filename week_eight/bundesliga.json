@@ -8,8 +8,8 @@
         "type_of_match": "Regular",
         "referee": {
           "name":"Jollenbeck M",
-          "fouls_per_tackle": 0,
-          "yellow_per_game": 0
+          "fouls_per_tackle": 0.67,
+          "yellow_per_game": 4.31
           
         },
         "head_to_head": {
@@ -47,7 +47,7 @@
             ]
         },
         "FT_cards": {
-            "match_one": []
+            "match_one": [0,0]
         }
     },
         "home_team" : {
@@ -372,19 +372,19 @@
         },
         "summary":{
         "cards":{
-            "discuss":" ",
+            "discuss":"Considering ref's issuance rate and based on form",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 3.5"
         },
         "corners":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "U 11.5",
+            "ft": "Dortmund"
         },
         "goals":{
-            "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "discuss":"Risky, but form suggests",
+            "ht": "Yes",
+            "ft": "Ov 1.5"
         }
       }
     },
