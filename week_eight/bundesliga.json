@@ -388,6 +388,7 @@
         }
       }
     },
+
     {
         "fixture": "B. Monchengladbach vs Heidenheim",
         "league": "🇩🇪 Bundesliga",
@@ -396,9 +397,9 @@
         "pitch_condition": "Wet",
         "type_of_match": "Regular",
         "referee": {
-          "name":"*n/a",
-          "fouls_per_tackle": 0,
-          "yellow_per_game": 0
+          "name":"Siebert D.",
+          "fouls_per_tackle": 0.67,
+          "yellow_per_game": 4.31
           
         },
         "head_to_head": {
@@ -488,7 +489,7 @@
                 1,
                 3
             ],
-            "match_two": [],
+            "match_two": [0,0],
             "match_three": [
                 0,
                 3
@@ -826,19 +827,19 @@
         },
         "summary":{
         "cards":{
-            "discuss":" ",
+            "discuss":"too many inconsistencies to make  call",
             "ht": " ",
             "ft": " "
         },
         "corners":{
             "discuss":" ",
-            "ht": " ",
+            "ht": "Ov 8.5",
             "ft": " "
         },
         "goals":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "U 4.5"
         }
       }
     },
@@ -850,9 +851,9 @@
         "pitch_condition": "Wet",
         "type_of_match": "Regular",
         "referee": {
-          "name":"*n/a",
-          "fouls_per_tackle": 0,
-          "yellow_per_game": 0
+          "name":"Brych F.",
+          "fouls_per_tackle": 0.61,
+          "yellow_per_game": 3.13
           
         },
         "head_to_head": {
@@ -983,7 +984,7 @@
             ]
         },
         "FT_cards": {
-            "match_one": [],
+            "match_one": [0,0],
             "match_two": [
                 1,
                 1
@@ -996,7 +997,7 @@
                 0,
                 5
             ],
-            "match_five": []
+            "match_five": [0,0]
         }
     },
         "home_team" : {
@@ -1016,7 +1017,7 @@
                     "B. Leverkusen",
                     "Holstein Kiel"
                 ],
-                "match_five":["B. Munich", "B. Leverkusen"],
+                "match_five":["Bayern Munich", "B. Leverkusen"],
                 "match_six": ["B. Leverkusen","Wolfsburg"],
                 "match_seven": ["Hoffenheim", "B. Leverkusen"],
                 "match_one": [
@@ -1177,7 +1178,7 @@
             "teams": {
                 "match_four": [
                     "Frankfurt",
-                    "B. Munich"
+                    "Bayern Munich"
                 ],
                 "match_five": ["Holstein Kiel", "Frankfurt"],
                 "match_six":["E. Frankfurt","B. Monchengladbach"],
@@ -1327,19 +1328,19 @@
         },
         "summary":{
         "cards":{
-            "discuss":" ",
+            "discuss":"too many inconsistencies to make  call",
             "ht": " ",
             "ft": " "
         },
         "corners":{
             "discuss":" ",
-            "ht": " ",
+            "ht": "Ov 8.5",
             "ft": " "
         },
         "goals":{
-            "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "discuss":"Based on form",
+            "ht": "Yes",
+            "ft": "Ov 2.5"
         }
       }
     },
@@ -1351,9 +1352,9 @@
         "pitch_condition": "Very Good",
         "type_of_match": "Regular",
         "referee": {
-          "name":"*n/a",
-          "fouls_per_tackle": 0,
-          "yellow_per_game": 0
+          "name":"Dankert B.",
+          "fouls_per_tackle": 0.66,
+          "yellow_per_game": 3.69
           
         },
         "head_to_head": {
@@ -1830,19 +1831,19 @@
         },
         "summary":{
         "cards":{
-            "discuss":" ",
+            "discuss":"Considering the most recent forma nd ref's issuance rate",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         },
         "corners":{
-            "discuss":" ",
-            "ht": " ",
+            "discuss":"",
+            "ht": "Ov 8.5",
             "ft": " "
         },
         "goals":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         }
       }
     },
@@ -1854,9 +1855,9 @@
         "pitch_condition": "Very Good",
         "type_of_match": "Regular",
         "referee": {
-          "name":"*n/a",
-          "fouls_per_tackle": 0,
-          "yellow_per_game": 0
+          "name":"Storks S.",
+          "fouls_per_tackle": 0.65,
+          "yellow_per_game": 4.67
           
         },
         "head_to_head": {
@@ -2338,17 +2339,17 @@
         "cards":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 3.5"
         },
         "corners":{
-            "discuss":" ",
-            "ht": " ",
+            "discuss":"Considering all factors",
+            "ht": "Ov 8.5",
             "ft": " "
         },
         "goals":{
-            "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "discuss":"Based on form",
+            "ht": "Yes",
+            "ft": "Ov 2.5"
         }
       }
     },
@@ -2360,9 +2361,9 @@
         "pitch_condition": "Very Good",
         "type_of_match": "Regular",
         "referee": {
-          "name":"*n/a",
-          "fouls_per_tackle": 0,
-          "yellow_per_game": 0
+          "name":"Zwayer F.",
+          "fouls_per_tackle": 0.70,
+          "yellow_per_game": 4.11
           
         },
         "head_to_head": {
@@ -2781,19 +2782,19 @@
         },
         "summary":{
         "cards":{
-            "discuss":" ",
+            "discuss":"Considering ref's issuance rate and based on form",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 3.5"
         },
         "corners":{
-            "discuss":" ",
+            "discuss":"Too many inconsistencies to make  call",
             "ht": " ",
             "ft": " "
         },
         "goals":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 1.5"
         }
       }
     },
@@ -2805,9 +2806,9 @@
         "pitch_condition": "Wet",
         "type_of_match": "Regular",
         "referee": {
-          "name":"*n/a",
-          "fouls_per_tackle": 0,
-          "yellow_per_game": 0
+          "name":"Stieler T.",
+          "fouls_per_tackle": 0.75,
+          "yellow_per_game": 3.81
           
         },
         "head_to_head": {
@@ -2958,7 +2959,7 @@
             }
         },
         "home_team" : {
-            "name": "B. Munich",
+            "name": "Bayern Munich",
             "coach": "Vincent Kompany",
             "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/bayern.png",
             "playing_style": "Short passes, Ball retention",
@@ -2972,22 +2973,22 @@
                 "teams": {
                     "match_four": [
                         "Frankfurt",
-                        "B. Munich"
+                        "Bayern Munich"
                     ],
-                    "match_five":["B. Munich", "B. Leverkusen"],
-                    "match_six":["Werder Bremen","B. Munich"],
-                    "match_seven":["Holstein Kiel", "B. Munich"],
+                    "match_five":["Bayern Munich", "B. Leverkusen"],
+                    "match_six":["Werder Bremen","Bayern Munich"],
+                    "match_seven":["Holstein Kiel", "Bayern Munich"],
                     "match_one": [
-                        "B. Munich",
+                        "Bayern Munich",
                         "Freiburg"
                     ],
                     "match_two": [
                         "Wolfsburg",
-                        "B. Munich"
+                        "Bayern Munich"
                     ],
                     "match_three": [
                         "Hoffenheim",
-                        "B. Munich"
+                        "Bayern Munich"
                     ]
                 },
                 "goals": {
@@ -3287,20 +3288,21 @@
         "cards":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         },
         "corners":{
-            "discuss":" ",
-            "ht": " ",
+            "discuss":"Amid the many inconsistencies",
+            "ht": "Ov 7.5",
             "ft": " "
         },
         "goals":{
-            "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "discuss":"Based on form",
+            "ht": "Yes",
+            "ft": "Ov 2.5"
         }
       }
     },
+
     {
         "fixture": "Holstein Kiel vs Union Berlin",
         "league": "🇩🇪 Bundesliga",
