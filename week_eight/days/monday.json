@@ -1,0 +1,853 @@
+[
+    {
+        "fixture": "Verona vs Monza",
+        "league":"🇮🇹 Serie A",
+        "stadium": "Marc'Antonio Bentegodi",
+        "weather": "Scattered showers",
+        "pitch_condition": "Wet",
+        "type_of_match": "Regular",
+        "referee": {
+            "name": "Dionisi F.",
+            "fouls_per_tackle": 1.00,
+            "yellow_per_game": 3.22
+        },
+        "head_to_head": {
+            "teams": {
+                "match_one": [
+                    "Monza",
+                    "Verona"
+                ],
+                "match_two": [
+                    "Verona",
+                    "Monza"
+                ],
+                "match_three": [
+                    "Verona",
+                    "Monza"
+                ],
+                "match_four": [
+                    "Monza",
+                    "Verona"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    0,
+                    0
+                ],
+                "match_two": [
+                    1,
+                    3
+                ],
+                "match_three": [
+                    1,
+                    1
+                ],
+                "match_four": [
+                    2,
+                    0
+                ]
+            },
+            "x_goals": {
+                "match_one": [
+                    0.68,
+                    0.57
+                ],
+                "match_two": [
+                    0.65,
+                    0.78
+                ],
+                "match_three": [
+                    0.68,
+                    1.21
+                ],
+                "match_four": []
+            },
+            "corners": {
+                "match_one": [
+                    5,
+                    2
+                ],
+                "match_two": [
+                    2,
+                    6
+                ],
+                "match_three": [
+                    7,
+                    2
+                ],
+                "match_four": [
+                    5,
+                    2
+                ]
+            },
+            "fouls": {
+                "match_one": [
+                    19,
+                    15
+                ],
+                "match_two": [
+                    6,
+                    12
+                ],
+                "match_three": [
+                    17,
+                    12
+                ],
+                "match_four": [
+                    10,
+                    10
+                ]
+            },
+            "HT_cards": {
+                "match_one": [0,0],
+                "match_two": [
+                    0,
+                    2
+                ],
+                "match_three": [0,0],
+                "match_four": [
+                    2,
+                    1
+                ]
+            },
+            "FT_cards": {
+                "match_one": [
+                    1,
+                    2
+                ],
+                "match_two": [
+                    1,
+                    2
+                ],
+                "match_three": [
+                    2,
+                    0
+                ],
+                "match_four": [
+                    3,
+                    1
+                ]
+            }
+        },
+        "home_team" : {
+            
+            "name": "Verona",
+            "coach": "Paolo Zanetti",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/verona.png",
+            "playing_style": "Long balls; Wide play",
+            "pressing_style": "Aggressive",
+            "attacking_style": "High crossing frequency; Take long shots; High shot volume",
+            "defensive_style": " ",
+            "aggressive_players": ["Ondrej Duda", "Suat Serdar", "Diego Coppola"],
+            "provocative_players": ["Tomás Suslov","Grigoris Kastanos", "Ondrej Duda"],
+            "unavailable_attacking_players": [],
+            "recent_matches": {
+               "teams": {
+                "match_one": ["Verona","Venezia"],
+                "match_two": ["Como","Verona"],
+                "match_three": ["Verona","Torino"],
+                "match_four": ["Lazio", "Verona"],
+                "match_five": ["Genoa", "Verona"],
+                "match_six": ["Verona", "Juventus"],
+                "match_seven": ["Verona","Napoli"]
+              },
+              "goals": {
+                "match_one": [2,1],
+                "match_two": [3,2],
+                "match_three": [2,3],
+                "match_four": [2,1],
+                "match_five": [0,2],
+                "match_six": [0, 3],
+                "match_seven": [3,0]
+              },
+              "x_goals": {
+                "match_one": [2.19,2.02],
+                "match_two": [2.43,1.11],
+                "match_three": [0.50,2.29],
+                "match_four": [1.50,0.82],
+                "match_five": [1.59,1.72],
+                "match_six": [0.42,1.38],
+                "match_seven": [2.07,1.25]
+              },
+              "corners": {
+                "match_one": [13,6],
+                "match_two": [9,1],
+                "match_three": [5,6],
+                "match_four": [9,6],
+                "match_five": [3,1],
+                "match_six": [4, 1],
+                "match_seven": [1,5]
+              },
+              "fouls": {
+                "match_one": [10,5],
+                "match_two": [10,19],
+                "match_three": [10,8],
+                "match_four": [13,10],
+                "match_five": [8,16],
+                "match_six": [8, 8],
+                "match_seven": [15,13]
+              },
+              "HT_cards": {
+                "match_one": [1,0],
+                "match_two": [0,0],
+                "match_three": [2,0],
+                "match_four": [2,1],
+                "match_five": [1,3],
+                "match_six": [0, 0],
+                "match_seven": [2,0]
+              },
+              "FT_cards": {
+                "match_one": [3,0],
+                "match_two": [2,5],
+                "match_three": [4,1],
+                "match_four": [2,2],
+                "match_five": [2,6],
+                "match_six": [2, 0],
+                "match_seven": [4,1]
+              }
+            }
+                      
+          
+          
+          },
+        "away_team": {
+                
+            "name": "Monza",
+            "coach": "Alessandro Nesta",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/monza.png",
+            "playing_style": "Ball Retention; Short passes; Deep positioning",
+            "pressing_style": " ",
+            "attacking_style": " ",
+            "defensive_style": " ",
+            "aggressive_players": ["Armando Izzo","Patrick Ciurria","Milan Djuric"],
+            "provocative_players": ["Matteo Pessina"],
+            "unavailable_attacking_players": [],
+            "recent_matches": {
+                "teams": {
+                  "match_two": ["Monza","AS Roma"],
+                  "match_three": ["Napoli","Monza"],
+                  "match_four": ["Monza","Bologna"],
+                  "match_five": ["Monza", "Inter"],
+                  "match_six":["Monza","Genoa"],
+                  "match_seven": ["Empoli","Monza"],
+                  "match_one": ["Juventus","Monza"]
+            },
+              "goals": {
+                "match_two": [1,1],
+                "match_three": [2,0],
+                "match_four": [1,2],
+                "match_five": [1,1],
+                "match_six":[0,1],
+                "match_seven": [0,0],
+                "match_one": [2,0]
+              },
+              "x_goals": {
+                "match_two": [1.40,1.19],
+                "match_three": [1.58,0.14],
+                "match_four": [0.65,0.85],
+                "match_five": [0.43,1.89],
+                "match_six":[0.36,0.66],
+                "match_seven": [0.91,0.46],
+                "match_one": [0.98,0.65]
+              },
+              "corners": {
+                "match_two": [1,3],
+                "match_three": [1,3],
+                "match_four": [2,2],
+                "match_five": [1,8],
+                "match_six":[8,3],
+                "match_seven": [7,3],
+                "match_one": [3,4]
+              },
+              "fouls": {
+                "match_two": [16,13],
+                "match_three": [16,8],
+                "match_four": [20,16],
+                "match_five": [11,19],
+                "match_six":[6,17],
+                "match_seven": [16,19],
+                "match_one": [15,13]
+              },
+              "HT_cards": {
+                "match_two": [0,1],
+                "match_three": [1,2],
+                "match_four": [2,0],
+                "match_five": [0,0],
+                "match_six":[1.0],
+                "match_seven": [0,0],
+                "match_one": [0,1]
+              },
+              "FT_cards": {
+                "match_two": [3,1],
+                "match_three": [1,2],
+                "match_four": [3,2],
+                "match_five": [1,2],
+                "match_six":[2,3],
+                "match_seven": [0,2],
+                "match_one": [1,3]
+                }
+            }
+                  
+            
+         
+          
+          },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": "Ov 2.5"
+        },
+        "corners":{
+            "discuss":"Results too inconsistent, however",
+            "ht": "U 11.5",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":"While Verona matches has seen multiple goals, Monza has struggle to create and convert chnaces in recnt games",
+            "ht": " ",
+            "ft": "U 4.5"
+        }
+      }
+    },
+    {
+        "fixture": "Nottingham vs Crystal Palace",
+        "league": "🇬🇧 Premier League",
+        "stadium": "City Ground",
+        "weather": "Cloudy",
+        "pitch_condition": "Good",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Robinson T.",
+          "fouls_per_tackle": 0.70,
+          "yellow_per_game": 4.24
+        },
+        "head_to_head": {
+        "teams": {
+            "match_one": [
+                "Nottingham",
+                "Crystal Palace"
+            ],
+            "match_two": [
+                "Crystal Palace",
+                "Nottingham"
+            ],
+            "match_three": [
+                "Crystal Palace",
+                "Nottingham"
+            ],
+            "match_four": [
+                "Nottingham",
+                "Crystal Palace"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                1,
+                1
+            ],
+            "match_two": [
+                0,
+                0
+            ],
+            "match_three": [
+                1,
+                1
+            ],
+            "match_four": [
+                1,
+                0
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                0.99,
+                1.05
+            ],
+            "match_two": [
+                0.92,
+                1.32
+            ],
+            "match_three": [
+                1.73,
+                0.46
+            ],
+            "match_four": []
+        },
+        "corners": {
+            "match_one": [
+                4,
+                6
+            ],
+            "match_two": [
+                3,
+                7
+            ],
+            "match_three": [
+                5,
+                4
+            ],
+            "match_four": [
+                1,
+                5
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                14,
+                12
+            ],
+            "match_two": [
+                7,
+                12
+            ],
+            "match_three": [
+                9,
+                13
+            ],
+            "match_four": [
+                11,
+                13
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                0,
+                0
+            ],
+            "match_two": [
+                0,
+                0
+            ],
+            "match_three": [
+                0,
+                1
+            ],
+            "match_four": [
+                0,
+                1
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                1,
+                1
+            ],
+            "match_two": [
+                0,
+                1
+            ],
+            "match_three": [
+                0,
+                2
+            ],
+            "match_four": [
+                1,
+                4
+            ]
+        }
+    },
+        "home_team" : {
+        
+            "name": "Nottingham",
+            "coach": "Nuno Espírito Santo",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/nottingham_forest.png",
+            "playing_style": "Long balls; Wide play; Deep positioning",
+            "pressing_style": " ",
+            "attacking_style": "Take long shots; High shot volume",
+            "defensive_style": " ",
+            "aggressive_players": ["Murillo","Ryan Yates"],
+            "provocative_players": ["Morgan Gibbs-White","Ryan Yates"],
+            "unavailable_attacking_players": [],
+            "recent_matches": {
+               "teams": {
+                "match_one": ["Chelsea","Nottingham"],
+                "match_two": ["Nottingham","Fulham"],
+                "match_three": ["Brighton","Nottingham"],
+                "match_four": ["Liverpool","Nottingham"],
+                "match_five": ["Nottingham", "Wolves"],
+                 "match_six": ["Southampton", "Nottingham"],
+                "match_seven": ["Nottingham","Bournemouth"]
+                },
+              "goals": {
+                "match_one": [1,1],
+                "match_two": [0,1],
+                "match_three": [2,2],
+                "match_four": [0,1],
+                "match_five": [1,1],
+               "match_six":[0,1],
+                "match_seven": [1,1]
+                },
+                "x_goals": {
+                  "match_one": [2.25,1.07],
+                  "match_two": [0.67,1.47],
+                    "match_three": [0.84,1.27],
+                  "match_four": [0.89,0.47],
+                  "match_five": [1.66,1.36],
+                 "match_six":[0.26,2.14],
+                  "match_seven": [1.28,1.53]
+                },
+                "corners": {
+                  "match_one": [11,3],
+                  "match_two": [6,5],
+                    "match_three": [9,1],
+                  "match_four": [7,2],
+                  "match_five": [7,3],
+                 "match_six":[4,10],
+                  "match_seven": [2,6]
+                },
+                "fouls": {
+                  "match_one": [12,11],
+                  "match_two": [11,15],
+                    "match_three": [12,11],
+                  "match_four": [15,6],
+                  "match_five": [15,18],
+                 "match_six":[14,13],
+                  "match_seven": [18,9]
+                },
+                "HT_cards": {
+                  "match_one": [1,1],
+                  "match_two": [1,0],
+                    "match_three": [2,1],
+                  "match_four": [0,2],
+                  "match_five": [1,3],
+                 "match_six":[2,0],
+                  "match_seven": [0,1]
+                },
+                "FT_cards": {
+                  "match_one": [6,5],
+                  "match_two": [2,4],
+                    "match_three": [3,7],
+                  "match_four": [4,4],
+                  "match_five": [3,4],
+                 "match_six":[3,3],
+                  "match_seven": [1,3]
+                }
+              }
+               
+          
+        
+          },
+        "away_team": {
+        
+            "name": "Crystal Palace",
+            "coach": "Oliver Glasner",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/crystal_palace.png",
+            "playing_style": "Long balls",
+            "pressing_style": " ",
+            "attacking_style": "High shot volume; Wide paly; Take long shots",
+            "defensive_style": "Compact",
+            "aggressive_players": ["Jordan Ayew","Jefferson Lerma","Joachim","Andersen","Will Hughes","Daichi Kamada"],
+            "provocative_players": ["Eberechi Eze", "Jordan Ayew","Ismaïla Sarr"],
+            "unavailable_attacking_players": [],
+            "recent_matches": {
+               "teams": {
+                "match_one": ["Crystal Palace","Liverpool"],
+                "match_two": ["Everton","Crystal Palace"],
+                "match_three": ["Crystal Palace","Man United"],
+                "match_four": ["Crystal Palace","Leicester"],
+                "match_five": ["Chelsea", "Crystal Palace"],
+                "match_six": ["Crystal Palace", "West Ham"],
+                "match_seven": ["Brentford","Crystal Palace"]
+            },
+              
+              "goals": {
+                "match_one": [0,1],
+                "match_two": [2,1],
+                "match_three": [0,0],
+                "match_four": [2,2],
+                "match_five": [1,1],
+                "match_six": [0,2],
+                "match_seven": [2,1]
+              },
+              "x_goals": {
+                "match_one": [0.79,1.27],
+                "match_two": [1.15,0.89],
+                "match_three": [1.03,1.86],
+                "match_four": [2.17,1.13],
+                "match_five": [2.34,0.52],
+                "match_six": [1.37,1.41],
+                "match_seven": [1.52,1.06]
+              },
+              "corners": {
+                "match_one": [3,8],
+                "match_two": [5,8],
+                "match_three": [4,11],
+                "match_four": [5,2],
+                "match_five": [4,4],
+                "match_six": [3,3],
+                "match_seven": [4,7]
+              },
+              "fouls": {
+                "match_one": [7,15],
+                "match_two": [13,11],
+                "match_three": [7,12],
+                "match_four": [11,15],
+                "match_five": [9,13],
+                "match_six": [9,17],
+                "match_seven": [6,15]
+              },
+              "HT_cards": {
+                "match_one": [0,2],
+                "match_two": [0,0],
+                "match_three": [0,1],
+                "match_four": [0,0],
+                "match_five": [2,1],
+                "match_six": [0,0],
+                "match_seven": [1,2]
+              },
+              "FT_cards": {
+                "match_one": [4,2],
+                "match_two": [2,0],
+                "match_three": [3,2],
+                "match_four": [0,3],
+                "match_five": [4,2],
+                "match_six": [1,1],
+                "match_seven": [1,5]
+              }
+              }
+         
+        
+          },
+        "summary":{
+        "cards":{
+            "discuss":"Amid the inconsistency",
+            "ht": " ",
+            "ft": "Ov 2.5"
+        },
+        "corners":{
+            "discuss":"Considering both team's style of play and form",
+            "ht": "Ov 8.5",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": "U 3.5"
+        }
+      }
+    },
+    {
+        "fixture": "Valencia vs Las Palmas",
+        "stadium": "Mestalla",
+        "weather": "Partly Cloudy",
+        "pitch_condition": "Good",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Gil Manzano J.",
+          "fouls_per_tackle": 0.78,
+          "yellow_per_game": 4.61
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["Las Palmas", "Valencia"],
+            "match_two": ["Valencia", "Las Palmas"]
+          },
+          "goals": {
+            "match_one": [2, 0],
+            "match_two": [1, 0]
+          },
+          "x_goals": {
+            "match_one": [1.29, 0.45],
+            "match_two": [1.54, 0.52]
+          },
+          "corners": {
+            "match_one": [5, 0],
+            "match_two": [6, 4]
+          },
+          "fouls": {
+            "match_one": [9, 9],
+            "match_two": [12, 6]
+          },
+          "HT_cards": {
+            "match_one": [0, 0],
+            "match_two": [0, 0]
+          },
+          "FT_cards": {
+            "match_one": [2, 0],
+            "match_two": [0, 0]
+          }
+        },
+        "home_team" : {
+          "name": "Valencia",
+      "coach": "Rubén Baraja",
+      "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/valencia.png",
+      "playing_style": "Wide play; Long balls; Plays in own half",
+      "pressing_style": "Non-aggressive",
+      "attacking_style": "Attacking down the right; Take long shots; ",
+      "defensive_style": "Compact",
+      "aggressive_players": ["Hugo Guillamón","Pepelu","Thierry Correia"],
+      "provocative_players": ["Hugo Duro"],
+      "unavailable_attacking_players": [],
+      "recent_matches": {
+      "teams": {
+        "match_seven": ["Leganes", "Valencia"],
+        "match_one": ["Real Sociedad","Valencia"],
+      "match_two": ["Valencia","Girona"],
+      "match_three": ["Atl. Madrid","Valencia"],
+      "match_four": ["Valencia", "Villarreal"],
+      "match_five": ["Ath Bilbao","Valencia"],
+      "match_six": ["Celta Vigo", "Valencia"]
+      },
+      
+      "goals": {
+        "match_seven": [0,0],
+        "match_one": [3,0],
+      "match_two": [2,0],
+      "match_three": [3,0],
+      "match_four": [1,1],
+      "match_five": [1,0],
+      "match_six": [3,1]
+      },
+      "x_goals": {
+        "match_seven": [0.51,0.60],
+        "match_one": [2.34,0.41],
+      "match_two": [0.69,0.75],
+      "match_three": [3.20,0.15],
+      "match_four": [1.28,0.45],
+      "match_five": [1.07,0.06],
+      "match_six": [1.77,0.71]
+      },
+      "corners": {
+        "match_seven": [1,2],
+        "match_one": [6,4],
+      "match_two": [5,4],
+      "match_three": [7,3],
+      "match_four": [14,3],
+      "match_five": [5,3],
+      "match_six": [4,7]
+      },
+      "fouls": {
+        "match_seven": [15,14],
+        "match_one": [7,12],
+      "match_two": [13,10],
+      "match_three": [10,8],
+      "match_four": [15,11],
+      "match_five": [14,9],
+      "match_six": [9,11]
+      },
+      "HT_cards": {
+        "match_seven": [1,1],
+        "match_one": [0,0],
+      "match_two": [0,2],
+      "match_three": [1,2],
+      "match_four": [1,1],
+      "match_five": [0,2],
+      "match_six": [1,0]
+      },
+      "FT_cards": {
+        "match_seven": [2,2],
+        "match_one": [0,0],
+      "match_two": [3,2],
+      "match_three": [1,2],
+      "match_four": [3,6],
+      "match_five": [1,3],
+      "match_six": [3,0]
+      }
+      }
+      
+      
+      
+        
+        },
+        "away_team": {
+          "name": "Las Palmas",
+          "coach": "Luis Miguel Carrión",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/las_palmas.png",
+          "playing_style": "Ball Retention; Short passes; Deep positioning; Draws fouls",
+          "pressing_style": "Non-aggressive",
+          "attacking_style": "Take long shots; Attacking down the left",
+          "defensive_style": "High Line; Use offside positioning",
+          "aggressive_players": ["Jaime Mata"],
+          "provocative_players": ["Sandro Ramírez"],
+          "unavailable_attacking_players": [],
+          "recent_matches": {
+             "teams": {
+              "match_seven": ["Las Palmas","Celta Vigo"],
+              "match_one": ["Villarreal","Las Palmas"],
+              "match_two": ["Osasuna","Las Palmas"],
+              "match_three":["Las Palmas","Ath Bilbao"],
+              "match_four":["Alaves","Las Palmas"],
+              "match_five": ["Las Palmas","Real Madrid"],
+              "match_six": ["Leganes", "Las Palmas"]
+        },
+            "goals": {
+              "match_seven": [0,1],
+              "match_one": [3,1],
+              "match_two": [2,1],
+              "match_three":[2,3],
+              "match_four":[2,0],
+              "match_five": [1,1],
+              "match_six": [2,1]
+            },
+            "x_goals": {
+              "match_seven": [1.64,0.75],
+              "match_one": [2.68,0.75],
+              "match_two": [1.57,1.05],
+              "match_three":[1.65,2.38],
+              "match_four":[2.05,0.94],
+              "match_five": [0.81,2.74],
+              "match_six": [1.76,0.76]
+            },
+            "corners": {
+              "match_seven": [11,2],
+              "match_one": [3,2],
+              "match_two": [2,4],
+              "match_three":[9,3],
+              "match_four":[6,5],
+              "match_five": [2,6],
+              "match_six": [3,7]
+            },
+            "fouls": {
+              "match_seven": [9,13],
+              "match_one": [15,11],
+              "match_two": [14,11],
+              "match_three":[8,12],
+              "match_four":[13,9],
+              "match_five": [16,13],
+              "match_six": [11,10]
+            },
+            "HT_cards": {
+              "match_seven": [1,2],
+              "match_one": [0,1],
+              "match_two": [0,3],
+              "match_three":[1,2],
+              "match_four":[2,0],
+              "match_five": [0,1],
+              "match_six": [1,1]
+            },
+            "FT_cards": {
+              "match_seven": [3,10],
+              "match_one": [0,3],
+              "match_two": [2,5],
+              "match_three":[1,3],
+              "match_four":[3,0],
+              "match_five": [0,2],
+              "match_six": [1,1]
+            }
+          }    
+        
+        
+        
+        },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": "Ov 2.5"
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": "Ov 7.5",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":"Based on form",
+            "ht": " ",
+            "ft": "U 3.5"
+        }
+      }
+    }
+
+]
