@@ -1353,7 +1353,7 @@
         }
       }
     },
-    
+
     {
         "fixture": "Empoli vs Napoli",
         "league":"🇮🇹 Serie A",
@@ -2694,36 +2694,36 @@
                 2,
                 4
             ],
-            "match_two": [],
-            "match_three": [],
-            "match_four": [],
+            "match_two": [1,0],
+            "match_three": [0,2],
+            "match_four": [1,2],
             "match_five": [
                 3,
                 1
             ]
         },
         "x_goals": {
-            "match_one": [],
-            "match_two": [],
-            "match_three": [],
+            "match_one": [0.82,0.94],
+            "match_two": [2.08,0.12],
+            "match_three": [0.99,0.89],
             "match_four": [],
             "match_five": []
         },
         "corners": {
-            "match_one": [],
-            "match_two": [],
-            "match_three": [],
-            "match_four": [],
+            "match_one": [3,8],
+            "match_two": [8,0],
+            "match_three": [12,5],
+            "match_four": [5,1],
             "match_five": [
                 4,
                 3
             ]
         },
         "fouls": {
-            "match_one": [],
-            "match_two": [],
-            "match_three": [],
-            "match_four": [],
+            "match_one": [9,14],
+            "match_two": [14,9],
+            "match_three": [8,12],
+            "match_four": [15,14],
             "match_five": [
                 11,
                 13
@@ -2735,8 +2735,8 @@
                 0
             ],
             "match_two": [
-                0,
-                0
+                1,
+                1
             ],
             "match_three": [
                 1,
@@ -2752,10 +2752,10 @@
             ]
         },
         "FT_cards": {
-            "match_one": [],
-            "match_two": [],
-            "match_three": [],
-            "match_four": [],
+            "match_one": [2,0],
+            "match_two": [3,4],
+            "match_three": [3,2],
+            "match_four": [4,3],
             "match_five": [
                 2,
                 2
