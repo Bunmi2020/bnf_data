@@ -12,68 +12,68 @@
     "unavailable_attacking_players": [],
     "recent_matches": {
         "teams": {
+          "match_seven": ["Liverpool","Chelsea"],
           "match_one": ["Chelsea","Nottingham"],
           "match_two": ["Chelsea"," Brighton"],
             "match_three": ["West Ham","Chelsea"],
           "match_four": ["Bournemouth","Chelsea"],
         "match_five": ["Chelsea", "Crystal Palace"],
-          "match_six": ["Wolves", "Chelsea"],
-        "match_seven": ["Chelsea","Man City"]
+          "match_six": ["Wolves", "Chelsea"]
     },
     
     "goals": {
+      "match_seven": [2,1],
       "match_one": [1,1],
       "match_two": [4,2],
         "match_three": [0,3],
       "match_four": [0,1],
       "match_five": [1,1],
-      "match_six": [2,6],
-      "match_seven": [0,2]
+      "match_six": [2,6]
       },
       "x_goals": {
+        "match_seven": [1.63,0.93],
         "match_one": [2.25,1.07],
         "match_two": [3.31,1.14],
         "match_three": [1.02,2.48],
         "match_four": [2.16,0.87],
         "match_five": [2.34,0.52],
-        "match_six": [2.16,2.65],
-        "match_seven": [0.62,0.82]
+        "match_six": [2.16,2.65]
       },
       "corners": {
+        "match_seven": [1,5],
         "match_one": [11,3],
         "match_two": [8,2],
         "match_three": [6,5],
         "match_four": [6,3],
         "match_five": [4,4],
-        "match_six": [5,5],
-        "match_seven": [4,3]
+        "match_six": [5,5]
       },
       "fouls": {
+        "match_seven": [12,13],
         "match_one": [12,11],
         "match_two": [11,8],
         "match_three": [17,10],
         "match_four": [16,9],
         "match_five": [9,13],
-        "match_six": [13,13],
-        "match_seven": [12,9]
+        "match_six": [13,13]
       },
       "HT_cards": {
+        "match_seven": [1,2],
         "match_one": [1,1],
         "match_two": [2,2],
         "match_three": [0,1],
         "match_four": [3,3],
         "match_five": [2,1],
-        "match_six": [1,2],
-        "match_seven": [0,0]
+        "match_six": [1,2]
       },
       "FT_cards": {
+        "match_seven": [4,3],
         "match_one": [6,5],
         "match_two": [3,2],
         "match_three": [5,2],
         "match_four": [6,8],
         "match_five": [4,2],
-        "match_six": [2,3],
-        "match_seven": [1,1]
+        "match_six": [2,3]
       }
     }
       
