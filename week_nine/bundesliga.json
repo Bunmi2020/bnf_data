@@ -283,7 +283,7 @@
                         "B. Monchengladbach"
                     ],
                     "match_five": ["B. Monchengladbach", "Union Berlin"],
-                    "match_six":["Eintracht Frankfurt","B. Monchengladbach"],
+                    "match_six":["E. Frankfurt","B. Monchengladbach"],
                     "match_seven": ["B. Monchengladbach", "Stuttgart"],
                     "match_one": [
                         "Bochum",
@@ -793,7 +793,7 @@
                 "match_six": ["Stuttgart","Dortmund"],
                 "match_seven": ["Dortmund", "Heidenheim"],
                 "match_one": ["Werder Bremen","Dortmund"],
-                "match_two": ["Dortmund","Eintracht Frankfurt"]
+                "match_two": ["Dortmund","E. Frankfurt"]
             },
             "goals": {
                 "match_three": [
@@ -1667,7 +1667,7 @@
                     ],
                     "match_five":["Wolfsburg","Stuttgart"],
                     "match_six": ["Bayer Leverkusen","Wolfsburg"],
-                    "match_seven": ["Wolfsburg", "Eintracht Frankfurt"],
+                    "match_seven": ["Wolfsburg", "E. Frankfurt"],
                     "match_one": [
                         "Holstein Kiel",
                         "Wolfsburg"
@@ -2562,7 +2562,7 @@
             "teams": {
                 "match_three": [
                     "B. Leverkusen",
-                    "Eintracht Frankfurt"
+                    "E. Frankfurt"
                 ],
                 "match_four": [
                     "B. Leverkusen",
@@ -3055,7 +3055,7 @@
         
         },
         "away_team": {
-            "name": "B. Munich",
+            "name": "Bayern Munich",
             "coach": "Vincent Kompany",
             "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/bayern.png",
             "playing_style": "Short passes, Ball retention",
@@ -3221,23 +3221,23 @@
         "summary":{
         "cards":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "U 2.5",
+            "ft": "U 5.5"
         },
         "corners":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Ov 7.5",
+            "ft": "Bayern Munich"
         },
         "goals":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         }
       }
     },
     {
-        "fixture": "Union Berlin vs Eintracht Frankfurt",
+        "fixture": "Union Berlin vs E. Frankfurt",
         "league": "🇩🇪 Bundesliga",
         "stadium": "An der Alten Försterei",
         "weather": "Partly cloudy",
@@ -3251,23 +3251,23 @@
         "head_to_head": {
             "teams": {
                 "match_one": [
-                    "Eintracht Frankfurt",
+                    "E. Frankfurt",
                     "Union Berlin"
                 ],
                 "match_two": [
                     "Union Berlin",
-                    "Eintracht Frankfurt"
+                    "E. Frankfurt"
                 ],
                 "match_three": [
-                    "Eintracht Frankfurt",
+                    "E. Frankfurt",
                     "Union Berlin"
                 ],
                 "match_four": [
                     "Union Berlin",
-                    "Eintracht Frankfurt"
+                    "E. Frankfurt"
                 ],
                 "match_five": [
-                    "Eintracht Frankfurt",
+                    "E. Frankfurt",
                     "Union Berlin"
                 ]
             },
@@ -3573,14 +3573,14 @@
             "teams": {
                 "match_three": [
                     "B. Leverkusen",
-                    "Eintracht Frankfurt"
+                    "E. Frankfurt"
                 ],
                 "match_four": [
                     "Frankfurt",
                     "B. Munich"
                 ],
                 "match_five": ["Holstein Kiel", "Frankfurt"],
-                "match_six":["Eintracht Frankfurt","B. Monchengladbach"],
+                "match_six":["E. Frankfurt","B. Monchengladbach"],
                 "match_seven": ["Wolfsburg", "Frankfurt"],
                 "match_one": [
                     "Frankfurt",
@@ -3724,18 +3724,18 @@
         "summary":{
         "cards":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "U 2.5",
+            "ft": "Ov 3.5"
         },
         "corners":{
             "discuss":" ",
-            "ht": " ",
+            "ht": "Ov 7.5",
             "ft": " "
         },
         "goals":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "U 4.5"
         }
       }
     },
@@ -4151,19 +4151,19 @@
         },
         "summary":{
         "cards":{
-            "discuss":" ",
+            "discuss":"Based on form, in the absence if ref data",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         },
         "corners":{
             "discuss":" ",
-            "ht": " ",
+            "ht": "Ov 7.5",
             "ft": " "
         },
         "goals":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Yes",
+            "ft": "Ov 1.5"
         }
       }
     }

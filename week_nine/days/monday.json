@@ -1,0 +1,347 @@
+[
+    {
+        "fixture": "Mallorca vs Ath Bilbao",
+        "league":"🇪🇸 La Liga",
+        "stadium": "Mallorca Son Moix",
+        "weather": "Showers",
+        "pitch_condition": "Wet",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Munuera J.",
+          "fouls_per_tackle": 0.81,
+          "yellow_per_game": 4.28
+        },
+        "head_to_head": {
+            "teams": {
+                "match_one": [
+                    "Ath Bilbao",
+                    "Mallorca"
+                ],
+                "match_two": [
+                    "Ath Bilbao",
+                    "Mallorca"
+                ],
+                "match_three": [
+                    "Mallorca",
+                    "Ath Bilbao"
+                ],
+                "match_four": [
+                    "Mallorca",
+                    "Ath Bilbao"
+                ],
+                "match_five": [
+                    "Ath Bilbao",
+                    "Mallorca"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    2,
+                    1
+                ],
+                "match_two": [
+                    4,
+                    0
+                ],
+                "match_three": [
+                    0,
+                    0
+                ],
+                "match_four": [
+                    1,
+                    1
+                ],
+                "match_five": [
+                    0,
+                    0
+                ]
+            },
+            "x_goals": {
+                "match_one": [
+                    2.19,
+                    0.56
+                ],
+                "match_two": [
+                    2.1,
+                    0.37
+                ],
+                "match_three": [
+                    0.45,
+                    0.67
+                ],
+                "match_four": [
+                    1.18,
+                    0.92
+                ],
+                "match_five": []
+            },
+            "corners": {
+                "match_one": [
+                    8,
+                    4
+                ],
+                "match_two": [
+                    6,
+                    2
+                ],
+                "match_three": [
+                    3,
+                    5
+                ],
+                "match_four": [
+                    5,
+                    7
+                ],
+                "match_five": [
+                    7,
+                    2
+                ]
+            },
+            "fouls": {
+                "match_one": [
+                    16,
+                    22
+                ],
+                "match_two": [
+                    17,
+                    15
+                ],
+                "match_three": [
+                    12,
+                    17
+                ],
+                "match_four": [
+                    17,
+                    8
+                ],
+                "match_five": [
+                    13,
+                    12
+                ]
+            },
+            "HT_cards": {
+                "match_one": [
+                    1,
+                    0
+                ],
+                "match_two": [
+                    0,
+                    0
+                ],
+                "match_three": [
+                    0,
+                    1
+                ],
+                "match_four": [
+                    3,
+                    1
+                ],
+                "match_five": [
+                    0,
+                    3
+                ]
+            },
+            "FT_cards": {
+                "match_one": [
+                    1,
+                    2
+                ],
+                "match_two": [
+                    0,
+                    1
+                ],
+                "match_three": [
+                    0,
+                    1
+                ],
+                "match_four": [
+                    4,
+                    2
+                ],
+                "match_five": [
+                    0,
+                    6
+                ]
+            }
+        },
+        "home_team" : {
+            "name": "Mallorca",
+            "coach": "Jagoba Arrasate",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/mallorca.png",
+            "playing_style": "Wide play; Long balls",
+            "pressing_style": "Aggressive",
+            "attacking_style": "Attemps crosses often; Attempst through balls often; Attack through the middle",
+            "defensive_style": " ",
+            "aggressive_players": ["Copete","Samú Costa","Dani Rodríguez","Vedat Muriq"],
+            "provocative_players": ["Samú Costa","Vedat Muriqi"],
+            "unavailable_attacking_players": [],
+        
+            "recent_matches": {
+            "teams": {
+                "match_six": ["Mallorca", "Rayo Vallecano"],
+                "match_seven": ["Espanyol","Mallorca"],
+            "match_one": ["Betis","Mallorca"],
+            "match_two": ["Mallorca","Real Sociedad"],
+            "match_three": ["Mallorca","Villarreal"],
+            "match_four": ["Leganes", "Mallorca"],
+            "match_five": ["Mallorca","Sevilla"]
+            },
+        
+            "goals": {
+                "match_six": [1,0],
+                "match_seven": [2,1],
+            "match_one": [1,2],
+            "match_two": [1,0],
+            "match_three": [1,2],
+            "match_four":[0,1],
+            "match_five": [0,0]
+            },
+            "x_goals": {
+                "match_six": [2.37,0.59],
+                "match_seven": [0.78,1.00],
+            "match_one": [1.59,1.15],
+            "match_two": [1.27,0.58],
+            "match_three": [0.39,1.45],
+            "match_four":[0.37,1.16],
+            "match_five": [1.38,1.00]
+            },
+            "corners": {
+                "match_six": [9,2],
+                "match_seven": [4,6],
+            "match_one": [6,3],
+            "match_two": [5,5],
+            "match_three": [7,6],
+            "match_four":[1,3],
+            "match_five": [5,9]
+            },
+            "fouls": {
+                "match_six": [9,13],
+                "match_seven": [14,19],
+            "match_one": [12,14],
+            "match_two": [5,10],
+            "match_three": [11,10],
+            "match_four":[11,17],
+            "match_five": [15,10]
+            },
+            "HT_cards": {
+                "match_six": [1,1],
+                "match_seven": [0,0],
+            "match_one": [3,0],
+            "match_two": [0,0],
+            "match_three": [2,1],
+            "match_four":[0,0],
+            "match_five": [0,0]
+            },
+            "FT_cards": {
+                "match_six": [1,1],
+                "match_seven": [1,5],
+            "match_one": [3,3],
+            "match_two": [1,1],
+            "match_three": [4,3],
+            "match_four":[1,3],
+            "match_five": [0,2]
+            }
+            }        
+          
+          
+        },
+        "away_team": {
+            "name": "Ath Bilbao",
+        "coach": "Ernesto Valverde",
+        "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/ath_bilbao.png",
+        "playing_style": "High territorial control",
+        "pressing_style": " ",
+        "attacking_style": "Attacking down the right; High crossing frequency; Frequent through ball attempts",
+        "defensive_style": " ",
+        "aggressive_players": ["Ruíz Galarreta ","Gorka Guruzeta"],
+        "provocative_players": ["Ruíz Galarreta","Inaki Williams"],
+        "unavailable_attacking_players": [],
+        
+        "recent_matches": {
+        "teams": {
+          "match_five": ["Ath Bilbao","Espanyol"],
+          "match_six": ["Girona","Ath Bilbao"],
+          "match_seven": ["Ath Bilbao","Sevilla"],
+        "match_one": ["Ath Bilbao","Celta Vigo"],
+        "match_two": ["Leganes","Ath Bilbao"],
+        "match_three":["Las Palmas","Ath Bilbao"],
+        "match_four": ["Ath Bilbao", "Atl. Madrid"]
+        },
+        "goals": {
+          "match_five": [4,1],
+          "match_six": [2,1],
+          "match_seven": [1,1],
+        "match_one": [3,1],
+        "match_two": [0,2],
+        "match_three":[2,3],
+        "match_four": [0,1]
+        },
+        "x_goals": {
+          "match_five": [1.04,0.27],
+          "match_six": [2.29,2.34],
+          "match_seven": [0.92,1.10],
+        "match_one": [0.75,1.09],
+        "match_two": [0.77,0.90],
+        "match_three":[1.65,2.38],
+        "match_four": [0.63,1.7]
+        },
+        "corners": {
+          "match_five": [5,5],
+          "match_six": [6,1],
+          "match_seven": [4,7],
+        "match_one": [3,6],
+        "match_two": [4,7],
+        "match_three":[9,3],
+        "match_four": [2,2]
+        },
+        "fouls": {
+          "match_five": [15,22],
+          "match_six": [12,13],
+          "match_seven": [6,7],
+        "match_one": [16,11],
+        "match_two": [12,11],
+        "match_three":[8,12],
+        "match_four": [13,9]
+        },
+        "HT_cards": {
+          "match_five": [1,0],
+          "match_six": [1,1],
+          "match_seven": [0,0],
+        "match_one": [2,0],
+        "match_two": [1,0],
+        "match_three":[1,2],
+        "match_four": [3,0]
+        },
+        "FT_cards": {
+          "match_five": [2,3],
+          "match_six": [4,4],
+          "match_seven": [0,3],
+        "match_one": [3,2],
+        "match_two": [3,0],
+        "match_three":[1,3],
+        "match_four": [3,1]
+        }
+        }   
+        
+        
+          
+          },
+        "summary":{
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": "Ov 2.5"
+        },
+        "corners":{
+            "discuss":" ",
+            "ht": "Ov 7.5",
+            "ft": "Ath Bilbao"
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": "U 4.5"
+        }
+      }
+    }
+]

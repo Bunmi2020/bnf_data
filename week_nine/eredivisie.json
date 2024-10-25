@@ -1695,7 +1695,7 @@
                     3,
                     2
                 ],
-                "match_two": [],
+                "match_two": [0,0],
                 "match_three": [
                     1,
                     0
@@ -1874,17 +1874,17 @@
         "cards":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         },
         "corners":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Ov 7.5",
+            "ft": "Feyenoord"
         },
         "goals":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Yes",
+            "ft": "Ov 2.5"
         }
       }
     },
@@ -2211,17 +2211,17 @@
         "cards":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         },
         "corners":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Ov 7.5",
+            "ft": "Twente"
         },
         "goals":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 1.5"
         }
       }
     },
@@ -2517,15 +2517,15 @@
         "cards":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         },
         "corners":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Ov 7.5",
+            "ft": "Ajax"
         },
         "goals":{
-            "discuss":" ",
+            "discuss":"Too many inconsistencies to make a call",
             "ht": " ",
             "ft": " "
         }
@@ -2668,7 +2668,7 @@
                 ]
             },
             "FT_cards": {
-                "match_one": [],
+                "match_one": [0,0],
                 "match_two": [
                     2,
                     3
@@ -2849,19 +2849,19 @@
           },
         "summary":{
         "cards":{
-            "discuss":" ",
+            "discuss":"Based on form, however risky",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         },
         "corners":{
-            "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "discuss":"Based on form",
+            "ht": "Ov 7.5",
+            "ft": "AZ Alkmaar"
         },
         "goals":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         }
       }
     }
