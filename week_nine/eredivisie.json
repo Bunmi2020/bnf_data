@@ -333,6 +333,7 @@
         }
       }
     },
+
     {
         "fixture": "Sittard vs Groningen",
         "league": "🇳🇱 Eredivisie",
@@ -467,7 +468,7 @@
                 ]
             },
             "FT_cards": {
-                "match_one": [],
+                "match_one": [0,0],
                 "match_two": [
                     1,
                     0
@@ -650,17 +651,17 @@
         "cards":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         },
         "corners":{
             "discuss":" ",
-            "ht": " ",
+            "ht": "Ov 8.5",
             "ft": " "
         },
         "goals":{
-            "discuss":" ",
+            "discuss":"Despite the inconsistencies in their recent results",
             "ht": " ",
-            "ft": " "
+            "ft": "U 4.5"
         }
       }
     },
@@ -988,17 +989,17 @@
         "cards":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "U 5.5"
         },
         "corners":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Ov 8.5",
+            "ft": "PSV"
         },
         "goals":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "U 4.5"
         }
       }
     },
@@ -1200,18 +1201,18 @@
         "summary":{
         "cards":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "U 2.5",
+            "ft": "U 5.5"
         },
         "corners":{
             "discuss":" ",
-            "ht": " ",
+            "ht": "Ov 7.5",
             "ft": " "
         },
         "goals":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "U 4.5"
         }
       }
     },
@@ -1537,21 +1538,22 @@
         "summary":{
         "cards":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "U 2.5",
+            "ft": "U 5.5"
         },
         "corners":{
             "discuss":" ",
-            "ht": " ",
+            "ht": "Ov 7.5",
             "ft": " "
         },
         "goals":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Yes",
+            "ft": "U 4.5"
         }
       }
     },
+
     {
         "fixture": "Utrecht vs Feyenoord",
         "league": "🇳🇱 Eredivisie",

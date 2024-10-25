@@ -549,6 +549,7 @@
         }
       }
     },
+
     {
         "fixture": "Napoli vs Lecce",
         "league":"🇮🇹 Serie A",
@@ -689,7 +690,7 @@
                 ]
             },
             "FT_cards": {
-                "match_one": [],
+                "match_one": [0,0],
                 "match_two": [
                     3,
                     2
@@ -870,19 +871,19 @@
         },
         "summary":{
         "cards":{
-            "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "discuss":"Based on forma dn ref's issuance rate",
+            "ht": "Ov 1.5",
+            "ft": "Ov 2.5"
         },
         "corners":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "U 12.5",
+            "ft": "Napoli"
         },
         "goals":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "U 4.5"
         }
       }
     },
@@ -1210,19 +1211,19 @@
         },
         "summary":{
         "cards":{
-            "discuss":" ",
+            "discuss":"Considering both teams' number of provocative players",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 3.5"
         },
         "corners":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "U 12.5",
+            "ft": "AC Milan"
         },
         "goals":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "U 4.5"
         }
       }
     },
@@ -1554,20 +1555,21 @@
         "cards":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         },
         "corners":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "U 12.5",
+            "ft": "Atalanta"
         },
         "goals":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Yes",
+            "ft": "U 4.5"
         }
       }
     },
+    
     {
         "fixture": "Parma vs Empoli",
         "league":"🇮🇹 Serie A",
