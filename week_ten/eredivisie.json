@@ -288,18 +288,18 @@
         "summary":{
         "corners":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Ov 7.5",
+            "ft": ""
         },
         "goals":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "U 3.5"
         },
         "cards":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "U 5.5"
         }
       }
     },
@@ -626,18 +626,18 @@
         "summary":{
         "corners":{
             "discuss":" ",
-            "ht": " ",
+            "ht": "Ov 8.5",
             "ft": " "
         },
         "goals":{
-            "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "discuss":"Their form shows that both teams will score, but the amount of goals may be risky to call",
+            "ht": "Yes",
+            "ft": "Ov 2.5"
         },
         "cards":{
-            "discuss":" ",
+            "discuss":"Despite the inconsistencies",
             "ht": " ",
-            "ft": " "
+            "ft": "U 5.5"
         }
       }
     },
@@ -877,18 +877,18 @@
         "summary":{
         "corners":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "U 12.5",
+            "ft": "Heracles"
         },
         "goals":{
-            "discuss":" ",
+            "discuss":"Inconsistent results",
             "ht": " ",
             "ft": " "
         },
         "cards":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         }
       }
     },
@@ -1133,8 +1133,85 @@
           
           },
         "away_team": {
-        
-        },
+            "name": "AZ Alkmaar",
+          "coach": "Maarten Martens",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/eredivisie/alkmaar.png",
+          "playing_style": "Ball retention, Opponents play aggressively against them",
+          "pressing_style": " ",
+          "attacking_style": "Frequent through ball attempts",
+          "defensive_style": "Aggressive, High Line; Use offside positioning",
+          "aggressive_players": ["Dani de Wit"],
+          "provocative_players": ["Vangelis Pavlidis"],
+          "unavailable_attacking_players": [],
+          "recent_matches": {
+             "teams": {
+              "match_two": ["AZ Alkmaar","GA Eagles"],
+              "match_three": ["AZ Alkmaar","PSV"],
+              "match_four": ["Sittard","AZ Alkmaar"],
+              "match_five": ["AZ Alkmaar","Utrecht"],
+              "match_six": ["Zwolle","AZ Alkmaar"],
+              "match_seven": ["AZ Alkmaar","Heerenveen"],
+            "match_one": ["Waalwijk","Az Alkmaar"]
+          },
+            
+          "goals": {
+            "match_two": [2,2],
+            "match_three": [1,2],
+            "match_four": [1,0],
+            "match_five": [1,2],
+            "match_six": [1,2],
+            "match_seven": [9,1],
+              "match_one": [0,3]
+            },
+            "x_goals": {
+              "match_two": [1.73,1.25],
+              "match_three": [0.34,1.73],
+              "match_four": [1.80,0.90],
+              "match_five": [3.26,0.75],
+              "match_six": [1.69,1.44],
+              "match_seven": [5.25,1.48],
+              "match_one": [0.11,2.96]
+            },
+            "corners": {
+              "match_two": [4,6],
+              "match_three": [0,3],
+              "match_four": [2,5],
+              "match_five": [8,1],
+              "match_six": [10,9],
+              "match_seven": [5,3],
+              "match_one": [3,10]
+            },
+            "fouls": {
+              "match_two": [9,6],
+              "match_three": [5,11],
+              "match_four": [11,9],
+              "match_five": [9,10],
+              "match_six": [14,14],
+              "match_seven": [8,8],
+              "match_one": [9,13]
+            },
+            "HT_cards": {
+              "match_two": [1,0],
+              "match_three": [1,0],
+              "match_four": [2,1],
+              "match_five": [1,2],
+              "match_six": [0,2],
+              "match_seven": [0,0],
+              "match_one": [3,0]
+            },
+            "FT_cards": {
+              "match_two": [2,1],
+              "match_three": [1,0],
+              "match_four": [4,2],
+              "match_five": [1,2],
+              "match_six": [2,4],
+              "match_seven": [0,1],
+              "match_one": [6,3]
+            }
+          }
+            
+           
+          },
         "summary":{
         "corners":{
             "discuss":" ",
