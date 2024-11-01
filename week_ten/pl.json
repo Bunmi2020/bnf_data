@@ -4393,7 +4393,7 @@
                         3,
                         1
                     ],
-                    "match_six": []
+                    "match_six": [0,1]
                 },
                 "x_goals": {
                     "match_one": [
@@ -4727,18 +4727,18 @@
         "summary":{
         "corners":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Ov 8.5",
+            "ft": "Tottenham"
         },
         "goals":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Yes",
+            "ft": "Ov 2.5"
         },
         "cards":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Ov 1.5",
+            "ft": "Ov 3.5"
         }
       }
     },
@@ -4746,7 +4746,7 @@
         "fixture": "Man United vs Chelsea",
         "league": "🇬🇧 Premier League",
        
-        "type_of_match": "Regular",
+        "type_of_match": "Rivals",
         "referee": {
           "name": "Jones R.",
           "fouls_per_tackle": 0.69,
@@ -4954,7 +4954,7 @@
                         0,
                         0
                     ],
-                    "match_four": [],
+                    "match_four": [0,3],
                     "match_five": [
                         0,
                         0
@@ -5324,21 +5324,22 @@
         "summary":{
         "corners":{
             "discuss":" ",
-            "ht": " ",
+            "ht": "Ov 8.5",
             "ft": " "
         },
         "goals":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Yes",
+            "ft": "Ov 2.5"
         },
         "cards":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Ov 1.5",
+            "ft": "Ov 3.5"
         }
       }
     },
+
     {
         "fixture": "Fulham vs Brentford",
         "league": "🇬🇧 Premier League",
@@ -5747,15 +5748,12 @@
                         4,
                         3
                     ],
-                    "match_two": [],
-                    "match_three": [],
-                    "match_four": [],
-                    "match_five": [],
-                    "match_six": [],
-                    "match_seven": [
-                        3,
-                        1
-                    ]
+                    "match_two": [2,1],
+              "match_three": [5,3],
+              "match_four": [1,1],
+                "match_five": [3,1],
+              "match_six": [2,1],
+              "match_seven": [3,1]
                 },
                 "x_goals": {
                     "match_one": [
@@ -5911,19 +5909,19 @@
           },
         "summary":{
         "corners":{
-            "discuss":" ",
-            "ht": " ",
+            "discuss":"Despite the inconsistencies",
+            "ht": "Ov 7.5",
             "ft": " "
         },
         "goals":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Yes",
+            "ft": "Ov 2.5"
         },
         "cards":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "U 2.5",
+            "ft": "Ov 2.5"
         }
       }
     }

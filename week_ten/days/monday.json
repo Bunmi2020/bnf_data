@@ -1,0 +1,890 @@
+[
+    {
+        "fixture": "Fulham vs Brentford",
+        "league": "🇬🇧 Premier League",
+       
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Attwell S.",
+          "fouls_per_tackle": 0.58,
+          "yellow_per_game": 4.35
+        },
+        "head_to_head": {
+            "teams": {
+                "match_one": [
+                    "Brentford",
+                    "Fulham"
+                ],
+                "match_two": [
+                    "Fulham",
+                    "Brentford"
+                ],
+                "match_three": [
+                    "Brentford",
+                    "Fulham"
+                ],
+                "match_four": [
+                    "Fulham",
+                    "Brentford"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    0,
+                    0
+                ],
+                "match_two": [
+                    0,
+                    3
+                ],
+                "match_three": [
+                    3,
+                    2
+                ],
+                "match_four": [
+                    3,
+                    2
+                ]
+            },
+            "x_goals": {
+                "match_one": [
+                    1.11,
+                    1.13
+                ],
+                "match_two": [
+                    0.5,
+                    3.49
+                ],
+                "match_three": [
+                    2.49,
+                    1.52
+                ],
+                "match_four": []
+            },
+            "corners": {
+                "match_one": [
+                    7,
+                    6
+                ],
+                "match_two": [
+                    5,
+                    5
+                ],
+                "match_three": [
+                    2,
+                    3
+                ],
+                "match_four": [
+                    6,
+                    3
+                ]
+            },
+            "fouls": {
+                "match_one": [
+                    3,
+                    6
+                ],
+                "match_two": [
+                    13,
+                    12
+                ],
+                "match_three": [
+                    12,
+                    17
+                ],
+                "match_four": [
+                    13,
+                    7
+                ]
+            },
+            "HT_cards": {
+                "match_one": [
+                    0,
+                    0
+                ],
+                "match_two": [
+                    1,
+                    1
+                ],
+                "match_three": [
+                    0,
+                    2
+                ],
+                "match_four": [
+                    2,
+                    0
+                ]
+            },
+            "FT_cards": {
+                "match_one": [
+                    1,
+                    1
+                ],
+                "match_two": [
+                    5,
+                    2
+                ],
+                "match_three": [
+                    0,
+                    3
+                ],
+                "match_four": [
+                    3,
+                    2
+                ]
+            }
+        },
+        "home_team" : {
+        
+            "name": "Fulham",
+            "coach": "Marco Silva",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/fulham.png",
+            "playing_style": "Wide play; Deep positioning",
+            "pressing_style": " ",
+            "attacking_style": "Take long shots",
+            "defensive_style": "High Line; Use offside positioning",
+            "aggressive_players": ["Kevin Mbabu"],
+            "provocative_players": ["Harry Wilson"],
+            "unavailable_attacking_players": [],
+            "recent_matches": {
+              "teams": {
+                  "match_one": [
+                      "Everton",
+                      "Fulham"
+                  ],
+                  "match_two": [
+                      "Fulham",
+                      "Aston Villa"
+                  ],
+                  "match_three": [
+                      "Manchester City",
+                      "Fulham"
+                  ],
+                  "match_four": [
+                      "Nottingham",
+                      "Fulham"
+                  ],
+                  "match_five": [
+                      "Fulham",
+                      "Newcastle"
+                  ],
+                  "match_six": [
+                      "Fulham",
+                      "West Ham"
+                  ],
+                  "match_seven": [
+                      "Ipswich",
+                      "Fulham"
+                  ]
+              },
+              "goals": {
+                  "match_one": [
+                      1,
+                      1
+                  ],
+                  "match_two": [
+                      1,
+                      3
+                  ],
+                  "match_three": [
+                      3,
+                      2
+                  ],
+                  "match_four": [
+                      0,
+                      1
+                  ],
+                  "match_five": [
+                      3,
+                      1
+                  ],
+                  "match_six": [
+                      1,
+                      1
+                  ],
+                  "match_seven": [
+                      1,
+                      1
+                  ]
+              },
+              "x_goals": {
+                  "match_one": [
+                      0.79,
+                      1.25
+                  ],
+                  "match_two": [
+                      1.86,
+                      1.9
+                  ],
+                  "match_three": [
+                      1.59,
+                      2.01
+                  ],
+                  "match_four": [
+                      0.67,
+                      1.49
+                  ],
+                  "match_five": [
+                      2.35,
+                      1.33
+                  ],
+                  "match_six": [
+                      1.32,
+                      0.66
+                  ],
+                  "match_seven": [
+                      1.28,
+                      1.32
+                  ]
+              },
+              "corners": {
+                  "match_one": [
+                      4,
+                      2
+                  ],
+                  "match_two": [
+                      6,
+                      11
+                  ],
+                  "match_three": [
+                      8,
+                      3
+                  ],
+                  "match_four": [
+                      6,
+                      5
+                  ],
+                  "match_five": [
+                      6,
+                      0
+                  ],
+                  "match_six": [
+                      3,
+                      2
+                  ],
+                  "match_seven": [
+                      8,
+                      6
+                  ]
+              },
+              "fouls": {
+                  "match_one": [
+                      8,
+                      8
+                  ],
+                  "match_two": [
+                      8,
+                      11
+                  ],
+                  "match_three": [
+                      4,
+                      10
+                  ],
+                  "match_four": [
+                      11,
+                      15
+                  ],
+                  "match_five": [
+                      16,
+                      8
+                  ],
+                  "match_six": [
+                      15,
+                      18
+                  ],
+                  "match_seven": [
+                      15,
+                      15
+                  ]
+              },
+              "HT_cards": {
+                  "match_one": [
+                      0,
+                      0
+                  ],
+                  "match_two": [
+                      0,
+                      1
+                  ],
+                  "match_three": [
+                      0,
+                      0
+                  ],
+                  "match_four": [
+                      1,
+                      0
+                  ],
+                  "match_five": [
+                      4,
+                      0
+                  ],
+                  "match_six": [
+                      0,
+                      0
+                  ],
+                  "match_seven": [
+                      1,
+                      0
+                  ]
+              },
+              "FT_cards": {
+                  "match_one": [
+                      1,
+                      0
+                  ],
+                  "match_two": [
+                      5,
+                      6
+                  ],
+                  "match_three": [
+                      2,
+                      1
+                  ],
+                  "match_four": [
+                      2,
+                      4
+                  ],
+                  "match_five": [
+                      6,
+                      0
+                  ],
+                  "match_six": [
+                      2,
+                      3
+                  ],
+                  "match_seven": [
+                      2,
+                      3
+                  ]
+              }
+          }
+          },
+        "away_team": {
+        
+            "name": "Brentford",
+            "coach": "Thomas Frank",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/brentford.png",
+            "playing_style": "Wide play; Long balls; Deep positioning",
+            "pressing_style": " ",
+            "attacking_style": "High crossing frequency; Frequent through ball attempts",
+            "defensive_style": "Organized",
+            "aggressive_players": ["Christian Norgaard", "Yoane Wissa"],
+            "provocative_players": ["Bryan Mbeumo", "Yoane Wissa"],
+            "unavailable_attacking_players": [],
+            "recent_matches": {
+                "teams": {
+                    "match_one": [
+                        "Brentford",
+                        "Ipswich"
+                    ],
+                    "match_two": [
+                        "Manchester Utd",
+                        "Brentford"
+                    ],
+                    "match_three": [
+                        "Brentford",
+                        "Wolves"
+                    ],
+                    "match_four": [
+                        "Brentford",
+                        "West Ham"
+                    ],
+                    "match_five": [
+                        "Tottenham",
+                        "Brentford"
+                    ],
+                    "match_six": [
+                        "Manchester City",
+                        "Brentford"
+                    ],
+                    "match_seven": [
+                        "Brentford",
+                        "Southampton"
+                    ]
+                },
+                "goals": {
+                    "match_one": [
+                        4,
+                        3
+                    ],
+                    "match_two": [2,1],
+              "match_three": [5,3],
+              "match_four": [1,1],
+                "match_five": [3,1],
+              "match_six": [2,1],
+              "match_seven": [3,1]
+                },
+                "x_goals": {
+                    "match_one": [
+                        3.94,
+                        1.36
+                    ],
+                    "match_two": [
+                        1.48,
+                        0.98
+                    ],
+                    "match_three": [
+                        3.73,
+                        0.75
+                    ],
+                    "match_four": [
+                        0.58,
+                        0.97
+                    ],
+                    "match_five": [
+                        3.91,
+                        1.62
+                    ],
+                    "match_six": [
+                        2.08,
+                        0.88
+                    ],
+                    "match_seven": [
+                        2.59,
+                        1.74
+                    ]
+                },
+                "corners": {
+                    "match_one": [
+                        4,
+                        5
+                    ],
+                    "match_two": [
+                        9,
+                        2
+                    ],
+                    "match_three": [
+                        10,
+                        3
+                    ],
+                    "match_four": [
+                        7,
+                        6
+                    ],
+                    "match_five": [
+                        9,
+                        4
+                    ],
+                    "match_six": [
+                        12,
+                        3
+                    ],
+                    "match_seven": [
+                        2,
+                        8
+                    ]
+                },
+                "fouls": {
+                    "match_one": [
+                        7,
+                        10
+                    ],
+                    "match_two": [
+                        4,
+                        5
+                    ],
+                    "match_three": [
+                        9,
+                        10
+                    ],
+                    "match_four": [
+                        2,
+                        11
+                    ],
+                    "match_five": [
+                        11,
+                        9
+                    ],
+                    "match_six": [
+                        9,
+                        3
+                    ],
+                    "match_seven": [
+                        10,
+                        7
+                    ]
+                },
+                "HT_cards": {
+                    "match_one": [
+                        0,
+                        1
+                    ],
+                    "match_two": [
+                        1,
+                        0
+                    ],
+                    "match_three": [
+                        0,
+                        1
+                    ],
+                    "match_four": [
+                        0,
+                        1
+                    ],
+                    "match_five": [
+                        1,
+                        0
+                    ],
+                    "match_six": [
+                        1,
+                        0
+                    ],
+                    "match_seven": [
+                        1,
+                        1
+                    ]
+                },
+                "FT_cards": {
+                    "match_one": [
+                        0,
+                        4
+                    ],
+                    "match_two": [
+                        2,
+                        2
+                    ],
+                    "match_three": [
+                        2,
+                        3
+                    ],
+                    "match_four": [
+                        2,
+                        3
+                    ],
+                    "match_five": [
+                        3,
+                        1
+                    ],
+                    "match_six": [
+                        3,
+                        1
+                    ],
+                    "match_seven": [
+                        2,
+                        1
+                    ]
+                }
+            }
+          },
+        "summary":{
+        "corners":{
+            "discuss":"Despite the inconsistencies",
+            "ht": "Ov 7.5",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": "Yes",
+            "ft": "Ov 2.5"
+        },
+        "cards":{
+            "discuss":" ",
+            "ht": "U 2.5",
+            "ft": "Ov 2.5"
+        }
+      }
+    },
+    {
+        "fixture": "Celta Vigo vs Getafe",
+        "league":"🇪🇸 La Liga",
+        
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Gil Manzano J.",
+          "fouls_per_tackle": 0.78,
+          "yellow_per_game": 4.61
+        },
+        "head_to_head": {
+            "teams": {
+                "match_one": [
+                    "Getafe",
+                    "Celta Vigo"
+                ],
+                "match_two": [
+                    "Celta Vigo",
+                    "Getafe"
+                ],
+                "match_three": [
+                    "Getafe",
+                    "Celta Vigo"
+                ],
+                "match_four": [
+                    "Celta Vigo",
+                    "Getafe"
+                ],
+                "match_five": [
+                    "Celta Vigo",
+                    "Getafe"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    3,
+                    2
+                ],
+                "match_two": [
+                    2,
+                    2
+                ],
+                "match_three": [1,0],
+                "match_four": [1,1],
+                "match_five": [0,2]
+            },
+            "x_goals": {
+                "match_one": [
+                    1.94,
+                    1.21
+                ],
+                "match_two": [
+                    2.71,
+                    0.74
+                ],
+                "match_three": [2.93,0.27],
+                "match_four": [ ],
+                "match_five": [ ]
+            },
+            "corners": {
+                "match_one": [
+                    0,
+                    4
+                ],
+                "match_two": [
+                    13,
+                    1
+                ],
+                "match_three": [1,5],
+                "match_four": [10,0],
+                "match_five": [2,1]
+            },
+            "fouls": {
+                "match_one": [
+                    16,
+                    13
+                ],
+                "match_two": [
+                    14,
+                    20
+                ],
+                "match_three": [21,14],
+                "match_four": [10,13],
+                "match_five": [13,13]
+            },
+            "HT_cards": {
+                "match_one": [
+                    0,
+                    0
+                ],
+                "match_two": [
+                    0,
+                    7
+                ],
+                "match_three": [
+                    3,
+                    2
+                ],
+                "match_four": [
+                    1,
+                    0
+                ],
+                "match_five": [
+                    0,
+                    2
+                ]
+            },
+            "FT_cards": {
+                "match_one": [
+                    1,
+                    2
+                ],
+                "match_two": [
+                    1,
+                    9
+                ],
+                "match_three": [7,6],
+                "match_four": [1,1],
+                "match_five": [2,5]
+            }
+        },
+        "home_team" : {
+            "name": "Celta Vigo",
+        "coach": "Claudio Giráldez",
+        "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/celta_vigo.png",
+        "playing_style": " ",
+        "pressing_style": "Non-aggressive",
+        "attacking_style": "Frequent through ball attempts; Attacking down the right; High shot volume",
+        "defensive_style": "Compact",
+        "aggressive_players": ["Luca de la Torre"],
+        "provocative_players": ["Iago Aspas","Jonathan Bamba"],
+        "unavailable_attacking_players": [],
+        "recent_matches": {
+        "teams": {
+          "match_five": ["Leganes","Celta Vigo"],
+          "match_six": ["Celta Vigo", "Real Madrid"],
+          "match_seven": ["Las Palmas","Celta Vigo"],
+          "match_one": ["Celta Vigo","Girona"],
+        "match_two": ["Ath Bilbao","Celta Vigo"],
+        "match_three": ["Celta Vigo","Valladolid"],
+        "match_four": ["Osasuna", "Celta Vigo"]
+        },
+        
+        "goals": {
+          "match_five": [3,0],
+          "match_six": [1,2],
+          "match_seven": [0,1],
+          "match_one": [1,1],
+        "match_two": [3,1],
+        "match_three": [3,1],
+        "match_four": [3,2]
+        },
+        "x_goals": {
+          "match_five": [1.47,0.89],
+          "match_six": [1.69,0.74],
+          "match_seven": [1.64,0.75],
+          "match_one": [0.75,0.65],
+        "match_two": [0.75,1.09],
+        "match_three": [1.58,0.55],
+        "match_four": [2.19,1.68]
+        },
+        "corners": {
+          "match_five": [4,2],
+          "match_six": [6,2],
+          "match_seven": [11,2],
+          "match_one": [4,4],
+        "match_two": [3,6],
+        "match_three": [5,3],
+        "match_four": [6,3]
+        },
+        "fouls": {
+          "match_five": [15,17],
+          "match_six": [16,13],
+          "match_seven": [9,13],
+          "match_one": [9,14],
+        "match_two": [16,11],
+        "match_three": [14,15],
+        "match_four": [19,10]
+        },
+        "HT_cards": {
+          "match_five": [0,0],
+          "match_six": [0,0],
+          "match_seven": [1,2],
+          "match_one": [0,0],
+        "match_two": [2,0],
+        "match_three": [1,2],
+        "match_four": [0,0]
+        },
+        "FT_cards": {
+          "match_five": [2,2],
+          "match_six": [2,1],
+          "match_seven": [3,10],
+          "match_one": [1,0],
+        "match_two": [3,2],
+        "match_three": [3,6],
+        "match_four": [2,1]
+        }
+        }
+        
+               
+          
+          
+          },
+        "away_team": {
+            "name": "Getafe",
+        "coach": "José Bordalás",
+        "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/getafe.png",
+        "playing_style": "Long balls; High territorial control; Draws fouls",
+        "pressing_style": "Aggressive",
+        "attacking_style": "Take long shots; High crossing frequency; Attack through the middle; High shot volume",
+        "defensive_style": "High Line; Use offside positioning",
+        "aggressive_players": ["Djené Dakonam","Gastón Álvarez"],
+        "provocative_players": ["Diego Rico"],
+        "unavailable_attacking_players": ["Mayoral B."],
+        
+        "recent_matches": {
+        "teams": {
+          "match_five": ["Getafe", "Valencia"],
+          "match_six": ["Villarreal", "Getafe"],
+          "match_seven": ["Getafe","Osasuna"],
+          "match_one": ["Getafe","Alaves"],
+        "match_two": ["Getafe","Leganes"],
+        "match_three": ["Betis","Getafe"],
+        "match_four": ["Sevilla","Getafe"]
+        },
+        
+        "goals": {
+          "match_five": [1,1],
+          "match_six": [1,1],
+          "match_seven": [1,1],
+          "match_one": [2,0],
+        "match_two": [1,1],
+        "match_three": [2,1],
+        "match_four": [1,0]
+        },
+        "x_goals": {
+          "match_five": [2.46,0.60],
+          "match_six": [0.91,1.98],
+          "match_seven": [1.06,0.62],
+          "match_one": [1.94,0.51],
+        "match_two": [1.25,0.83],
+        "match_three": [2.71,0.99],
+        "match_four": [1.49,0.79]
+        },
+        "corners": {
+          "match_five": [8,2],
+          "match_six": [5,5],
+          "match_seven": [4,2],
+          "match_one": [2,2],
+        "match_two": [6,2],
+        "match_three": [8,4],
+        "match_four": [3,4]
+        },
+        "fouls": {
+          "match_five": [20,20],
+          "match_six": [18,21],
+          "match_seven": [17,10],
+          "match_one": [17,24],
+        "match_two": [16,17],
+        "match_three": [10,20],
+        "match_four": [19,15]
+        },
+        "HT_cards": {
+          "match_five": [1,3],
+          "match_six": [1,2],
+          "match_seven": [2,1],
+          "match_one": [0,2],
+        "match_two": [0,1],
+        "match_three": [2,4],
+        "match_four": [0,2]
+        },
+        "FT_cards": {
+          "match_five": [3,7],
+          "match_six": [4,3],
+          "match_seven": [2,4],
+          "match_one": [3,6],
+        "match_two": [3,2],
+        "match_three": [3,5],
+        "match_four": [4,4]
+        }
+        }
+            
+          
+         
+          },
+        "summary":{
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": "Celta Vigo"
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": "Yes",
+            "ft": "U 4.5"
+        },
+        "cards":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": "Ov 3.5"
+        }
+      }
+    }
+]
