@@ -5824,5 +5824,1275 @@
             "ft": "U 5.5"
         }
       }
+    },
+    {
+        "fixture": "Napoli vs Atalanta",
+        "league":"🇮🇹 Serie A",
+       
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "*n/a",
+         "fouls_per_tackle": 0,
+          "yellow_per_game": 0
+        },
+        "head_to_head": {
+            "teams": {
+                "match_one": [
+                    "Napoli",
+                    "Atalanta"
+                ],
+                "match_two": [
+                    "Atalanta",
+                    "Napoli"
+                ],
+                "match_three": [
+                    "Napoli",
+                    "Atalanta"
+                ],
+                "match_four": [
+                    "Atalanta",
+                    "Napoli"
+                ],
+                "match_five": [
+                    "Atalanta",
+                    "Napoli"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    0,
+                    3
+                ],
+                "match_two": [
+                    1,
+                    2
+                ],
+                "match_three": [
+                    2,
+                    0
+                ],
+                "match_four": [
+                    1,
+                    2
+                ],
+                "match_five": [
+                    1,
+                    3
+                ]
+            },
+            "x_goals": {
+                "match_one": [
+                    2.05,
+                    0.76
+                ],
+                "match_two": [
+                    0.26,
+                    1.37
+                ],
+                "match_three": [
+                    1.42,
+                    0.25
+                ],
+                "match_four": [],
+                "match_five": []
+            },
+            "corners": {
+                "match_one": [
+                    7,
+                    5
+                ],
+                "match_two": [
+                    5,
+                    4
+                ],
+                "match_three": [
+                    10,
+                    4
+                ],
+                "match_four": [
+                    5,
+                    2
+                ],
+                "match_five": [
+                    9,
+                    1
+                ]
+            },
+            "fouls": {
+                "match_one": [
+                    6,
+                    13
+                ],
+                "match_two": [
+                    15,
+                    9
+                ],
+                "match_three": [
+                    12,
+                    11
+                ],
+                "match_four": [
+                    10,
+                    9
+                ],
+                "match_five": [
+                    15,
+                    11
+                ]
+            },
+            "HT_cards": {
+                "match_one": [
+                    1,
+                    0
+                ],
+                "match_two": [
+                    1,
+                    1
+                ],
+                "match_three": [
+                    1,
+                    2
+                ],
+                "match_four": [
+                    1,
+                    0
+                ],
+                "match_five": [
+                    1,
+                    0
+                ]
+            },
+            "FT_cards": {
+                "match_one": [
+                    2,
+                    2
+                ],
+                "match_two": [
+                    2,
+                    2
+                ],
+                "match_three": [
+                    1,
+                    2
+                ],
+                "match_four": [
+                    5,
+                    1
+                ],
+                "match_five": [
+                    2,
+                    3
+                ]
+            }
+        },
+        "home_team" : {
+            
+            "name": "Napoli",
+            "coach": "Antonio Conte",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/napoli.png",
+            "playing_style": "High territorial control; Ball Retention; Short passes",
+            "pressing_style": "Non-aggressive",
+            "attacking_style": "Attacking down the right",
+            "defensive_style": "High Line; Use offside positioning",
+            "aggressive_players": ["Alessandro Buongiorno","Cyril Ngonge","Michael Folorunsho"],
+            "provocative_players": ["Khvicha Kvaratskhelia","Michael Folorunsho","Alessandro","Buongiorno","Mário Rui"],
+            "unavailable_attacking_players": [],
+            "recent_matches": {
+               "teams": {
+                "match_five":["AC Milan","Napoli"],
+                "match_six": ["Napoli", "Lecce"],
+                "match_seven": ["Empoli","Napoli"],
+                "match_one": ["Napoli","Como"],
+                "match_two": ["Napoli","Monza"],
+                "match_three": ["Juventus","Napoli"],
+                "match_four": ["Cagliari", "Napoli"]
+          },
+             "goals": {
+              "match_six": [1, 0],
+              "match_seven": [0,1],
+              "match_one": [3,1],
+              "match_two": [2,0],
+              "match_three": [0,0],
+              "match_four": [4,0],
+              "match_five":[2,1]
+              },
+              "x_goals": {
+                "match_five":[0.65,1.14], 
+                "match_six": [2.40,0.61],
+                "match_seven": [0.69,1.40],
+                "match_one": [1.93,0.95],
+                "match_two": [1.58,0.14],
+                "match_three": [0.47,0.43],
+                "match_four": [1.03,1.75]
+              },
+              "corners": {
+                "match_five":[5,1],
+                "match_six": [16, 5],
+                "match_seven": [7,7],
+                "match_one": [4,1],
+                "match_two": [1,3],
+                "match_three": [4,3],
+                "match_four": [7,4]
+              },
+              "fouls": {
+                "match_five":[14,6],
+                "match_six": [13, 7],
+                "match_seven": [14,13],
+                "match_one": [7,10],
+                "match_two": [16,8],
+                "match_three": [10,13],
+                "match_four": [22,11]
+              },
+              "HT_cards": {
+                "match_five":[0,0],
+                "match_six": [1, 0],
+                "match_seven": [1,1],
+                "match_one": [0,0],
+                "match_two": [1,2],
+                "match_three": [1,0],
+                "match_four": [0,1]
+              },
+              "FT_cards": {
+                "match_five":[0,1],
+                "match_six": [3, 2],
+                "match_seven": [2,2],
+                "match_one": [1,1],
+                "match_two": [1,2],
+                "match_three": [1,0],
+                "match_four": [1,2]
+              }
+            }
+           
+          
+          
+          },
+        "away_team": {
+            "name": "Atalanta",
+            "coach": "Gian Piero Gasperini",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/atalanta.png",
+            "playing_style": "Short passes; High territorial control; ",
+            "pressing_style": " ",
+            "attacking_style": "Attacking down the left",
+            "defensive_style": " ",
+            "aggressive_players": ["Teun Koopmeiners","Giorgio Scalvin","Marten de Roon"],
+            "provocative_players": ["Charles De Ketelaere"],
+            "unavailable_attacking_players": [],
+            "recent_matches": {
+              "teams": {
+                "match_five": ["Atalanta", "Monza"],
+                "match_six": ["Atalanta", "Verona"],
+                "match_seven": ["Venezia","Atalanta"],
+                "match_one": ["Atalanta","Genoa"],
+                "match_two": ["Bologna","Atalanta"],
+                "match_three": ["Atalanta","Como"],
+                "match_four": ["Atalanta", "Florentina"]
+            },
+            
+            "goals": {
+              "match_five": [2,0],
+              "match_six": [6, 1],
+              "match_seven": [0,2],
+              "match_one": [5,1],
+              "match_two": [1,1],
+              "match_three": [2,3],
+              "match_four": [3,2]
+            },
+            "x_goals": {
+              "match_five": [1.15,0.11],
+              "match_six": [2.65,0.28],
+              "match_seven": [0.74,1.31],
+              "match_one": [3.41,0.59],
+              "match_two": [0.32,1.50],
+              "match_three": [1.56,1.34],
+              "match_four": [2.70,1.87]
+            },
+            "corners": {
+              "match_five": [5,1],
+              "match_six": [4, 2],
+              "match_seven": [2,5],
+              "match_one": [4,2],
+              "match_two": [2,9],
+              "match_three": [6,2],
+              "match_four": [4,2]
+            },
+            "fouls": {
+              "match_five": [14,11],
+              "match_six": [3, 15],
+              "match_seven": [12,6],
+              "match_one": [9,15],
+              "match_two": [16,12],
+              "match_three": [12,17],
+              "match_four": [16,15]
+            },
+            "HT_cards": {
+              "match_five": [0,0],
+              "match_six": [0, 1],
+              "match_seven": [0,1],
+              "match_one": [0,0],
+              "match_two": [2,2],
+              "match_three": [0,2],
+              "match_four": [1,2]
+            },
+            "FT_cards": {
+              "match_five": [2,3],
+              "match_six": [0, 1],
+              "match_seven": [1,1],
+              "match_one": [0,0],
+              "match_two": [4,3],
+              "match_three": [1,3],
+              "match_four": [2,3]
+            }
+          }
+              
+            
+          
+          },
+        "summary":{
+        "corners":{
+            "discuss":" ",
+            "ht": "Ov 8.5",
+            "ft": "Napoli"
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": "",
+            "ft": "Ov 1.5"
+        },
+        "cards":{
+            "discuss":"*Awaiting ref's data",
+            "ht": " ",
+            "ft": " "
+        }
+      }
+    },
+    {
+        "fixture": "Torino vs Fiorentina",
+        "league":"🇮🇹 Serie A",
+       
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "*n/a",
+         "fouls_per_tackle": 0,
+          "yellow_per_game": 0
+        },
+        "head_to_head": {
+            "teams": {
+                "match_one": [
+                    "Torino",
+                    "Fiorentina"
+                ],
+                "match_two": [
+                    "Fiorentina",
+                    "Torino"
+                ],
+                "match_three": [
+                    "Torino",
+                    "Fiorentina"
+                ],
+                "match_four": [
+                    "Fiorentina",
+                    "Torino"
+                ],
+                "match_five": [
+                    "Fiorentina",
+                    "Torino"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    0,
+                    0
+                ],
+                "match_two": [
+                    1,
+                    0
+                ],
+                "match_three": [
+                    1,
+                    1
+                ],
+                "match_four": [
+                    2,
+                    1
+                ],
+                "match_five": [
+                    0,
+                    1
+                ]
+            },
+            "x_goals": {
+                "match_one": [
+                    0.72,
+                    0.65
+                ],
+                "match_two": [
+                    0.71,
+                    0.34
+                ],
+                "match_three": [
+                    0.86,
+                    0.86
+                ],
+                "match_four": [],
+                "match_five": []
+            },
+            "corners": {
+                "match_one": [
+                    4,
+                    5
+                ],
+                "match_two": [
+                    4,
+                    2
+                ],
+                "match_three": [
+                    3,
+                    3
+                ],
+                "match_four": [
+                    6,
+                    5
+                ],
+                "match_five": [
+                    5,
+                    3
+                ]
+            },
+            "fouls": {
+                "match_one": [
+                    13,
+                    13
+                ],
+                "match_two": [
+                    11,
+                    15
+                ],
+                "match_three": [
+                    9,
+                    11
+                ],
+                "match_four": [
+                    10,
+                    12
+                ],
+                "match_five": [
+                    9,
+                    23
+                ]
+            },
+            "HT_cards": {
+                "match_one": [
+                    3,
+                    3
+                ],
+                "match_two": [
+                    1,
+                    0
+                ],
+                "match_three": [
+                    0,
+                    1
+                ],
+                "match_four": [
+                    0,
+                    0
+                ],
+                "match_five": [
+                    1,
+                    1
+                ]
+            },
+            "FT_cards": {
+                "match_one": [
+                    3,
+                    4
+                ],
+                "match_two": [
+                    4,
+                    2
+                ],
+                "match_three": [
+                    1,
+                    2
+                ],
+                "match_four": [],
+                "match_five": [
+                    2,
+                    2
+                ]
+            }
+        },
+        "home_team" : {
+            "name": "Torino",
+            "coach": "Ivan Juric",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/torino.png",
+            "playing_style": "Wide play",
+            "pressing_style": " ",
+            "attacking_style": " ",
+            "defensive_style": " ",
+            "aggressive_players": ["Karol Linetty","Duván Zapata"],
+            "provocative_players": ["Duván Zapata", "Samuele Ricci","Raoul Bellanova"],
+            "unavailable_attacking_players": [],
+            "recent_matches": {
+                "teams": {
+                  "match_five":["AS Roma", "Torino"],
+                  "match_six": ["Torino", "Como"],
+                  "match_seven": ["Cagliari","Torino"],
+                  "match_one": ["Inter","Torino"],
+                  "match_two": ["Torino","Lazio"],
+                  "match_three": ["Verona","Torino"],
+                  "match_four": ["Torino", "Lecce"]
+              },
+              "goals": {
+                "match_five":[1,0],
+                "match_six":[1,0],
+                "match_seven": [3,2],
+                "match_one": [3,2],
+                "match_two": [2,3],
+                "match_three": [2,3],
+                "match_four": [0,0]
+              },
+              "x_goals": {
+                "match_five":[0.50,0.22],
+                "match_six":[1.38,1.64],
+                "match_seven": [1.33,1.33],
+                "match_one": [2.72,1.34],
+                "match_two": [0.71,1.98],
+                "match_three": [0.50,2.29],
+                "match_four": [0.11,0.61]
+              },
+              "corners": {
+                "match_five":[3,5],
+                "match_six":[1,3],
+                "match_seven": [9,12],
+                "match_one": [14,0],
+                "match_two": [3,1],
+                "match_three": [5,6],
+                "match_four": [2,7]
+              },
+              "fouls": {
+                "match_five":[11,15],
+                "match_six":[13,12],
+                "match_seven": [9,8],
+                "match_one": [6,9],
+                "match_two": [10,13],
+                "match_three": [10,8],
+                "match_four": [13,13]
+              },
+              "HT_cards": {
+                "match_five":[0,0],
+                "match_six":[2,2],
+                "match_seven": [0,2],
+                "match_one": [1,1],
+                "match_two": [0,0],
+                "match_three": [2,0],
+                "match_four": [0,2]
+              },
+              "FT_cards": {
+                "match_five": [2,2],
+                "match_six":[3,3],
+                "match_seven": [1,3],
+                "match_one": [1,3],
+                "match_two": [2,3],
+                "match_three": [4,1],
+                "match_four": [1,3]
+              }
+         }
+                  
+        
+          
+          },
+        "away_team": {
+            "name": "Fiorentina",
+            "coach": "Raffaele Palladino",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/fiorentina.png",
+            "playing_style": "Ball Retention; High territorial control",
+            "pressing_style": " ",
+            "attacking_style": "Frequent through ball attempts; Attack through the middle",
+            "defensive_style": "High Line; Use offside positioning",
+            "aggressive_players": ["Marin Pongracic", "Cristiano Biraghi", "Lucas Martínez", "Quarta"],
+            "provocative_players": ["Riccardo Sottil","Fabiano Parisi"],
+            "unavailable_attacking_players": [],
+            
+            "recent_matches": {
+                "teams": {
+                  "match_five":["Genoa","Fiorentina"],
+                  "match_six": ["Fiorentina", "AS Roma"],
+                  "match_seven": ["Lecce","Fiorentina"],
+                  "match_one": ["Fiorentina","AC Milan"],
+                  "match_two": ["Empoli","Fiorentina"],
+                  "match_three": ["Fiorentina","Lazio"],
+                  "match_four": ["Atalanta", "Florentina"]
+            },
+              "goals": {
+                "match_five":[0,1],
+                "match_six": [5,1],
+                "match_seven": [0,6],
+                "match_one": [2,1],
+                "match_two": [0,0],
+                "match_three": [2,1],
+                "match_four": [3,2]
+              },
+              "x_goals": {
+                "match_five":[0.78,0.46],
+                "match_six": [3.80,0.65],
+                "match_seven": [0.20,2.06],
+                "match_one": [1.75,2.34],
+                "match_two": [0.55,0.91],
+                "match_three": [2.48,1.44],
+                "match_four": [2.70,1.87]
+              },
+              "corners": {
+                "match_five":[4,4],
+                "match_six": [6,2],
+                "match_seven": [1,3],
+                "match_one": [0,7],
+                "match_two": [2,4],
+                "match_three": [3,10],
+                "match_four": [4,2]
+              },
+              "fouls": {
+                "match_five":[13,10],
+                "match_six": [13, 11],
+                "match_seven": [8,14],
+                "match_one": [11,21],
+                "match_two": [15,12],
+                "match_three": [11,15],
+                "match_four": [16,15]
+              },
+              "HT_cards": {
+                "match_five":[1,2],
+                "match_six": [0, 1],
+                "match_seven": [1,2],
+                "match_one": [1,2],
+                "match_two": [0,0],
+                "match_three": [2,1],
+                "match_four": [1,2]
+              },
+              "FT_cards": {
+                "match_five":[4,2],
+                "match_six": [2, 6],
+                "match_seven": [1,5],
+                "match_one": [2,4],
+                "match_two": [0,1],
+                "match_three": [3,4],
+                "match_four": [2,3]
+              }
+            }
+                  
+            
+          
+          
+          },
+        "summary":{
+        "corners":{
+            "discuss":"Despite the incosistencies",
+            "ht": "U 11.5",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": "U 3.5"
+        },
+        "cards":{
+            "discuss":"*Awaiting ref's data",
+            "ht": " ",
+            "ft": " "
+        }
+      }
+    },
+    {
+        "fixture": "Verona vs AS Roma",
+        "league":"🇮🇹 Serie A",
+       
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "*n/a",
+         "fouls_per_tackle": 0,
+          "yellow_per_game": 0
+        },
+        "head_to_head": {
+            "teams": {
+                "match_one": [
+                    "AS Roma",
+                    "Verona"
+                ],
+                "match_two": [
+                    "Verona",
+                    "AS Roma"
+                ],
+                "match_three": [
+                    "AS Roma",
+                    "Verona"
+                ],
+                "match_four": [
+                    "Verona",
+                    "AS Roma"
+                ],
+                "match_five": [
+                    "AS Roma",
+                    "Verona"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    2,
+                    1
+                ],
+                "match_two": [
+                    2,
+                    1
+                ],
+                "match_three": [
+                    1,
+                    0
+                ],
+                "match_four": [
+                    1,
+                    3
+                ],
+                "match_five": [
+                    2,
+                    2
+                ]
+            },
+            "x_goals": {
+                "match_one": [
+                    0.9,
+                    0.99
+                ],
+                "match_two": [
+                    0.74,
+                    1.49
+                ],
+                "match_three": [
+                    0.86,
+                    0.42
+                ],
+                "match_four": [],
+                "match_five": []
+            },
+            "corners": {
+                "match_one": [
+                    1,
+                    2
+                ],
+                "match_two": [
+                    1,
+                    12
+                ],
+                "match_three": [
+                    5,
+                    1
+                ],
+                "match_four": [
+                    2,
+                    4
+                ],
+                "match_five": [
+                    4,
+                    2
+                ]
+            },
+            "fouls": {
+                "match_one": [
+                    14,
+                    12
+                ],
+                "match_two": [
+                    17,
+                    12
+                ],
+                "match_three": [
+                    15,
+                    19
+                ],
+                "match_four": [
+                    9,
+                    9
+                ],
+                "match_five": [
+                    18,
+                    14
+                ]
+            },
+            "HT_cards": {
+                "match_one": [
+                    1,
+                    0
+                ],
+                "match_two": [
+                    0,
+                    1
+                ],
+                "match_three": [
+                    1,
+                    2
+                ],
+                "match_four": [
+                    2,
+                    1
+                ],
+                "match_five": [
+                    2,
+                    1
+                ]
+            },
+            "FT_cards": {
+                "match_one": [
+                    2,
+                    2
+                ],
+                "match_two": [
+                    2,
+                    3
+                ],
+                "match_three": [
+                    1,
+                    2
+                ],
+                "match_four": [
+                    4,
+                    1
+                ],
+                "match_five": [
+                    3,
+                    2
+                ]
+            }
+        },
+        "home_team" : {
+            
+            "name": "Verona",
+            "coach": "Paolo Zanetti",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/verona.png",
+            "playing_style": "Long balls; Wide play",
+            "pressing_style": "Aggressive",
+            "attacking_style": "High crossing frequency; Take long shots; High shot volume",
+            "defensive_style": " ",
+            "aggressive_players": ["Ondrej Duda", "Suat Serdar", "Diego Coppola"],
+            "provocative_players": ["Tomás Suslov","Grigoris Kastanos", "Ondrej Duda"],
+            "unavailable_attacking_players": [],
+            "recent_matches": {
+               "teams": {
+                "match_five":["Lecce","Verona"],
+                "match_six": ["Atalanta", "Verona"],
+                "match_seven": ["Verona","Monza"],
+                "match_one": ["Verona","Venezia"],
+                "match_two": ["Como","Verona"],
+                "match_three": ["Verona","Torino"],
+                "match_four": ["Lazio", "Verona"]
+              },
+              "goals": {
+                "match_five":[1,0],
+                "match_six": [6, 1],
+                "match_seven": [0,3],
+                "match_one": [2,1],
+                "match_two": [3,2],
+                "match_three": [2,3],
+                "match_four": [2,1]
+              },
+              "x_goals": {
+                "match_five":[1.34,0.26],
+                "match_six": [2.65,0.28],
+                "match_seven": [0.83,1.51],
+                "match_one": [2.19,2.02],
+                "match_two": [2.43,1.11],
+                "match_three": [0.50,2.29],
+                "match_four": [1.50,0.82]
+              },
+              "corners": {
+                "match_five":[3,4],
+                "match_six": [4, 2],
+                "match_seven": [9,6],
+                "match_one": [13,6],
+                "match_two": [9,1],
+                "match_three": [5,6],
+                "match_four": [9,6]
+              },
+              "fouls": {
+                "match_five":[14,21],
+                "match_six": [3, 15],
+                "match_seven": [8,13],
+                "match_one": [10,5],
+                "match_two": [10,19],
+                "match_three": [10,8],
+                "match_four": [13,10]
+              },
+              "HT_cards": {
+                "match_five":[1,2],
+                "match_six": [0, 1],
+                "match_seven": [2,1],
+                "match_one": [1,0],
+                "match_two": [0,0],
+                "match_three": [2,0],
+                "match_four": [2,1]
+              },
+              "FT_cards": {
+                "match_five":[1,5],
+                "match_six": [0, 1],
+                "match_seven": [3,2],
+                "match_one": [3,0],
+                "match_two": [2,5],
+                "match_three": [4,1],
+                "match_four": [2,2]
+              }
+            }
+                      
+          
+          
+          },
+        "away_team": {
+            "name": "AS Roma",
+            "coach": "Ivan Juric",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/roma.png",
+            "playing_style": "Short passes; Ball Retention; Draws fouls",
+            "pressing_style": "Aggressive",
+            "attacking_style": "Attack through the middle",
+            "defensive_style": " ",
+            "aggressive_players": ["Bryan Cristante","Gianluca Mancini"],
+            "provocative_players": ["Paulo Dybala","Matías Soulé"],
+            "unavailable_attacking_players": [],
+            "recent_matches": {
+               "teams": {
+                "match_five": ["AS Roma", "Torino"],
+                "match_six": ["Fiorentina", "AS Roma"],
+                "match_seven": ["AS Roma","inter"],
+                "match_one": ["Monza","AS Roma"],
+                "match_two": ["AS Roma","Venezia"],
+                "match_three": ["AS Roma","Atalanta"],
+                "match_four": ["Genoa","AS Roma"]
+              },
+               "goals": {
+                "match_five": [1,0],
+                "match_six": [5,1],
+                "match_seven": [0,1],
+                "match_one": [1,1],
+                "match_two": [2,1],
+                "match_three": [3,0],
+                "match_four": [1,1]
+              },
+              "x_goals": {
+                "match_five": [0.50,0.22],
+                "match_six": [3.80,0.65],
+                "match_seven": [1.14,1.04],
+                "match_one": [1.40,1.19],
+                "match_two": [1.11,1.74],
+                "match_three": [1.98,0.39],
+                "match_four": [1.10,2.32]
+              },
+              "corners": {
+                "match_five": [3,5],
+                "match_six": [6,2],
+                "match_seven": [3,3],
+                "match_one": [1,3],
+                "match_two": [6,3],
+                "match_three": [2,1],
+                "match_four": [4,5]
+              },
+              "fouls": {
+                "match_five": [11,15],
+                "match_six": [13, 11],
+                "match_seven": [12,13],
+                "match_one": [16,13],
+                "match_two": [8,13],
+                "match_three": [15,11],
+                "match_four": [9,12]
+              },
+              "HT_cards": {
+                "match_five": [0,0],
+                "match_six": [0, 1],
+                "match_seven": [0,0],
+                "match_one": [0,1],
+                "match_two": [0,1],
+                "match_three": [1,2],
+                "match_four": [0,1]
+              },
+              "FT_cards": {
+                "match_five": [2,2],
+                "match_six": [2, 6],
+                "match_seven": [2,3],
+                "match_one": [3,1],
+                "match_two": [1,2],
+                "match_three": [2,2],
+                "match_four": [1,3]
+              }
+                }
+          
+          
+          },
+        "summary":{
+        "corners":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": "AS Roma"
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": "Ov 1.5"
+        },
+        "cards":{
+            "discuss":"*Awaiting ref's data",
+            "ht": " ",
+            "ft": " "
+        }
+      }
+    },
+    {
+        "fixture": "Inter vs Venezia",
+        "league":"🇮🇹 Serie A",
+       
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "*n/a",
+         "fouls_per_tackle": 0,
+          "yellow_per_game": 0
+        },
+        "head_to_head": {
+            "teams": {
+                "match_one": [
+                    "Inter",
+                    "Venezia"
+                ],
+                "match_two": [
+                    "Venezia",
+                    "Inter"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    2,
+                    1
+                ],
+                "match_two": [
+                    0,
+                    2
+                ]
+            },
+            "x_goals": {
+                "match_one": [],
+                "match_two": []
+            },
+            "corners": {
+                "match_one": [
+                    6,
+                    0
+                ],
+                "match_two": [
+                    3,
+                    9
+                ]
+            },
+            "fouls": {
+                "match_one": [
+                    13,
+                    9
+                ],
+                "match_two": [
+                    9,
+                    4
+                ]
+            },
+            "HT_cards": {
+                "match_one": [
+                    2,
+                    2
+                ],
+                "match_two": [
+                    0,
+                    0
+                ]
+            },
+            "FT_cards": {
+                "match_one": [
+                    3,
+                    4
+                ],
+                "match_two": [
+                    2,
+                    0
+                ]
+            }
+        },
+        "home_team" : {
+            
+            "name": "Inter",
+            "coach": "Simone Inzaghi",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/inter.png",
+            "playing_style": "Ball Retention; Short passes",
+            "pressing_style": "Non-aggressive",
+            "attacking_style": "Attack through the middle; Frequent through ball attempts",
+            "defensive_style": " ",
+            "aggressive_players": ["Lautaro Martínez"],
+            "provocative_players": ["Lautaro Martinez","Hakan Çalhanoglu"],
+            "unavailable_attacking_players": [],
+            
+            "recent_matches": {
+                "teams": {
+                  "match_five": ["Empoli", "Inter"],
+                  "match_six": ["Inter", "Juventus"],
+                  "match_seven": ["AS Roma","inter"],
+                  "match_one": ["Inter","Torino"],
+                  "match_two": ["Udinese","Inter"],
+                  "match_three": ["Inter","AC Milan"],
+                  "match_four": ["Monza", "Inter"]
+            },
+            
+              "goals": {
+                "match_five": [0,3],
+                "match_six": [4, 4],
+                "match_seven": [0,1],
+                "match_one": [3,2],
+                "match_two": [2,3],
+                "match_three": [1,2],
+                "match_four": [1,1]
+              },
+              "x_goals": {
+                "match_five": [0.26,1.11],
+                "match_six": [3.13,2.17],
+                "match_seven": [1.14,1.04],
+                "match_one": [2.72,1.34],
+                "match_two": [0.88,2.91],
+                "match_three": [0.62,1.91],
+                "match_four": [0.43,1.89]
+              },
+              "corners": {
+                "match_five": [1,4],
+                "match_six": [13, 5],
+                "match_seven": [3,3],
+                "match_one": [14,0],
+                "match_two": [7,3],
+                "match_three": [6,2],
+                "match_four": [1,8]
+              },
+              "fouls": {
+                "match_five": [12,13],
+                "match_six": [11, 16],
+                "match_seven": [12,13],
+                "match_one": [6,9],
+                "match_two": [13,6],
+                "match_three": [13,4],
+                "match_four": [11,19]
+              },
+              "HT_cards": {
+                "match_five": [2,0],
+                "match_six": [0, 0],
+                "match_seven": [0,0],
+                "match_one": [1,1],
+                "match_two": [1,0],
+                "match_three": [2,1],
+                "match_four": [0,0]
+              },
+              "FT_cards": {
+                "match_five": [2,1],
+                "match_six": [2, 1],
+                "match_seven": [2,3],
+                "match_one": [1,3],
+                "match_two": [1,0],
+                "match_three": [4,1],
+                "match_four": [1,2]
+              }
+            }   
+          
+          
+          },
+        "away_team": {
+            "name": "Venezia",
+            "coach": "Eusebio Di Francesco",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/venezia.png",
+            "playing_style": "Defensive",
+            "pressing_style": "Low-pressing",
+            "attacking_style": "Long balls",
+            "defensive_style": "Very Compact",
+            "aggressive_players": ["Gaetano Oristanio"],
+            "provocative_players": [],
+            "unavailable_attacking_players": [],
+            "recent_matches": {
+              "teams": {
+                "match_five":["Venezia", "Udinese"],
+                "match_six": ["Monza","Venezia"],
+                "match_seven": ["Venezia","Atalanta"],
+                "match_one": ["Verona","Venezia"],
+                "match_two": ["AS Roma","Venezia"],
+                "match_three": ["Venezia","Genoa"],
+                "match_four": ["AC Milan", "Venezia"]
+            },
+            "goals": {
+              "match_five":[3,2],
+              "match_six": [2,2],
+              "match_seven": [0,2],
+              "match_one": [2,1],
+              "match_two": [2,1],
+              "match_three": [2,0],
+              "match_four": [4,0]
+            },
+            "x_goals": {
+              "match_five":[2.39,0.86],
+              "match_six": [1.20,0.58],
+              "match_seven": [0.74,1.31],
+              "match_one": [2.19,2.02],
+              "match_two": [1.11,1.74],
+              "match_three": [1.81,0.35],
+              "match_four": [2.40,0.43]
+            },
+            "corners": {
+              "match_five":[2,6],
+              "match_six": [4,3],
+              "match_seven": [2,5],
+              "match_one": [13,6],
+              "match_two": [6,3],
+              "match_three": [3,4],
+              "match_four": [6,1]
+            },
+            "fouls": {
+              "match_five":[9,13],
+              "match_six": [17,16],
+              "match_seven": [12,6],
+              "match_one": [10,5],
+              "match_two": [8,13],
+              "match_three": [9,12],
+              "match_four": [12,12]
+            },
+            "HT_cards": {
+              "match_five":[1,2],
+              "match_six": [0,0],
+              "match_seven": [0,1],
+              "match_one": [1,0],
+              "match_two": [0,1],
+              "match_three": [0,1],
+              "match_four": [1,1]
+            },
+            "FT_cards": {
+              "match_five":[3,5],
+              "match_six": [5,2],
+              "match_seven": [1,1],
+              "match_one": [3,0],
+              "match_two": [1,2],
+              "match_three": [2,3],
+              "match_four": [1,4]
+            }
+          }   
+         
+          
+          },
+        "summary":{
+        "corners":{
+            "discuss":"Too many inconsistencies to make a prediction",
+            "ht": " ",
+            "ft": " "
+        },
+        "goals":{
+            "discuss":" ",
+            "ht": " ",
+            "ft": "Ov 2.5"
+        },
+        "cards":{
+            "discuss":"*Awaiting ref's data",
+            "ht": " ",
+            "ft": " "
+        }
+      }
     }
 ]
