@@ -3930,7 +3930,7 @@
                         0,
                         0
                     ],
-                    "match_four": [],
+                    "match_four": [0,3],
                     "match_five": [
                         0,
                         0
@@ -4320,18 +4320,18 @@
         "summary":{
         "corners":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Ov 7.5",
+            "ft": "Man United"
         },
         "goals":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "U 4.5"
         },
         "cards":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 3.5"
         }
       }
     },
@@ -4554,7 +4554,7 @@
                         1,
                         1
                     ],
-                    "match_four": [],
+                    "match_four": [0,1],
                     "match_five": [
                         2,
                         2
@@ -4941,18 +4941,18 @@
         "summary":{
         "corners":{
             "discuss":" ",
-            "ht": " ",
+            "ht": "Ov 8.5",
             "ft": " "
         },
         "goals":{
-            "discuss":" ",
+            "discuss":"Despite the inconsistencies",
             "ht": " ",
-            "ft": " "
+            "ft": "U 3.5"
         },
         "cards":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 3.5"
         }
       }
     },
@@ -4970,95 +4970,25 @@
                 "match_one": [
                     "Tottenham",
                     "Ipswich"
-                ],
-                "match_two": [
-                    "Ipswich",
-                    "Tottenham"
-                ],
-                "match_three": [
-                    "Tottenham",
-                    "Ipswich"
-                ],
-                "match_four": [
-                    "Ipswich",
-                    "Tottenham"
-                ],
-                "match_five": [
-                    "Tottenham",
-                    "Ipswich"
                 ]
             },
             "goals": {
-                "match_one": [
-                    3,
-                    0
-                ],
-                "match_two": [
-                    1,
-                    3
-                ],
-                "match_three": [
-                    1,
-                    1
-                ],
-                "match_four": [
-                    2,
-                    2
-                ],
-                "match_five": [
-                    0,
-                    2
-                ]
+                "match_one": [ ]
             },
             "x_goals": {
-                "match_one": [],
-                "match_two": [],
-                "match_three": [],
-                "match_four": [],
-                "match_five": []
+                "match_one": []
             },
             "corners": {
-                "match_one": [],
-                "match_two": [],
-                "match_three": [],
-                "match_four": [],
-                "match_five": []
+                "match_one": []
             },
             "fouls": {
-                "match_one": [],
-                "match_two": [],
-                "match_three": [],
-                "match_four": [],
-                "match_five": []
+                "match_one": []
             },
             "HT_cards": {
-                "match_one": [
-                    0,
-                    0
-                ],
-                "match_two": [
-                    0,
-                    0
-                ],
-                "match_three": [
-                    0,
-                    0
-                ],
-                "match_four": [
-                    0,
-                    0
-                ],
-                "match_five": [
-                    0,
-                    0
-                ]
+                "match_one": [ ]
             },
             "FT_cards": {
-                "match_one": [],
-                "match_two": [],
-                "match_three": [],
-                "match_four": [],
-                "match_five": []
+                "match_one": []
             }
         },
         "home_team" : {
@@ -5511,25 +5441,25 @@
         "summary":{
         "corners":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Ov 8.5",
+            "ft": "Tottenham"
         },
         "goals":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         },
         "cards":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Ov 1.5",
+            "ft": "Ov 3.5"
         }
       }
     },
     {
         "fixture": "Chelsea vs Arsenal",
         "league": "🇬🇧 Premier League",
-            "type_of_match": "Regular",
+            "type_of_match": "Derby",
             "referee": {
               "name": "Oliver M.",
               "fouls_per_tackle": 0.58,
@@ -6135,18 +6065,18 @@
         "summary":{
         "corners":{
             "discuss":" ",
-            "ht": " ",
+            "ht": "Ov 9.5",
             "ft": " "
         },
         "goals":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Yes",
+            "ft": "U 4.5"
         },
         "cards":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Ov 1.5",
+            "ft": "Ov 3.5"
         }
       }
     }
