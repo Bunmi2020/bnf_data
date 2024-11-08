@@ -504,35 +504,35 @@
     },
 
     {
-        "fixture": "Bochum vs Bayer Leverkusen",
+        "fixture": "Bochum vs   B. Leverkusen",
         "league": "🇩🇪 Bundesliga",
         "type_of_match": "Regular",
             "referee": {
-              "name": "*n/a",
-              "fouls_per_tackle": 0,
-              "yellow_per_game": 0
+              "name": "Hartmann R.",
+              "fouls_per_tackle": 0.80,
+              "yellow_per_game": 3.50
             },
         "head_to_head": {
             "teams": {
                 "match_one": [
                     "Bochum",
-                    "Bayer Leverkusen"
+                    "  B. Leverkusen"
                 ],
                 "match_two": [
-                    "Bayer Leverkusen",
+                    "  B. Leverkusen",
                     "Bochum"
                 ],
                 "match_three": [
                     "Bochum",
-                    "Bayer Leverkusen"
+                    "  B. Leverkusen"
                 ],
                 "match_four": [
-                    "Bayer Leverkusen",
+                    "  B. Leverkusen",
                     "Bochum"
                 ],
                 "match_five": [
                     "Bochum",
-                    "Bayer Leverkusen"
+                    "  B. Leverkusen"
                 ]
             },
             "goals": {
@@ -836,7 +836,7 @@
             "recent_matches": {
             "teams": {
                 "match_one": [
-                        "Bayer Leverkusen",
+                        "  B. Leverkusen",
                         "Stuttgart"
                     ],
                 "match_two": [
@@ -988,18 +988,18 @@
         "summary":{
         "corners":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "U 11.5",
+            "ft": "Bayer Leverkusen"
         },
         "goals":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         },
         "cards":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         }
       }
     },
@@ -1009,8 +1009,8 @@
         "type_of_match": "Regular",
             "referee": {
               "name": "Badstubner F.",
-              "fouls_per_tackle": 0,
-              "yellow_per_game": 0
+              "fouls_per_tackle": 0.69,
+          "yellow_per_game": 4.36
             },
         "head_to_head": {
             "teams": {
@@ -1451,18 +1451,18 @@
         "summary":{
         "corners":{
             "discuss":" ",
-            "ht": " ",
+            "ht": "U 11.5",
             "ft": " "
         },
         "goals":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Yes",
+            "ft": "U 4.5"
         },
         "cards":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         }
       }
     },
@@ -1472,103 +1472,38 @@
         "type_of_match": "Regular",
             "referee": {
               "name": "Gerach T.",
-              "fouls_per_tackle": 0,
-              "yellow_per_game": 0
+               "fouls_per_tackle": "0.69",
+            "yellow_per_game": "2.88"
             },
         "head_to_head": {
             "teams": {
                 "match_one": [
                     "Bayern Munich",
                     "St. Pauli"
-                ],
-                "match_two": [
-                    "St. Pauli",
-                    "Bayern Munich"
-                ],
-                "match_three": [
-                    "Bayern Munich",
-                    "St. Pauli"
-                ],
-                "match_four": [
-                    "St. Pauli",
-                    "Bayern Munich"
-                ],
-                "match_five": [
-                    "Bayern Munich",
-                    "St. Pauli"
                 ]
             },
             "goals": {
                 "match_one": [
-                    3,
-                    0
-                ],
-                "match_two": [
-                    1,
-                    2
-                ],
-                "match_three": [
-                    1,
-                    1
-                ],
-                "match_four": [
-                    0,
-                    1
-                ],
-                "match_five": [
-                    0,
-                    1
+                    
                 ]
             },
             "x_goals": {
-                "match_one": [],
-                "match_two": [],
-                "match_three": [],
-                "match_four": [],
-                "match_five": []
+                "match_one": []
             },
             "corners": {
-                "match_one": [],
-                "match_two": [],
-                "match_three": [],
-                "match_four": [],
-                "match_five": []
+                "match_one": []
             },
             "fouls": {
-                "match_one": [],
-                "match_two": [],
-                "match_three": [],
-                "match_four": [],
-                "match_five": []
+                "match_one": []
             },
             "HT_cards": {
                 "match_one": [
                     0,
                     0
-                ],
-                "match_two": [
-                    0,
-                    0
-                ],
-                "match_three": [
-                    0,
-                    0
-                ],
-                "match_four": [
-                    0,
-                    0
-                ],
-                "match_five": [
-                    0,
-                    0
                 ]
             },
             "FT_cards": {
-                "match_one": [],
-                "match_two": [],
-                "match_three": [],
-                "match_four": [],
-                "match_five": []
+                "match_one": []
             }
         },
         "home_team" : {
@@ -1900,18 +1835,18 @@
         "summary":{
         "corners":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "Ov 8.5",
+            "ft": "Bayern Munich"
         },
         "goals":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         },
         "cards":{
             "discuss":" ",
-            "ht": " ",
-            "ft": " "
+            "ht": "U 2.5",
+            "ft": "U 4.5"
         }
       }
     },
@@ -1919,10 +1854,10 @@
         "fixture": "Werder Bremen vs Holstein Kiel",
         "league": "🇩🇪 Bundesliga",
         "type_of_match": "Regular",
-            "referee": {
-              "name": "Storks S.",
-              "fouls_per_tackle": 0,
-              "yellow_per_game": 0
+        "referee": {
+            "name": "Storks S.",
+            "fouls_per_tackle": 0.65,
+            "yellow_per_game": 4.67
             },
         "head_to_head": {
             "teams": {
@@ -2319,18 +2254,18 @@
         "summary":{
         "corners":{
             "discuss":" ",
-            "ht": " ",
+            "ht": "Ov 7.5",
             "ft": " "
         },
         "goals":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         },
         "cards":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 2.5"
         }
       }
     },
@@ -2339,9 +2274,9 @@
         "league": "🇩🇪 Bundesliga",
             "type_of_match": "Regular",
             "referee": {
-                  "name": "Dingert C.",
-                  "fouls_per_tackle": 0,
-                  "yellow_per_game": 0
+                "name": "Dingert C.",
+                "fouls_per_tackle": 0.57,
+                "yellow_per_game": 4.64
                 },
         "head_to_head": {
             "teams": {
@@ -2785,18 +2720,18 @@
         "summary":{
         "corners":{
             "discuss":" ",
-            "ht": " ",
+            "ht": "Ov 7.5",
             "ft": " "
         },
         "goals":{
-            "discuss":" ",
+            "discuss":"Too many inconsistencies",
             "ht": " ",
             "ft": " "
         },
         "cards":{
             "discuss":" ",
             "ht": " ",
-            "ft": " "
+            "ft": "Ov 3.5"
         }
       }
     },
@@ -3154,7 +3089,7 @@
                     ],
                     "match_five": ["Hoffenheim", "Werder Bremen"],
                     "match_six":["Union Berlin","Hoffenheim"],
-                    "match_seven": ["Hoffenheim", "Bayer Leverkusen"]
+                    "match_seven": ["Hoffenheim", "  B. Leverkusen"]
                 },
                 "goals": {
                     "match_one": [
@@ -3476,7 +3411,7 @@
             "recent_matches": {
                 "teams": {
                     "match_one": [
-                        "Bayer Leverkusen",
+                        "  B. Leverkusen",
                         "Stuttgart"
                     ],
                     "match_two": [
@@ -4080,7 +4015,7 @@
                         "Wolfsburg"
                     ],
                     "match_five":["Wolfsburg","Stuttgart"],
-                    "match_six": ["Bayer Leverkusen","Wolfsburg"],
+                    "match_six": ["  B. Leverkusen","Wolfsburg"],
                     "match_seven": ["Wolfsburg", "Eintracht Frankfurt"]
                 },
                 "goals": {
