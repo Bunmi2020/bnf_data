@@ -1,0 +1,223 @@
+{
+    "name": "Mainz",
+    "coach": "Bo Henriksen",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/mainz.png",
+    "playing_style": "Long balls, Wide play, Opponents play aggressively against them",
+    "pressing_style": " ",
+    "attacking_style": "Attack through the middle, Attacking down the right",
+    "defensive_style": "Deep positioning",
+    "aggressive_players": ["Leandro Barreiro","Dominik Kohr","Phillipp Mwene","Karim Onisiwo"],
+    "provocative_players": ["Karim Onisiwo","Jonathan Burkardt","Brajan Gruda","Leandro Barreiro"],
+    "win_form": [["W","W","W","L","W","W","W"]],
+    "corner_form": [["L","L","W","W","W","W","W"]],
+    "recent_matches": {
+        "teams": {
+            "match_one": [
+                "Mainz",
+                "Bochum"
+            ],
+            "match_two": [
+                "Eintracht Frankfurt",
+                "Mainz"
+            ],
+            "match_three": [
+                "Mainz",
+                "Bayern Munich"
+            ],
+            "match_four": [
+                "Wolfsburg",
+                "Mainz"
+            ],
+            "match_five": [
+                "Mainz",
+                "Hoffenheim"
+            ],
+            "match_six": [
+                "Holstein Kiel",
+                "Mainz"
+            ],
+            "match_seven": [
+                "Mainz",
+                "Dortmund"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                2,
+                0
+            ],
+            "match_two": [1,3],
+            "match_three": [
+                2,
+                1
+            ],
+            "match_four": [
+                4,
+                3
+            ],
+            "match_five": [
+                2,
+                0
+            ],
+            "match_six": [
+                0,
+                3
+            ],
+            "match_seven": [
+                3,
+                1
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                1.6,
+                0.56
+            ],
+            "match_two": [
+                2.14,
+                0.5
+            ],
+            "match_three": [
+                0.84,
+                1.48
+            ],
+            "match_four": [
+                1.23,
+                2.34
+            ],
+            "match_five": [
+                2.44,
+                0.59
+            ],
+            "match_six": [
+                0.44,
+                2.2
+            ],
+            "match_seven": [
+                2.07,
+                0.91
+            ]
+        },
+        "corners": {
+            "match_one": [
+                5,
+                6
+            ],
+            "match_two": [
+                17,
+                2
+            ],
+            "match_three": [
+                3,
+                2
+            ],
+            "match_four": [
+                3,
+                5
+            ],
+            "match_five": [
+                8,
+                3
+            ],
+            "match_six": [
+                2,
+                6
+            ],
+            "match_seven": [
+                8,
+                0
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                6,
+                16
+            ],
+            "match_two": [
+                10,
+                10
+            ],
+            "match_three": [
+                21,
+                12
+            ],
+            "match_four": [
+                10,
+                15
+            ],
+            "match_five": [
+                13,
+                12
+            ],
+            "match_six": [
+                11,
+                7
+            ],
+            "match_seven": [
+                17,
+                5
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                0,
+                2
+            ],
+            "match_two": [
+                0,
+                2
+            ],
+            "match_three": [
+                0,
+                0
+            ],
+            "match_four": [
+                2,
+                2
+            ],
+            "match_five": [
+                1,
+                2
+            ],
+            "match_six": [
+                0,
+                0
+            ],
+            "match_seven": [
+                2,
+                2
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                0,
+                2
+            ],
+            "match_two": [
+                1,
+                2
+            ],
+            "match_three": [
+                3,
+                2
+            ],
+            "match_four": [
+                3,
+                4
+            ],
+            "match_five": [
+                1,
+                3
+            ],
+            "match_six": [
+                1,
+                0
+            ],
+            "match_seven": [
+                3,
+                2
+            ]
+        }
+    }
+
+}

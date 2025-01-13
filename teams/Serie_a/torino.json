@@ -1,0 +1,82 @@
+{
+    "name": "Torino",
+    "coach": "Ivan Juric",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/torino.png",
+    "playing_style": "Wide play",
+    "pressing_style": " ",
+    "attacking_style": " ",
+    "defensive_style": " ",
+    "aggressive_players": ["Karol Linetty","Duván Zapata"],
+    "provocative_players": ["Duván Zapata", "Samuele Ricci","Raoul Bellanova"],
+    "unavailable_attacking_players": [],
+    "win_form": ["L","L","L","W","L","L","L"],
+    "corner_form": ["D","L","W","L","W","L","W"],
+    "recent_matches": {
+        "teams": {
+          "match_three": ["Juventus","Torino"],
+          "match_four": ["Torino", "Florentina"],
+          "match_five":["AS Roma", "Torino"],
+          "match_six": ["Torino", "Como"],
+          "match_seven": ["Cagliari","Torino"],
+          "match_one": ["Inter","Torino"],
+          "match_two": ["Torino","Lazio"]
+      },
+      "goals": {
+        "match_three": [2,0],
+        "match_four": [0,1],
+        "match_five":[1,0],
+        "match_six":[1,0],
+        "match_seven": [3,2],
+        "match_one": [3,2],
+        "match_two": [2,3]
+      },
+      "x_goals": {
+        "match_three": [1.82,0.41],
+        "match_four": [0.60,0.63],
+        "match_five":[0.50,0.22],
+        "match_six":[1.38,1.64],
+        "match_seven": [1.33,1.33],
+        "match_one": [2.72,1.34],
+        "match_two": [0.71,1.98]
+      },
+      "corners": {
+        "match_three": [5,5],
+        "match_four": [1,3],
+        "match_five":[3,5],
+        "match_six":[1,3],
+        "match_seven": [9,12],
+        "match_one": [14,0],
+        "match_two": [3,1]
+      },
+      "fouls": {
+        "match_three": [7,14],
+        "match_four": [16,12],
+        "match_five":[11,15],
+        "match_six":[13,12],
+        "match_seven": [9,8],
+        "match_one": [6,9],
+        "match_two": [10,13]
+      },
+      "HT_cards": {
+        "match_three": [0,0],
+        "match_four": [0,0],
+        "match_five":[0,0],
+        "match_six":[2,2],
+        "match_seven": [0,2],
+        "match_one": [1,1],
+        "match_two": [0,0]
+      },
+      "FT_cards": {
+        "match_three": [1,3],
+        "match_four": [2,1],
+        "match_five": [2,2],
+        "match_six":[3,3],
+        "match_seven": [1,3],
+        "match_one": [1,3],
+        "match_two": [2,3]
+      }
+ }
+          
+
+  
+  }

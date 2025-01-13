@@ -1,0 +1,83 @@
+{
+    "name": "Genoa",
+    "coach": "Alberto Gilardino",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/genoa.png",
+    "playing_style": "Long balls; Wide play; Draws fouls; Deep positioning",
+    "pressing_style": " ",
+    "attacking_style": "Attacking down the right",
+    "defensive_style": " ",
+    "aggressive_players": ["Morten Frendrup"],
+    "provocative_players": ["Albert Gudmundsson"],
+    "unavailable_attacking_players": [],
+    "win_form": ["D","W","L","L","D","L","L"],
+    "corner_form": ["W","W","D","L","L","L","W"],
+    "recent_matches": {
+        "teams": {
+          "match_three": ["Genoa","Como"],
+          "match_four": ["Parma","Genoa"],
+          "match_five":["Genoa","Fiorentina"],
+          "match_six":["Lazio","Genoa"],
+          "match_seven": ["Genoa","Bologna"],
+          "match_one": ["Atalanta","Genoa"],
+          "match_two": ["Genoa","Juventus"]
+        },
+    
+      "goals": {
+        "match_three": [1,1],
+        "match_four": [0,1],
+        "match_five": [0,1],
+        "match_six":[3,0],
+        "match_seven": [2,2],
+        "match_one": [5,1],
+        "match_two": [0,3]
+      },
+      "x_goals": {
+        "match_three": [0.86,1.54],
+        "match_four": [0.82,1.16],
+        "match_five":[0.78,0.46],
+        "match_six":[1.90,0.27],
+        "match_seven": [0.43,0.75],
+        "match_one": [3.41,0.59],
+        "match_two": [0.57,2.75]
+      },
+      "corners": {
+        "match_three": [8,5],
+        "match_four": [3,7],
+        "match_five": [4,4],
+        "match_six":[7,4],
+        "match_seven": [1,7],
+        "match_one": [4,2],
+        "match_two": [5,3]
+      },
+      "fouls": {
+        "match_three": [17,15],
+        "match_four": [5,18],
+        "match_five": [13,10],
+        "match_six":[12,6],
+        "match_seven": [20,12],
+        "match_one": [9,15],
+        "match_two": [8,14]
+      },
+      "HT_cards": {
+        "match_three": [1,0],
+        "match_four": [2,1],
+        "match_five": [1,2],
+        "match_six":[1,1],
+        "match_seven": [0,0],
+        "match_one": [0,0],
+        "match_two": [1,0]
+      },
+      "FT_cards": {
+        "match_three": [4,3],
+        "match_four": [2,5],
+        "match_five":[4,2],
+        "match_six":[3,1],
+        "match_seven": [2,0],
+        "match_one": [0,0],
+        "match_two": [2,1]
+      }
+    }
+         
+  
+  
+  }

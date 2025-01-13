@@ -1,0 +1,225 @@
+{
+    "name": "Augsburg",
+    "coach": "Jess Thorup",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/augsburg.png",
+    "playing_style": "Short passes, Control the game in the opposition's half, Wide play",
+    "pressing_style": " ",
+    "attacking_style": "Attacking down the left",
+    "defensive_style": "Aggressive",
+    "aggressive_players": ["Ermedin Demirovic","Kevin Mbabu","Mads Pedersen"],
+    "provocative_players": ["Elvis Rexhbeçaj"],
+    
+    "win_form": ["L", "L", "L", "D", "W", "L", "D"],
+    "corner_form": ["L", "W", "L", "L", "W", "L", "W"],
+    "recent_matches": {
+        "teams": {
+            "match_one": [
+                "Augsburg",
+                "Stuttgart"
+            ],
+            "match_two": [
+                "Holstein Kiel",
+                "Augsburg"
+            ],
+            "match_three": [
+                "Augsburg",
+                "Bayer Leverkusen"
+            ],
+            "match_four": [
+                "Eintracht Frankfurt",
+                "Augsburg"
+            ],
+            "match_five": [
+                "Augsburg",
+                "Bochum"
+            ],
+            "match_six": [
+                "Bayern Munich",
+                "Augsburg"
+            ],
+            "match_seven": [
+                "Augsburg",
+                "Hoffenheim"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                0,
+                1
+            ],
+            "match_two": [
+                5,
+                1
+            ],
+            "match_three": [0,2],
+            "match_four": [
+                2,
+                2
+            ],
+            "match_five": [
+                1,
+                0
+            ],
+            "match_six": [
+                3,
+                0
+            ],
+            "match_seven": [
+                0,
+                0
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                0.22,
+                2.57
+            ],
+            "match_two": [
+                2.03,
+                1.55
+            ],
+            "match_three": [
+                0.58,
+                0.69
+            ],
+            "match_four": [
+                1.6,
+                0.57
+            ],
+            "match_five": [
+                1.91,
+                0.28
+            ],
+            "match_six": [
+                3.77,
+                0.1
+            ],
+            "match_seven": [
+                0.88,
+                0.43
+            ]
+        },
+        "corners": {
+            "match_one": [
+                3,
+                9
+            ],
+            "match_two": [
+                3,
+                8
+            ],
+            "match_three": [
+                4,
+                9
+            ],
+            "match_four": [
+                4,
+                0
+            ],
+            "match_five": [
+                6,
+                1
+            ],
+            "match_six": [
+                8,
+                0
+            ],
+            "match_seven": [
+                10,
+                6
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                11,
+                14
+            ],
+            "match_two": [
+                11,
+                13
+            ],
+            "match_three": [
+                12,
+                5
+            ],
+            "match_four": [
+                17,
+                9
+            ],
+            "match_five": [
+                8,
+                22
+            ],
+            "match_six": [
+                9,
+                9
+            ],
+            "match_seven": [
+                16,
+                7
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                2,
+                0
+            ],
+            "match_two": [
+                0,
+                1
+            ],
+            "match_three": [
+                2,
+                0
+            ],
+            "match_four": [
+                1,
+                1
+            ],
+            "match_five": [
+                2,
+                0
+            ],
+            "match_six": [
+                0,
+                0
+            ],
+            "match_seven": [
+                0,
+                2
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                5,
+                1
+            ],
+            "match_two": [
+                0,
+                4
+            ],
+            "match_three": [
+                3,
+                0
+            ],
+            "match_four": [
+                2,
+                2
+            ],
+            "match_five": [
+                3,
+                3
+            ],
+            "match_six": [
+                0,
+                3
+            ],
+            "match_seven": [
+                2,
+                3
+            ]
+        }
+    }
+
+
+}

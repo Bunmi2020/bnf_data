@@ -1,0 +1,168 @@
+{
+            
+    "name": "Inter",
+    "coach": "Simone Inzaghi",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/inter.png",
+    "playing_style": "Ball Retention; Short passes",
+    "pressing_style": "Non-aggressive",
+    "attacking_style": "Attack through the middle; Frequent through ball attempts",
+    "defensive_style": " ",
+    "aggressive_players": ["Lautaro Martínez"],
+    "provocative_players": ["Lautaro Martinez","Hakan Çalhanoglu"],
+    "unavailable_attacking_players": [],
+    "win_form": ["W","W","W","W","W"],
+    "corner_form": ["W","W","L","W","L"],
+    "recent_matches": {
+      "teams": {
+          "match_one": [
+              "Cagliari",
+              "Inter"
+          ],
+          "match_two": [
+              "Inter",
+              "Como"
+          ],
+          "match_three": [
+              "Lazio",
+              "Inter"
+          ],
+          "match_four": [
+              "Inter",
+              "Parma"
+          ],
+          "match_five": [
+              "Verona",
+              "Inter"
+          ]
+      },
+      "goals": {
+          "match_one": [
+              0,
+              3
+          ],
+          "match_two": [
+              2,
+              0
+          ],
+          "match_three": [
+              0,
+              6
+          ],
+          "match_four": [
+              3,
+              1
+          ],
+          "match_five": [
+              0,
+              5
+          ]
+      },
+      "x_goals": {
+          "match_one": [
+              0.31,
+              3.5
+          ],
+          "match_two": [
+              1.46,
+              0.37
+          ],
+          "match_three": [
+              0.41,
+              2.13
+          ],
+          "match_four": [
+              2.31,
+              0.24
+          ],
+          "match_five": [
+              0.51,
+              3.14
+          ]
+      },
+      "corners": {
+          "match_one": [
+              5,
+              7
+          ],
+          "match_two": [
+              7,
+              1
+          ],
+          "match_three": [
+              4,
+              2
+          ],
+          "match_four": [
+              10,
+              1
+          ],
+          "match_five": [
+              4,
+              2
+          ]
+      },
+      "fouls": {
+          "match_one": [
+              14,
+              5
+          ],
+          "match_two": [
+              13,
+              15
+          ],
+          "match_three": [
+              7,
+              14
+          ],
+          "match_four": [
+              8,
+              3
+          ],
+          "match_five": [
+              14,
+              5
+          ]
+      },
+      "HT_cards": {
+          "match_one": [
+              0,
+              0
+          ],
+          "match_two": [
+              1,
+              0
+          ],
+          "match_three": [
+              1,
+              3
+          ],
+          "match_four": [
+              0,
+              1
+          ],
+          "match_five": [
+              1,
+              0
+          ]
+      },
+      "FT_cards": {
+          "match_one": [0,0],
+          "match_two": [
+              2,
+              2
+          ],
+          "match_three": [
+              2,
+              4
+          ],
+          "match_four": [
+              1,
+              1
+          ],
+          "match_five": [
+              2,
+              1
+          ]
+      }
+  }
+  }

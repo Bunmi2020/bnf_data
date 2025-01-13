@@ -9,201 +9,217 @@
     "defensive_style": "Organized",
     "aggressive_players": ["Christian Norgaard", "Yoane Wissa"],
     "provocative_players": ["Bryan Mbeumo", "Yoane Wissa"],
-    "unavailable_attacking_players": [],
+    "win_form": [["W","L","D","L","L","W","L"]],
+    "corner_form": [["D","W","L","W","L","L","L"]],
     "recent_matches": {
         "teams": {
-            "match_seven": [
-                "Fulham",
-                "Brentford"
-            ],
             "match_one": [
-                "Brentford",
-                "Ipswich"
+                "Southampton",
+                "Brentford"
             ],
             "match_two": [
-                "Manchester Utd",
-                "Brentford"
+                "Brentford",
+                "Arsenal"
             ],
             "match_three": [
-                "Brentford",
-                "Wolves"
+                "Brighton",
+                "Brentford"
             ],
             "match_four": [
                 "Brentford",
-                "West Ham"
+                "Nottingham"
             ],
             "match_five": [
-                "Tottenham",
+                "Chelsea",
                 "Brentford"
             ],
             "match_six": [
-                "Manchester City",
+                "Brentford",
+                "Newcastle"
+            ],
+            "match_seven": [
+                "Aston Villa",
                 "Brentford"
             ]
         },
         "goals": {
-            "match_seven": [
+            "match_one": [
+                0,
+                5
+            ],
+            "match_two": [
+                1,
+                3
+            ],
+            "match_three": [
+                0,
+                0
+            ],
+            "match_four": [
+                0,
+                2
+            ],
+            "match_five": [
                 2,
                 1
             ],
-            "match_one": [
-                        4,
-                        3
-                    ],
-                    "match_two": [2,1],
-              "match_three": [5,3],
-              "match_four": [1,1],
-                "match_five": [3,1],
-              "match_six": [2,1]
+            "match_six": [
+                4,
+                2
+            ],
+            "match_seven": [
+                3,
+                1
+            ]
         },
         "x_goals": {
-            "match_seven": [
-                1.37,
-                0.59
-            ],
             "match_one": [
-                3.94,
-                1.36
+                0.29,
+                4.23
             ],
             "match_two": [
-                1.48,
-                0.98
+                0.29,
+                1.95
             ],
             "match_three": [
-                3.73,
-                0.75
+                1.26,
+                0.96
             ],
             "match_four": [
-                0.58,
-                0.97
+                0.8,
+                0.84
             ],
             "match_five": [
-                3.91,
-                1.62
+                2.13,
+                1.61
             ],
             "match_six": [
-                2.08,
-                0.88
+                1.07,
+                1.2
+            ],
+            "match_seven": [
+                2.25,
+                0.96
             ]
         },
         "corners": {
-            "match_seven": [
-                11,
-                3
-            ],
             "match_one": [
-                4,
-                5
-            ],
-            "match_two": [
-                9,
+                2,
                 2
             ],
+            "match_two": [
+                4,
+                3
+            ],
             "match_three": [
-                10,
+                5,
                 3
             ],
             "match_four": [
-                7,
-                6
+                9,
+                5
             ],
             "match_five": [
-                9,
-                4
+                8,
+                5
             ],
             "match_six": [
-                12,
-                3
+                3,
+                4
+            ],
+            "match_seven": [
+                10,
+                5
             ]
         },
         "fouls": {
-            "match_seven": [
-                3,
-                10
-            ],
             "match_one": [
-                7,
-                10
-            ],
-            "match_two": [
-                4,
-                5
-            ],
-            "match_three": [
-                9,
-                10
-            ],
-            "match_four": [
-                2,
-                11
-            ],
-            "match_five": [
-                11,
-                9
-            ],
-            "match_six": [
-                9,
-                3
-            ]
-        },
-        "HT_cards": {
-            "match_seven": [
-                0,
-                0
-            ],
-            "match_one": [
-                0,
-                1
-            ],
-            "match_two": [
-                1,
-                0
-            ],
-            "match_three": [
-                0,
-                1
-            ],
-            "match_four": [
-                0,
-                1
-            ],
-            "match_five": [
-                1,
-                0
-            ],
-            "match_six": [
-                1,
-                0
-            ]
-        },
-        "FT_cards": {
-            "match_seven": [
-                2,
-                1
-            ],
-            "match_one": [
-                0,
+                10,
                 4
             ],
             "match_two": [
+                6,
+                8
+            ],
+            "match_three": [
+                6,
+                12
+            ],
+            "match_four": [
+                9,
+                14
+            ],
+            "match_five": [
+                11,
+                7
+            ],
+            "match_six": [
+                10,
+                7
+            ],
+            "match_seven": [
+                11,
+                15
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                1,
+                0
+            ],
+            "match_two": [
+                1,
+                1
+            ],
+            "match_three": [
+                0,
+                0
+            ],
+            "match_four": [
+                1,
+                1
+            ],
+            "match_five": [
+                0,
+                0
+            ],
+            "match_six": [
+                1,
+                0
+            ],
+            "match_seven": [
+                0,
+                1
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
                 2,
+                0
+            ],
+            "match_two": [
+                1,
                 2
             ],
             "match_three": [
-                2,
-                3
+                0,
+                2
             ],
             "match_four": [
-                2,
-                3
+                3,
+                4
             ],
             "match_five": [
                 3,
-                1
+                2
             ],
             "match_six": [
                 3,
-                1
+                0
+            ],
+            "match_seven": [
+                2,
+                2
             ]
         }
     }

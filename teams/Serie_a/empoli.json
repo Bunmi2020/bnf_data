@@ -1,0 +1,83 @@
+{
+            
+    "name": "Empoli",
+    "coach": "Roberto D'Aversa",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/empoli.png",
+    "playing_style": "Wide play; Long balls; Deep positioning",
+    "pressing_style": "Aggressive",
+    "attacking_style": "Attacking down the left; High crossing frequency; Frequent through ball attempts",
+    "defensive_style": " ",
+    "aggressive_players": ["Youssef Maleh"],
+    "provocative_players": [],
+    "unavailable_attacking_players": [],
+    "win_form": ["D","W","L","D","L","L","D"],
+    "corner_form": ["L","L","L","L","D","L","L"],
+    "recent_matches": {
+        "teams": {
+          "match_three": ["Lecce","Empoli"],
+          "match_four": ["Como", "Empoli"],
+          "match_five": ["Empoli", "Inter"],
+          "match_six": ["Parma", "Empoli"],
+          "match_seven": ["Empoli","Napoli"],
+          "match_one": ["Lazio","Empoli"],
+          "match_two": ["Empoli","Fiorentina"]
+        },
+      
+    "goals": {
+      "match_three": [1,1],
+      "match_four": [1,0],
+      "match_five": [0,3],
+      "match_six": [1,1],
+      "match_seven": [0,1],
+      "match_one": [2,1],
+      "match_two": [0,0]
+      },
+      "x_goals": {
+        "match_three": [1.63,0.56],
+        "match_four": [0.61,0.37],
+        "match_five": [0.26,1.11],
+        "match_six": [1.75,0.13],
+        "match_seven": [0.69,1.40],
+        "match_one": [2.51,0.54],
+        "match_two": [0.55,0.91]
+      },
+      "corners": {
+        "match_three": [4,3],
+        "match_four": [3,6],
+        "match_five": [1,4],
+        "match_six": [9,3],
+        "match_seven": [7,7],
+        "match_one": [5,3],
+        "match_two": [2,4]
+      },
+      "fouls": {
+        "match_three": [7,24],
+        "match_four": [17,9],
+        "match_five": [12,13],
+        "match_six": [12, 17],
+        "match_seven": [14,13],
+        "match_one": [10,17],
+        "match_two": [15,12]
+      },
+      "HT_cards": {
+        "match_three": [0,1],
+        "match_four": [0,0],
+        "match_five": [2,0],
+        "match_six": [1, 1],
+        "match_seven": [1,1],
+        "match_one": [1,2],
+        "match_two": [0,0]
+      },
+      "FT_cards": {
+        "match_three": [0,3],
+        "match_four": [1,0],
+        "match_five": [2,1],
+        "match_six": [4, 5],
+        "match_seven": [2,2],
+        "match_one": [2,4],
+        "match_two": [0,1]
+      }
+    }       
+ 
+  
+  }

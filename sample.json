@@ -1,16 +1,13 @@
 [
     {
         "fixture": "Home vs Away",
-    "stadium": "",
-    "weather": " ",
-    "pitch_condition": "",
-    "type_of_match": "",
-    "referee": {
-      "name":"",
-      "fouls_per_tackle": 0.60,
-      "yellow_per_game": 4.81
-      
-    },
+        "league": "🇬🇧 Premier League",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "*n/a",
+          "fouls_per_tackle": 0,
+          "yellow_per_game": 0
+        },
 
     "head_to_head": {
 
@@ -65,30 +62,9 @@
           "match_five": [3,1]
           }
       },
-      "home_team" : {
-      
-      },
-      "away_team": {
-      
-      },
-      "summary":{
-      
-      "corners":{
-          "discuss":" ",
-          "ht": " ",
-          "ft": " "
-      },
-      "goals":{
-          "discuss":" ",
-          "ht": " ",
-          "ft": " "
-      },
-      "cards":{
-          "discuss":" ",
-          "ht": " ",
-          "ft": " "
-      }
-    }
+      "home_team" : "https://bunmi2020.github.io/bnf_data/week_twelve/teams/",
+      "away_team": "https://bunmi2020.github.io/bnf_data/week_twelve/teams/",
+      "prediction": "https://bunmi2020.github.io/bnf_data/week_twelve/predictions/"
     },
     {
         "fixture": "Home vs Away",
@@ -168,7 +144,7 @@
         "away_team": {
         
         },
-        "summary":{
+        "prediction":{
         "corners":{
             "discuss":" ",
             "ht": " ",

@@ -1,0 +1,186 @@
+{
+    "name": "Hoffenheim",
+    "coach": "Pellegrino Matarazzo ",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/hoffenheim.png",
+    "playing_style": "Control the game in the opposition's half, Wide play",
+    "pressing_style": " ",
+    "attacking_style": "High crossing frequency, Frequent through ball attempts, Take long shots",
+    "defensive_style": " ",
+    "aggressive_players": [" "],
+    "provocative_players": ["Jan-Niklas Beste"],
+    "win_form": [["L","L","D","D","L","W"]],
+    "corner_form": [["L","W","W","W","L","W"]],
+    "recent_matches": {
+        "teams": {
+            "match_one": [
+                "Hoffenheim",
+                "Wolfsburg"
+            ],
+            "match_two": [
+                "Hoffenheim",
+                "B. Monchengladbach"
+            ],
+            "match_three": [
+                "Dortmund",
+                "Hoffenheim"
+            ],
+            "match_four": [
+                "Hoffenheim",
+                "Freiburg"
+            ],
+            "match_five": [
+                "Mainz",
+                "Hoffenheim"
+            ],
+            "match_six": [
+                "Hoffenheim",
+                "RB Leipzig"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                0,
+                1
+            ],
+            "match_two": [1,2],
+            "match_three": [
+                1,
+                1
+            ],
+            "match_four": [1,1],
+            "match_five": [
+                2,
+                0
+            ],
+            "match_six": [4,3]
+        },
+        "x_goals": {
+            "match_one": [
+                1.02,
+                0.91
+            ],
+            "match_two": [
+                3.1,
+                0.6
+            ],
+            "match_three": [
+                0.51,
+                0.77
+            ],
+            "match_four": [
+                1.28,
+                1.23
+            ],
+            "match_five": [
+                2.44,
+                0.59
+            ],
+            "match_six": [
+                2.14,
+                1.68
+            ]
+        },
+        "corners": {
+            "match_one": [
+                4,
+                8
+            ],
+            "match_two": [
+                8,
+                4
+            ],
+            "match_three": [
+                3,
+                9
+            ],
+            "match_four": [
+                6,
+                1
+            ],
+            "match_five": [
+                8,
+                3
+            ],
+            "match_six": [
+                4,
+                3
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                15,
+                14
+            ],
+            "match_two": [
+                14,
+                6
+            ],
+            "match_three": [
+                9,
+                10
+            ],
+            "match_four": [
+                10,
+                5
+            ],
+            "match_five": [
+                13,
+                12
+            ],
+            "match_six": [
+                14,
+                12
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                0,
+                1
+            ],
+            "match_two": [
+                0,
+                0
+            ],
+            "match_three": [
+                2,
+                1
+            ],
+            "match_four": [
+                0,
+                1
+            ],
+            "match_five": [
+                1,
+                2
+            ],
+            "match_six": [
+                0,
+                0
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                1,
+                2
+            ],
+            "match_two": [],
+            "match_three": [
+                5,
+                2
+            ],
+            "match_four": [
+                1,
+                1
+            ],
+            "match_five": [
+                1,
+                3
+            ],
+            "match_six": [
+                2,
+                1
+            ]
+        }
+    }
+
+}

@@ -1,0 +1,84 @@
+{
+                
+    "name": "Monza",
+    "coach": "Alessandro Nesta",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/monza.png",
+    "playing_style": "Ball Retention; Short passes; Deep positioning",
+    "pressing_style": " ",
+    "attacking_style": " ",
+    "defensive_style": " ",
+    "aggressive_players": ["Armando Izzo","Patrick Ciurria","Milan Djuric"],
+    "provocative_players": ["Matteo Pessina"],
+    "unavailable_attacking_players": [],
+    "win_form": ["L","L","L","D","W","D","L"],
+    "corner_form": ["D","L","L","W","L","L","W"],
+    "recent_matches": {
+        "teams": {
+          "match_four": ["Monza","Lazio"],
+          "match_five": ["Monza", "AC Milan"],
+          "match_six": ["Atalanta", "Monza"],
+          "match_seven": ["Monza","Venezia"],
+          "match_one": ["Verona","Monza"],
+          "match_two": ["Monza","AS Roma"],
+          "match_three": ["Napoli","Monza"]
+    },
+      "goals": {
+        "match_four": [0,1],
+        "match_five": [0,1],
+        "match_six": [2,0],
+        "match_seven": [2,2],
+        "match_one": [0,3],
+        "match_two": [1,1],
+        "match_three": [2,0]
+      },
+      "x_goals": {
+        "match_four": [0.95,1.46],
+        "match_five": [1.13,2.52],
+        "match_six": [1.15,0.11],
+        "match_seven": [1.20,0.58],
+        "match_one": [0.83,1.51],
+        "match_two": [1.40,1.19],
+        "match_three": [1.58,0.14]
+      },
+      "corners": {
+        "match_four": [6,6],
+        "match_five": [3,5],
+        "match_six": [5,1],
+        "match_seven": [4,3],
+        "match_one": [9,6],
+        "match_two": [1,3],
+        "match_three": [1,3]
+      },
+      "fouls": {
+        "match_four": [13,10],
+        "match_five": [18,15],
+        "match_six": [14,11],
+        "match_seven": [17,16],
+        "match_one": [8,13],
+        "match_two": [16,13],
+        "match_three": [16,8]
+      },
+      "HT_cards": {
+        "match_four": [2,0],
+        "match_five": [0,0],
+        "match_six": [0,0],
+        "match_seven": [0,0],
+        "match_one": [2,1],
+        "match_two": [0,1],
+        "match_three": [1,2]
+      },
+      "FT_cards": {
+        "match_four": [5,1],
+        "match_five": [2,1],
+        "match_six": [2,3],
+        "match_seven": [5,2],
+        "match_one": [3,2],
+        "match_two": [3,1],
+        "match_three": [1,2]
+        }
+    }
+          
+    
+ 
+  
+  }

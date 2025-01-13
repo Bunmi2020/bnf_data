@@ -1,0 +1,83 @@
+{
+            
+    "name": "Cagliari",
+"coach": "Davide Nicola",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/cagliari.png",
+"playing_style": "Wide play; Long balls",
+"pressing_style": " ",
+"attacking_style": "High crossing frequency; Frequent through ball attempts; Attacking down the right; High shot volume",
+"defensive_style": "High Line; Use offside positioning",
+"aggressive_players": [],
+"provocative_players": ["Zito Luvumbo"],
+"unavailable_attacking_players": [],
+"win_form": ["D","L","L","L","W","D","W"],
+"corner_form": ["W","W","W","W","L","L","L"],
+"recent_matches": {
+"teams": {
+  "match_three": ["Cagliari","AC Milan"],
+  "match_four": ["Lazio", "Cagliari"],
+  "match_five": ["Cagliari", "Bologna"],
+  "match_six": ["Udinese", "Cagliari"],
+  "match_seven": ["Cagliari","Torino"],
+  "match_one": ["Juventus","Cagliari"],
+  "match_two": ["Parma","Cagliari"]
+},
+
+"goals": {
+  "match_three": [3,3],
+  "match_four": [2,1],
+  "match_five": [0,2],
+  "match_six":[2,0],
+  "match_seven": [3,2],
+  "match_one": [1,1],
+  "match_two": [2,3]
+},
+"x_goals": {
+  "match_three": [1.59,3.20],
+  "match_four": [2.65,0.24],
+  "match_five": [0.91,0.85],
+  "match_six":[1.01,0.45],
+  "match_seven": [1.33,1.33],
+  "match_one": [3.19,1.65],
+  "match_two": [1.92,1.36]
+},
+"corners": {
+  "match_three": [6,3],
+  "match_four": [2,3],
+  "match_five": [7,2],
+  "match_six":[2,4],
+  "match_seven": [9,12],
+  "match_one": [8,3],
+  "match_two": [5,3]
+},
+"fouls": {
+  "match_three": [7,11],
+  "match_four": [12,17],
+  "match_five": [17,18],
+  "match_six":[13,9],
+  "match_seven": [9,8],
+  "match_one": [13,10],
+  "match_two": [10,16]
+},
+"HT_cards": {
+  "match_three": [0,0],
+  "match_four": [1,3],
+  "match_five": [1,0],
+  "match_six":[0,3],
+  "match_seven": [0,2],
+  "match_one": [1,0],
+  "match_two": [1,0]
+},
+"FT_cards": {
+  "match_three": [0,2],
+  "match_four": [3,10],
+  "match_five": [2,2],
+  "match_six":[2,4],
+  "match_seven": [1,3],
+  "match_one": [6,2],
+  "match_two": [3,2]
+}
+}
+
+  
+  }
