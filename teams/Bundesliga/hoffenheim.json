@@ -8,10 +8,14 @@
     "defensive_style": " ",
     "aggressive_players": [" "],
     "provocative_players": ["Jan-Niklas Beste"],
-    "win_form": [["L","L","D","D","L","W"]],
-    "corner_form": [["L","W","W","W","L","W"]],
+    "win_form": [["L","L","L","D","D","L","W"]],
+    "corner_form": [["L","L","W","W","W","L","W"]],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+            "Bayern Munich",
+            "Hoffenheim"
+            ],
             "match_one": [
                 "Hoffenheim",
                 "Wolfsburg"
@@ -38,6 +42,10 @@
             ]
         },
         "goals": {
+            "match_seven": [
+                5,
+                0
+            ],
             "match_one": [
                 0,
                 1
@@ -54,7 +62,10 @@
             ],
             "match_six": [4,3]
         },
-        "x_goals": {
+        "x_goals": {"match_seven": [
+                3.35,
+                0.37
+            ],
             "match_one": [
                 1.02,
                 0.91
@@ -81,6 +92,10 @@
             ]
         },
         "corners": {
+            "match_seven": [
+                13,
+                1
+            ],
             "match_one": [
                 4,
                 8
@@ -107,6 +122,10 @@
             ]
         },
         "fouls": {
+            "match_seven": [
+                8,
+                10
+            ],
             "match_one": [
                 15,
                 14
@@ -133,6 +152,10 @@
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                0,
+                0
+            ],
             "match_one": [
                 0,
                 1
@@ -159,11 +182,15 @@
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                1,
+                1
+            ],
             "match_one": [
                 1,
                 2
             ],
-            "match_two": [],
+            "match_two": [0,0],
             "match_three": [
                 5,
                 2

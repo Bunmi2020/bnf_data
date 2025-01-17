@@ -1,0 +1,198 @@
+{
+    "name": "Getafe",
+"coach": "José Bordalás",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/getafe.png",
+"playing_style": "Long balls; High territorial control; Draws fouls",
+"pressing_style": "Aggressive",
+"attacking_style": "Take long shots; High crossing frequency; Attack through the middle; High shot volume",
+"defensive_style": "High Line; Use offside positioning",
+"aggressive_players": ["Djené Dakonam","Gastón Álvarez"],
+"provocative_players": ["Diego Rico"],
+"unavailable_attacking_players": ["Mayoral B."],
+"win_form": ["W","L","L","W","L","W"],
+"corner_form": ["W","W","L","D","L","W"],
+"recent_matches": {
+        "teams": {
+            "match_one": [
+                "Las Palmas",
+                "Getafe"
+            ],
+            "match_two": [
+                "Getafe",
+                "Mallorca"
+            ],
+            "match_three": [
+                "Atl. Madrid",
+                "Getafe"
+            ],
+            "match_four": [
+                "Getafe",
+                "Espanyol"
+            ],
+            "match_five": [
+                "Real Madrid",
+                "Getafe"
+            ],
+            "match_six": [
+                "Getafe",
+                "Valladolid"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                1,
+                2
+            ],
+            "match_two": [
+                0,
+                1
+            ],
+            "match_three": [
+                1,
+                0
+            ],
+            "match_four": [
+                1,
+                0
+            ],
+            "match_five": [
+                2,
+                0
+            ],
+            "match_six": [
+                2,
+                0
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                1.36,
+                1.1
+            ],
+            "match_two": [
+                0.78,
+                1.9
+            ],
+            "match_three": [
+                1.64,
+                0.17
+            ],
+            "match_four": [
+                0.37,
+                0.79
+            ],
+            "match_five": [
+                2.58,
+                0.4
+            ],
+            "match_six": [
+                0.58,
+                0.98
+            ]
+        },
+        "corners": {
+            "match_one": [
+                4,
+                5
+            ],
+            "match_two": [
+                3,
+                0
+            ],
+            "match_three": [
+                8,
+                3
+            ],
+            "match_four": [
+                3,
+                3
+            ],
+            "match_five": [
+                5,
+                3
+            ],
+            "match_six": [
+                3,
+                2
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                14,
+                17
+            ],
+            "match_two": [
+                19,
+                13
+            ],
+            "match_three": [
+                13,
+                15
+            ],
+            "match_four": [
+                14,
+                15
+            ],
+            "match_five": [
+                7,
+                26
+            ],
+            "match_six": [
+                15,
+                15
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                0,
+                1
+            ],
+            "match_two": [
+                2,
+                1
+            ],
+            "match_three": [
+                0,
+                0
+            ],
+            "match_four": [
+                2,
+                1
+            ],
+            "match_five": [
+                1,
+                1
+            ],
+            "match_six": [
+                1,
+                0
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                2,
+                3
+            ],
+            "match_two": [
+                4,
+                3
+            ],
+            "match_three": [
+                3,
+                1
+            ],
+            "match_four": [
+                3,
+                6
+            ],
+            "match_five": [
+                2,
+                6
+            ],
+            "match_six": [
+                3,
+                2
+            ]
+        }
+    }
+  }

@@ -9,74 +9,219 @@
     "aggressive_players": ["Karol Linetty","Duván Zapata"],
     "provocative_players": ["Duván Zapata", "Samuele Ricci","Raoul Bellanova"],
     "unavailable_attacking_players": [],
-    "win_form": ["L","L","L","W","L","L","L"],
-    "corner_form": ["D","L","W","L","W","L","W"],
+    "win_form": ["D","D","D","L","W","D","L"],
+    "corner_form": ["W","W","L","W","L","D","L"],
     "recent_matches": {
-        "teams": {
-          "match_three": ["Juventus","Torino"],
-          "match_four": ["Torino", "Florentina"],
-          "match_five":["AS Roma", "Torino"],
-          "match_six": ["Torino", "Como"],
-          "match_seven": ["Cagliari","Torino"],
-          "match_one": ["Inter","Torino"],
-          "match_two": ["Torino","Lazio"]
+      "teams": {
+          "match_one": [
+              "Torino",
+              "Juventus"
+          ],
+          "match_two": [
+              "Torino",
+              "Parma"
+          ],
+          "match_three": [
+              "Udinese",
+              "Torino"
+          ],
+          "match_four": [
+              "Torino",
+              "Bologna"
+          ],
+          "match_five": [
+              "Empoli",
+              "Torino"
+          ],
+          "match_six": [
+              "Genoa",
+              "Torino"
+          ],
+          "match_seven": [
+              "Torino",
+              "Napoli"
+          ]
       },
       "goals": {
-        "match_three": [2,0],
-        "match_four": [0,1],
-        "match_five":[1,0],
-        "match_six":[1,0],
-        "match_seven": [3,2],
-        "match_one": [3,2],
-        "match_two": [2,3]
+          "match_one": [
+              1,
+              1
+          ],
+          "match_two": [
+              0,
+              0
+          ],
+          "match_three": [
+              2,
+              2
+          ],
+          "match_four": [
+              0,
+              2
+          ],
+          "match_five": [
+              0,
+              1
+          ],
+          "match_six": [
+              0,
+              0
+          ],
+          "match_seven": [
+              0,
+              1
+          ]
       },
       "x_goals": {
-        "match_three": [1.82,0.41],
-        "match_four": [0.60,0.63],
-        "match_five":[0.50,0.22],
-        "match_six":[1.38,1.64],
-        "match_seven": [1.33,1.33],
-        "match_one": [2.72,1.34],
-        "match_two": [0.71,1.98]
+          "match_one": [
+              0.56,
+              0.82
+          ],
+          "match_two": [
+              1.13,
+              0.39
+          ],
+          "match_three": [
+              0.67,
+              0.59
+          ],
+          "match_four": [
+              0.36,
+              1.83
+          ],
+          "match_five": [
+              0.27,
+              0.98
+          ],
+          "match_six": [
+              0.49,
+              0.58
+          ],
+          "match_seven": [
+              0.26,
+              1.44
+          ]
       },
       "corners": {
-        "match_three": [5,5],
-        "match_four": [1,3],
-        "match_five":[3,5],
-        "match_six":[1,3],
-        "match_seven": [9,12],
-        "match_one": [14,0],
-        "match_two": [3,1]
+          "match_one": [
+              9,
+              1
+          ],
+          "match_two": [
+              8,
+              7
+          ],
+          "match_three": [
+              4,
+              3
+          ],
+          "match_four": [
+              4,
+              0
+          ],
+          "match_five": [
+              12,
+              3
+          ],
+          "match_six": [
+              4,
+              4
+          ],
+          "match_seven": [
+              4,
+              7
+          ]
       },
       "fouls": {
-        "match_three": [7,14],
-        "match_four": [16,12],
-        "match_five":[11,15],
-        "match_six":[13,12],
-        "match_seven": [9,8],
-        "match_one": [6,9],
-        "match_two": [10,13]
+          "match_one": [
+              18,
+              9
+          ],
+          "match_two": [
+              9,
+              9
+          ],
+          "match_three": [
+              17,
+              12
+          ],
+          "match_four": [
+              11,
+              17
+          ],
+          "match_five": [
+              7,
+              15
+          ],
+          "match_six": [
+              12,
+              15
+          ],
+          "match_seven": [
+              15,
+              9
+          ]
       },
       "HT_cards": {
-        "match_three": [0,0],
-        "match_four": [0,0],
-        "match_five":[0,0],
-        "match_six":[2,2],
-        "match_seven": [0,2],
-        "match_one": [1,1],
-        "match_two": [0,0]
+          "match_one": [
+              1,
+              0
+          ],
+          "match_two": [
+              1,
+              1
+          ],
+          "match_three": [
+              0,
+              0
+          ],
+          "match_four": [
+              0,
+              0
+          ],
+          "match_five": [
+              0,
+              2
+          ],
+          "match_six": [
+              1,
+              0
+          ],
+          "match_seven": [
+              2,
+              0
+          ]
       },
       "FT_cards": {
-        "match_three": [1,3],
-        "match_four": [2,1],
-        "match_five": [2,2],
-        "match_six":[3,3],
-        "match_seven": [1,3],
-        "match_one": [1,3],
-        "match_two": [2,3]
+          "match_one": [
+              4,
+              1
+          ],
+          "match_two": [
+              2,
+              1
+          ],
+          "match_three": [
+              1,
+              0
+          ],
+          "match_four": [
+              0,
+              2
+          ],
+          "match_five": [
+              2,
+              3
+          ],
+          "match_six": [
+              2,
+              1
+          ],
+          "match_seven": [
+              4,
+              1
+          ]
       }
- }
-          
-
+  }
   
   }

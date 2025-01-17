@@ -8,10 +8,14 @@
     "defensive_style": "High Line; Use offside positioning",
     "aggressive_players": [" "],
     "provocative_players": [" "," "],
-    "win_form": [["L","W","D","D","D","W","L"]],
-    "corner_form": [["W","L","L","L","L","W","L"]],
+    "win_form": [["L","L","W","D","D","D","W"]],
+    "corner_form": [["W","W","L","L","L","L","W"]],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Holstein Kiel",
+                "Dortmund"
+            ],
             "match_one": [
                 "Dortmund",
                 "Bayer Leverkusen"
@@ -35,13 +39,13 @@
             "match_six": [
                 "Dortmund",
                 "Freiburg"
-            ],
-            "match_seven": [
-                "Mainz",
-                "Dortmund"
             ]
         },
         "goals": {
+            "match_seven": [
+                4,
+                2
+            ],
             "match_one": [
                 2,
                 3
@@ -56,13 +60,13 @@
                 1,
                 1
             ],
-            "match_six": [4,0],
-            "match_seven": [
-                3,
-                1
-            ]
+            "match_six": [4,0]
         },
         "x_goals": {
+            "match_seven": [
+                1.56,
+                1.06
+            ],
             "match_one": [
                 1.26,
                 1.49
@@ -86,13 +90,13 @@
             "match_six": [
                 1.34,
                 0.74
-            ],
-            "match_seven": [
-                2.07,
-                0.91
             ]
         },
         "corners": {
+            "match_seven": [
+                1,
+                9
+            ],
             "match_one": [
                 6,
                 1
@@ -116,13 +120,13 @@
             "match_six": [
                 7,
                 0
-            ],
-            "match_seven": [
-                8,
-                0
             ]
         },
         "fouls": {
+            "match_seven": [
+                13,
+                11
+            ],
             "match_one": [
                 8,
                 6
@@ -146,13 +150,13 @@
             "match_six": [
                 11,
                 4
-            ],
-            "match_seven": [
-                17,
-                5
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                0,
+                1
+            ],
             "match_one": [
                 0,
                 1
@@ -176,13 +180,13 @@
             "match_six": [
                 0,
                 0
-            ],
-            "match_seven": [
-                2,
-                2
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                3,
+                2
+            ],
             "match_one": [
                 1,
                 2
@@ -206,10 +210,6 @@
             "match_six": [
                 1,
                 4
-            ],
-            "match_seven": [
-                3,
-                2
             ]
         }
     }

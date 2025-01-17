@@ -9,10 +9,14 @@
     "defensive_style": " ",
     "aggressive_players": ["Carlos Balepa","Noom Quomah"],
     "provocative_players": ["Joao Pedro", "Joel Veltman","Facundo Buonanotte"],
-    "win_form": [["D","D","D","D","L","D","L"]],
-    "corner_form": [["L","L","W","L","W","W","W"]],
+    "win_form": [["W","D","D","D","D","L","D"]],
+    "corner_form": [["W","L","L","W","L","W","W"]],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Ipswich",
+                "Brighton"
+            ],
             "match_one": [
                 "Brighton",
                 "Arsenal"
@@ -36,13 +40,13 @@
             "match_six": [
                 "Leicester",
                 "Brighton"
-            ],
-            "match_seven": [
-                "Fulham",
-                "Brighton"
             ]
         },
         "goals": {
+            "match_seven": [
+                0,
+                2
+            ],
             "match_one": [
                 1,
                 1
@@ -66,13 +70,13 @@
             "match_six": [
                 2,
                 2
-            ],
-            "match_seven": [
-                3,
-                1
             ]
         },
         "x_goals": {
+            "match_seven": [
+                0.29,
+                0.97
+            ],
             "match_one": [
                 1.56,
                 0.84
@@ -96,13 +100,13 @@
             "match_six": [
                 1.27,
                 1.52
-            ],
-            "match_seven": [
-                0.66,
-                1.34
             ]
         },
         "corners": {
+            "match_seven": [
+                1,
+                9
+            ],
             "match_one": [
                 2,
                 5
@@ -126,13 +130,13 @@
             "match_six": [
                 4,
                 5
-            ],
-            "match_seven": [
-                5,
-                6
             ]
         },
         "fouls": {
+            "match_seven": [
+                13,
+                14
+            ],
             "match_one": [
                 17,
                 14
@@ -156,13 +160,13 @@
             "match_six": [
                 9,
                 10
-            ],
-            "match_seven": [
-                7,
-                8
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                0,
+                0
+            ],
             "match_one": [
                 0,
                 1
@@ -186,13 +190,13 @@
             "match_six": [
                 0,
                 1
-            ],
-            "match_seven": [
-                1,
-                0
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                2,
+                2
+            ],
             "match_one": [
                 2,
                 3
@@ -215,10 +219,6 @@
             ],
             "match_six": [
                 1,
-                2
-            ],
-            "match_seven": [
-                2,
                 2
             ]
         }

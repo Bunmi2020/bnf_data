@@ -10,74 +10,216 @@
     "aggressive_players": ["Ondrej Duda", "Suat Serdar", "Diego Coppola"],
     "provocative_players": ["Tomás Suslov","Grigoris Kastanos", "Ondrej Duda"],
     "unavailable_attacking_players": [],
-    "win_form": ["L","W","L","L","L","W","L"],
-    "corner_form": ["L","D","W","L","W","W","L"],
+    "win_form": ["L","D","W","L","W","L","L"],
+    "corner_form": ["L","W","L","L","L","L","L"],
     "recent_matches": {
-       "teams": {
-        "match_three": ["Fiorentina","Verona"],
-        "match_four": ["Verona","AS Roma"],
-        "match_five":["Lecce","Verona"],
-        "match_six": ["Atalanta", "Verona"],
-        "match_seven": ["Verona","Monza"],
-        "match_one": ["Verona","Venezia"],
-        "match_two": ["Como","Verona"]
-      },
-      "goals": {
-        "match_three": [3,1],
-        "match_four": [3,2],
-        "match_five":[1,0],
-        "match_six": [6, 1],
-        "match_seven": [0,3],
-        "match_one": [2,1],
-        "match_two": [3,2]
-      },
-      "x_goals": {
-        "match_three": [1.96,0.49],
-        "match_four": [1.16,1.85],
-        "match_five":[1.34,0.26],
-        "match_six": [2.65,0.28],
-        "match_seven": [0.83,1.51],
-        "match_one": [2.19,2.02],
-        "match_two": [2.43,1.11]
-      },
-      "corners": {
-        "match_three": [8,3],
-        "match_four": [2,2],
-        "match_five":[3,4],
-        "match_six": [4, 2],
-        "match_seven": [9,6],
-        "match_one": [13,6],
-        "match_two": [9,1]
-      },
-      "fouls": {
-        "match_three": [1,19],
-        "match_four": [16,11],
-        "match_five":[14,21],
-        "match_six": [3, 15],
-        "match_seven": [8,13],
-        "match_one": [10,5],
-        "match_two": [10,19]
-      },
-      "HT_cards": {
-        "match_three": [0,1],
-        "match_four": [0,1],
-        "match_five":[1,2],
-        "match_six": [0, 1],
-        "match_seven": [2,1],
-        "match_one": [1,0],
-        "match_two": [0,0]
-      },
-      "FT_cards": {
-        "match_three": [1,2],
-        "match_four": [3,2],
-        "match_five":[1,5],
-        "match_six": [0, 1],
-        "match_seven": [3,2],
-        "match_one": [3,0],
-        "match_two": [2,5]
-      }
+        "teams": {
+            "match_one": [
+                "Napoli",
+                "Verona"
+            ],
+            "match_two": [
+                "Verona",
+                "Udinese"
+            ],
+            "match_three": [
+                "Bologna",
+                "Verona"
+            ],
+            "match_four": [
+                "Verona",
+                "AC Milan"
+            ],
+            "match_five": [
+                "Parma",
+                "Verona"
+            ],
+            "match_six": [
+                "Verona",
+                "Empoli"
+            ],
+            "match_seven": [
+                "Cagliari",
+                "Verona"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                2,
+                0
+            ],
+            "match_two": [
+                0,
+                0
+            ],
+            "match_three": [
+                2,
+                3
+            ],
+            "match_four": [
+                0,
+                1
+            ],
+            "match_five": [
+                2,
+                3
+            ],
+            "match_six": [
+                1,
+                4
+            ],
+            "match_seven": [
+                1,
+                0
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                0.87,
+                0.23
+            ],
+            "match_two": [
+                0.89,
+                0.85
+            ],
+            "match_three": [
+                1.87,
+                0.8
+            ],
+            "match_four": [
+                0.8,
+                0.84
+            ],
+            "match_five": [
+                1.96,
+                2.4
+            ],
+            "match_six": [
+                0.74,
+                1.28
+            ],
+            "match_seven": [
+                1.75,
+                0.74
+            ]
+        },
+        "corners": {
+            "match_one": [
+                8,
+                1
+            ],
+            "match_two": [
+                7,
+                3
+            ],
+            "match_three": [
+                11,
+                5
+            ],
+            "match_four": [
+                3,
+                8
+            ],
+            "match_five": [
+                5,
+                2
+            ],
+            "match_six": [
+                5,
+                8
+            ],
+            "match_seven": [
+                7,
+                1
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                6,
+                5
+            ],
+            "match_two": [
+                14,
+                16
+            ],
+            "match_three": [
+                9,
+                24
+            ],
+            "match_four": [
+                21,
+                9
+            ],
+            "match_five": [
+                5,
+                16
+            ],
+            "match_six": [
+                15,
+                16
+            ],
+            "match_seven": [
+                10,
+                12
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                0,
+                0
+            ],
+            "match_two": [
+                1,
+                1
+            ],
+            "match_three": [
+                0,
+                1
+            ],
+            "match_four": [
+                1,
+                1
+            ],
+            "match_five": [
+                1,
+                2
+            ],
+            "match_six": [
+                2,
+                0
+            ],
+            "match_seven": [
+                1,
+                0
+            ]
+        },
+        "FT_cards": {
+            "match_one": [],
+            "match_two": [
+                4,
+                2
+            ],
+            "match_three": [
+                3,
+                5
+            ],
+            "match_four": [
+                1,
+                1
+            ],
+            "match_five": [
+                1,
+                3
+            ],
+            "match_six": [
+                2,
+                2
+            ],
+            "match_seven": [
+                1,
+                2
+            ]
+        }
     }
-              
-  
   
   }

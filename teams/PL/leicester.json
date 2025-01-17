@@ -9,10 +9,14 @@
     "defensive_style": " ",
     "aggressive_players": ["Harry Winks","A. Fatawu","Jannik Vestergaard"],
     "provocative_players": ["Stephy Mavididi","A. Fatawu"],
-    "win_form": [["L","L","L","L","L","D","W"]],
-    "corner_form": [["L","D","L","W","L","W","L"]],
+    "win_form": [["L","L","L","L","L","L","D"]],
+    "corner_form": [["W","L","D","L","W","L","W"]],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Leicester",
+                "Crystal Palace"
+            ],
             "match_one": [
                 "Aston Villa",
                 "Leicester"
@@ -36,13 +40,13 @@
             "match_six": [
                 "Leicester",
                 "Brighton"
-            ],
-            "match_seven": [
-                "Leicester",
-                "West Ham"
             ]
         },
         "goals": {
+            "match_seven": [
+                0,
+                2
+            ],
             "match_one": [
                 2,
                 1
@@ -66,13 +70,13 @@
             "match_six": [
                 2,
                 2
-            ],
-            "match_seven": [
-                3,
-                1
             ]
         },
         "x_goals": {
+            "match_seven": [
+                1.52,
+                1.81
+            ],
             "match_one": [
                 1.4,
                 0.36
@@ -96,13 +100,13 @@
             "match_six": [
                 1.27,
                 1.52
-            ],
-            "match_seven": [
-                1.35,
-                3.09
             ]
         },
         "corners": {
+            "match_seven": [
+                4,
+                3
+            ],
             "match_one": [
                 6,
                 2
@@ -126,13 +130,13 @@
             "match_six": [
                 4,
                 5
-            ],
-            "match_seven": [
-                3,
-                9
             ]
         },
         "fouls": {
+            "match_seven": [
+                7,
+                6
+            ],
             "match_one": [
                 10,
                 11
@@ -156,13 +160,13 @@
             "match_six": [
                 9,
                 10
-            ],
-            "match_seven": [
-                9,
-                7
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                0,
+                0
+            ],
             "match_one": [
                 0,
                 0
@@ -186,13 +190,13 @@
             "match_six": [
                 0,
                 1
-            ],
-            "match_seven": [
-                2,
-                1
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                0,
+                0
+            ],
             "match_one": [
                 0,
                 1
@@ -215,10 +219,6 @@
             ],
             "match_six": [
                 1,
-                2
-            ],
-            "match_seven": [
-                2,
                 2
             ]
         }

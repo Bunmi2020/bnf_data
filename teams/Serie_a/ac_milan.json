@@ -9,10 +9,14 @@
     "aggressive_players": ["Malick Thiaw","Ruben Loftus-Cheek"],
     "provocative_players": ["Alexis Saelemaekers","Théo Hernández","Ruben Loftus-Cheek","Rafael Leão","Ismaël Bennacer"],
     
-    "win_form": ["D","D","W","D","L","W"],
-    "corner_form": ["W","W","W","W","L","W"],
+    "win_form": ["W","D","D","W","D","L","W"],
+    "corner_form": ["W","W","W","W","W","L","W"],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Como",
+                "AC Milan"
+            ],
             "match_one": [
                 "AC Milan",
                 "Cagliari"
@@ -39,6 +43,10 @@
             ]
         },
         "goals": {
+            "match_seven": [
+                1,
+                2
+            ],
             "match_one": [
                 1,
                 1
@@ -65,6 +73,10 @@
             ]
         },
         "x_goals": {
+            "match_seven": [
+                1.25,
+                1.43
+            ],
             "match_one": [
                 2.14,
                 0.37
@@ -91,6 +103,10 @@
             ]
         },
         "corners": {
+            "match_seven": [
+                2,
+                4
+            ],
             "match_one": [
                 9,
                 1
@@ -117,6 +133,10 @@
             ]
         },
         "fouls": {
+            "match_seven": [
+                11,
+                17
+            ],
             "match_one": [
                 9,
                 11
@@ -143,6 +163,10 @@
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                0,
+                3
+            ],
             "match_one": [
                 0,
                 1
@@ -169,6 +193,10 @@
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                1,
+                6
+            ],
             "match_one": [
                 1,
                 2

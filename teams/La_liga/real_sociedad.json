@@ -1,0 +1,170 @@
+{
+    "name": "Real Sociedad",
+"coach": "Imanol Alguacil",
+"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/real_sociedad.png",
+"playing_style": "Ball Retention; Short passes",
+"pressing_style": "Aggressive",
+"attacking_style": "Take long shots",
+"defensive_style": "Organized",
+"aggressive_players": ["Mikel Merino","Brais Méndez","Umar Sadiq","Igor Zubeldia","Jon Pacheco"],
+"provocative_players": ["Mikel Merino","Brais Méndez","Takefusa Kubo"],
+"unavailable_attacking_players": [],
+"win_form": ["W","L","D","W","W"],
+"corner_form": ["L","W","W","L","L"],
+"recent_matches": {
+  "teams": {
+      "match_one": [
+          "Real Sociedad",
+          "Villarreal"
+      ],
+      "match_two": [
+          "Celta Vigo",
+          "Real Sociedad"
+      ],
+      "match_three": [
+          "Real Sociedad",
+          "Las Palmas"
+      ],
+      "match_four": [
+          "Leganes",
+          "Real Sociedad"
+      ],
+      "match_five": [
+          "Real Sociedad",
+          "Betis"
+      ]
+  },
+  "goals": {
+      "match_one": [
+          1,
+          0
+      ],
+      "match_two": [
+          2,
+          0
+      ],
+      "match_three": [
+          0,
+          0
+      ],
+      "match_four": [
+          0,
+          3
+      ],
+      "match_five": [
+          2,
+          0
+      ]
+  },
+  "x_goals": {
+      "match_one": [
+          0.66,
+          1.1
+      ],
+      "match_two": [
+          1.29,
+          0.32
+      ],
+      "match_three": [
+          0.6,
+          0.85
+      ],
+      "match_four": [
+          0.64,
+          1.73
+      ],
+      "match_five": [
+          0.8,
+          0.39
+      ]
+  },
+  "corners": {
+      "match_one": [
+          3,
+          7
+      ],
+      "match_two": [
+          5,
+          7
+      ],
+      "match_three": [
+          8,
+          6
+      ],
+      "match_four": [
+          5,
+          3
+      ],
+      "match_five": [
+          0,
+          4
+      ]
+  },
+  "fouls": {
+      "match_one": [
+          17,
+          6
+      ],
+      "match_two": [
+          19,
+          13
+      ],
+      "match_three": [
+          17,
+          12
+      ],
+      "match_four": [
+          12,
+          15
+      ],
+      "match_five": [
+          28,
+          10
+      ]
+  },
+  "HT_cards": {
+      "match_one": [
+          0,
+          0
+      ],
+      "match_two": [
+          0,
+          2
+      ],
+      "match_three": [
+          1,
+          0
+      ],
+      "match_four": [
+          0,
+          1
+      ],
+      "match_five": [
+          2,
+          1
+      ]
+  },
+  "FT_cards": {
+      "match_one": [
+          4,
+          2
+      ],
+      "match_two": [
+          3,
+          5
+      ],
+      "match_three": [
+          2,
+          3
+      ],
+      "match_four": [
+          2,
+          2
+      ],
+      "match_five": [
+          3,
+          2
+      ]
+  }
+}
+  }

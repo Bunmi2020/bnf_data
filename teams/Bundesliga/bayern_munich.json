@@ -8,10 +8,14 @@
     "defensive_style": " ",
     "aggressive_players": [" "],
     "provocative_players": ["Jamal Musiala"],
-    "win_form": [["W","W","L","W","D","W"]],
-    "corner_form": [["W","W","L","W","W","W"]],
+    "win_form": [["W","W","W","L","W","D","W"]],
+    "corner_form": [["w","W","W","L","W","W","W"]],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+            "Bayern Munich",
+            "Hoffenheim"
+            ],
             "match_one": [
                 "B. Monchengladbach",
                 "Bayern Munich"
@@ -38,6 +42,10 @@
             ]
         },
         "goals": {
+            "match_seven": [
+                5,
+                0
+            ],
             "match_one": [
                 0,
                 1
@@ -64,6 +72,10 @@
             ]
         },
         "x_goals": {
+            "match_seven": [
+                3.35,
+                0.37
+            ],
             "match_one": [
                 0.39,
                 3.27
@@ -90,6 +102,10 @@
             ]
         },
         "corners": {
+            "match_seven": [
+                13,
+                1
+            ],
             "match_one": [
                 4,
                 10
@@ -116,6 +132,10 @@
             ]
         },
         "fouls": {
+            "match_seven": [
+                8,
+                10
+            ],
             "match_one": [
                 10,
                 7
@@ -142,6 +162,10 @@
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                0,
+                0
+            ],
             "match_one": [
                 0,
                 0
@@ -168,6 +192,10 @@
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                1,
+                1
+            ],
             "match_one": [
                 3,
                 1

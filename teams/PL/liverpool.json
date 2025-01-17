@@ -9,10 +9,14 @@
     "defensive_style": "High defensive line",
     "aggressive_players": ["Wataru Endo","Alexis Mac Alliste","Luis Diaz"],
     "provocative_players": ["Alexis Mac Allister", "Luis Díaz"],
-    "win_form": [["D","W","W","W","D","D"]],
-    "corner_form": [["L","W","W","L","W","W"]],
+    "win_form": [["D","D","W","W","W","D","D"]],
+    "corner_form": [["W","L","W","W","L","W","W"]],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Nottingham",
+                "Liverpool"
+            ],
             "match_one": [
                 "Liverpool",
                 "Manchester Utd"
@@ -39,6 +43,10 @@
             ]
         },
         "goals": {
+            "match_seven": [
+                1,
+                1
+            ],
             "match_one": [
                 2,
                 2
@@ -65,6 +73,10 @@
             ]
         },
         "x_goals": {
+            "match_seven": [
+                0.39,
+                1.95
+            ],
             "match_one": [
                 2.87,
                 0.99
@@ -91,6 +103,10 @@
             ]
         },
         "corners": {
+            "match_seven": [
+                0,
+                9
+            ],
             "match_one": [
                 5,
                 9
@@ -117,6 +133,10 @@
             ]
         },
         "fouls": {
+            "match_seven": [
+                7,
+                10
+            ],
             "match_one": [
                 10,
                 13
@@ -143,6 +163,10 @@
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                1,
+                0
+            ],
             "match_one": [
                 0,
                 1
@@ -169,6 +193,10 @@
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                2,
+                1
+            ],
             "match_one": [
                 2,
                 4

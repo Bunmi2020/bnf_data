@@ -9,10 +9,14 @@
     "defensive_style": " ",
     "aggressive_players": ["Bruno Guimaraes","Fabian Schar","Anthony Gordon"],
     "provocative_players": ["Bruno Guimaraes","Anthony Gordon"],
-    "win_form": [["W","W","W","W","W","L","D"]],
-    "corner_form": [["W","W","W","L","W","W","L"]],
+    "win_form": [["W","W","W","W","W","W","L"]],
+    "corner_form": [["W","W","W","W","L","W","W","L"]],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Newcastle",
+                "Wolves"
+            ],
             "match_one": [
                 "Tottenham",
                 "Newcastle"
@@ -36,13 +40,13 @@
             "match_six": [
                 "Brentford",
                 "Newcastle"
-            ],
-            "match_seven": [
-                "Newcastle",
-                "Liverpool"
             ]
         },
         "goals": {
+            "match_seven": [
+                3,
+                0
+            ],
             "match_one": [
                 1,
                 2
@@ -66,13 +70,13 @@
             "match_six": [
                 4,
                 2
-            ],
-            "match_seven": [
-                3,
-                3
             ]
         },
         "x_goals": {
+            "match_seven": [
+                1.93,
+                1.44
+            ],
             "match_one": [
                 0.85,
                 1.08
@@ -96,13 +100,13 @@
             "match_six": [
                 1.07,
                 1.2
-            ],
-            "match_seven": [
-                1.72,
-                1.44
             ]
         },
         "corners": {
+            "match_seven": [
+                4,
+                2
+            ],
             "match_one": [
                 9,
                 10
@@ -126,13 +130,13 @@
             "match_six": [
                 3,
                 4
-            ],
-            "match_seven": [
-                5,
-                6
             ]
         },
         "fouls": {
+            "match_seven": [
+                10,
+                13
+            ],
             "match_one": [
                 11,
                 15
@@ -156,13 +160,13 @@
             "match_six": [
                 10,
                 7
-            ],
-            "match_seven": [
-                9,
-                17
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                0,
+                1
+            ],
             "match_one": [
                 0,
                 1
@@ -186,13 +190,13 @@
             "match_six": [
                 1,
                 0
-            ],
-            "match_seven": [
-                0,
-                3
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                0,
+                2
+            ],
             "match_one": [
                 1,
                 4
@@ -216,10 +220,6 @@
             "match_six": [
                 3,
                 0
-            ],
-            "match_seven": [
-                2,
-                5
             ]
         }
     }

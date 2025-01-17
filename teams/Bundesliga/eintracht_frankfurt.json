@@ -8,10 +8,14 @@
     "defensive_style": "Non-aggressive",
     "aggressive_players": ["Junior Dina Ebimbe"],
     "provocative_players": ["Omar Marmoush"],
-    "win_form": [["W","L","L","D","W","W","W"]],
-    "corner_form": [["D","W","W","W","L","L","L"]],
+    "win_form": [["W","W","L","L","D","W","W"]],
+    "corner_form": [["W","D","W","W","W","L","L"]],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Eintracht Frankfurt",
+                "Freiburg"
+            ],
             "match_one": [
                 "St. Pauli",
                 "Eintracht Frankfurt"
@@ -35,13 +39,13 @@
             "match_six": [
                 "Eintracht Frankfurt",
                 "Werder Bremen"
-            ],
-            "match_seven": [
-                "Stuttgart",
-                "Eintracht Frankfurt"
             ]
         },
         "goals": {
+            "match_seven": [
+                4,
+                1
+            ],
             "match_one": [
                 0,
                 1
@@ -65,13 +69,13 @@
             "match_six": [
                 1,
                 0
-            ],
-            "match_seven": [
-                2,
-                3
             ]
         },
         "x_goals": {
+            "match_seven": [
+                2.09,
+                0.49
+            ],
             "match_one": [
                 2.01,
                 1.58
@@ -95,13 +99,13 @@
             "match_six": [
                 1.02,
                 0.42
-            ],
-            "match_seven": [
-                2.59,
-                1.39
             ]
         },
         "corners": {
+            "match_seven": [
+                8,
+                1
+            ],
             "match_one": [
                 3,
                 3
@@ -125,13 +129,13 @@
             "match_six": [
                 5,
                 6
-            ],
-            "match_seven": [
-                8,
-                3
             ]
         },
         "fouls": {
+            "match_seven": [
+                8,
+                11
+            ],
             "match_one": [
                 8,
                 7
@@ -155,13 +159,13 @@
             "match_six": [
                 15,
                 9
-            ],
-            "match_seven": [
-                10,
-                15
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                0,
+                1
+            ],
             "match_one": [
                 0,
                 1
@@ -185,13 +189,13 @@
             "match_six": [
                 0,
                 1
-            ],
-            "match_seven": [
-                0,
-                1
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                1,
+                1
+            ],
             "match_one": [
                 0,
                 3
@@ -213,10 +217,6 @@
                 2
             ],
             "match_six": [
-                2,
-                2
-            ],
-            "match_seven": [
                 2,
                 2
             ]

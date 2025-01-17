@@ -8,10 +8,14 @@
     "defensive_style": "High Line; Use offside positioning",
     "aggressive_players": [" "],
     "provocative_players": ["Serhou Guirassy","Atakan Karazor"],
-    "win_form": [["W","L","W","W","D","W"]],
-    "corner_form": [["W","W","L","L","L","W"]],
+    "win_form": [["W","W","L","W","W","D","W"]],
+    "corner_form": [["W","W","W","L","L","L","W"]],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Stuttgart",
+                "RB Leipzig"
+            ],
             "match_one": [
                 "Augsburg",
                 "Stuttgart"
@@ -37,7 +41,11 @@
                 "Bochum"
             ]
         },
-        "goals": {
+        "goals": { 
+            "match_seven": [
+                2,
+                1
+            ],
             "match_one": [
                 0,
                 1
@@ -64,6 +72,10 @@
             ]
         },
         "x_goals": {
+            "match_seven": [
+                2.33,
+                0.93
+            ],
             "match_one": [
                 0.22,
                 2.57
@@ -90,6 +102,10 @@
             ]
         },
         "corners": {
+            "match_seven": [
+                5,
+                0
+            ],
             "match_one": [
                 3,
                 9
@@ -116,6 +132,10 @@
             ]
         },
         "fouls": {
+            "match_seven": [
+                10,
+                19
+            ],
             "match_one": [
                 11,
                 14
@@ -142,6 +162,10 @@
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                1,
+                2
+            ],
             "match_one": [
                 2,
                 0
@@ -168,6 +192,10 @@
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                2,
+                9
+            ],
             "match_one": [
                 5,
                 1

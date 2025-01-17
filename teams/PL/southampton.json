@@ -9,10 +9,14 @@
     "defensive_style": " ",
     "aggressive_players": ["Flynn Downes","Adam Armstrong","Jan Bednarek"],
     "provocative_players": ["Flynn Downes","Ryan Manning","Che Adams","Kyle Walker-Peters"],
-    "win_form": [["L","L","L","D","L","L","L"]],
-    "corner_form": [["D","L","D","L","L","L","L"]],
+    "win_form": [["L","L","L","L","D","L","L"]],
+    "corner_form": [["D","D","L","D","L","L","L"]],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Manchester Utd",
+                "Southampton"
+            ],
             "match_one": [
                 "Southampton",
                 "Brentford"
@@ -36,13 +40,13 @@
             "match_six": [
                 "Aston Villa",
                 "Southampton"
-            ],
-            "match_seven": [
-                "Southampton",
-                "Chelsea"
             ]
         },
         "goals": {
+            "match_seven": [
+                3,
+                1
+            ],
             "match_one": [
                 0,
                 5
@@ -66,13 +70,13 @@
             "match_six": [
                 1,
                 0
-            ],
-            "match_seven": [
-                1,
-                5
             ]
         },
         "x_goals": {
+            "match_seven": [
+                3.20,
+                1.52
+            ],
             "match_one": [
                 0.29,
                 4.23
@@ -96,13 +100,13 @@
             "match_six": [
                 2.35,
                 0.44
-            ],
-            "match_seven": [
-                1.47,
-                5.29
             ]
         },
         "corners": {
+            "match_seven": [
+                4,
+                4
+            ],
             "match_one": [
                 2,
                 2
@@ -126,13 +130,13 @@
             "match_six": [
                 14,
                 1
-            ],
-            "match_seven": [
-                5,
-                7
             ]
         },
         "fouls": {
+            "match_seven": [
+                7,
+                10
+            ],
             "match_one": [
                 10,
                 4
@@ -156,13 +160,13 @@
             "match_six": [
                 18,
                 15
-            ],
-            "match_seven": [
-                7,
-                14
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                0,
+                2
+            ],
             "match_one": [
                 1,
                 0
@@ -186,13 +190,13 @@
             "match_six": [
                 0,
                 0
-            ],
-            "match_seven": [
-                1,
-                0
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                1,
+                3
+            ],
             "match_one": [
                 2,
                 0
@@ -216,10 +220,6 @@
             "match_six": [
                 1,
                 3
-            ],
-            "match_seven": [
-                2,
-                0
             ]
         }
     }

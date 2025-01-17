@@ -8,10 +8,14 @@
     "defensive_style": "Deep positioning",
     "aggressive_players": [" "],
     "provocative_players": ["Xavi Simons","Loïs Openda"],
-    "win_form": [["W","L","W","W","L","L"]],
-    "corner_form": [["W","L","L","L","W","L"]],
+    "win_form": [["L","W","L","W","W","L","L"]],
+    "corner_form": [["L","W","L","L","L","W","L"]],
     "recent_matches": {
-        "teams": {
+        "teams": { 
+            "match_seven": [
+            "Stuttgart",
+            "RB Leipzig"
+        ],
             "match_one": [
                 "RB Leipzig",
                 "Werder Bremen"
@@ -38,6 +42,10 @@
             ]
         },
         "goals": {
+            "match_seven": [
+                2,
+                1
+            ],
             "match_one": [
                 4,
                 2
@@ -61,6 +69,10 @@
             ]
         },
         "x_goals": {
+            "match_seven": [
+                2.33,
+                0.93
+            ],
             "match_one": [
                 1.63,
                 1.31
@@ -87,6 +99,10 @@
             ]
         },
         "corners": {
+            "match_seven": [
+                5,
+                0
+            ],
             "match_one": [
                 4,
                 1
@@ -113,6 +129,10 @@
             ]
         },
         "fouls": {
+            "match_seven": [
+                10,
+                19
+            ],
             "match_one": [
                 7,
                 12
@@ -139,6 +159,10 @@
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                1,
+                2
+            ],
             "match_one": [
                 0,
                 1
@@ -165,6 +189,10 @@
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                2,
+                9
+            ],
             "match_one": [
                 1,
                 1

@@ -8,10 +8,14 @@
     "defensive_style": "High Line; Use offside positioning, Non-aggressive",
     "aggressive_players": [" "],
     "provocative_players": ["Exequiel Palacios"],
-    "win_form": [["W","W","W","W","W","W"]],
-    "corner_form": [["L","L","W","W","W","W"]],
+    "win_form": [["W","W","W","W","W","W","W"]],
+    "corner_form": [["W","L","L","W","W","W","W"]],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Bayer Leverkusen",
+                "Mainz"
+            ],
             "match_one": [
                 "Dortmund",
                 "Bayer Leverkusen"
@@ -38,6 +42,10 @@
             ]
         },
         "goals": {
+            "match_seven": [
+                1,
+                0
+            ],
             "match_one": [
                 2,
                 3
@@ -64,6 +72,10 @@
             ]
         },
         "x_goals": {
+            "match_seven": [
+                1.75,
+                0.72
+            ],
             "match_one": [
                 1.26,
                 1.49
@@ -90,6 +102,10 @@
             ]
         },
         "corners": {
+            "match_seven": [
+                8,
+                4
+            ],
             "match_one": [
                 6,
                 1
@@ -116,6 +132,10 @@
             ]
         },
         "fouls": {
+            "match_seven": [
+                4,
+                14
+            ],
             "match_one": [
                 8,
                 6
@@ -142,6 +162,10 @@
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                0,
+                1
+            ],
             "match_one": [
                 0,
                 1
@@ -168,6 +192,10 @@
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                2,
+                3
+            ],
             "match_one": [
                 1,
                 2

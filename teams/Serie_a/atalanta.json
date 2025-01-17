@@ -8,10 +8,14 @@
     "defensive_style": " ",
     "aggressive_players": ["Teun Koopmeiners","Giorgio Scalvin","Marten de Roon"],
     "provocative_players": ["Charles De Ketelaere"],
-    "win_form": ["D","D","W","W","W","W"],
-    "corner_form": ["L","W","W","W","W","W"],
+    "win_form": ["D","D","D","W","W","W","W"],
+    "corner_form": ["D","L","W","W","W","W","W"],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Atalanta",
+                "Juventus"
+            ],
             "match_one": [
                 "Udinese",
                 "Atalanta"
@@ -38,6 +42,10 @@
             ]
         },
         "goals": {
+            "match_seven": [
+                1,
+                1
+            ],
             "match_one": [
                 0,
                 0
@@ -64,6 +72,10 @@
             ]
         },
         "x_goals": {
+            "match_seven": [
+                1.39,
+                1.73
+            ],
             "match_one": [
                 1.66,
                 0.31
@@ -90,6 +102,10 @@
             ]
         },
         "corners": {
+            "match_seven": [
+                3,
+                3
+            ],
             "match_one": [
                 5,
                 3
@@ -116,6 +132,10 @@
             ]
         },
         "fouls": {
+            "match_seven": [
+                10,
+                7
+            ],
             "match_one": [
                 4,
                 16
@@ -142,6 +162,10 @@
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                0,
+                0
+            ],
             "match_one": [
                 0,
                 1
@@ -168,6 +192,10 @@
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                1,
+                1
+            ],
             "match_one": [
                 1,
                 2

@@ -9,10 +9,14 @@
     "defensive_style": "Compact",
     "aggressive_players": ["Justin Kluivert","Ryan Christie","Antoine Semenyo","Dominic Solanke","Marcos Senesi","Lewis Cook"],
     "provocative_players": ["Dominic Solanke", "Romain Faivre"],
-    "win_form": [["W","D","D","W","D","W","W"]],
+    "win_form": [["D","W","D","D","W","D","W"]],
     "corner_form": [["W","W","W","L","W","W","L"]],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Chelsea",
+                "Bournemouth"
+            ],
             "match_one": [
                 "Bournemouth",
                 "Everton"
@@ -36,13 +40,13 @@
             "match_six": [
                 "Ipswich",
                 "Bournemouth"
-            ],
-            "match_seven": [
-                "Bournemouth",
-                "Tottenham"
             ]
         },
         "goals": {
+            "match_seven": [
+                2,
+                2
+            ],
             "match_one": [
                 1,
                 0
@@ -66,13 +70,13 @@
             "match_six": [
                 1,
                 2
-            ],
-            "match_seven": [
-                1,
-                0
             ]
         },
         "x_goals": {
+            "match_seven": [
+                2.45,
+                1.23
+            ],
             "match_one": [
                 1.69,
                 0.67
@@ -96,13 +100,13 @@
             "match_six": [
                 1.33,
                 2.99
-            ],
-            "match_seven": [
-                3.31,
-                0.58
             ]
         },
         "corners": {
+            "match_seven": [
+                9,
+                3
+            ],
             "match_one": [
                 9,
                 3
@@ -126,13 +130,13 @@
             "match_six": [
                 6,
                 13
-            ],
-            "match_seven": [
-                5,
-                9
             ]
         },
         "fouls": {
+            "match_seven": [
+                15,
+                16
+            ],
             "match_one": [
                 15,
                 14
@@ -156,13 +160,13 @@
             "match_six": [
                 9,
                 13
-            ],
-            "match_seven": [
-                15,
-                8
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                1,
+                1
+            ],
             "match_one": [
                 0,
                 1
@@ -186,13 +190,13 @@
             "match_six": [
                 2,
                 0
-            ],
-            "match_seven": [
-                0,
-                2
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                2,
+                3
+            ],
             "match_one": [
                 2,
                 2
@@ -216,10 +220,6 @@
             "match_six": [
                 2,
                 1
-            ],
-            "match_seven": [
-                2,
-                2
             ]
         }
     }

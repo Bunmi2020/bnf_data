@@ -1,67 +1,19 @@
 [
-    {
-        "fixture": "Home vs Away",
-        "league": "🇬🇧 Premier League",
-        "type_of_match": "Regular",
-        "referee": {
-          "name": "*n/a",
-          "fouls_per_tackle": 0,
-          "yellow_per_game": 0
-        },
-
+  {
+    "fixture": "Heidenheim vs Hoffenheim",
+    "league": "🇩🇪 Bundesliga",
+    "date": "2021-12-03",
+    "position": [3,7],
+    "type_of_match": "Regular",
+    "referee": {
+      "name": "*n/a",
+      "fouls_per_tackle": 0,
+      "yellow_per_game": 0
+    },
     "head_to_head": {
-
-      "teams": {
-        "match_one": ["Man United","Fulham"],
-        "match_two": ["Fulham","Man United"],
-        "match_three": ["Man United","Fulham"],
-        "match_four": ["Man United","Fulham"],
-        "match_five": ["Fulham","Man United"]
-      },
-      
-      "goals": {
-        "match_one": [1,0],
-        "match_two": [1,3],
-        "match_three": [1,2],
-        "match_four": [1,1],
-        "match_five": [4,1]
-      },
-      "x_goals": {
-        "match_one": [0.46,0.47],
-        "match_two": [1.59,1.75],
-        "match_three": [0.84,1.95],
-        "match_four": [1.23,0.34],
-        "match_five": [2.22,0.52]
-      },
-      "corners": {
-        "match_one": [5,4],
-        "match_two": [1,2],
-        "match_three": [5,5],
-        "match_four": [5,6],
-        "match_five": [1,3]
-      },
-      "fouls": {
-        "match_one": [8,7],
-        "match_two": [11,15],
-        "match_three": [13,5],
-        "match_four": [5,11],
-        "match_five": [13,13]
-      },
-      "HT_cards": {
-        "match_one": [2,3],
-        "match_two": [0,3],
-        "match_three": [0,0],
-        "match_four": [3,1],
-        "match_five": [1,0]
-        },
-        "FT_cards": {
-          "match_one": [2,3],
-          "match_two": [2,4],
-          "match_three": [5,2],
-          "match_four": [4,1],
-          "match_five": [3,1]
-          }
-      },
+        "win_form": [["W","L","D","L","W"],["L","W","D","W","L"]],
+        "corner_form": [["L","W","D","W","D"],["W","L","D","L","D"]]
+    },
       "home_team" : "https://bunmi2020.github.io/bnf_data/week_twelve/teams/",
       "away_team": "https://bunmi2020.github.io/bnf_data/week_twelve/teams/",
       "prediction": "https://bunmi2020.github.io/bnf_data/week_twelve/predictions/"

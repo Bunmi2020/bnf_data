@@ -9,10 +9,14 @@
     "defensive_style": "Compact",
     "aggressive_players": ["James Tarkowski","Abdoulaye Doucoure","James Garner"],
     "provocative_players": ["James Garner"],
-    "win_form": [["L","L","D","D","D","L","L"]],
-    "corner_form": [["L","W","L","L","L","L","D"]],
+    "win_form": [["L","L","L","D","D","D","L"]],
+    "corner_form": [["W","L","W","L","L","L","L"]],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Everton",
+                "Aston Villa"
+            ],
             "match_one": [
                 "Bournemouth",
                 "Everton"
@@ -36,13 +40,13 @@
             "match_six": [
                 "Everton",
                 "Wolves"
-            ],
-            "match_seven": [
-                "Manchester Utd",
-                "Everton"
             ]
         },
         "goals": {
+            "match_seven": [
+                0,
+                1
+            ],
             "match_one": [
                 1,
                 0
@@ -66,13 +70,13 @@
             "match_six": [
                 4,
                 0
-            ],
-            "match_seven": [
-                4,
-                0
             ]
         },
         "x_goals": {
+            "match_seven": [
+                1.09,
+                1.36
+            ],
             "match_one": [
                 1.69,
                 0.67
@@ -96,13 +100,13 @@
             "match_six": [
                 1.02,
                 0.79
-            ],
-            "match_seven": [
-                0.73,
-                0.65
             ]
         },
         "corners": {
+            "match_seven": [
+                8,
+                5
+            ],
             "match_one": [
                 9,
                 3
@@ -126,13 +130,13 @@
             "match_six": [
                 3,
                 4
-            ],
-            "match_seven": [
-                2,
-                2
             ]
         },
         "fouls": {
+            "match_seven": [
+                17,
+                10
+            ],
             "match_one": [
                 15,
                 14
@@ -156,13 +160,13 @@
             "match_six": [
                 10,
                 8
-            ],
-            "match_seven": [
-                12,
-                12
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                0,
+                1
+            ],
             "match_one": [
                 0,
                 1
@@ -186,13 +190,13 @@
             "match_six": [
                 1,
                 0
-            ],
-            "match_seven": [
-                0,
-                1
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                2,
+                1
+            ],
             "match_one": [
                 2,
                 2
@@ -216,10 +220,6 @@
             "match_six": [
                 2,
                 0
-            ],
-            "match_seven": [
-                2,
-                3
             ]
         }
     }
