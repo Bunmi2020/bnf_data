@@ -176,8 +176,8 @@
         "defensive_style": " ",
         "aggressive_players": ["Bruno Guimaraes","Fabian Schar","Anthony Gordon"],
         "provocative_players": ["Bruno Guimaraes","Anthony Gordon"],
-        "win_form": [["W","W","W","W","W","W","L"]],
-        "corner_form": [["W","W","W","W","L","W","W","L"]],
+        "win_form": ["W","W","W","W","W","W","L"],
+        "corner_form": ["W","W","W","W","L","W","W","L"],
         "recent_matches": {
             "teams": {
                 "match_seven": [
@@ -402,8 +402,8 @@
         "defensive_style": "Compact",
         "aggressive_players": ["Justin Kluivert","Ryan Christie","Antoine Semenyo","Dominic Solanke","Marcos Senesi","Lewis Cook"],
         "provocative_players": ["Dominic Solanke", "Romain Faivre"],
-        "win_form": [["D","W","D","D","W","D","W"]],
-        "corner_form": [["W","W","W","L","W","W","L"]],
+        "win_form": ["D","W","D","D","W","D","W"],
+        "corner_form": ["W","W","W","L","W","W","L"],
         "recent_matches": {
             "teams": {
                 "match_seven": [
@@ -620,30 +620,30 @@
       "prediction": {
         "cards": {
             "discuss": "",
-            "ht": "",
-            "ft": ""
+            "ht": "Cannot predict, too many inconsistencies",
+            "ft": "Over 3.5 bookings"
         },
         "corners": {
             "discuss": "",
-            "full_time_total_corners": "",
-            "win_corners": ""
+            "full_time_total_corners": "Over 9.5 corners",
+            "win_corners": "Newcastle"
         },
         "goals": {
             "discuss": "",
-            "Both_teams_to_score": "",
-            "fulltime_total_goals": ""
+            "Both_teams_to_score": "Cannot predict, too many inconsistencies",
+            "fulltime_total_goals": "Cannot predict, too many inconsistencies"
         },
         "win_draw": {
             "discuss": "",
-            "win_or_draw": ""
+            "win_or_draw": "Home win or draw (1X)"
         }
-      }
+    }
   },
   {
       "fixture": "Brentford vs Liverpool",
       "league": "🇬🇧 Premier League",
       "day": "saturday",
-      "position": [10,1],
+      "position": [11,1],
       "type_of_match": "Regular",
       "referee": {
         "name": "*Madley A.",
@@ -816,8 +816,8 @@
         "defensive_style": "Organized",
         "aggressive_players": ["Christian Norgaard", "Yoane Wissa"],
         "provocative_players": ["Bryan Mbeumo", "Yoane Wissa"],
-        "win_form": [["D","W","L","D","L","L","W"]],
-        "corner_form": [["L","D","W","L","W","L","L"]],
+        "win_form": ["D","W","L","D","L","L","W"],
+        "corner_form": ["L","D","W","L","W","L","L"],
         "recent_matches": {
             "teams": {
                 "match_seven": [
@@ -1042,8 +1042,8 @@
         "defensive_style": "High defensive line",
         "aggressive_players": ["Wataru Endo","Alexis Mac Alliste","Luis Diaz"],
         "provocative_players": ["Alexis Mac Allister", "Luis Díaz"],
-        "win_form": [["D","D","W","W","W","D","D"]],
-        "corner_form": [["W","L","W","W","L","W","W"]],
+        "win_form": ["D","D","W","W","W","D","D"],
+        "corner_form": ["W","L","W","W","L","W","W"],
         "recent_matches": {
             "teams": {
                 "match_seven": [
@@ -1257,30 +1257,30 @@
       "prediction": {
         "cards": {
             "discuss": "",
-            "ht": "",
-            "ft": ""
+            "ht": "Over 1.5 bookings",
+            "ft": "Over 2.5 bookings"
         },
         "corners": {
             "discuss": "",
-            "full_time_total_corners": "",
-            "win_corners": ""
+            "full_time_total_corners": "Over 9.5 corners",
+            "win_corners": "Liverpool"
         },
         "goals": {
             "discuss": "",
-            "Both_teams_to_score": "",
-            "fulltime_total_goals": ""
+            "Both_teams_to_score": "Cannot predict, too many inconsistencies",
+            "fulltime_total_goals": "Cannot predict, too many inconsistencies"
         },
         "win_draw": {
             "discuss": "",
-            "win_or_draw": ""
+            "win_or_draw": "Away win or draw (X2)"
         }
-      }
+    }
   },
   {
     "fixture": "Leicester vs Fulham",
     "league": "🇬🇧 Premier League",
     "day": "saturday",
-    "position": [19,9],
+    "position": [19,10],
     "type_of_match": "Regular",
     "referee": {
       "name": "Salisbury M.",
@@ -1422,8 +1422,8 @@
         "defensive_style": " ",
         "aggressive_players": ["Harry Winks","A. Fatawu","Jannik Vestergaard"],
         "provocative_players": ["Stephy Mavididi","A. Fatawu"],
-        "win_form": [["L","L","L","L","L","L","D"]],
-        "corner_form": [["W","L","D","L","W","L","W"]],
+        "win_form": ["L","L","L","L","L","L","D"],
+        "corner_form": ["W","L","D","L","W","L","W"],
         "recent_matches": {
             "teams": {
                 "match_seven": [
@@ -1648,8 +1648,8 @@
         "defensive_style": "High Line; Use offside positioning",
         "aggressive_players": ["Kevin Mbabu"],
         "provocative_players": ["Harry Wilson"],
-        "win_form": [["L","D","D","W","D","D","D"]],
-        "corner_form": [["L","W","L","L","W","L","L","L"]],
+        "win_form": ["L","D","D","W","D","D","D"],
+        "corner_form": ["L","W","L","L","W","L","L","L"],
         "recent_matches": {
             "teams": {
                 "match_seven": [
@@ -1866,30 +1866,30 @@
     "prediction": {
         "cards": {
             "discuss": "",
-            "ht": "",
-            "ft": ""
+            "ht": "Cannot predict, too many inconsistencies",
+            "ft": "Over 2.5 bookings"
         },
         "corners": {
             "discuss": "",
-            "full_time_total_corners": "",
-            "win_corners": ""
+            "full_time_total_corners": "Under 12.5 corners",
+            "win_corners": "Cannot predict, too many inconsistencies"
         },
         "goals": {
             "discuss": "",
-            "Both_teams_to_score": "",
-            "fulltime_total_goals": ""
+            "Both_teams_to_score": "Cannot predict, too many inconsistencies",
+            "fulltime_total_goals": "Cannot predict, too many inconsistencies"
         },
         "win_draw": {
             "discuss": "",
-            "win_or_draw": ""
+            "win_or_draw": "Cannot predict, too many inconsistencies"
         }
-      }
+    }
   },
   {
       "fixture": "West Ham vs Crystal Palace",
       "league": "🇬🇧 Premier League",
       "day": "saturday",
-      "position": [12,14],
+      "position": [13,15],
       "type_of_match": "Regular",
       "referee": {
         "name": "Bramall T.",
@@ -2062,8 +2062,8 @@
         "defensive_style": " ",
         "aggressive_players": ["Tomas Soucek","Lucas Paqueta","Mohammed Kudus"],
         "provocative_players": ["Lucas Paqueta","Mohammed Kudus","Jarrod Bowen","Guido Rodríguez"],
-        "win_form": [["W","L","L","W","D","D","W"]],
-        "corner_form": [["L","L","L","D","W","L","W"]],
+        "win_form": ["W","L","L","W","D","D","W"],
+        "corner_form": ["L","L","L","D","W","L","W"],
         "recent_matches": {
             "teams": {
                 "match_seven": [
@@ -2285,8 +2285,8 @@
         "defensive_style": "Compact",
         "aggressive_players": ["Jordan Ayew","Jefferson Lerma","Joachim","Andersen","Will Hughes","Daichi Kamada"],
         "provocative_players": ["Eberechi Eze", "Jordan Ayew","Ismaïla Sarr"],
-        "win_form": [["W","D","W","D","L","W","D"]],
-        "corner_form": [["L","D","W","L","D","W","L"]],
+        "win_form": ["W","D","W","D","L","W","D"],
+        "corner_form": ["L","D","W","L","D","W","L"],
         "recent_matches": {
             "teams": {
                 "match_seven": [
@@ -2503,24 +2503,24 @@
       "prediction": {
         "cards": {
             "discuss": "",
-            "ht": "",
-            "ft": ""
+            "ht": "Under 2.5 bookings",
+            "ft": "Over 3.5 bookings"
         },
         "corners": {
             "discuss": "",
-            "full_time_total_corners": "",
-            "win_corners": ""
+            "full_time_total_corners": "Cannot predict, too many inconsistencies",
+            "win_corners": "Cannot predict, too many inconsistencies"
         },
         "goals": {
             "discuss": "",
-            "Both_teams_to_score": "",
-            "fulltime_total_goals": ""
+            "Both_teams_to_score": "Yes",
+            "fulltime_total_goals": "Over 2.5 goals"
         },
         "win_draw": {
             "discuss": "",
-            "win_or_draw": ""
+            "win_or_draw": "Cannot predict, too many inconsistencies"
         }
-      }
+    }
   },
   {
       "fixture": "Arsenal vs Aston Villa",
@@ -2699,8 +2699,8 @@
         "defensive_style": "Structured",
         "aggressive_players": ["Bukayo Saka", "Kai Havertz"],
         "provocative_players": ["Bukayo Saka", "Kai Havertz"],
-        "win_form": [["W","D","W","W","W","D","D"]],
-        "corner_form": [["W","W","L","W","D","W","W"]],
+        "win_form": ["W","D","W","W","W","D","D"],
+        "corner_form": ["W","W","L","W","D","W","W"],
         "recent_matches": {
             "teams": {
                 "match_seven": [
@@ -2925,8 +2925,8 @@
         "defensive_style": "High Line; Use offside positioning",
         "aggressive_players": ["John McGinn"],
         "provocative_players": ["John McGinn", "Ezri Konsa","Ollie Watkins","Douglas Luiz","Enzo Barrenechea","Amadou Onana"],
-        "win_form": [["W","W","D","L","W","L","W"]],
-        "corner_form": [["L","W","W","L","W","L","W"]],
+        "win_form": ["W","W","D","L","W","L","W"],
+        "corner_form": ["L","W","W","L","W","L","W"],
         "recent_matches": {
             "teams": {
                 "match_seven": [
@@ -3143,30 +3143,30 @@
       "prediction": {
         "cards": {
             "discuss": "",
-            "ht": "",
-            "ft": ""
+            "ht": "Over 1.5 bookings",
+            "ft": "Over 2.5 bookings"
         },
         "corners": {
             "discuss": "",
-            "full_time_total_corners": "",
-            "win_corners": ""
+            "full_time_total_corners": "Over 8.5 corners",
+            "win_corners": "Cannot predict, too many inconsistencies"
         },
         "goals": {
             "discuss": "",
-            "Both_teams_to_score": "",
-            "fulltime_total_goals": ""
+            "Both_teams_to_score": "Cannot predict, too many inconsistencies",
+            "fulltime_total_goals": "Over 2.5 goals"
         },
         "win_draw": {
             "discuss": "",
-            "win_or_draw": ""
+            "win_or_draw": "Cannot predict, too many inconsistencies"
         }
-      }
+    }
   },
   {
       "fixture": "Everton vs Tottenham",
       "league": "🇬🇧 Premier League",
       "day": "sunday",
-      "position": [16,13],
+      "position": [16,14],
       "type_of_match": "Regular",
       "referee": {
         "name": "England D.",
@@ -3336,8 +3336,8 @@
         "defensive_style": "Compact",
         "aggressive_players": ["James Tarkowski","Abdoulaye Doucoure","James Garner"],
         "provocative_players": ["James Garner"],
-        "win_form": [["L","L","L","D","D","D","L"]],
-        "corner_form": [["W","L","W","L","L","L","L"]],
+        "win_form": ["L","L","L","D","D","D","L"],
+        "corner_form": ["W","L","W","L","L","L","L"],
         "recent_matches": {
             "teams": {
                 "match_seven": [
@@ -3562,8 +3562,8 @@
         "defensive_style": "High Line; Use offside positioning",
         "aggressive_players": ["Destiny Udogie","Dejan Kulusevski"],
         "provocative_players": ["James Maddison","Heung-min Son"],
-        "win_form": [["L","L","D","L","L","W","L"]],
-        "corner_form": [["L","L","D","W","W","W","L"]],
+        "win_form": ["L","L","D","L","L","W","L"],
+        "corner_form": ["L","L","D","W","W","W","L"],
         "recent_matches": {
             "teams": {            
                 "match_seven": [
@@ -3777,33 +3777,33 @@
             }
         }
       },
-      "prediction": {
+      "prediction":{
         "cards": {
             "discuss": "",
-            "ht": "",
-            "ft": ""
+            "ht": "Cannot predict, too many inconsistencies",
+            "ft": "Over 3.5 bookings"
         },
         "corners": {
             "discuss": "",
-            "full_time_total_corners": "",
-            "win_corners": ""
+            "full_time_total_corners": "Cannot predict, too many inconsistencies",
+            "win_corners": "Cannot predict, too many inconsistencies"
         },
         "goals": {
             "discuss": "",
-            "Both_teams_to_score": "",
-            "fulltime_total_goals": ""
+            "Both_teams_to_score": "Cannot predict, too many inconsistencies",
+            "fulltime_total_goals": "Cannot predict, too many inconsistencies"
         },
         "win_draw": {
             "discuss": "",
-            "win_or_draw": ""
+            "win_or_draw": "Cannot predict, too many inconsistencies"
         }
-      }
+    }
   },
   {
       "fixture": "Manchester Utd vs Brighton",
       "league": "🇬🇧 Premier League",
       "day": "sunday",
-      "position": [15,11],
+      "position": [12,9],
       "type_of_match": "Regular",
       "referee": {
         "name": "Bankes P.",
@@ -3979,8 +3979,8 @@
         "defensive_style": " ",
         "aggressive_players": ["Diogo Dalot","Bruno Fernandes"],
         "provocative_players": ["Alejandro Garnacho"],
-        "win_form": [["W","D","L","L","L","W","L"]],
-        "corner_form": [["D","W","L","D","W","L","W"]],
+        "win_form": ["W","D","L","L","L","W","L"],
+        "corner_form": ["D","W","L","D","W","L","W"],
        "recent_matches": {
             "teams": {
                 "match_seven": [
@@ -4205,8 +4205,8 @@
         "defensive_style": " ",
         "aggressive_players": ["Carlos Balepa","Noom Quomah"],
         "provocative_players": ["Joao Pedro", "Joel Veltman","Facundo Buonanotte"],
-        "win_form": [["W","D","D","D","D","L","D"]],
-        "corner_form": [["W","L","L","W","L","W","W"]],
+        "win_form": ["W","D","D","D","D","L","D"],
+        "corner_form": ["W","L","L","W","L","W","W"],
         "recent_matches": {
             "teams": {
                 "match_seven": [
@@ -4423,24 +4423,24 @@
       "prediction": {
         "cards": {
             "discuss": "",
-            "ht": "",
-            "ft": ""
+            "ht": "Cannot predict, too many inconsistencies",
+            "ft": "Over 3.5 bookings"
         },
         "corners": {
             "discuss": "",
-            "full_time_total_corners": "",
-            "win_corners": ""
+            "full_time_total_corners": "Over 7.5 corners",
+            "win_corners": "Cannot predict, too many inconsistencies"
         },
         "goals": {
             "discuss": "",
-            "Both_teams_to_score": "",
-            "fulltime_total_goals": ""
+            "Both_teams_to_score": "Cannot predict, too many inconsistencies",
+            "fulltime_total_goals": "Cannot predict, too many inconsistencies"
         },
         "win_draw": {
             "discuss": "",
-            "win_or_draw": ""
+            "win_or_draw": "Home win or draw (1X)"
         }
-      }
+    }
   },
   {
       "fixture": "Nottingham vs Southampton",
@@ -4563,8 +4563,8 @@
         "defensive_style": " ",
         "aggressive_players": ["Murillo","Ryan Yates"],
         "provocative_players": ["Morgan Gibbs-White","Ryan Yates"],
-        "win_form": [["D","W","W","W","W","W","W"]],
-        "corner_form": [["L","L","L","L","L","W","L"]],
+        "win_form": ["D","W","W","W","W","W","W"],
+        "corner_form": ["L","L","L","L","L","W","L"],
         "recent_matches": {
             "teams": {
                 "match_seven": [
@@ -4789,8 +4789,8 @@
     "defensive_style": " ",
     "aggressive_players": ["Flynn Downes","Adam Armstrong","Jan Bednarek"],
     "provocative_players": ["Flynn Downes","Ryan Manning","Che Adams","Kyle Walker-Peters"],
-    "win_form": [["L","L","L","L","D","L","L"]],
-    "corner_form": [["D","D","L","D","L","L","L"]],
+    "win_form": ["L","L","L","L","D","L","L"],
+    "corner_form": ["D","D","L","D","L","L","L"],
     "recent_matches": {
         "teams": {
             "match_seven": [
@@ -5007,30 +5007,30 @@
       "prediction": {
         "cards": {
             "discuss": "",
-            "ht": "",
-            "ft": ""
+            "ht": "Under 2.5 bookings",
+            "ft": "Over 3.5 bookings"
         },
         "corners": {
             "discuss": "",
-            "full_time_total_corners": "",
-            "win_corners": ""
+            "full_time_total_corners": "Cannot predict, too many inconsistencies",
+            "win_corners": "Cannot predict, too many inconsistencies"
         },
         "goals": {
             "discuss": "",
-            "Both_teams_to_score": "",
-            "fulltime_total_goals": ""
+            "Both_teams_to_score": "Cannot predict, too many inconsistencies",
+            "fulltime_total_goals": "Cannot predict, too many inconsistencies"
         },
         "win_draw": {
             "discuss": "",
-            "win_or_draw": ""
+            "win_or_draw": "Home win or draw (1X)"
         }
-      }
+    }
   },
   {
       "fixture": "Ipswich vs Manchester City",
       "league": "🇬🇧 Premier League",
       "day": "sunday",
-      "position": [17,6],
+      "position": [18,6],
       "type_of_match": "Regular",
       "referee": {
         "name": "Barrott S.",
@@ -5094,8 +5094,8 @@
         "defensive_style": " ",
         "aggressive_players": ["Massimo Luongo","Leif Davis","Samy Morsy","Omari Hutchinson"],
         "provocative_players": ["Massimo Luongo","Leif Davis","Samy Morsy","Conor Chaplin"],
-        "win_form": [["L","D","W","L","L","W","L"]],
-        "corner_form": [["L","L","W","L","W","L","L"]],
+        "win_form": ["L","D","W","L","L","W","L"],
+        "corner_form": ["L","L","W","L","W","L","L"],
         "recent_matches": {
             "teams": {
                 "match_seven": [
@@ -5320,8 +5320,8 @@
         "defensive_style": " ",
         "aggressive_players": ["Rodri"],
         "provocative_players": ["Phil Foden", "Jack Grealish","Savinho"],
-        "win_form": [["D","W","W","D","L","L","D","W"]],
-        "corner_form": [["W","W","D","W","L","W","W"]],
+        "win_form": ["D","W","W","D","L","L","D","W"],
+        "corner_form": ["W","W","D","W","L","W","W"],
         "recent_matches": {
             "teams": {
                 "match_seven": [
@@ -5538,30 +5538,30 @@
       "prediction": {
         "cards": {
             "discuss": "",
-            "ht": "",
-            "ft": ""
+            "ht": "Under 2.5 bookings",
+            "ft": "Over 2.5 bookings"
         },
         "corners": {
             "discuss": "",
-            "full_time_total_corners": "",
-            "win_corners": ""
+            "full_time_total_corners": "Over 9.5 corners",
+            "win_corners": "Man City"
         },
         "goals": {
             "discuss": "",
-            "Both_teams_to_score": "",
-            "fulltime_total_goals": ""
+            "Both_teams_to_score": "Cannot predict, too many inconsistencies",
+            "fulltime_total_goals": "Cannot predict, too many inconsistencies"
         },
         "win_draw": {
             "discuss": "",
-            "win_or_draw": ""
+            "win_or_draw": "Away win or draw (X2)"
         }
-      }
+    }
   },
   {
       "fixture": "Chelsea vs Wolves",
       "league": "🇬🇧 Premier League",
       "day": "monday",
-      "position": [5,18],
+      "position": [5,17],
       "type_of_match": "Regular",
       "referee": {
         "name": "Hooper S.",
@@ -5734,8 +5734,8 @@
         "defensive_style": "Structured",
         "aggressive_players": [ "Moises Caicedo"],
         "provocative_players": [ "Moises Caicedo","Nicolas Jackson","Dewsbury-Hall"],
-        "win_form": [["D","D","L","L","D","W","W"]],
-        "corner_form": [["W","D","W","W","W","W","W"]],
+        "win_form": ["D","D","L","L","D","W","W"],
+        "corner_form": ["W","D","W","W","W","W","W"],
         "recent_matches": {
             "teams": {
                 "match_seven": [
@@ -5960,8 +5960,8 @@
         "defensive_style": " ",
         "aggressive_players": ["Mario Lemina","Nelson Semedo","Joao Gomes","Jørgen Strand Larsen"],
         "provocative_players": ["Rayan Ait-Nouri","Matheus Cunha"],
-        "win_form": [["L","L","D","W","W","L","L"]],
-        "corner_form": [["L","W","D","D","L","W","L"]],
+        "win_form": ["L","L","D","W","W","L","L"],
+        "corner_form": ["L","W","D","D","L","W","L"],
         "recent_matches": {
             "teams": {
                 "match_seven": [
@@ -6178,23 +6178,23 @@
       "prediction": {
         "cards": {
             "discuss": "",
-            "ht": "",
-            "ft": ""
+            "ht": "Over 1.5 bookings",
+            "ft": "Over 3.5 bookings"
         },
         "corners": {
             "discuss": "",
-            "full_time_total_corners": "",
-            "win_corners": ""
+            "full_time_total_corners": "Over 9.5 corners",
+            "win_corners": "Chelsea"
         },
         "goals": {
             "discuss": "",
-            "Both_teams_to_score": "",
-            "fulltime_total_goals": ""
+            "Both_teams_to_score": "Cannot predict, too many inconsistencies",
+            "fulltime_total_goals": "Over 2.5 goals"
         },
         "win_draw": {
             "discuss": "",
-            "win_or_draw": ""
+            "win_or_draw": "Cannot predict, too many inconsistencies"
         }
-      }
+    }
   }
 ]

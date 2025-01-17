@@ -1,14 +1,14 @@
 [
     {
-        "fixture": "Eintracht Frankfurt vs Dortmund",
+        "fixture": "E. Frankfurt vs Dortmund",
         "league": "🇩🇪 Bundesliga",
         "day": "friday",
-        "position": [3,7],
+        "position": [3,10],
         "type_of_match": "Regular",
         "referee": {
           "name": "Schlager D.",
           "fouls_per_tackle": 0,
-          "yellow_per_game": 0
+          "yellow_per_game": 4.34
         },
        "head_to_head": {
         "win_form": [["L","L","D","L","L"],["W","W","D","W","W"]],
@@ -175,8 +175,8 @@
             "defensive_style": "Non-aggressive",
             "aggressive_players": ["Junior Dina Ebimbe"],
             "provocative_players": ["Omar Marmoush"],
-            "win_form": [["W","W","L","L","D","W","W"]],
-            "corner_form": [["W","D","W","W","W","L","L"]],
+            "win_form": ["W","W","L","L","D","W","W"],
+            "corner_form": ["W","D","W","W","W","L","L"],
             "recent_matches": {
                 "teams": {
                     "match_seven": [
@@ -401,8 +401,8 @@
             "defensive_style": "High Line; Use offside positioning",
             "aggressive_players": [" "],
             "provocative_players": [" "," "],
-            "win_form": [["L","L","W","D","D","D","W"]],
-            "corner_form": [["W","W","L","L","L","L","W"]],
+            "win_form": ["L","L","W","D","D","D","W"],
+            "corner_form": ["W","W","L","L","L","L","W"],
             "recent_matches": {
                 "teams": {
                     "match_seven": [
@@ -608,33 +608,33 @@
             }
         
         },
-        "prediction": {
-        "cards": {
-            "discuss": "",
-            "ht": "",
-            "ft": ""
-        },
-        "corners": {
-            "discuss": "",
-            "full_time_total_corners": "",
-            "win_corners": ""
-        },
-        "goals": {
-            "discuss": "",
-            "Both_teams_to_score": "",
-            "fulltime_total_goals": ""
-        },
-        "win_draw": {
-            "discuss": "",
-            "win_or_draw": ""
+        "prediction":{
+            "cards": {
+                "discuss": "",
+                "ht": "Under 2.5 bookings",
+                "ft": "Over 2.5 bookings"
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Over 7.5 corners",
+                "win_corners": "Cannot predict, too many inconsistencies"
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": "Cannot predict, too many inconsistencies",
+                "fulltime_total_goals": "Over 2.5 goals"
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "Home win or draw (1X)"
+            }
         }
-      }
     },
     {
         "fixture": "Bayern Munich vs Wolfsburg",
         "league": "🇩🇪 Bundesliga",
         "day": "saturday",
-        "position": [3,7],
+        "position": [1,7],
         "type_of_match": "Regular",
         "referee": {
           "name": "Reichel T.",
@@ -806,8 +806,8 @@
             "defensive_style": " ",
             "aggressive_players": [" "],
             "provocative_players": ["Jamal Musiala"],
-            "win_form": [["W","W","W","L","W","D","W"]],
-            "corner_form": [["w","W","W","L","W","W","W"]],
+            "win_form": ["W","W","W","L","W","D","W"],
+            "corner_form": ["w","W","W","L","W","W","W"],
             "recent_matches": {
                 "teams": {
                     "match_seven": [
@@ -1033,8 +1033,8 @@
             "defensive_style": "Aggressive, Opponents play aggressively against them",
             "aggressive_players": ["Mattias Svanberg","Sebastiaan Bornauw","Lucas Tousart"],
             "provocative_players": ["Kevin Paredes","Maximilian Arnold"],
-            "win_form": [["W","W","L","L","W","W","W"]],
-            "corner_form": [["L","W","W","W","L","L","W"]],
+            "win_form": ["W","W","L","L","W","W","W"],
+            "corner_form": ["L","W","W","W","L","L","W"],
             "recent_matches": {
                 "teams": {
                     "match_seven": [
@@ -1248,33 +1248,33 @@
                 }
             }
         },
-        "prediction": {
-        "cards": {
-            "discuss": "",
-            "ht": "",
-            "ft": ""
-        },
-        "corners": {
-            "discuss": "",
-            "full_time_total_corners": "",
-            "win_corners": ""
-        },
-        "goals": {
-            "discuss": "",
-            "Both_teams_to_score": "",
-            "fulltime_total_goals": ""
-        },
-        "win_draw": {
-            "discuss": "",
-            "win_or_draw": ""
+        "prediction":{
+            "cards": {
+                "discuss": "",
+                "ht": "Under 2.5 bookings",
+                "ft": "Over 3.5 bookings"
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Over 8.5 corners",
+                "win_corners": "B. Munich"
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": "Yes",
+                "fulltime_total_goals": "Over 2.5 goals"
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "No draw (12)"
+            }
         }
-      }
     },
     {
         "fixture": "Bochum vs RB Leipzig",
         "league": "🇩🇪 Bundesliga",
         "day": "saturday",
-        "position": [3,7],
+        "position": [18,4],
         "type_of_match": "Regular",
         "referee": {
           "name": "Hartmann R.",
@@ -1443,8 +1443,8 @@
             "defensive_style": "High Line; Use offside positioning",
             "aggressive_players": ["Bernardo","Matús Bero","Keven Schlotterbeck"],
             "provocative_players": ["Kevin Stöger"],
-            "win_form": [["W","L","W","D","L","L","L"]],
-            "corner_form": [["L","W","W","L","W","L","L"]],
+            "win_form": ["W","L","W","D","L","L","L"],
+            "corner_form": ["L","W","W","L","W","L","L"],
             "recent_matches": {
                 "teams": {
                     "match_seven": [
@@ -1669,8 +1669,8 @@
             "defensive_style": "Deep positioning",
             "aggressive_players": [" "],
             "provocative_players": ["Xavi Simons","Loïs Openda"],
-            "win_form": [["L","W","L","W","W","L","L"]],
-            "corner_form": [["L","W","L","L","L","W","L"]],
+            "win_form": ["L","W","L","W","W","L","L"],
+            "corner_form": ["L","W","L","L","L","W","L"],
             "recent_matches": {
                 "teams": { 
                     "match_seven": [
@@ -1884,32 +1884,32 @@
         
         },
         "prediction": {
-        "cards": {
-            "discuss": "",
-            "ht": "",
-            "ft": ""
-        },
-        "corners": {
-            "discuss": "",
-            "full_time_total_corners": "",
-            "win_corners": ""
-        },
-        "goals": {
-            "discuss": "",
-            "Both_teams_to_score": "",
-            "fulltime_total_goals": ""
-        },
-        "win_draw": {
-            "discuss": "",
-            "win_or_draw": ""
+            "cards": {
+                "discuss": "",
+                "ht": "Over 1.5 bookings",
+                "ft": "Over 2.5 bookings"
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Cannot predict, too many inconsistencies",
+                "win_corners": "Cannot predict, too many inconsistencies"
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": "Cannot predict, too many inconsistencies",
+                "fulltime_total_goals": "Cannot predict, too many inconsistencies"
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "No draw (12)"
+            }
         }
-      }
     },
     {
         "fixture": "Heidenheim vs St. Pauli",
         "league": "🇩🇪 Bundesliga",
         "day": "saturday",
-        "position": [3,7],
+        "position": [15,14],
         "type_of_match": "Regular",
         "referee": {
           "name": "Dankert B.",
@@ -2075,8 +2075,8 @@
             "defensive_style": " ",
             "aggressive_players": ["Tim Kleindienst","Benedikt Gimber","Lennard Maloney"],
             "provocative_players": [" "],
-            "win_form": [["D","W","L","L","L","L","L"]],
-            "corner_form": [["L","W","L","W","L","W","L"]],
+            "win_form": ["D","W","L","L","L","L","L"],
+            "corner_form": ["L","W","L","W","L","W","L"],
             "recent_matches": {
                 "teams": {
                     "match_seven": [
@@ -2297,8 +2297,8 @@
             "defensive_style": "Non-aggressive",
             "aggressive_players": [" "],
             "provocative_players": [" "," "],
-            "win_form": [["L","L","W","L","L","W","L"]],
-            "corner_form": [["W","D","L","L","L","D","L"]],
+            "win_form": ["L","L","W","L","L","W","L"],
+            "corner_form": ["W","D","L","L","L","D","L"],
             "recent_matches": {
                 "teams": {
                     "match_seven": [
@@ -2515,32 +2515,32 @@
         
         },
         "prediction": {
-        "cards": {
-            "discuss": "",
-            "ht": "",
-            "ft": ""
-        },
-        "corners": {
-            "discuss": "",
-            "full_time_total_corners": "",
-            "win_corners": ""
-        },
-        "goals": {
-            "discuss": "",
-            "Both_teams_to_score": "",
-            "fulltime_total_goals": ""
-        },
-        "win_draw": {
-            "discuss": "",
-            "win_or_draw": ""
+            "cards": {
+                "discuss": "",
+                "ht": "Over 1.5 bookings",
+                "ft": "Over 2.5 bookings"
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Cannot predict, too many inconsistencies",
+                "win_corners": "Cannot predict, too many inconsistencies"
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": "Cannot predict, too many inconsistencies",
+                "fulltime_total_goals": "Cannot predict, too many inconsistencies"
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "No draw (12)"
+            }
         }
-      }
     },
     {
         "fixture": "Holstein Kiel vs Hoffenheim",
         "league": "🇩🇪 Bundesliga",
         "day": "saturday",
-        "position": [3,7],
+        "position": [17,16],
         "type_of_match": "Regular",
         "referee": {
             "name":"Brych F.",
@@ -2628,8 +2628,8 @@
             "defensive_style": "Aggressive, Deep positioning",
             "aggressive_players": [" "],
             "provocative_players": [" "," "],
-            "win_form": [["W","L","W","L","L","L","L"]],
-            "corner_form": [["L","L","L","L","W","D","L"]],
+            "win_form": ["W","L","W","L","L","L","L"],
+            "corner_form": ["L","L","L","L","W","D","L"],
             "recent_matches": {
                 "teams": {
                     "match_seven": [
@@ -2851,8 +2851,8 @@
             "defensive_style": " ",
             "aggressive_players": [" "],
             "provocative_players": ["Jan-Niklas Beste"],
-            "win_form": [["L","L","L","D","D","L","W"]],
-            "corner_form": [["L","L","W","W","W","L","W"]],
+            "win_form": ["L","L","L","D","D","L","W"],
+            "corner_form": ["L","L","W","W","W","L","W"],
             "recent_matches": {
                 "teams": {
                     "match_seven": [
@@ -3055,32 +3055,32 @@
         
         },
         "prediction": {
-        "cards": {
-            "discuss": "",
-            "ht": "",
-            "ft": ""
-        },
-        "corners": {
-            "discuss": "",
-            "full_time_total_corners": "",
-            "win_corners": ""
-        },
-        "goals": {
-            "discuss": "",
-            "Both_teams_to_score": "",
-            "fulltime_total_goals": ""
-        },
-        "win_draw": {
-            "discuss": "",
-            "win_or_draw": ""
+            "cards": {
+                "discuss": "",
+                "ht": "Under 2.5 bookings",
+                "ft": "Over 2.5 bookings"
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Over 7.5 corners",
+                "win_corners": "Cannot predict, too many inconsistencies"
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": "Cannot predict, too many inconsistencies",
+                "fulltime_total_goals": "Cannot predict, too many inconsistencies"
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "Home win or draw (1X)"
+            }
         }
-      }
     },
     {
         "fixture": "Stuttgart vs Freiburg",
         "league": "🇩🇪 Bundesliga",
         "day": "saturday",
-        "position": [3,7],
+        "position": [5,8],
         "type_of_match": "Regular",
         "referee": {
           "name":"Zwayer F.",
@@ -3252,8 +3252,8 @@
             "defensive_style": "High Line; Use offside positioning",
             "aggressive_players": [" "],
             "provocative_players": ["Serhou Guirassy","Atakan Karazor"],
-            "win_form": [["W","W","L","W","W","D","W"]],
-            "corner_form": [["W","W","W","L","L","L","W"]],
+            "win_form": ["W","W","L","W","W","D","W"],
+            "corner_form": ["W","W","W","L","L","L","W"],
             "recent_matches": {
                 "teams": {
                     "match_seven": [
@@ -3479,8 +3479,8 @@
             "aggressive_players": ["Roland Sallai","Merlin Röhl"],
             "provocative_players": ["Roland Sallai","Lucas Höler"],
             "unavailable_attacking_players": ["Michele Di Gregorio"],
-            "win_form": [["L","W","L","W","D","W","L"]],
-            "corner_form": [["L","W","L","L","L","L","L"]],
+            "win_form": ["L","W","L","W","D","W","L"],
+            "corner_form": ["L","W","L","L","L","L","L"],
             "recent_matches": {
                 "teams": {
                     "match_seven": [
@@ -3694,32 +3694,32 @@
         
         },
         "prediction": {
-        "cards": {
-            "discuss": "",
-            "ht": "",
-            "ft": ""
-        },
-        "corners": {
-            "discuss": "",
-            "full_time_total_corners": "",
-            "win_corners": ""
-        },
-        "goals": {
-            "discuss": "",
-            "Both_teams_to_score": "",
-            "fulltime_total_goals": ""
-        },
-        "win_draw": {
-            "discuss": "",
-            "win_or_draw": ""
+            "cards": {
+                "discuss": "",
+                "ht": "Over 1.5 bookings",
+                "ft": "Over 2.5 bookings"
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Cannot predict, too many inconsistencies",
+                "win_corners": "Cannot predict, too many inconsistencies"
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": "Cannot predict, too many inconsistencies",
+                "fulltime_total_goals": "Over 2.5 goals"
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "Home win or draw (1X)"
+            }
         }
-      }
     },
     {
        "fixture": "B. Leverkusen vs B. Monchengladbach",
         "league": "🇩🇪 Bundesliga",
         "day": "saturday",
-        "position": [3,7],
+        "position": [2,11],
         "type_of_match": "Regular",
         "referee": {
           "name": "Osmers H.",
@@ -3891,8 +3891,8 @@
             "defensive_style": "High Line; Use offside positioning, Non-aggressive",
             "aggressive_players": [" "],
             "provocative_players": ["Exequiel Palacios"],
-            "win_form": [["W","W","W","W","W","W","W"]],
-            "corner_form": [["W","L","L","W","W","W","W"]],
+            "win_form": ["W","W","W","W","W","W","W"],
+            "corner_form": ["W","L","L","W","W","W","W"],
             "recent_matches": {
                 "teams": {
                     "match_seven": [
@@ -4115,8 +4115,8 @@
             "defensive_style": "Deep positioning, Non-aggressive",
             "aggressive_players": ["Jordan Siebatcheu", "Ko Itakura", "Manu Koné"],
             "provocative_players": ["Manu Koné","Joe Scally"],
-            "win_form": [["L","L","W","W","D","L","W"]],
-            "corner_form": [["W","L","L","W","W","W","W"]],
+            "win_form": ["L","L","W","W","D","L","W"],
+            "corner_form": ["W","L","L","W","W","W","W"],
             "recent_matches": {
                 "teams": {
                     "match_seven": [
@@ -4328,32 +4328,32 @@
             }
         },
         "prediction": {
-        "cards": {
-            "discuss": "",
-            "ht": "",
-            "ft": ""
-        },
-        "corners": {
-            "discuss": "",
-            "full_time_total_corners": "",
-            "win_corners": ""
-        },
-        "goals": {
-            "discuss": "",
-            "Both_teams_to_score": "",
-            "fulltime_total_goals": ""
-        },
-        "win_draw": {
-            "discuss": "",
-            "win_or_draw": ""
+            "cards": {
+                "discuss": "",
+                "ht": "Cannot predict, too many inconsistencies",
+                "ft": "Over 2.5 bookings"
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Over 7.5 corners",
+                "win_corners": "Cannot predict, too many inconsistencies"
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": "Cannot predict, too many inconsistencies",
+                "fulltime_total_goals": "Over 2.5 goals"
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "Home win or draw (1X)"
+            }
         }
-      }
     },
     {
         "fixture": "Union Berlin vs Mainz",
         "league": "🇩🇪 Bundesliga",
         "day": "sunday",
-        "position": [3,7],
+        "position": [13,6],
         "type_of_match": "Regular",
         "referee": {
           "name": "*n/a",
@@ -4525,8 +4525,8 @@
             "defensive_style": "Aggressive",
             "aggressive_players": ["Lucas Tousart","Diogo Leite","Rani Khedira"],
             "provocative_players": [" "],
-            "win_form": [["L","L","L","D","L","L","L"]],
-            "corner_form": [["W","L","W","W","W","L","L"]],
+            "win_form": ["L","L","L","D","L","L","L"],
+            "corner_form": ["W","L","W","W","W","L","L"],
             "recent_matches": {
                 "teams": {
                     "match_seven": [
@@ -4751,8 +4751,8 @@
             "defensive_style": "Deep positioning",
             "aggressive_players": ["Leandro Barreiro","Dominik Kohr","Phillipp Mwene","Karim Onisiwo"],
             "provocative_players": ["Karim Onisiwo","Jonathan Burkardt","Brajan Gruda","Leandro Barreiro"],
-            "win_form": [["L","W","W","W","L","W","W"]],
-            "corner_form": [["L","L","L","W","W","W","W"]],
+            "win_form": ["L","W","W","W","L","W","W"],
+            "corner_form": ["L","L","L","W","W","W","W"],
             "recent_matches": {
                 "teams": {
                     "match_seven": [
@@ -4965,32 +4965,32 @@
         
         },
         "prediction": {
-        "cards": {
-            "discuss": "",
-            "ht": "",
-            "ft": ""
-        },
-        "corners": {
-            "discuss": "",
-            "full_time_total_corners": "",
-            "win_corners": ""
-        },
-        "goals": {
-            "discuss": "",
-            "Both_teams_to_score": "",
-            "fulltime_total_goals": ""
-        },
-        "win_draw": {
-            "discuss": "",
-            "win_or_draw": ""
+            "cards": {
+                "discuss": "",
+                "ht": "Awaiting referee data",
+                "ft": "Awaiting referee data"
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Over 8.5 corners",
+                "win_corners": "Cannot predict, too many inconsistencies"
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": "Cannot predict, too many inconsistencies",
+                "fulltime_total_goals": "Cannot predict, too many inconsistencies"
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "Away win or draw (X2)"
+            }
         }
-      }
     },
     {
         "fixture": "Werder Bremen vs Augsburg",
         "league": "🇩🇪 Bundesliga",
         "day": "sunday",
-        "position": [3,7],
+        "position": [9,12],
         "type_of_match": "Regular",
         "referee": {
           "name": "*n/a",
@@ -5162,8 +5162,8 @@
              "defensive_style": "Non-aggressive, Deep positioning",
              "aggressive_players": ["Jens Stage","Marco Friedl"],
              "provocative_players": ["Felix Agu","Romano Schmid"],
-             "win_form": [["D","L","W","W","W","D","L"]],
-            "corner_form": [["W","L","L","W","L","W","W"]],
+             "win_form": ["D","L","W","W","W","D","L"],
+            "corner_form": ["W","L","L","W","L","W","W"],
              "recent_matches": {
                 "teams": {
                     "match_seven": [
@@ -5605,25 +5605,25 @@
         
         },
         "prediction": {
-        "cards": {
-            "discuss": "",
-            "ht": "",
-            "ft": ""
-        },
-        "corners": {
-            "discuss": "",
-            "full_time_total_corners": "",
-            "win_corners": ""
-        },
-        "goals": {
-            "discuss": "",
-            "Both_teams_to_score": "",
-            "fulltime_total_goals": ""
-        },
-        "win_draw": {
-            "discuss": "",
-            "win_or_draw": ""
+            "cards": {
+                "discuss": "",
+                "ht": "Awaiting referee data",
+                "ft": "Awaiting referee data"
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Over 7.5 corners",
+                "win_corners": "Cannot predict, too many inconsistencies"
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": "Cannot predict, too many inconsistencies",
+                "fulltime_total_goals": "Cannot predict, too many inconsistencies"
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "Home win or draw (1X)"
+            }
         }
-      }
     }
 ]
