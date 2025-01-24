@@ -9,10 +9,14 @@
 "aggressive_players": ["Fermín López"],
 "provocative_players": ["Robert Lewandowski","Lamine Yamal"],
 "unavailable_attacking_players": [],
-"win_form": ["L","L","D","W","L"],
-"corner_form": ["W","W","L","W","W"],
+"win_form": ["D","L","L","D","W","L"],
+"corner_form": ["W","W","W","L","W","W"],
 "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Getafe",
+                "Barcelona"
+            ],
             "match_one": [
                 "Barcelona",
                 "Atl. Madrid"
@@ -35,6 +39,10 @@
             ]
         },
         "goals": {
+            "match_seven": [
+                1,
+                1
+            ],
             "match_one": [
                 1,
                 2
@@ -57,6 +65,10 @@
             ]
         },
         "x_goals": {
+            "match_seven": [
+                1.31,
+                2.55
+            ],
             "match_one": [
                 2.54,
                 0.63
@@ -79,6 +91,10 @@
             ]
         },
         "corners": {
+            "match_seven": [
+                2,
+                10
+            ],
             "match_one": [
                 11,
                 3
@@ -101,6 +117,10 @@
             ]
         },
         "fouls": {
+            "match_seven": [
+                9,
+                9
+            ],
             "match_one": [
                 11,
                 8
@@ -123,6 +143,10 @@
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                0,
+                0
+            ],
             "match_one": [
                 0,
                 0
@@ -145,6 +169,10 @@
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                3,
+                2
+            ],
             "match_one": [
                 0,
                 3

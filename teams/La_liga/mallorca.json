@@ -9,10 +9,14 @@
     "aggressive_players": ["Copete","Samú Costa","Dani Rodríguez","Vedat Muriq"],
     "provocative_players": ["Samú Costa","Vedat Muriqi"],
     "unavailable_attacking_players": [],
-    "win_form": ["W","W","L","L","W","W","L"],
-    "corner_form": ["L","L","D","L","L","L","W"],
+    "win_form": ["L","W","W","L","L","W","W"],
+    "corner_form": ["L","L","L","D","L","L","L"],
    "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Villarreal",
+                "Mallorca"
+            ],
             "match_one": [
                 "Getafe",
                 "Mallorca"
@@ -36,13 +40,13 @@
             "match_six": [
                 "Las Palmas",
                 "Mallorca"
-            ],
-            "match_seven": [
-                "Mallorca",
-                "Atl. Madrid"
             ]
         },
         "goals": {
+            "match_seven": [
+                4,
+                0
+            ],
             "match_one": [
                 0,
                 1
@@ -66,13 +70,13 @@
             "match_six": [
                 2,
                 3
-            ],
-            "match_seven": [
-                0,
-                1
             ]
         },
         "x_goals": {
+            "match_seven": [
+                2.27,
+                0.52
+            ],
             "match_one": [
                 0.78,
                 1.9
@@ -96,13 +100,13 @@
             "match_six": [
                 1.2,
                 1.7
-            ],
-            "match_seven": [
-                0.58,
-                0.63
             ]
         },
         "corners": {
+            "match_seven": [
+                6,
+                5
+            ],
             "match_one": [
                 3,
                 0
@@ -126,13 +130,13 @@
             "match_six": [
                 4,
                 3
-            ],
-            "match_seven": [
-                7,
-                2
             ]
         },
         "fouls": {
+            "match_seven": [
+                9,
+                12
+            ],
             "match_one": [
                 19,
                 13
@@ -156,13 +160,13 @@
             "match_six": [
                 10,
                 18
-            ],
-            "match_seven": [
-                10,
-                16
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                0,
+                2
+            ],
             "match_one": [
                 2,
                 1
@@ -186,13 +190,13 @@
             "match_six": [
                 0,
                 1
-            ],
-            "match_seven": [
-                0,
-                1
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                1,
+                3
+            ],
             "match_one": [
                 4,
                 3
@@ -215,10 +219,6 @@
             ],
             "match_six": [
                 4,
-                3
-            ],
-            "match_seven": [
-                1,
                 3
             ]
         }

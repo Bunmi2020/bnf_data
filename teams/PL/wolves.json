@@ -9,10 +9,14 @@
     "defensive_style": " ",
     "aggressive_players": ["Mario Lemina","Nelson Semedo","Joao Gomes","Jørgen Strand Larsen"],
     "provocative_players": ["Rayan Ait-Nouri","Matheus Cunha"],
-    "win_form": [["L","L","D","W","W","L","L"]],
-    "corner_form": [["L","W","D","D","L","W","L"]],
+    "win_form": ["L","L","L","D","W","W","L"],
+    "corner_form": ["W","L","W","D","D","L","W"],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "Chelsea",
+                "Wolves"
+            ],
             "match_seven": [
                 "Newcastle",
                 "Wolves"
@@ -36,13 +40,13 @@
             "match_five": [
                 "Wolves",
                 "Ipswich"
-            ],
-            "match_six": [
-                "West Ham",
-                "Wolves"
             ]
         },
         "goals": {
+            "match_six": [
+                3,
+                1
+            ],
             "match_seven": [
                 3,
                 0
@@ -66,13 +70,13 @@
             "match_five": [
                 1,
                 2
-            ],
-            "match_six": [
-                2,
-                1
             ]
         },
         "x_goals": {
+            "match_six": [
+                3.15,
+                0.86
+            ],
             "match_seven": [
                 1.93,
                 1.44
@@ -96,13 +100,13 @@
             "match_five": [
                 1.02,
                 1.26
-            ],
-            "match_six": [
-                1.01,
-                1.63
             ]
         },
         "corners": {
+            "match_six": [
+                3,
+                6
+            ],
             "match_seven": [
                 4,
                 2
@@ -126,13 +130,13 @@
             "match_five": [
                 7,
                 3
-            ],
-            "match_six": [
-                11,
-                0
             ]
         },
         "fouls": {
+            "match_six": [
+                8,
+                14
+            ],
             "match_seven": [
                 10,
                 13
@@ -156,13 +160,13 @@
             "match_five": [
                 13,
                 9
-            ],
-            "match_six": [
-                12,
-                17
             ]
         },
         "HT_cards": {
+            "match_six": [
+                1,
+                1
+            ],
             "match_seven": [
                 0,
                 1
@@ -186,13 +190,13 @@
             "match_five": [
                 1,
                 0
-            ],
-            "match_six": [
-                1,
-                1
             ]
         },
         "FT_cards": {
+            "match_six": [
+                4,
+                2
+            ],
             "match_seven": [
                 0,
                 2
@@ -216,10 +220,6 @@
             "match_five": [
                 3,
                 3
-            ],
-            "match_six": [
-                5,
-                4
             ]
         }
     }

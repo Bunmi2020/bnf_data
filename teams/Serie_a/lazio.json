@@ -9,10 +9,14 @@
     "aggressive_players": ["Nicolò Rovella"],
     "provocative_players": ["Mattia Zaccagni","Matteo Cancellieri"],
     "unavailable_attacking_players": [],
-    "win_form": ["D","L","D","W","L","W","L"],
-    "corner_form": ["D","W","L","D","W","L","W"],
+    "win_form": ["W","D","L","D","W","L","W"],
+    "corner_form": ["W","D","W","L","D","W","L"],
     "recent_matches": {
       "teams": {
+        "match_seven": [
+                "Verona",
+                "Lazio"
+            ],
           "match_one": [
               "Lazio",
               "Como"
@@ -36,13 +40,13 @@
           "match_six": [
               "Napoli",
               "Lazio"
-          ],
-          "match_seven": [
-              "Parma",
-              "Lazio"
           ]
       },
       "goals": {
+        "match_seven": [
+                0,
+                3
+            ],
           "match_one": [
               1,
               1
@@ -66,13 +70,13 @@
           "match_six": [
               0,
               1
-          ],
-          "match_seven": [
-              3,
-              1
           ]
       },
       "x_goals": {
+        "match_seven": [
+                1.31,
+                1.45
+            ],
           "match_one": [
               0.47,
               1.77
@@ -96,13 +100,13 @@
           "match_six": [
               0.6,
               0.26
-          ],
-          "match_seven": [
-              1.55,
-              2.34
           ]
       },
       "corners": {
+        "match_seven": [
+                5,
+                6
+            ],
           "match_one": [
               7,
               7
@@ -126,13 +130,13 @@
           "match_six": [
               6,
               2
-          ],
-          "match_seven": [
-              4,
-              10
           ]
       },
       "fouls": {
+        "match_seven": [
+                10,
+                8
+            ],
           "match_one": [
               14,
               15
@@ -156,13 +160,13 @@
           "match_six": [
               16,
               12
-          ],
-          "match_seven": [
-              17,
-              13
           ]
       },
       "HT_cards": {
+        "match_seven": [
+                1,
+                1
+            ],
           "match_one": [
               0,
               1
@@ -186,13 +190,13 @@
           "match_six": [
               0,
               2
-          ],
-          "match_seven": [
-              2,
-              2
           ]
       },
       "FT_cards": {
+        "match_seven": [
+                7,
+                2
+            ],
           "match_one": [
               5,
               3
@@ -215,10 +219,6 @@
           ],
           "match_six": [
               2,
-              3
-          ],
-          "match_seven": [
-              4,
               3
           ]
       }

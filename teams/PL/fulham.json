@@ -9,10 +9,14 @@
     "defensive_style": "High Line; Use offside positioning",
     "aggressive_players": ["Kevin Mbabu"],
     "provocative_players": ["Harry Wilson"],
-    "win_form": [["L","D","D","W","D","D","D"]],
-    "corner_form": [["L","W","L","L","W","L","L","L"]],
+    "win_form": ["W","L","D","D","W","D","D"],
+    "corner_form": ["L","L","W","L","L","W","L","L"],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "Leicester",
+                "Fulham"
+            ],
             "match_seven": [
                 "West Ham",
                 "Fulham"
@@ -36,13 +40,13 @@
             "match_five": [
                 "Liverpool",
                 "Fulham"
-            ],
-            "match_six": [
-                "Fulham",
-                "Arsenal"
             ]
         },
         "goals": {
+            "match_six": [
+                0,
+                2
+            ],
             "match_seven": [
                 3,
                 2
@@ -66,13 +70,13 @@
             "match_five": [
                 2,
                 2
-            ],
-            "match_six": [
-                1,
-                1
             ]
         },
         "x_goals": {
+            "match_six": [
+                0.47,
+                2.08
+            ],
             "match_seven": [
                 1.12,
                 1.70
@@ -96,13 +100,13 @@
             "match_five": [
                 2.26,
                 1.08
-            ],
-            "match_six": [
-                0.14,
-                1.93
             ]
         },
         "corners": {
+            "match_six": [
+                5,
+                2
+            ],
             "match_seven": [
                 0,
                 3
@@ -126,13 +130,13 @@
             "match_five": [
                 5,
                 4
-            ],
-            "match_six": [
-                0,
-                6
             ]
         },
         "fouls": {
+            "match_six": [
+                8,
+                8
+            ],
             "match_seven": [
                 9,
                 18
@@ -156,13 +160,13 @@
             "match_five": [
                 10,
                 7
-            ],
-            "match_six": [
-                10,
-                9
             ]
         },
         "HT_cards": {
+            "match_six": [
+                1,
+                0
+            ],
             "match_seven": [
                 0,
                 1
@@ -186,13 +190,13 @@
             "match_five": [
                 2,
                 3
-            ],
-            "match_six": [
-                0,
-                0
             ]
         },
         "FT_cards": {
+            "match_six": [
+                3,
+                1
+            ],
             "match_seven": [
                 3,
                 3
@@ -216,10 +220,6 @@
             "match_five": [
                 4,
                 4
-            ],
-            "match_six": [
-                4,
-                2
             ]
         }
     }

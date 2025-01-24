@@ -9,10 +9,14 @@
     "aggressive_players": ["Martín Payero", "Lorenzo Lucca"],
     "provocative_players": ["Lorenzo Lucca","Festy Ebosele"],
     "unavailable_attacking_players": [],
-    "win_form": ["D","D","D","W","L","W","L"],
-    "corner_form": ["W","L","W","L","L","L","W"],
+    "win_form": ["L","D","D","D","W","L","W"],
+    "corner_form": ["L","W","L","W","L","L","L"],
     "recent_matches": {
       "teams": {
+        "match_seven": [
+                "Como",
+                "Udinese"
+            ],
           "match_one": [
               "Udinese",
               "Atalanta"
@@ -36,13 +40,13 @@
           "match_six": [
               "Monza",
               "Udinese"
-          ],
-          "match_seven": [
-              "Udinese",
-              "Genoa"
           ]
       },
       "goals": {
+        "match_seven": [
+                4,
+                1
+            ],
           "match_one": [
               0,
               0
@@ -66,13 +70,13 @@
           "match_six": [
               1,
               2
-          ],
-          "match_seven": [
-              0,
-              2
           ]
       },
       "x_goals": {
+        "match_seven": [
+                1.76,
+                0.59
+            ],
           "match_one": [
               1.66,
               0.31
@@ -96,13 +100,13 @@
           "match_six": [
               1.38,
               1.21
-          ],
-          "match_seven": [
-              0.13,
-              1.49
           ]
       },
       "corners": {
+        "match_seven": [
+                3,
+                2
+            ],
           "match_one": [
               5,
               3
@@ -126,13 +130,13 @@
           "match_six": [
               10,
               1
-          ],
-          "match_seven": [
-              6,
-              4
           ]
       },
       "fouls": {
+        "match_seven": [
+                10,
+                16
+            ],
           "match_one": [
               4,
               16
@@ -156,13 +160,13 @@
           "match_six": [
               12,
               16
-          ],
-          "match_seven": [
-              13,
-              11
           ]
       },
       "HT_cards": {
+        "match_seven": [
+                0,
+                0
+            ],
           "match_one": [
               0,
               1
@@ -186,13 +190,13 @@
           "match_six": [
               0,
               0
-          ],
-          "match_seven": [
-              1,
-              2
           ]
       },
       "FT_cards": {
+        "match_seven": [
+                3,
+                5
+            ],
           "match_one": [
               1,
               2
@@ -216,10 +220,6 @@
           "match_six": [
               1,
               2
-          ],
-          "match_seven": [
-              3,
-              3
           ]
       }
   }

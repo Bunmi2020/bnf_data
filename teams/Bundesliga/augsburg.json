@@ -9,10 +9,14 @@
     "aggressive_players": ["Ermedin Demirovic","Kevin Mbabu","Mads Pedersen"],
     "provocative_players": ["Elvis Rexhbeçaj"],
     
-    "win_form": ["W","L", "L", "L", "D", "W", "L"],
-    "corner_form": ["L","L", "W", "L", "L", "W", "L"],
+    "win_form": ["W","W","L", "L", "L", "D", "W"],
+    "corner_form": ["L","L","L", "W", "L", "L", "W"],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "Werder Bremen",
+                "Augsburg"
+            ],
             "match_seven": [
                 "Union Berlin",
                 "Ausgburg"
@@ -36,13 +40,13 @@
             "match_five": [
                 "Augsburg",
                 "Bochum"
-            ],
-            "match_six": [
-                "Bayern Munich",
-                "Augsburg"
             ]
         },
         "goals": {
+            "match_six": [
+                0,
+                2
+            ],
             "match_seven": [
                 0,
                 2
@@ -63,13 +67,13 @@
             "match_five": [
                 1,
                 0
-            ],
-            "match_six": [
-                3,
-                0
             ]
         },
         "x_goals": {
+            "match_six": [
+                1.35,
+                0.83
+            ],
             "match_seven": [
                 0.67,
                 1.25
@@ -93,13 +97,13 @@
             "match_five": [
                 1.91,
                 0.28
-            ],
-            "match_six": [
-                3.77,
-                0.1
             ]
         },
         "corners": {
+            "match_six": [
+                6,
+                2
+            ],
             "match_seven": [
                 7,
                 4
@@ -123,13 +127,13 @@
             "match_five": [
                 6,
                 1
-            ],
-            "match_six": [
-                8,
-                0
             ]
         },
         "fouls": {
+            "match_six": [
+                8,
+                14
+            ],
             "match_seven": [
                 15,
                 9
@@ -153,13 +157,13 @@
             "match_five": [
                 8,
                 22
-            ],
-            "match_six": [
-                9,
-                9
             ]
         },
         "HT_cards": {
+            "match_six": [
+                0,
+                0
+            ],
             "match_seven": [
                 0,
                 1
@@ -183,13 +187,13 @@
             "match_five": [
                 2,
                 0
-            ],
-            "match_six": [
-                0,
-                0
             ]
         },
         "FT_cards": {
+            "match_six": [
+                0,
+                0
+            ],
             "match_seven": [
                 1,
                 2
@@ -212,10 +216,6 @@
             ],
             "match_five": [
                 3,
-                3
-            ],
-            "match_six": [
-                0,
                 3
             ]
         }

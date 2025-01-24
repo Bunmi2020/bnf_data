@@ -8,10 +8,14 @@
      "defensive_style": "Non-aggressive, Deep positioning",
      "aggressive_players": ["Jens Stage","Marco Friedl"],
      "provocative_players": ["Felix Agu","Romano Schmid"],
-     "win_form": [["D","L","W","W","W","D","L"]],
-    "corner_form": [["W","L","L","W","L","W","W"]],
+     "win_form": ["L","D","L","W","W","W","D"],
+    "corner_form": ["W","W","L","L","W","L","W"],
      "recent_matches": {
         "teams": {
+            "match_six": [
+                "Werder Bremen",
+                "Augsburg"
+            ],
             "match_seven": [
                 "Werder Bremen",
                 "Heidenheim"
@@ -35,13 +39,13 @@
             "match_five": [
                 "Werder Bremen",
                 "Stuttgart"
-            ],
-            "match_six": [
-                "Eintracht Frankfurt",
-                "Werder Bremen"
             ]
         },
         "goals": {
+            "match_six": [
+                0,
+                2
+            ],
             "match_seven": [
                 3,
                 3
@@ -65,13 +69,13 @@
             "match_five": [
                 2,
                 2
-            ],
-            "match_six": [
-                1,
-                0
             ]
         },
         "x_goals": {
+            "match_six": [
+                1.35,
+                0.83
+            ],
             "match_seven": [
                 1.59,
                 0.67
@@ -95,13 +99,13 @@
             "match_five": [
                 1.24,
                 1.28
-            ],
-            "match_six": [
-                1.02,
-                0.42
             ]
         },
         "corners": {
+            "match_six": [
+                6,
+                2
+            ],
             "match_seven": [
                 4,
                 2
@@ -125,13 +129,13 @@
             "match_five": [
                 11,
                 2
-            ],
-            "match_six": [
-                5,
-                6
             ]
         },
         "fouls": {
+            "match_six": [
+                8,
+                14
+            ],
             "match_seven": [
                 10,
                 15
@@ -155,13 +159,13 @@
             "match_five": [
                 8,
                 13
-            ],
-            "match_six": [
-                15,
-                9
             ]
         },
         "HT_cards": {
+            "match_six": [
+                0,
+                0
+            ],
             "match_seven": [
                 0,
                 1
@@ -185,13 +189,13 @@
             "match_five": [
                 0,
                 0
-            ],
-            "match_six": [
-                0,
-                1
             ]
         },
         "FT_cards": {
+            "match_six": [
+                0,
+                0
+            ],
             "match_seven": [
                 6,
                 3
@@ -215,10 +219,6 @@
             "match_five": [
                 1,
                 1
-            ],
-            "match_six": [
-                2,
-                2
             ]
         }
     }

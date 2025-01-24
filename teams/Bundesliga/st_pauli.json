@@ -8,10 +8,14 @@
     "defensive_style": "Non-aggressive",
     "aggressive_players": [" "],
     "provocative_players": [" "," "],
-    "win_form": [["L","L","W","L","L","W","L"]],
-    "corner_form": [["W","D","L","L","L","D","L"]],
+    "win_form": ["W","L","L","W","L","L","W"],
+    "corner_form": ["D","W","D","L","L","L","D"],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "Heidenheim",
+                "St. Pauli"
+            ],
             "match_seven": [
                 "Bochum",
                 "St. Pauli"
@@ -35,13 +39,13 @@
             "match_five": [
                 "St. Pauli",
                 "Holstein Kiel"
-            ],
-            "match_six": [
-                "B. Monchengladbach",
-                "St. Pauli"
             ]
         },
         "goals": {
+            "match_six": [
+                0,
+                2
+            ],
             "match_seven": [
                 1,
                 0
@@ -65,13 +69,13 @@
             "match_five": [
                 3,
                 1
-            ],
-            "match_six": [
-                2,
-                0
             ]
         },
         "x_goals": {
+            "match_six": [
+                0.75,
+                2.24
+            ],
             "match_seven": [
                 1.70,
                 0.67
@@ -95,13 +99,13 @@
             "match_five": [
                 1.47,
                 1.34
-            ],
-            "match_six": [
-                2.27,
-                0.86
             ]
         },
         "corners": {
+            "match_six": [
+                4,
+                4
+            ],
             "match_seven": [
                 6,
                 7
@@ -125,13 +129,13 @@
             "match_five": [
                 4,
                 4
-            ],
-            "match_six": [
-                5,
-                4
             ]
         },
         "fouls": {
+            "match_six": [
+                11,
+                17
+            ],
             "match_seven": [
                 7,
                 15
@@ -155,13 +159,13 @@
             "match_five": [
                 10,
                 11
-            ],
-            "match_six": [
-                7,
-                8
             ]
         },
         "HT_cards": {
+            "match_six": [
+                0,
+                1
+            ],
             "match_seven": [
                 1,
                 0
@@ -185,13 +189,13 @@
             "match_five": [
                 1,
                 4
-            ],
-            "match_six": [
-                0,
-                0
             ]
         },
         "FT_cards": {
+            "match_six": [
+                1,
+                2
+            ],
             "match_seven": [
                 1,
                 4
@@ -215,10 +219,6 @@
             "match_five": [
                 2,
                 5
-            ],
-            "match_six": [
-                1,
-                0
             ]
         }
     }

@@ -9,10 +9,14 @@
     "defensive_style": " ",
     "aggressive_players": ["Lewis Ferguson","Remo Freuler"],
     "provocative_players": ["Thijs Dallinga","Lewis Ferguson","Nicolò Cambiaghi","Dan Ndoye","Juan Miranda"],
-    "win_form": ["D","L","W","W","D","W"],
-    "corner_form": ["D","W","L","L","W","W"],
+    "win_form": ["W","D","L","W","W","D","W"],
+    "corner_form": ["W","D","W","L","L","W","W"],
    "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Bologna",
+                "Monza"
+            ],
             "match_six": [
                 "Inter",
                 "Bologna"
@@ -39,6 +43,10 @@
             ]
         },
         "goals": {
+            "match_seven": [
+                3,
+                1
+            ],
             "match_six": [
                 2,
                 2
@@ -65,6 +73,10 @@
             ]
         },
         "x_goals": {
+            "match_seven": [
+                1.9,
+                0.6
+            ],
             "match_six": [
                 1.69,
                 0.64
@@ -91,6 +103,10 @@
             ]
         },
         "corners": {
+            "match_seven": [
+                4,
+                0
+            ],
             "match_six": [
                 3,
                 3
@@ -117,6 +133,10 @@
             ]
         },
         "fouls": {
+            "match_seven": [
+                16,
+                18
+            ],
             "match_six": [
                 19,
                 13
@@ -143,6 +163,10 @@
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                1,
+                2
+            ],
             "match_six": [
                 0,
                 0
@@ -169,6 +193,10 @@
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                1,
+                3
+            ],
             "match_six": [
                 0,
                 0

@@ -9,10 +9,14 @@
     "defensive_style": " ",
     "aggressive_players": ["Diogo Dalot","Bruno Fernandes"],
     "provocative_players": ["Alejandro Garnacho"],
-    "win_form": [["W","D","L","L","L","W","L"]],
-    "corner_form": [["D","W","L","D","W","L","W"]],
+    "win_form": ["L","W","D","L","L","L","W"],
+    "corner_form": ["W","D","W","L","D","W","L"],
    "recent_matches": {
         "teams": {
+            "match_six": [
+                "Manchester Utd",
+                "Brighton"
+            ],
             "match_seven": [
                 "Manchester Utd",
                 "Southampton"
@@ -36,13 +40,13 @@
             "match_five": [
                 "Manchester City",
                 "Manchester Utd"
-            ],
-            "match_six": [
-                "Manchester Utd",
-                "Nottingham"
             ]
         },
         "goals": {
+            "match_six": [
+                1,
+                3
+            ],
             "match_seven": [
                 3,
                 1
@@ -66,13 +70,13 @@
             "match_five": [
                 1,
                 2
-            ],
-            "match_six": [
-                2,
-                3
             ]
         },
         "x_goals": {
+            "match_six": [
+                1.41,
+                1.98
+            ],
             "match_seven": [
                 3.20,
                 1.52
@@ -96,13 +100,13 @@
             "match_five": [
                 0.91,
                 1.99
-            ],
-            "match_six": [
-                1.55,
-                0.69
             ]
         },
         "corners": {
+            "match_six": [
+                4,
+                2
+            ],
             "match_seven": [
                 4,
                 4
@@ -126,13 +130,13 @@
             "match_five": [
                 8,
                 2
-            ],
-            "match_six": [
-                5,
-                3
             ]
         },
         "fouls": {
+            "match_six": [
+                13,
+                12
+            ],
             "match_seven": [
                 7,
                 10
@@ -156,13 +160,13 @@
             "match_five": [
                 5,
                 14
-            ],
-            "match_six": [
-                10,
-                13
             ]
         },
         "HT_cards": {
+            "match_six": [
+                0,
+                2
+            ],
             "match_seven": [
                 0,
                 2
@@ -186,13 +190,13 @@
             "match_five": [
                 1,
                 1
-            ],
-            "match_six": [
-                0,
-                1
             ]
         },
         "FT_cards": {
+            "match_six": [
+                3,
+                3
+            ],
             "match_seven": [
                 1,
                 3
@@ -216,10 +220,6 @@
             "match_five": [
                 1,
                 1
-            ],
-            "match_six": [
-                0,
-                2
             ]
         }
     }

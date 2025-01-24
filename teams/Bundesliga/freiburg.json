@@ -9,10 +9,14 @@
     "aggressive_players": ["Roland Sallai","Merlin Röhl"],
     "provocative_players": ["Roland Sallai","Lucas Höler"],
     "unavailable_attacking_players": ["Michele Di Gregorio"],
-    "win_form": [["L","W","L","W","D","W","L"]],
-    "corner_form": [["L","W","L","L","L","L","L"]],
+    "win_form": ["L","L","W","L","W","D","W"],
+    "corner_form": ["L","L","W","L","L","L","L"],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "Stuttgart",
+                "Freiburg"
+            ],
             "match_seven": [
                 "Eintracht Frankfurt",
                 "Freiburg"
@@ -36,13 +40,13 @@
             "match_five": [
                 "Freiburg",
                 "B. Monchengladbach"
-            ],
-            "match_six": [
-                "Dortmund",
-                "Freiburg"
             ]
         },
         "goals": {
+            "match_six": [
+                4,
+                0
+            ],
             "match_seven": [
                 4,
                 1
@@ -66,10 +70,13 @@
             "match_five": [
                 3,
                 1
-            ],
-            "match_six": [4,0]
+            ]
         },
         "x_goals": {
+            "match_six": [
+                2.08,
+                0.32
+            ],
             "match_seven": [
                 2.09,
                 0.49
@@ -93,13 +100,13 @@
             "match_five": [
                 1.61,
                 1.57
-            ],
-            "match_six": [
-                1.34,
-                0.74
             ]
         },
         "corners": {
+            "match_six": [
+                4,
+                1
+            ],
             "match_seven": [
                 8,
                 1
@@ -123,13 +130,13 @@
             "match_five": [
                 4,
                 6
-            ],
-            "match_six": [
-                7,
-                0
             ]
         },
         "fouls": {
+            "match_six": [
+                8,
+                12
+            ],
             "match_seven": [
                 8,
                 11
@@ -153,13 +160,13 @@
             "match_five": [
                 5,
                 14
-            ],
-            "match_six": [
-                11,
-                4
             ]
         },
         "HT_cards": {
+            "match_six": [
+                2,
+                2
+            ],
             "match_seven": [
                 0,
                 1
@@ -183,13 +190,13 @@
             "match_five": [
                 0,
                 0
-            ],
-            "match_six": [
-                0,
-                0
             ]
         },
         "FT_cards": {
+            "match_six": [
+                5,
+                3
+            ],
             "match_seven": [
                 1,
                 1
@@ -213,10 +220,6 @@
             "match_five": [
                 1,
                 1
-            ],
-            "match_six": [
-                1,
-                4
             ]
         }
     }

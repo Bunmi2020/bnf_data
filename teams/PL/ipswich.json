@@ -9,10 +9,14 @@
     "defensive_style": " ",
     "aggressive_players": ["Massimo Luongo","Leif Davis","Samy Morsy","Omari Hutchinson"],
     "provocative_players": ["Massimo Luongo","Leif Davis","Samy Morsy","Conor Chaplin"],
-    "win_form": [["L","D","W","L","L","W","L"]],
-    "corner_form": [["L","L","W","L","W","L","L"]],
+    "win_form": ["L","L","D","W","L","L","W"],
+    "corner_form": ["L","L","L","W","L","W","L"],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "Ipswich",
+                "Manchester City"
+            ],
             "match_seven": [
                 "Ipswich",
                 "Brighton"
@@ -36,13 +40,13 @@
             "match_five": [
                 "Wolves",
                 "Ipswich"
-            ],
-            "match_six": [
-                "Ipswich",
-                "Bournemouth"
             ]
         },
         "goals": {
+            "match_six": [
+                0,
+                6
+            ],
             "match_seven": [
                 0,
                 2
@@ -66,13 +70,13 @@
             "match_five": [
                 1,
                 2
-            ],
-            "match_six": [
-                1,
-                2
             ]
         },
         "x_goals": {
+            "match_six": [
+                0.65,
+                2.84
+            ],
             "match_seven": [
                 0.29,
                 0.97
@@ -96,13 +100,13 @@
             "match_five": [
                 1.02,
                 1.26
-            ],
-            "match_six": [
-                1.33,
-                2.99
             ]
         },
         "corners": {
+            "match_six": [
+                4,
+                7
+            ],
             "match_seven": [
                 1,
                 9
@@ -126,13 +130,13 @@
             "match_five": [
                 7,
                 3
-            ],
-            "match_six": [
-                6,
-                13
             ]
         },
         "fouls": {
+            "match_six": [
+                4,
+                7
+            ],
             "match_seven": [
                 13,
                 14
@@ -156,13 +160,13 @@
             "match_five": [
                 13,
                 9
-            ],
-            "match_six": [
-                9,
-                13
             ]
         },
         "HT_cards": {
+            "match_six": [
+                0,
+                0
+            ],
             "match_seven": [
                 0,
                 0
@@ -186,13 +190,13 @@
             "match_five": [
                 1,
                 0
-            ],
-            "match_six": [
-                2,
-                0
             ]
         },
         "FT_cards": {
+            "match_six": [
+                0,
+                1
+            ],
             "match_seven": [
                 2,
                 2
@@ -216,10 +220,6 @@
             "match_five": [
                 3,
                 3
-            ],
-            "match_six": [
-                2,
-                1
             ]
         }
     }

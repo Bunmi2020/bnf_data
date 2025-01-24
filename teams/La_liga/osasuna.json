@@ -9,10 +9,14 @@
     "aggressive_players": ["Alejandro Catena","Lucas Torró","Jorge Herrando","Iker Muñoz"],
     "provocative_players": ["Iker Muñoz","Bryan Zaragoza","Aimar Oroz"],
     "unavailable_attacking_players": [],
-    "win_form": ["L","L","D","D","D","D","L"],
-    "corner_form": ["L","D","L","W","L","L","L"],
+    "win_form": ["D","L","L","D","D","D","D"],
+    "corner_form": ["W","L","D","L","W","L","L"],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Osasuna",
+                "Rayo Vallecano"
+            ],
             "match_one": [
                 "Atl. Madrid",
                 "Osasuna"
@@ -36,13 +40,13 @@
             "match_six": [
                 "Osasuna",
                 "Villarreal"
-            ],
-            "match_seven": [
-                "Real Madrid",
-                "Osasuna"
             ]
         },
         "goals": {
+            "match_seven": [
+                1,
+                1
+            ],
             "match_one": [
                 1,
                 0
@@ -66,13 +70,13 @@
             "match_six": [
                 2,
                 2
-            ],
-            "match_seven": [
-                4,
-                0
             ]
         },
         "x_goals": {
+            "match_seven": [
+                0.67,
+                0.73
+            ],
             "match_one": [
                 2.4,
                 0.21
@@ -96,13 +100,13 @@
             "match_six": [
                 1.08,
                 2.43
-            ],
-            "match_seven": [
-                2.91,
-                0.05
             ]
         },
         "corners": {
+            "match_seven": [
+                6,
+                3
+            ],
             "match_one": [
                 4,
                 0
@@ -126,13 +130,13 @@
             "match_six": [
                 0,
                 8
-            ],
-            "match_seven": [
-                11,
-                3
             ]
         },
         "fouls": {
+            "match_seven": [
+                9,
+                13
+            ],
             "match_one": [
                 8,
                 14
@@ -156,13 +160,13 @@
             "match_six": [
                 12,
                 13
-            ],
-            "match_seven": [
-                9,
-                16
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                1,
+                1
+            ],
             "match_one": [
                 1,
                 0
@@ -186,13 +190,13 @@
             "match_six": [
                 1,
                 4
-            ],
-            "match_seven": [
-                0,
-                0
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                3,
+                2
+            ],
             "match_one": [
                 2,
                 0
@@ -216,10 +220,6 @@
             "match_six": [
                 6,
                 5
-            ],
-            "match_seven": [
-                0,
-                2
             ]
         }
     }

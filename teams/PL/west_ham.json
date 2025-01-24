@@ -9,10 +9,14 @@
     "defensive_style": " ",
     "aggressive_players": ["Tomas Soucek","Lucas Paqueta","Mohammed Kudus"],
     "provocative_players": ["Lucas Paqueta","Mohammed Kudus","Jarrod Bowen","Guido Rodríguez"],
-    "win_form": [["W","L","L","W","D","D","W"]],
-    "corner_form": [["L","L","L","D","W","L","W"]],
+    "win_form": ["L","W","L","L","W","D","D"],
+    "corner_form": ["L","L","L","L","D","W","L"],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "West Ham",
+                "Crystal Palace"
+            ],
             "match_seven": [
                 "West Ham",
                 "Fulham"
@@ -36,13 +40,13 @@
             "match_five": [
                 "Bournemouth",
                 "West Ham"
-            ],
-            "match_six": [
-                "West Ham",
-                "Wolves"
             ]
         },
         "goals": {
+            "match_six": [
+                0,
+                2
+            ],
             "match_seven": [
                 3,
                 2
@@ -66,13 +70,13 @@
             "match_five": [
                 1,
                 1
-            ],
-            "match_six": [
-                2,
-                1
             ]
         },
         "x_goals": {
+            "match_six": [
+                0.3,
+                1.31
+            ],
             "match_seven": [
                 1.12,
                 1.70
@@ -96,13 +100,13 @@
             "match_five": [
                 1.9,
                 2.18
-            ],
-            "match_six": [
-                1.01,
-                1.63
             ]
         },
         "corners": {
+            "match_six": [
+                2,
+                4
+            ],
             "match_seven": [
                 0,
                 3
@@ -126,13 +130,13 @@
             "match_five": [
                 12,
                 6
-            ],
-            "match_six": [
-                11,
-                0
             ]
         },
         "fouls": {
+            "match_six": [
+                13,
+                10
+            ],
             "match_seven": [
                 9,
                 18
@@ -156,13 +160,13 @@
             "match_five": [
                 6,
                 11
-            ],
-            "match_six": [
-                12,
-                17
             ]
         },
         "HT_cards": {
+            "match_six": [
+                1,
+                0
+            ],
             "match_seven": [
                 0,
                 1
@@ -186,13 +190,13 @@
             "match_five": [
                 0,
                 1
-            ],
-            "match_six": [
-                1,
-                1
             ]
         },
         "FT_cards": {
+            "match_six": [
+                1,
+                0
+            ],
             "match_seven": [
                 3,
                 3
@@ -213,10 +217,6 @@
             "match_five": [
                 0,
                 2
-            ],
-            "match_six": [
-                5,
-                4
             ]
         }
     }

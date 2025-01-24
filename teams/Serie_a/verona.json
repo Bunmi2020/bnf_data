@@ -10,10 +10,14 @@
     "aggressive_players": ["Ondrej Duda", "Suat Serdar", "Diego Coppola"],
     "provocative_players": ["Tomás Suslov","Grigoris Kastanos", "Ondrej Duda"],
     "unavailable_attacking_players": [],
-    "win_form": ["L","D","W","L","W","L","L"],
-    "corner_form": ["L","W","L","L","L","L","L"],
+    "win_form": ["L","L","D","W","L","W","L"],
+    "corner_form": ["L","L","W","L","L","L","L"],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Verona",
+                "Lazio"
+            ],
             "match_one": [
                 "Napoli",
                 "Verona"
@@ -37,13 +41,13 @@
             "match_six": [
                 "Verona",
                 "Empoli"
-            ],
-            "match_seven": [
-                "Cagliari",
-                "Verona"
             ]
         },
         "goals": {
+            "match_seven": [
+                0,
+                3
+            ],
             "match_one": [
                 2,
                 0
@@ -67,13 +71,13 @@
             "match_six": [
                 1,
                 4
-            ],
-            "match_seven": [
-                1,
-                0
             ]
         },
         "x_goals": {
+            "match_seven": [
+                1.31,
+                1.45
+            ],
             "match_one": [
                 0.87,
                 0.23
@@ -97,13 +101,13 @@
             "match_six": [
                 0.74,
                 1.28
-            ],
-            "match_seven": [
-                1.75,
-                0.74
             ]
         },
         "corners": {
+            "match_seven": [
+                5,
+                6
+            ],
             "match_one": [
                 8,
                 1
@@ -127,13 +131,13 @@
             "match_six": [
                 5,
                 8
-            ],
-            "match_seven": [
-                7,
-                1
             ]
         },
         "fouls": {
+            "match_seven": [
+                10,
+                8
+            ],
             "match_one": [
                 6,
                 5
@@ -157,13 +161,13 @@
             "match_six": [
                 15,
                 16
-            ],
-            "match_seven": [
-                10,
-                12
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                1,
+                1
+            ],
             "match_one": [
                 0,
                 0
@@ -187,14 +191,14 @@
             "match_six": [
                 2,
                 0
-            ],
-            "match_seven": [
-                1,
-                0
             ]
         },
         "FT_cards": {
-            "match_one": [],
+            "match_seven": [
+                7,
+                2
+            ],
+            "match_one": [0,0],
             "match_two": [
                 4,
                 2
@@ -213,10 +217,6 @@
             ],
             "match_six": [
                 2,
-                2
-            ],
-            "match_seven": [
-                1,
                 2
             ]
         }

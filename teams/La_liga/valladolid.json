@@ -9,10 +9,14 @@
     "aggressive_players": ["Kike Pérez"],
     "provocative_players": ["Kike Pérez"],
     "unavailable_attacking_players": [],
-    "win_form": ["W","L","W","L","L","L","D"],
-    "corner_form": ["L","L","L","D","L","L","D"],
+    "win_form": ["L","W","L","W","L","L","L"],
+    "corner_form": ["W","L","L","L","D","L","L"],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Espanyol",
+                "Valladolid"
+            ],
             "match_one": [
                 "Valladolid",
                 "Betis"
@@ -36,13 +40,13 @@
             "match_six": [
                 "Getafe",
                 "Valladolid"
-            ],
-            "match_seven": [
-                "Valladolid",
-                "Ath Bilbao"
             ]
         },
         "goals": {
+            "match_seven": [
+                2,
+                1
+            ],
             "match_one": [
                 1,
                 0
@@ -66,13 +70,13 @@
             "match_six": [
                 2,
                 0
-            ],
-            "match_seven": [
-                1,
-                1
             ]
         },
         "x_goals": {
+            "match_seven": [
+                1.03,
+                1.24
+            ],
             "match_one": [
                 1.14,
                 0.62
@@ -96,13 +100,13 @@
             "match_six": [
                 0.58,
                 0.98
-            ],
-            "match_seven": [
-                0.61,
-                1.36
             ]
         },
         "corners": {
+            "match_seven": [
+                1,
+                7
+            ],
             "match_one": [
                 1,
                 8
@@ -126,13 +130,13 @@
             "match_six": [
                 3,
                 2
-            ],
-            "match_seven": [
-                5,
-                5
             ]
         },
         "fouls": {
+            "match_seven": [
+                13,
+                16
+            ],
             "match_one": [
                 21,
                 10
@@ -156,13 +160,13 @@
             "match_six": [
                 15,
                 15
-            ],
-            "match_seven": [
-                12,
-                12
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                1,
+                0
+            ],
             "match_one": [
                 1,
                 1
@@ -186,13 +190,13 @@
             "match_six": [
                 1,
                 0
-            ],
-            "match_seven": [
-                1,
-                2
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                2,
+                2
+            ],
             "match_one": [
                 2,
                 4
@@ -216,10 +220,6 @@
             "match_six": [
                 3,
                 2
-            ],
-            "match_seven": [
-                4,
-                4
             ]
         }
     }

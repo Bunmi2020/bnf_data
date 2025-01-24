@@ -9,10 +9,14 @@
     "defensive_style": "High defensive line",
     "aggressive_players": ["Wataru Endo","Alexis Mac Alliste","Luis Diaz"],
     "provocative_players": ["Alexis Mac Allister", "Luis Díaz"],
-    "win_form": [["D","D","W","W","W","D","D"]],
-    "corner_form": [["W","L","W","W","L","W","W"]],
+    "win_form": ["W","D","D","W","W","W","D"],
+    "corner_form": ["W","W","L","W","W","L","W"],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "Brentford",
+                "Liverpool"
+            ],
             "match_seven": [
                 "Nottingham",
                 "Liverpool"
@@ -36,13 +40,13 @@
             "match_five": [
                 "Liverpool",
                 "Fulham"
-            ],
-            "match_six": [
-                "Newcastle",
-                "Liverpool"
             ]
         },
         "goals": {
+            "match_six": [
+                0,
+                2
+            ],
             "match_seven": [
                 1,
                 1
@@ -66,13 +70,13 @@
             "match_five": [
                 2,
                 2
-            ],
-            "match_six": [
-                3,
-                3
             ]
         },
         "x_goals": {
+            "match_six": [
+                0.72,
+                3.4
+            ],
             "match_seven": [
                 0.39,
                 1.95
@@ -96,13 +100,13 @@
             "match_five": [
                 2.26,
                 1.08
-            ],
-            "match_six": [
-                1.72,
-                1.44
             ]
         },
         "corners": {
+            "match_six": [
+                2,
+                15
+            ],
             "match_seven": [
                 0,
                 9
@@ -126,13 +130,13 @@
             "match_five": [
                 5,
                 4
-            ],
-            "match_six": [
-                5,
-                6
             ]
         },
         "fouls": {
+            "match_six": [
+                6,
+                14
+            ],
             "match_seven": [
                 7,
                 10
@@ -156,13 +160,13 @@
             "match_five": [
                 10,
                 7
-            ],
-            "match_six": [
-                9,
-                17
             ]
         },
         "HT_cards": {
+            "match_six": [
+                0,
+                2
+            ],
             "match_seven": [
                 1,
                 0
@@ -186,13 +190,13 @@
             "match_five": [
                 2,
                 3
-            ],
-            "match_six": [
-                0,
-                3
             ]
         },
         "FT_cards": {
+            "match_six": [
+                2,
+                3
+            ],
             "match_seven": [
                 2,
                 1
@@ -213,10 +217,6 @@
             "match_five": [
                 4,
                 4
-            ],
-            "match_six": [
-                2,
-                5
             ]
         }
     }

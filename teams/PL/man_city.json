@@ -9,10 +9,14 @@
     "defensive_style": " ",
     "aggressive_players": ["Rodri"],
     "provocative_players": ["Phil Foden", "Jack Grealish","Savinho"],
-    "win_form": [["D","W","W","D","L","L","D","W"]],
-    "corner_form": [["W","W","D","W","L","W","W"]],
+    "win_form": ["W","D","W","W","D","L","L","D"],
+    "corner_form": ["W","W","W","D","W","L","W"],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "Ipswich",
+                "Manchester City"
+            ],
             "match_seven": [
                 "Brentford",
                 "Manchester City"
@@ -36,13 +40,13 @@
             "match_five": [
                 "Manchester City",
                 "Manchester Utd"
-            ],
-            "match_six": [
-                "Crystal Palace",
-                "Manchester City"
             ]
         },
         "goals": {
+            "match_six": [
+                0,
+                6
+            ],
             "match_seven": [
                 2,
                 2
@@ -66,13 +70,13 @@
             "match_five": [
                 1,
                 2
-            ],
-            "match_six": [
-                2,
-                2
             ]
         },
         "x_goals": {
+            "match_six": [
+                0.65,
+                2.84
+            ],
             "match_seven": [
                 2.47,
                 2.10
@@ -96,13 +100,13 @@
             "match_five": [
                 0.91,
                 1.99
-            ],
-            "match_six": [
-                1.3,
-                1.41
             ]
         },
         "corners": {
+            "match_six": [
+                4,
+                7
+            ],
             "match_seven": [
                 4,
                 5
@@ -126,13 +130,13 @@
             "match_five": [
                 8,
                 2
-            ],
-            "match_six": [
-                6,
-                8
             ]
         },
         "fouls": {
+            "match_six": [
+                4,
+                7
+            ],
             "match_seven": [
                 4,
                 4
@@ -156,13 +160,13 @@
             "match_five": [
                 5,
                 14
-            ],
-            "match_six": [
-                4,
-                10
             ]
         },
         "HT_cards": {
+            "match_six": [
+                0,
+                0
+            ],
             "match_seven": [
                 0,
                 0
@@ -186,13 +190,13 @@
             "match_five": [
                 1,
                 1
-            ],
-            "match_six": [
-                0,
-                0
             ]
         },
         "FT_cards": {
+            "match_six": [
+                0,
+                1
+            ],
             "match_seven": [
                 0,
                 0
@@ -216,10 +220,6 @@
             "match_five": [
                 1,
                 1
-            ],
-            "match_six": [
-                1,
-                3
             ]
         }
     }

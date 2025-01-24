@@ -9,10 +9,14 @@
     "aggressive_players": ["Morten Frendrup"],
     "provocative_players": ["Albert Gudmundsson"],
     "unavailable_attacking_players": [],
-    "win_form": ["W","D","W","L","D","D","W"],
-    "corner_form": ["L","L","L","L","L","D","L"],
+    "win_form": ["L","W","D","W","L","D","D"],
+    "corner_form": ["L","L","L","L","L","L","D"],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "AS Roma",
+                "Genoa"
+            ],
             "match_one": [
                 "Genoa",
                 "Parma"
@@ -36,13 +40,13 @@
             "match_six": [
                 "Genoa",
                 "Torino"
-            ],
-            "match_seven": [
-                "Udinese",
-                "Genoa"
             ]
         },
         "goals": {
+            "match_seven": [
+                3,
+                1
+            ],
             "match_one": [
                 1,
                 0
@@ -66,13 +70,13 @@
             "match_six": [
                 0,
                 0
-            ],
-            "match_seven": [
-                0,
-                2
             ]
         },
         "x_goals": {
+            "match_seven": [
+                1.51,
+                0.5
+            ],
             "match_one": [
                 1.06,
                 0.3
@@ -96,13 +100,13 @@
             "match_six": [
                 0.49,
                 0.58
-            ],
-            "match_seven": [
-                0.13,
-                1.49
             ]
         },
         "corners": {
+            "match_seven": [
+                3,
+                2
+            ],
             "match_one": [
                 6,
                 9
@@ -126,13 +130,13 @@
             "match_six": [
                 4,
                 4
-            ],
-            "match_seven": [
-                6,
-                4
             ]
         },
         "fouls": {
+            "match_seven": [
+                12,
+                12
+            ],
             "match_one": [
                 10,
                 10
@@ -156,13 +160,13 @@
             "match_six": [
                 12,
                 15
-            ],
-            "match_seven": [
-                13,
-                11
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                0,
+                1
+            ],
             "match_one": [
                 1,
                 2
@@ -186,13 +190,13 @@
             "match_six": [
                 1,
                 0
-            ],
-            "match_seven": [
-                1,
-                2
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                1,
+                1
+            ],
             "match_one": [
                 2,
                 3
@@ -216,10 +220,6 @@
             "match_six": [
                 2,
                 1
-            ],
-            "match_seven": [
-                3,
-                3
             ]
         }
     }  

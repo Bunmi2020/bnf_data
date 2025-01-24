@@ -10,10 +10,14 @@
     "aggressive_players": ["Lautaro Martínez"],
     "provocative_players": ["Lautaro Martinez","Hakan Çalhanoglu"],
     "unavailable_attacking_players": [],
-    "win_form": ["D","W","W","W","W","W"],
-    "corner_form": ["D","W","W","L","W","L"],
+    "win_form": ["W","D","W","W","W","W","W"],
+    "corner_form": ["W","D","W","W","L","W","L"],
     "recent_matches": {
       "teams": {
+        "match_seven": [
+                "Inter",
+                "Empoli"
+            ],
         "match_six": [
                 "Inter",
                 "Bologna"
@@ -40,6 +44,10 @@
           ]
       },
       "goals": {
+        "match_seven": [
+                3,
+                1
+            ],
         "match_six": [
                 2,
                 2
@@ -66,6 +74,10 @@
           ]
       },
       "x_goals": {
+        "match_seven": [
+                1.58,
+                0.27
+            ],
         "match_six": [
                 1.69,
                 0.64
@@ -92,6 +104,10 @@
           ]
       },
       "corners": {
+        "match_seven": [
+                7,
+                3
+            ],
         "match_six": [
             3,
             3
@@ -118,6 +134,10 @@
           ]
       },
       "fouls": {
+        "match_seven": [
+            11,
+            9
+        ],
         "match_six": [
             19,
             13
@@ -144,6 +164,10 @@
           ]
       },
       "HT_cards": {
+        "match_seven": [
+                0,
+                0
+            ],
         "match_six": [
                 0,
                 0
@@ -170,6 +194,10 @@
           ]
       },
       "FT_cards": {
+        "match_seven": [
+                0,
+                0
+            ],
         "match_six": [0,0],
           "match_one": [0,0],
           "match_two": [

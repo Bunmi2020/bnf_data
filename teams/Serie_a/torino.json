@@ -9,10 +9,14 @@
     "aggressive_players": ["Karol Linetty","Duván Zapata"],
     "provocative_players": ["Duván Zapata", "Samuele Ricci","Raoul Bellanova"],
     "unavailable_attacking_players": [],
-    "win_form": ["D","D","D","L","W","D","L"],
-    "corner_form": ["W","W","L","W","L","D","L"],
+    "win_form": ["D","D","D","D","L","W","D"],
+    "corner_form": ["L","W","W","L","W","L","D"],
     "recent_matches": {
       "teams": {
+        "match_seven": [
+                "Fiorentina",
+                "Torino"
+            ],
           "match_one": [
               "Torino",
               "Juventus"
@@ -36,13 +40,13 @@
           "match_six": [
               "Genoa",
               "Torino"
-          ],
-          "match_seven": [
-              "Torino",
-              "Napoli"
           ]
       },
       "goals": {
+        "match_seven": [
+                1,
+                1
+            ],
           "match_one": [
               1,
               1
@@ -66,13 +70,13 @@
           "match_six": [
               0,
               0
-          ],
-          "match_seven": [
-              0,
-              1
           ]
       },
       "x_goals": {
+        "match_seven": [
+                1.68,
+                0.4
+            ],
           "match_one": [
               0.56,
               0.82
@@ -96,13 +100,13 @@
           "match_six": [
               0.49,
               0.58
-          ],
-          "match_seven": [
-              0.26,
-              1.44
           ]
       },
       "corners": {
+        "match_seven": [
+                9,
+                2
+            ],
           "match_one": [
               9,
               1
@@ -126,13 +130,13 @@
           "match_six": [
               4,
               4
-          ],
-          "match_seven": [
-              4,
-              7
           ]
       },
       "fouls": {
+        "match_seven": [
+                16,
+                11
+            ],
           "match_one": [
               18,
               9
@@ -156,13 +160,13 @@
           "match_six": [
               12,
               15
-          ],
-          "match_seven": [
-              15,
-              9
           ]
       },
       "HT_cards": {
+        "match_seven": [
+                1,
+                3
+            ],
           "match_one": [
               1,
               0
@@ -186,13 +190,13 @@
           "match_six": [
               1,
               0
-          ],
-          "match_seven": [
-              2,
-              0
           ]
       },
       "FT_cards": {
+        "match_seven": [
+                3,
+                4
+            ],
           "match_one": [
               4,
               1
@@ -215,10 +219,6 @@
           ],
           "match_six": [
               2,
-              1
-          ],
-          "match_seven": [
-              4,
               1
           ]
       }

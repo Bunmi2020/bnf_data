@@ -9,10 +9,14 @@
 "aggressive_players": ["Mikel Merino","Brais Méndez","Umar Sadiq","Igor Zubeldia","Jon Pacheco"],
 "provocative_players": ["Mikel Merino","Brais Méndez","Takefusa Kubo"],
 "unavailable_attacking_players": [],
-"win_form": ["W","L","D","W","W"],
-"corner_form": ["L","W","W","L","L"],
+"win_form": ["L","W","L","D","W","W"],
+"corner_form": ["W","L","W","W","L","L"],
 "recent_matches": {
   "teams": {
+    "match_seven": [
+                "Valencia",
+                "Real Sociedad"
+            ],
       "match_one": [
           "Real Sociedad",
           "Villarreal"
@@ -35,6 +39,11 @@
       ]
   },
   "goals": {
+    
+    "match_seven": [
+                1,
+                0
+            ],
       "match_one": [
           1,
           0
@@ -57,6 +66,10 @@
       ]
   },
   "x_goals": {
+    "match_seven": [
+                1.64,
+                0.81
+            ],
       "match_one": [
           0.66,
           1.1
@@ -79,6 +92,10 @@
       ]
   },
   "corners": {
+    "match_seven": [
+                4,
+                7
+            ],
       "match_one": [
           3,
           7
@@ -101,6 +118,10 @@
       ]
   },
   "fouls": {
+    "match_seven": [
+                10,
+                12
+            ],
       "match_one": [
           17,
           6
@@ -123,6 +144,10 @@
       ]
   },
   "HT_cards": {
+    "match_seven": [
+                0,
+                1
+            ],
       "match_one": [
           0,
           0
@@ -145,6 +170,10 @@
       ]
   },
   "FT_cards": {
+    "match_seven": [
+                3,
+                4
+            ],
       "match_one": [
           4,
           2

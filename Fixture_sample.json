@@ -1,63 +1,147 @@
-{
-    "fixture": "B. Monchengladbach vs Stuttgart",
-    "stadium": "Borussia-Park",
-    "weather": "Partly cloudy",
-    "pitch_condition": "Good",
+[
+  {
+      "fixture": "Heidenheim vs Hoffenheim",
+      "league": "🇩🇪 Bundesliga",
+      "day": "saturday",
+      "position": [3,7],
+      "type_of_match": "Regular",
+      "referee": {
+      "name": "*n/a",
+      "fouls_per_tackle": 0,
+      "yellow_per_game": 0
+      },
+      "head_to_head": {},
+      "home_team": {},
+      "away_team": {},
+      "prediction": {
+          "cards": {
+              "discuss": "Working on it. BRB!",
+              "ht": "",
+              "ft": ""
+          },
+          "corners": {
+              "discuss": "Working on it. BRB!",
+              "full_time_total_corners": "",
+              "win_corners": ""
+          },
+          "goals": {
+              "discuss": "Working on it. BRB!",
+              "Both_teams_to_score": "",
+              "fulltime_total_goals": ""
+          },
+          "win_draw": {
+              "discuss": "Working on it. BRB!",
+              "win_or_draw": ""
+          }
+    }
+  },
+  {
+    "fixture": "Heidenheim vs Hoffenheim",
+    "league":"🇪🇸 La Liga",
+    "day": "saturday",
+    "position": [8,13],
     "type_of_match": "Regular",
     "referee": {
       "name": "*n/a",
       "fouls_per_tackle": 0,
       "yellow_per_game": 0
     },
-    "head_to_head": {
-      "teams": {
-        "match_one": ["Stuttgart", "B. Monchengladbach"],
-        "match_two": ["B. Monchengladbach", "Stuttgart"],
-        "match_three": ["Stuttgart", "B. Monchengladbach"],
-        "match_four": ["B. Monchengladbach", "Stuttgart"],
-        "match_five": ["Stuttgart", "B. Monchengladbach"]
-      },
-      "goals": {
-        "match_one": [4, 0],
-        "match_two": [3, 1],
-        "match_three": [2, 1],
-        "match_four": [3, 1],
-        "match_five": [3, 2]
-      },
-      "x_goals": {
-        "match_one": [1.84, 1.45],
-        "match_two": [2.11, 0.81],
-        "match_three": [2.51, 1.29],
-        "match_four": [2.51, 1.29],
-        "match_five": [2.51, 1.29]
+    "head_to_head": {},
+    "home_team": {},
+    "away_team": {},
+    "prediction": {
+        "cards": {
+            "discuss": "Working on it. BRB!",
+            "ht": "",
+            "ft": ""
+        },
+        "corners": {
+            "discuss": "Working on it. BRB!",
+            "full_time_total_corners": "",
+            "win_corners": ""
+        },
+        "goals": {
+            "discuss": "Working on it. BRB!",
+            "Both_teams_to_score": "",
+            "fulltime_total_goals": ""
+        },
+        "win_draw": {
+            "discuss": "Working on it. BRB!",
+            "win_or_draw": ""
+        }
+  }
+},
+{
+  "fixture": "Heidenheim vs Hoffenheim",
+  "league": "🇬🇧 Premier League",
+  "day": "saturday",
+  "position": [4,8],
+  "type_of_match": "Regular",
+  "referee": {
+    "name": "*n/a",
+    "fouls_per_tackle": 0,
+    "yellow_per_game": 0
+  },
+  "head_to_head": {},
+  "home_team": {},
+  "away_team": {},
+  "prediction": {
+      "cards": {
+          "discuss": "Working on it. BRB!",
+          "ht": "",
+          "ft": ""
       },
       "corners": {
-        "match_one": [8, 4],
-        "match_two": [0, 3],
-        "match_three": [5, 8],
-        "match_four": [3, 5],
-        "match_five": [5, 2]
+          "discuss": "Working on it. BRB!",
+          "full_time_total_corners": "",
+          "win_corners": ""
       },
-      "fouls": {
-        "match_one": [4, 9],
-        "match_two": [7, 11],
-        "match_three": [11, 14],
-        "match_four": [13, 16],
-        "match_five": [7, 10]
+      "goals": {
+          "discuss": "Working on it. BRB!",
+          "Both_teams_to_score": "",
+          "fulltime_total_goals": ""
       },
-      "HT_cards": {
-        "match_one": [0, 0],
-        "match_two": [1, 1],
-        "match_three": [0, 1],
-        "match_four": [1, 0],
-        "match_five": [0, 1]
-      },
-      "FT_cards": {
-        "match_one": [1, 2],
-        "match_two": [3, 3],
-        "match_three": [2, 3],
-        "match_four": [2, 1],
-        "match_five": [1, 2]
+      "win_draw": {
+          "discuss": "Working on it. BRB!",
+          "win_or_draw": ""
       }
-    }
 }
+},
+{
+  "fixture": "Heidenheim vs Hoffenheim",
+  "league":"🇮🇹 Serie A",
+  "day": "sunday",
+  "position": [18,13],
+  "type_of_match": "Regular",
+  "referee": {
+    "name": "*n/a",
+    "fouls_per_tackle": 0,
+    "yellow_per_game": 0
+  },
+  "head_to_head": {},
+  "home_team": {},
+  "away_team": {},
+  "prediction": {
+      "cards": {
+          "discuss": "Working on it. BRB!",
+          "ht": "",
+          "ft": ""
+      },
+      "corners": {
+          "discuss": "Working on it. BRB!",
+          "full_time_total_corners": "",
+          "win_corners": ""
+      },
+      "goals": {
+          "discuss": "Working on it. BRB!",
+          "Both_teams_to_score": "",
+          "fulltime_total_goals": ""
+      },
+      "win_draw": {
+          "discuss": "Working on it. BRB!",
+          "win_or_draw": ""
+      }
+}
+}
+
+]

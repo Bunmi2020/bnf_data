@@ -9,10 +9,14 @@
 "aggressive_players": ["Sergi Cardona","Álex Baena","Ilias Akhomach"],
 "provocative_players": ["Sergi Cardona","Álex Baena","Dani Parejo"],
 "unavailable_attacking_players": [],
-"win_form": ["L","W","D","L","L","D","D"],
-"corner_form": ["W","W","D","W","W","L","W"],
+"win_form": ["W","L","W","D","L","L","D"],
+"corner_form": ["W","W","W","D","W","W","L"],
 "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Villarreal",
+                "Mallorca"
+            ],
             "match_one": [
                 "Real Sociedad",
                 "Villarreal"
@@ -36,13 +40,13 @@
             "match_six": [
                 "Villarreal",
                 "Girona"
-            ],
-            "match_seven": [
-                "Osasuna",
-                "Villarreal"
             ]
         },
         "goals": {
+            "match_seven": [
+                4,
+                0
+            ],
             "match_one": [
                 1,
                 0
@@ -66,13 +70,13 @@
             "match_six": [
                 2,
                 2
-            ],
-            "match_seven": [
-                2,
-                2
             ]
         },
         "x_goals": {
+            "match_seven": [
+                2.27,
+                0.52
+            ],
             "match_one": [
                 0.66,
                 1.1
@@ -96,13 +100,13 @@
             "match_six": [
                 1.97,
                 0.65
-            ],
-            "match_seven": [
-                1.08,
-                2.43
             ]
         },
         "corners": {
+            "match_seven": [
+                6,
+                5
+            ],
             "match_one": [
                 3,
                 7
@@ -126,13 +130,13 @@
             "match_six": [
                 1,
                 5
-            ],
-            "match_seven": [
-                0,
-                8
             ]
         },
         "fouls": {
+            "match_seven": [
+                9,
+                12
+            ],
             "match_one": [
                 17,
                 6
@@ -156,13 +160,13 @@
             "match_six": [
                 8,
                 13
-            ],
-            "match_seven": [
-                12,
-                13
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                0,
+                2
+            ],
             "match_one": [
                 0,
                 0
@@ -186,13 +190,13 @@
             "match_six": [
                 1,
                 2
-            ],
-            "match_seven": [
-                1,
-                4
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                1,
+                3
+            ],
             "match_one": [
                 4,
                 2
@@ -216,10 +220,6 @@
             "match_six": [
                 2,
                 6
-            ],
-            "match_seven": [
-                6,
-                5
             ]
         }
     }

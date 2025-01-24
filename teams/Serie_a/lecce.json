@@ -9,10 +9,14 @@
    "aggressive_players": ["Lameck Banda"],
    "provocative_players": ["Nikola Krstovic","Lameck Banda","Patrick Dorgu"],
    "unavailable_attacking_players": [],
-   "win_form": ["W","D","L","L","W","L","D"],
-   "corner_form": ["L","W","D","D","L","L","L"],
+   "win_form": ["L","W","D","L","L","W","L"],
+   "corner_form": ["L","L","W","D","D","L","L"],
    "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Cagliari",
+                "Lecce"
+            ],
             "match_one": [
                 "Empoli",
                 "Lecce"
@@ -36,13 +40,13 @@
             "match_six": [
                 "AS Roma",
                 "Lecce"
-            ],
-            "match_seven": [
-                "Lecce",
-                "Juventus"
             ]
         },
         "goals": {
+            "match_seven": [
+                4,
+                1
+            ],
             "match_one": [
                 1,
                 3
@@ -66,13 +70,13 @@
             "match_six": [
                 4,
                 1
-            ],
-            "match_seven": [
-                1,
-                1
             ]
         },
         "x_goals": {
+            "match_seven": [
+                2.74,
+                0.5
+            ],
             "match_one": [
                 1.33,
                 1.08
@@ -96,13 +100,13 @@
             "match_six": [
                 1.92,
                 0.92
-            ],
-            "match_seven": [
-                1.55,
-                1.23
             ]
         },
         "corners": {
+            "match_seven": [
+                6,
+                1
+            ],
             "match_one": [
                 9,
                 2
@@ -126,13 +130,13 @@
             "match_six": [
                 8,
                 1
-            ],
-            "match_seven": [
-                2,
-                7
             ]
         },
         "fouls": {
+            "match_seven": [
+                11,
+                10
+            ],
             "match_one": [
                 11,
                 21
@@ -156,13 +160,13 @@
             "match_six": [
                 5,
                 14
-            ],
-            "match_seven": [
-                8,
-                9
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                0,
+                1
+            ],
             "match_one": [
                 0,
                 1
@@ -186,13 +190,13 @@
             "match_six": [
                 1,
                 0
-            ],
-            "match_seven": [
-                1,
-                1
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                3,
+                2
+            ],
             "match_one": [
                 0,
                 3
@@ -216,10 +220,6 @@
             "match_six": [
                 2,
                 3
-            ],
-            "match_seven": [
-                1,
-                4
             ]
         }
     }

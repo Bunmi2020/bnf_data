@@ -9,11 +9,15 @@
 "aggressive_players": ["Juanmi Latasa","Eduardo","Camavinga"],
 "provocative_players": ["Vinicius Jr.","Rodrygo", "Jude Bellingham","Eduardo Camavinga"],
 "unavailable_attacking_players": [],
-"win_form": ["W","W","D","W","W","L","W"],
-"corner_form": ["W","D","L","L","W","W","L"],
+"win_form": ["W","W","W","D","W","W","L"],
+"corner_form": ["W","W","D","L","L","W","W"],
 "recent_matches": {
 "teams": {
-  "match_one": [
+    "match_seven": [
+                "Real Madrid",
+                "Las Palmas"
+            ],
+        "match_one": [
                 "Valencia",
                 "Real Madrid"
             ],
@@ -30,11 +34,14 @@
                 "Real Madrid"
             ],
   "match_five": ["Real Madrid", "Osasuna"],
-  "match_six": ["Real Madrid","Barcelona"],
-  "match_seven": ["Celta Vigo", "Real Madrid"]
+  "match_six": ["Real Madrid","Barcelona"]
 },
 
 "goals": {
+    "match_seven": [
+                4,
+                1
+            ],
   "match_one": [
                 1,
                 2
@@ -52,10 +59,13 @@
                 3
             ],
   "match_five": [4,0],
-  "match_six": [0,4],
-  "match_seven": [1,2]
+  "match_six": [0,4]
 },
 "x_goals": {
+    "match_seven": [
+                5.81,
+                1.18
+            ],
   "match_one": [
                 1.31,
                 2.75
@@ -73,10 +83,13 @@
                 0.97
             ],
   "match_five": [2.91,0.05],
-  "match_six": [1.48,2.45],
-  "match_seven": [1.69,0.74]
+  "match_six": [1.48,2.45]
 },
 "corners": {
+    "match_seven": [
+                8,
+                2
+            ],
   "match_one": [
                 2,
                 5
@@ -94,10 +107,13 @@
                 3
             ],
   "match_five": [11,3],
-  "match_six": [10,3],
-  "match_seven": [6,2]
+  "match_six": [10,3]
 },
 "fouls": {
+    "match_seven": [
+                11,
+                13
+            ],
   "match_one": [
                 16,
                 9
@@ -115,10 +131,13 @@
                 7
             ],
   "match_five": [9,16],
-  "match_six": [15,17],
-  "match_seven": [16,13]
+  "match_six": [15,17]
 },
 "HT_cards": {
+    "match_seven": [
+                0,
+                1
+            ],
   "match_one": [
                 0,
                 1
@@ -136,10 +155,13 @@
                 1
             ],
   "match_five": [0,0],
-  "match_six": [0,1],
-  "match_seven": [0,0]
+  "match_six": [0,1]
 },
 "FT_cards": {
+    "match_seven": [
+                0,
+                2
+            ],
   "match_one": [
                 2,
                 4
@@ -157,8 +179,7 @@
                 2
             ],
   "match_five": [0,2],
-  "match_six": [2,5],
-  "match_seven": [2,1]
+  "match_six": [2,5]
 }
 }
               

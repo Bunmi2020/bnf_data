@@ -10,10 +10,14 @@
     "aggressive_players": ["Youssef Maleh"],
     "provocative_players": [],
     "unavailable_attacking_players": [],
-    "win_form": ["L","D","L","L","L","W","L"],
-    "corner_form": ["W","W","W","L","W","W","L"],
+    "win_form": ["L","L","D","L","L","L","W"],
+    "corner_form": ["L","W","W","W","L","W","W"],
     "recent_matches": {
       "teams": {
+        "match_seven": [
+                "Inter",
+                "Empoli"
+            ],
           "match_one": [
               "Empoli",
               "Lecce"
@@ -37,13 +41,13 @@
           "match_six": [
               "Verona",
               "Empoli"
-          ],
-          "match_seven": [
-              "AC Milan",
-              "Empoli"
           ]
       },
       "goals": {
+        "match_seven": [
+                3,
+                1
+            ],
           "match_one": [
               1,
               3
@@ -67,13 +71,13 @@
           "match_six": [
               1,
               4
-          ],
-          "match_seven": [
-              3,
-              0
           ]
       },
       "x_goals": {
+        "match_seven": [
+                1.58,
+                0.27
+            ],
           "match_one": [
               1.33,
               1.08
@@ -97,13 +101,13 @@
           "match_six": [
               0.74,
               1.28
-          ],
-          "match_seven": [
-              2.23,
-              0.62
           ]
       },
       "corners": {
+        "match_seven": [
+                7,
+                3
+            ],
           "match_one": [
               9,
               2
@@ -127,13 +131,13 @@
           "match_six": [
               5,
               8
-          ],
-          "match_seven": [
-              7,
-              3
           ]
       },
       "fouls": {
+        "match_seven": [
+            11,
+            9
+        ],
           "match_one": [
               11,
               21
@@ -157,13 +161,13 @@
           "match_six": [
               15,
               16
-          ],
-          "match_seven": [
-              12,
-              16
           ]
       },
       "HT_cards": {
+        "match_seven": [
+                0,
+                0
+            ],
           "match_one": [
               0,
               1
@@ -187,13 +191,13 @@
           "match_six": [
               2,
               0
-          ],
-          "match_seven": [
-              1,
-              1
           ]
       },
       "FT_cards": {
+        "match_seven": [
+                0,
+                0
+            ],
           "match_one": [
               0,
               3
@@ -215,10 +219,6 @@
               3
           ],
           "match_six": [
-              2,
-              2
-          ],
-          "match_seven": [
               2,
               2
           ]

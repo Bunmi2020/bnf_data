@@ -9,10 +9,14 @@
     "defensive_style": "Organized",
     "aggressive_players": ["Christian Norgaard", "Yoane Wissa"],
     "provocative_players": ["Bryan Mbeumo", "Yoane Wissa"],
-    "win_form": [["D","W","L","D","L","L","W"]],
-    "corner_form": [["L","D","W","L","W","L","L"]],
+    "win_form": ["L","D","W","L","D","L","L"],
+    "corner_form": ["L","L","D","W","L","W","L"],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "Brentford",
+                "Liverpool"
+            ],
             "match_seven": [
                 "Brentford",
                 "Manchester City"
@@ -36,13 +40,13 @@
             "match_five": [
                 "Chelsea",
                 "Brentford"
-            ],
-            "match_six": [
-                "Brentford",
-                "Newcastle"
             ]
         },
         "goals": {
+            "match_six": [
+                0,
+                2
+            ],
             "match_seven": [
                 2,
                 2
@@ -66,13 +70,13 @@
             "match_five": [
                 2,
                 1
-            ],
-            "match_six": [
-                4,
-                2
             ]
         },
         "x_goals": {
+            "match_six": [
+                0.72,
+                3.4
+            ],
             "match_seven": [
                 2.47,
                 2.10
@@ -96,13 +100,13 @@
             "match_five": [
                 2.13,
                 1.61
-            ],
-            "match_six": [
-                1.07,
-                1.2
             ]
         },
         "corners": {
+            "match_six": [
+                2,
+                15
+            ],
             "match_seven": [
                 4,
                 5
@@ -126,13 +130,13 @@
             "match_five": [
                 8,
                 5
-            ],
-            "match_six": [
-                3,
-                4
             ]
         },
         "fouls": {
+            "match_six": [
+                6,
+                14
+            ],
             "match_seven": [
                 4,
                 4
@@ -156,13 +160,13 @@
             "match_five": [
                 11,
                 7
-            ],
-            "match_six": [
-                10,
-                7
             ]
         },
         "HT_cards": {
+            "match_six": [
+                0,
+                2
+            ],
             "match_seven": [
                 0,
                 0
@@ -186,13 +190,13 @@
             "match_five": [
                 0,
                 0
-            ],
-            "match_six": [
-                1,
-                0
             ]
         },
         "FT_cards": {
+            "match_six": [
+                2,
+                3
+            ],
             "match_seven": [
                 0,
                 0
@@ -216,10 +220,6 @@
             "match_five": [
                 3,
                 2
-            ],
-            "match_six": [
-                3,
-                0
             ]
         }
     }
