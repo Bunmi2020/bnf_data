@@ -7,12 +7,18 @@
     "pressing_style": "Non-aggressive",
     "attacking_style": "Attacking down the right; Frequent through ball attempts",
     "defensive_style": "Structured",
-    "aggressive_players": ["Bukayo Saka", "Kai Havertz"],
-    "provocative_players": ["Bukayo Saka", "Kai Havertz"],
-    "win_form": ["D","W","D","W","W","W","D"],
-    "corner_form": ["W","W","W","L","W","D","W"],
+    "goal_scored_pg": 1.91,
+    "goals_concede_pg": 0.91,
+    "aggressive_players": [ "Kai Havertz"],
+    "provocative_players": ["Bukayo Saka"],
+    "win_form": ["W","D","W","D","W","W","W"],
+    "corner_form": ["W","W","W","W","L","W","D"],
     "recent_matches": {
         "teams": {
+            "match_five": [
+                "Wolves",
+                "Arsenal"
+            ],
             "match_six": [
                 "Arsenal",
                 "Aston Villa"
@@ -36,13 +42,13 @@
             "match_four": [
                 "Crystal Palace",
                 "Arsenal"
-            ],
-            "match_five": [
-                "Arsenal",
-                "Everton"
             ]
         },
         "goals": {
+            "match_five": [
+                0,
+                1
+            ],
             "match_six": [
                 2,
                 2
@@ -66,13 +72,13 @@
             "match_four": [
                 1,
                 5
-            ],
-            "match_five": [
-                0,
-                0
             ]
         },
         "x_goals": {
+            "match_five": [
+                0.58,
+                0.99
+            ],
             "match_six": [
                 1.55,
                 1.06
@@ -96,13 +102,13 @@
             "match_four": [
                 1.72,
                 2.88
-            ],
-            "match_five": [
-                1.42,
-                0.17
             ]
         },
         "corners": {
+            "match_five": [
+                1,
+                5
+            ],
             "match_six": [
                 10,
                 1
@@ -126,13 +132,13 @@
             "match_four": [
                 3,
                 3
-            ],
-            "match_five": [
-                8,
-                2
             ]
         },
         "fouls": {
+            "match_five": [
+                20,
+                10
+            ],
             "match_six": [
                 10,
                 18
@@ -156,13 +162,13 @@
             "match_four": [
                 9,
                 8
-            ],
-            "match_five": [
-                6,
-                9
             ]
         },
         "HT_cards": {
+            "match_five": [
+                1,
+                2
+            ],
             "match_six": [
                 0,
                 1
@@ -186,13 +192,13 @@
             "match_four": [
                 0,
                 2
-            ],
-            "match_five": [
-                0,
-                0
             ]
         },
         "FT_cards": {
+            "match_five": [
+                3,
+                2
+            ],
             "match_six": [
                 2,
                 3
@@ -216,10 +222,6 @@
             "match_four": [
                 2,
                 2
-            ],
-            "match_five": [
-                0,
-                3
             ]
         }
     }

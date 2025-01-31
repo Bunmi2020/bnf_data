@@ -6,13 +6,19 @@
     "pressing_style": "Non-aggressive",
     "attacking_style": "Attack through the middle; Attacking down the right",
     "defensive_style": " ",
-    "aggressive_players": ["Yangel Herrera"],
-    "provocative_players": ["Yangel Herrera","Viktor Tsyhankov"],
+    "goal_scored_pg": 0.51,
+    "goals_concede_pg": 1.38,
+    "aggressive_players": ["Yangel Herrera","Oriol Romeu"],
+    "provocative_players": ["Yangel Herrera","Bryan Gil"],
     "unavailable_attacking_players": [],
-    "win_form": ["L","W","W","L","L","D","W"],
-    "corner_form": ["W","L","W","W","W","W","W"],
+    "win_form": ["L","L","W","W","L","L","D"],
+    "corner_form": ["L","W","L","W","W","W","W"],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "Rayo Vallecano",
+                "Girona"
+            ],
             "match_seven": [
                 "Girona",
                 "Sevilla"
@@ -36,13 +42,13 @@
             "match_five": [
                 "Villarreal",
                 "Girona"
-            ],
-            "match_six": [
-                "Girona",
-                "Espanyol"
             ]
         },
         "goals": {
+            "match_six": [
+                2,
+                1
+            ],
             "match_seven": [
                 1,
                 2
@@ -66,13 +72,13 @@
             "match_five": [
                 2,
                 2
-            ],
-            "match_six": [
-                4,
-                1
             ]
         },
         "x_goals": {
+            "match_six": [
+                2.41,
+                1.37
+            ],
             "match_seven": [
                 1.23,
                 2.91
@@ -96,13 +102,13 @@
             "match_five": [
                 1.97,
                 0.65
-            ],
-            "match_six": [
-                3.36,
-                0.42
             ]
         },
         "corners": {
+            "match_six": [
+                4,
+                1
+            ],
             "match_seven": [
                 7,
                 4
@@ -126,13 +132,13 @@
             "match_five": [
                 1,
                 5
-            ],
-            "match_six": [
-                6,
-                3
             ]
         },
         "fouls": {
+            "match_six": [
+                19,
+                9
+            ],
             "match_seven": [
                 6,
                 15
@@ -156,13 +162,13 @@
             "match_five": [
                 8,
                 13
-            ],
-            "match_six": [
-                4,
-                19
             ]
         },
         "HT_cards": {
+            "match_six": [
+                1,
+                0
+            ],
             "match_seven": [
                 0,
                 0
@@ -186,13 +192,13 @@
             "match_five": [
                 1,
                 2
-            ],
-            "match_six": [
-                0,
-                1
             ]
         },
         "FT_cards": {
+            "match_six": [
+                3,
+                1
+            ],
             "match_seven": [
                 0,
                 4
@@ -216,10 +222,6 @@
             "match_five": [
                 2,
                 6
-            ],
-            "match_six": [
-                0,
-                3
             ]
         }
     }

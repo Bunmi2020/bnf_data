@@ -6,12 +6,18 @@
     "pressing_style": " ",
     "attacking_style": "Attack through the middle",
     "defensive_style": " ",
-    "aggressive_players": [" "],
+    "goal_scored_pg": 3.05,
+    "goals_concede_pg": 0.84,
+    "aggressive_players": [ ],
     "provocative_players": ["Jamal Musiala"],
-    "win_form": ["W","W","W","W","L","W","D"],
-    "corner_form": ["W","w","W","W","L","W","W"],
+    "win_form": ["W","W","W","W","W","L","W"],
+    "corner_form": ["W","W","w","W","W","L","W"],
     "recent_matches": {
         "teams": {
+            "match_five": [
+                "Freiburg",
+                "Bayern Munich"
+            ],
             "match_six": [
                 "Bayern Munich",
                 "Wolfsburg"
@@ -35,13 +41,13 @@
             "match_four": [
                 "Bayern Munich",
                 "Heidenheim"
-            ],
-            "match_five": [
-                "Dortmund",
-                "Bayern Munich"
             ]
         },
         "goals": {
+            "match_five": [
+                1,
+                2
+            ],
             "match_six": [
                 3,
                 2
@@ -65,13 +71,13 @@
             "match_four": [
                 4,
                 2
-            ],
-            "match_five": [
-                1,
-                1
             ]
         },
         "x_goals": {
+            "match_five": [
+                0.35,
+                0.54
+            ],
             "match_six": [
                 2.87,
                 0.59
@@ -95,13 +101,13 @@
             "match_four": [
                 2.36,
                 1.29
-            ],
-            "match_five": [
-                0.47,
-                1.46
             ]
         },
         "corners": {
+            "match_five": [
+                2,
+                4
+            ],
             "match_six": [
                 6,
                 2
@@ -125,13 +131,13 @@
             "match_four": [
                 8,
                 0
-            ],
-            "match_five": [
-                2,
-                3
             ]
         },
         "fouls": {
+            "match_five": [
+                15,
+                9
+            ],
             "match_six": [
                 10,
                 9
@@ -155,13 +161,13 @@
             "match_four": [
                 4,
                 5
-            ],
-            "match_five": [
-                11,
-                7
             ]
         },
         "HT_cards": {
+            "match_five": [
+                0,
+                0
+            ],
             "match_six": [
                 0,
                 1
@@ -185,13 +191,13 @@
             "match_four": [
                 0,
                 0
-            ],
-            "match_five": [
-                0,
-                0
             ]
         },
         "FT_cards": {
+            "match_five": [
+                4,
+                2
+            ],
             "match_six": [
                 2,
                 3
@@ -215,10 +221,6 @@
             "match_four": [
                 1,
                 0
-            ],
-            "match_five": [
-                2,
-                2
             ]
         }
     }

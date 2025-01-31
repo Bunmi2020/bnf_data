@@ -6,12 +6,19 @@
     "pressing_style": " ",
     "attacking_style": "High crossing frequency, Frequent through ball attempts, Take long shots",
     "defensive_style": " ",
-    "aggressive_players": [" "],
+
+    "goal_scored_pg": 1.32,
+    "goals_concede_pg": 2.05,
+    "aggressive_players": [ ],
     "provocative_players": ["Jan-Niklas Beste"],
-    "win_form": ["W","L","L","L","D","D","L"],
-    "corner_form": ["L","L","L","W","W","W","L"],
+    "win_form": ["D","W","L","L","L","D","D"],
+    "corner_form": ["W","L","L","L","W","W","W"],
     "recent_matches": {
         "teams": {
+            "match_five": [
+                "Hoffenheim",
+                "Eintracht Frankfurt"
+            ],
             "match_six": [
                 "Holstein Kiel",
                 "Hoffenheim"
@@ -35,13 +42,13 @@
             "match_four": [
                 "Hoffenheim",
                 "Freiburg"
-            ],
-            "match_five": [
-                "Mainz",
-                "Hoffenheim"
             ]
         },
         "goals": {
+            "match_five": [
+                2,
+                2
+            ],
             "match_six": [
                 1,
                 3
@@ -59,13 +66,13 @@
                 1,
                 1
             ],
-            "match_four": [1,1],
-            "match_five": [
-                2,
-                0
-            ]
+            "match_four": [1,1]
         },
         "x_goals": {
+            "match_five": [
+                2.12,
+                2.44
+            ],
             "match_six": [
                 1.11,
                 0.85
@@ -89,13 +96,13 @@
             "match_four": [
                 1.28,
                 1.23
-            ],
-            "match_five": [
-                2.44,
-                0.59
             ]
         },
         "corners": {
+            "match_five": [
+                9,
+                3
+            ],
             "match_six": [
                 4,
                 3
@@ -119,13 +126,13 @@
             "match_four": [
                 6,
                 1
-            ],
-            "match_five": [
-                8,
-                3
             ]
         },
         "fouls": {
+            "match_five": [
+                16,
+                8
+            ],
             "match_six": [
                 13,
                 14
@@ -149,13 +156,13 @@
             "match_four": [
                 10,
                 5
-            ],
-            "match_five": [
-                13,
-                12
             ]
         },
         "HT_cards": {
+            "match_five": [
+                0,
+                0
+            ],
             "match_six": [
                 0,
                 1
@@ -179,13 +186,13 @@
             "match_four": [
                 0,
                 1
-            ],
-            "match_five": [
-                1,
-                2
             ]
         },
         "FT_cards": {
+            "match_five": [
+                3,
+                0
+            ],
             "match_six": [
                 2,
                 1
@@ -206,10 +213,6 @@
             "match_four": [
                 1,
                 1
-            ],
-            "match_five": [
-                1,
-                3
             ]
         }
     }

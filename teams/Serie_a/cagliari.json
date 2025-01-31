@@ -1,19 +1,25 @@
 {
             
     "name": "Cagliari",
-"coach": "Davide Nicola",
-"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/cagliari.png",
-"playing_style": "Wide play; Long balls",
-"pressing_style": " ",
-"attacking_style": "High crossing frequency; Frequent through ball attempts; Attacking down the right; High shot volume",
-"defensive_style": "High Line; Use offside positioning",
-"aggressive_players": [],
-"provocative_players": ["Zito Luvumbo"],
-"unavailable_attacking_players": [],
-"win_form": ["W","D","W","L","L","L","L"],
-"corner_form": ["W","L","W","L","W","L","L"],
-"recent_matches": {
+    "coach": "Davide Nicola",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/cagliari.png",
+    "playing_style": "Wide play; Long balls",
+    "pressing_style": " ",
+    "attacking_style": "High crossing frequency; Frequent through ball attempts; Attacking down the right; High shot volume",
+    "defensive_style": "High Line; Use offside positioning",
+    "goal_scored_pg": 1.05,
+    "goals_concede_pg": 1.63,
+    "aggressive_players": ["Zito Luvumbo", "Roberto Piccoli"],
+    "provocative_players": ["Zito Luvumbo", "Roberto Piccoli", "Yerry Mina", "Nicolas Viola"],
+    "unavailable_attacking_players": [],
+    "win_form": ["L","W","D","W","L","L","L"],
+    "corner_form": ["L","W","L","W","L","W","L"],
+    "recent_matches": {
         "teams": {
+            "match_six": [
+                "Torino",
+                "Cagliari"
+            ],
             "match_seven": [
                 "Cagliari",
                 "Lecce"
@@ -37,13 +43,13 @@
             "match_five": [
                 "Cagliari",
                 "Atalanta"
-            ],
-            "match_six": [
-                "Fiorentina",
-                "Cagliari"
             ]
         },
         "goals": {
+            "match_six": [
+                2,
+                0
+            ],
             "match_seven": [
                 4,
                 1
@@ -67,13 +73,13 @@
             "match_five": [
                 0,
                 1
-            ],
-            "match_six": [
-                1,
-                0
             ]
         },
         "x_goals": {
+            "match_six": [
+                1.84,
+                0.36
+            ],
             "match_seven": [
                 2.74,
                 0.5
@@ -97,13 +103,13 @@
             "match_five": [
                 1.1,
                 1.67
-            ],
-            "match_six": [
-                0.29,
-                0.81
             ]
         },
         "corners": {
+            "match_six": [
+                6,
+                3
+            ],
             "match_seven": [
                 6,
                 1
@@ -127,13 +133,13 @@
             "match_five": [
                 2,
                 5
-            ],
-            "match_six": [
-                6,
-                4
             ]
         },
         "fouls": {
+            "match_six": [
+                11,
+                10
+            ],
             "match_seven": [
                 11,
                 10
@@ -157,13 +163,13 @@
             "match_five": [
                 16,
                 10
-            ],
-            "match_six": [
-                9,
-                20
             ]
         },
         "HT_cards": {
+            "match_six": [
+                0,
+                0
+            ],
             "match_seven": [
                 0,
                 1
@@ -187,13 +193,13 @@
             "match_five": [
                 1,
                 0
-            ],
-            "match_six": [
-                1,
-                1
             ]
         },
         "FT_cards": {
+            "match_six": [
+                0,
+                1
+            ],
             "match_seven": [
                 3,
                 2
@@ -214,10 +220,6 @@
             "match_five": [
                 3,
                 3
-            ],
-            "match_six": [
-                3,
-                2
             ]
         }
     }

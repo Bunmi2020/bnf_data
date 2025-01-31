@@ -7,12 +7,18 @@
     "pressing_style": "Aggressive",
     "attacking_style": "Attacking down the right; Draws fouls; ",
     "defensive_style": "High Line; Use offside positioning",
-    "aggressive_players": ["Destiny Udogie","Dejan Kulusevski"],
-    "provocative_players": ["James Maddison","Heung-min Son"],
-    "win_form": ["L","L","L","D","L","L","W"],
-    "corner_form": ["W","L","L","D","W","W","W"],
+    "goal_scored_pg": 2,
+    "goals_concede_pg": 1.61,
+    "aggressive_players": ["Solanke", "Rodrigo Bentancur","Dejan Kulusevski"],
+    "provocative_players": ["James Maddison","Destiny Udogie","Solanke"],
+    "win_form": ["L","L","L","L","D","L","L"],
+    "corner_form": ["W","W","L","L","D","W","W"],
     "recent_matches": {
-        "teams": {   
+        "teams": {  
+            "match_five": [
+                "Tottenham",
+                "Leicester"
+            ], 
             "match_six": [
                 "Everton",
                 "Tottenham"
@@ -36,13 +42,13 @@
             "match_four": [
                 "Tottenham",
                 "Liverpool"
-            ],
-            "match_five": [
-                "Southampton",
-                "Tottenham"
             ]
         },
         "goals": {
+            "match_five": [
+                1,
+                2
+            ],
             "match_six": [
                 3,
                 2
@@ -66,13 +72,13 @@
             "match_four": [
                 3,
                 6
-            ],
-            "match_five": [
-                0,
-                5
             ]
         },
         "x_goals": {
+            "match_five": [
+                1.1,
+                1.5
+            ],
             "match_six": [
                 2.03,
                 1.11
@@ -96,13 +102,13 @@
             "match_four": [
                 1.25,
                 4.6
-            ],
-            "match_five": [
-                0.68,
-                2.62
             ]
         },
         "corners": {
+            "match_five": [
+                6,
+                4
+            ],
             "match_six": [
                 3,
                 8
@@ -126,13 +132,13 @@
             "match_four": [
                 7,
                 5
-            ],
-            "match_five": [
-                2,
-                5
             ]
         },
         "fouls": {
+            "match_five": [
+                6,
+                16
+            ],
             "match_six": [
                 14,
                 14
@@ -156,13 +162,13 @@
             "match_four": [
                 7,
                 9
-            ],
-            "match_five": [
-                8,
-                15
             ]
         },
         "HT_cards": {
+            "match_five": [
+                0,
+                0
+            ],
             "match_six": [
                 1,
                 1
@@ -186,13 +192,13 @@
             "match_four": [
                 0,
                 1
-            ],
-            "match_five": [
-                1,
-                1
             ]
         },
         "FT_cards": {
+            "match_five": [
+                1,
+                5
+            ],
             "match_six": [
                 2,
                 1
@@ -216,10 +222,6 @@
             "match_four": [
                 1,
                 2
-            ],
-            "match_five": [
-                1,
-                3
             ]
         }
     }

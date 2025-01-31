@@ -6,42 +6,48 @@
     "pressing_style": " ",
     "attacking_style": "Attack through the middle, High shot volume",
     "defensive_style": "High Line; Use offside positioning, Non-aggressive",
-    "aggressive_players": [" "],
+    "goal_scored_pg": 2.42,
+    "goals_concede_pg": 0.77,
+    "aggressive_players": [ ],
     "provocative_players": ["Exequiel Palacios"],
-    "win_form": ["W","W","W","W","W","W","W"],
-    "corner_form": ["W","W","L","L","W","W","W"],
+    "win_form": ["D","W","W","W","W","W","W"],
+    "corner_form": ["L","W","W","L","L","W","W"],
     "recent_matches": {
         "teams": {
+            "match_five": [
+                "RB Leipzig",
+                "B. Leverkusen"
+            ],
             "match_six": [
-                "Bayer Leverkusen",
+                "B. Leverkusen",
                 "B. Monchengladbach"
             ],
             "match_seven": [
-                "Bayer Leverkusen",
+                "B. Leverkusen",
                 "Mainz"
             ],
             "match_one": [
                 "Dortmund",
-                "Bayer Leverkusen"
+                "B. Leverkusen"
             ],
             "match_two": [
-                "Bayer Leverkusen",
+                "B. Leverkusen",
                 "Freiburg"
             ],
             "match_three": [
                 "Augsburg",
-                "Bayer Leverkusen"
+                "B. Leverkusen"
             ],
             "match_four": [
-                "Bayer Leverkusen",
+                "B. Leverkusen",
                 "St. Pauli"
-            ],
-            "match_five": [
-                "Union Berlin",
-                "Bayer Leverkusen"
             ]
         },
         "goals": {
+            "match_five": [
+                2,
+                2
+            ],
             "match_six": [
                 3,
                 1
@@ -65,13 +71,13 @@
             "match_four": [
                 2,
                 1
-            ],
-            "match_five": [
-                1,
-                2
             ]
         },
         "x_goals": {
+            "match_five": [
+                0.7,
+                2.41
+            ],
             "match_six": [
                 2.14,
                 0.63
@@ -95,13 +101,13 @@
             "match_four": [
                 0.92,
                 1.42
-            ],
-            "match_five": [
-                0.62,
-                0.94
             ]
         },
         "corners": {
+            "match_five": [
+                7,
+                3
+            ],
             "match_six": [
                 7,
                 6
@@ -125,13 +131,13 @@
             "match_four": [
                 7,
                 4
-            ],
-            "match_five": [
-                1,
-                3
             ]
         },
         "fouls": {
+            "match_five": [
+                12,
+                6
+            ],
             "match_six": [
                 12,
                 10
@@ -155,14 +161,13 @@
             "match_four": [
                 8,
                 10
-            ],
-            "match_five": [
-                18,
-                11
             ]
         },
         "HT_cards": {
-            
+            "match_five": [
+                0,
+                2
+            ],
             "match_six": [
                     0,
                     0
@@ -186,13 +191,13 @@
             "match_four": [
                 1,
                 1
-            ],
-            "match_five": [
-                1,
-                1
             ]
         },
         "FT_cards": {
+            "match_five": [
+                2,
+                2
+            ],
             "match_six": [
                 0,
                 2
@@ -216,10 +221,6 @@
             "match_four": [
                 1,
                 3
-            ],
-            "match_five": [
-                4,
-                2
             ]
         }
     }

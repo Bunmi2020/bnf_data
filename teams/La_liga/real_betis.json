@@ -7,13 +7,19 @@
     "pressing_style": "Non-aggressive",
     "attacking_style": "Attacking down the left",
     "defensive_style": "High Line; Use offside positioning",
-    "aggressive_players": ["Marc Roca"],
-    "provocative_players": ["Nabil Fekir","Isco","Ayoze Pérez"],
+    "goal_scored_pg": 1.1,
+    "goals_concede_pg": 1.23,
+    "aggressive_players": ["Vitor Roque", "Marc Roca", "Johnny Cardoso"],
+    "provocative_players": ["Lo Celso", "Vitor Roque", "Romain Perraud", "Abde Ezzalzouli"],
     "unavailable_attacking_players": ["Isco"],
-    "win_form": ["L","L","D","W","D","L"],
-    "corner_form": ["L","W","D","D","W","W"],
+    "win_form": ["W","L","L","D","W","D","L"],
+    "corner_form": ["D","L","W","D","D","W","W"],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "Mallorca",
+                "Betis"
+            ],
             "match_seven": [
                 "Betis",
                 "Alaves"
@@ -40,6 +46,10 @@
             ]
         },
         "goals": {
+            "match_six": [
+                0,
+                1
+            ],
             "match_seven": [
                 1,
                 3
@@ -66,6 +76,10 @@
             ]
         },
         "x_goals": {
+            "match_six": [
+                0.93,
+                0.46
+            ],
             "match_seven": [
                 0.48,
                 1.41
@@ -92,6 +106,10 @@
             ]
         },
         "corners": {
+            "match_six": [
+                4,
+                4
+            ],
             "match_seven": [
                 2,
                 3
@@ -118,6 +136,10 @@
             ]
         },
         "fouls": {
+            "match_six": [
+                12,
+                18
+            ],
             "match_seven": [
                 12,
                 24
@@ -144,6 +166,10 @@
             ]
         },
         "HT_cards": {
+            "match_six": [
+                0,
+                1
+            ],
             "match_seven": [
                 2,
                 1
@@ -170,6 +196,10 @@
             ]
         },
         "FT_cards": {
+            "match_six": [
+                3,
+                2
+            ],
             "match_seven": [
                 5,
                 5

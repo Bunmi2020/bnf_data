@@ -6,12 +6,18 @@
     "pressing_style": " ",
     "attacking_style": "Attack through the middle, Attacking down the right",
     "defensive_style": "Deep positioning",
+    "goal_scored_pg": 1.74,
+    "goals_concede_pg": 1.21,
     "aggressive_players": ["Leandro Barreiro","Dominik Kohr","Phillipp Mwene","Karim Onisiwo"],
     "provocative_players": ["Karim Onisiwo","Jonathan Burkardt","Brajan Gruda","Leandro Barreiro"],
-    "win_form": ["L","L","W","W","W","L","W"],
-    "corner_form": ["D","L","L","L","W","W","W"],
+    "win_form": ["W","L","L","W","W","W","L"],
+    "corner_form": ["W","D","L","L","L","W","W"],
     "recent_matches": {
         "teams": {
+            "match_five": [
+                "Mainz",
+                "Stuttgart"
+            ],
             "match_six": [
                 "Union Berlin",
                 "Mainz"
@@ -35,13 +41,13 @@
             "match_four": [
                 "Wolfsburg",
                 "Mainz"
-            ],
-            "match_five": [
-                "Mainz",
-                "Hoffenheim"
             ]
         },
         "goals": {
+            "match_five": [
+                2,
+                0
+            ],
             "match_six": [
                 2,
                 1
@@ -62,13 +68,13 @@
             "match_four": [
                 4,
                 3
-            ],
-            "match_five": [
-                2,
-                0
             ]
         },
         "x_goals": {
+            "match_five": [
+                1.89,
+                1.08
+            ],
             "match_six": [
                 2.08,
                 1.69
@@ -92,13 +98,13 @@
             "match_four": [
                 1.23,
                 2.34
-            ],
-            "match_five": [
-                2.44,
-                0.59
             ]
         },
         "corners": {
+            "match_five": [
+                9,
+                2
+            ],
             "match_six": [
                 2,
                 2
@@ -122,13 +128,13 @@
             "match_four": [
                 3,
                 5
-            ],
-            "match_five": [
-                8,
-                3
             ]
         },
         "fouls": {
+            "match_five": [
+                12,
+                8
+            ],
             "match_six": [
                 12,
                 10
@@ -152,13 +158,13 @@
             "match_four": [
                 10,
                 15
-            ],
-            "match_five": [
-                13,
-                12
             ]
         },
         "HT_cards": {
+            "match_five": [
+                4,
+                0
+            ],
             "match_six": [
                 0,
                 0
@@ -182,13 +188,13 @@
             "match_four": [
                 2,
                 2
-            ],
-            "match_five": [
-                1,
-                2
             ]
         },
         "FT_cards": {
+            "match_five": [
+                4,
+                3
+            ],
             "match_six": [
                 0,
                 0
@@ -212,10 +218,6 @@
             "match_four": [
                 3,
                 4
-            ],
-            "match_five": [
-                1,
-                3
             ]
         }
     }

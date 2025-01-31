@@ -7,12 +7,18 @@
     "pressing_style": " ",
     "attacking_style": "Attacking down the right; Attacking down the left",
     "defensive_style": " ",
-    "aggressive_players": ["Lewis Ferguson","Remo Freuler"],
-    "provocative_players": ["Thijs Dallinga","Lewis Ferguson","Nicolò Cambiaghi","Dan Ndoye","Juan Miranda"],
-    "win_form": ["W","D","L","W","W","D","W"],
-    "corner_form": ["W","D","W","L","L","W","W"],
+    "goal_scored_pg": 1.5,
+    "goals_concede_pg": 1.22,
+    "aggressive_players": ["Lewis Ferguson","Jens Odgaard","Castro","Tommaso"],
+    "provocative_players": ["Dan Ndoye","Dominguez","Castro","Emil Holm","Riccardo Orsolini"],
+    "win_form": ["D","W","D","L","W","W","D"],
+    "corner_form": ["W","W","D","W","L","L","W"],
    "recent_matches": {
         "teams": {
+            "match_five": [
+                "Empoli",
+                "Bologna"
+            ],
             "match_seven": [
                 "Bologna",
                 "Monza"
@@ -36,13 +42,13 @@
             "match_four": [
                 "Juventus",
                 "Bologna"
-            ],
-            "match_five": [
-                "Bologna",
-                "Venezia"
             ]
         },
         "goals": {
+            "match_five": [
+                1,
+                1
+            ],
             "match_seven": [
                 3,
                 1
@@ -66,13 +72,13 @@
             "match_four": [
                 2,
                 2
-            ],
-            "match_five": [
-                3,
-                0
             ]
         },
         "x_goals": {
+            "match_five": [
+                0.69,
+                0.75
+            ],
             "match_seven": [
                 1.9,
                 0.6
@@ -96,13 +102,13 @@
             "match_four": [
                 0.91,
                 0.88
-            ],
-            "match_five": [
-                2.93,
-                0.42
             ]
         },
         "corners": {
+            "match_five": [
+                2,
+                4
+            ],
             "match_seven": [
                 4,
                 0
@@ -126,13 +132,13 @@
             "match_four": [
                 1,
                 4
-            ],
-            "match_five": [
-                1,
-                0
             ]
         },
         "fouls": {
+            "match_five": [
+                25,
+                13
+            ],
             "match_seven": [
                 16,
                 18
@@ -156,13 +162,13 @@
             "match_four": [
                 18,
                 14
-            ],
-            "match_five": [
-                14,
-                15
             ]
         },
         "HT_cards": {
+            "match_five": [
+                2,
+                0
+            ],
             "match_seven": [
                 1,
                 2
@@ -186,13 +192,13 @@
             "match_four": [
                 1,
                 1
-            ],
-            "match_five": [
-                0,
-                2
             ]
         },
         "FT_cards": {
+            "match_five": [
+                3,
+                0
+            ],
             "match_seven": [
                 1,
                 3
@@ -216,10 +222,6 @@
             "match_four": [
                 3,
                 4
-            ],
-            "match_five": [
-                0,
-                2
             ]
         }
     }

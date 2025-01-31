@@ -7,12 +7,18 @@
     "pressing_style": " ",
     "attacking_style": "Frequent through ball attempts; Take long shots; Attack through the middle",
     "defensive_style": "High defensive line",
-    "aggressive_players": ["Wataru Endo","Alexis Mac Alliste","Luis Diaz"],
-    "provocative_players": ["Alexis Mac Allister", "Luis Díaz"],
-    "win_form": ["W","D","D","W","W","W","D"],
-    "corner_form": ["W","W","L","W","W","L","W"],
+    "goal_scored_pg": 2.35,
+    "goals_concede_pg": 0.91,
+    "aggressive_players": ["Mac Allister"," Luis Diaz", "Gravenberch"],
+    "provocative_players": [],
+    "win_form": ["W","W","D","D","W","W","W"],
+    "corner_form": ["L","W","W","L","W","W","L"],
     "recent_matches": {
         "teams": {
+            "match_five": [
+                "Liverpool",
+                "Ipswich"
+            ],
             "match_six": [
                 "Brentford",
                 "Liverpool"
@@ -36,13 +42,13 @@
             "match_four": [
                 "Tottenham",
                 "Liverpool"
-            ],
-            "match_five": [
-                "Liverpool",
-                "Fulham"
             ]
         },
         "goals": {
+            "match_five": [
+                4,
+                1
+            ],
             "match_six": [
                 0,
                 2
@@ -66,13 +72,13 @@
             "match_four": [
                 3,
                 6
-            ],
-            "match_five": [
-                2,
-                2
             ]
         },
         "x_goals": {
+            "match_five": [
+                1.9,
+                0.43
+            ],
             "match_six": [
                 0.72,
                 3.4
@@ -96,13 +102,13 @@
             "match_four": [
                 1.25,
                 4.6
-            ],
-            "match_five": [
-                2.26,
-                1.08
             ]
         },
         "corners": {
+            "match_five": [
+                3,
+                4
+            ],
             "match_six": [
                 2,
                 15
@@ -126,13 +132,13 @@
             "match_four": [
                 7,
                 5
-            ],
-            "match_five": [
-                5,
-                4
             ]
         },
         "fouls": {
+            "match_five": [
+                10,
+                11
+            ],
             "match_six": [
                 6,
                 14
@@ -156,13 +162,13 @@
             "match_four": [
                 7,
                 9
-            ],
-            "match_five": [
-                10,
-                7
             ]
         },
         "HT_cards": {
+            "match_five": [
+                0,
+                0
+            ],
             "match_six": [
                 0,
                 2
@@ -186,13 +192,13 @@
             "match_four": [
                 0,
                 1
-            ],
-            "match_five": [
-                2,
-                3
             ]
         },
         "FT_cards": {
+            "match_five": [
+                0,
+                2
+            ],
             "match_six": [
                 2,
                 3
@@ -205,7 +211,7 @@
                 2,
                 4
             ],
-            "match_two": [],
+            "match_two": [0,0],
             "match_three": [
                 3,
                 2
@@ -213,10 +219,6 @@
             "match_four": [
                 1,
                 2
-            ],
-            "match_five": [
-                4,
-                4
             ]
         }
     }

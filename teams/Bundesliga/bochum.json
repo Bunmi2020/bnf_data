@@ -6,12 +6,18 @@
     "pressing_style": " ",
     "attacking_style": "Frequent through ball attempts, Attacking down the left, Take long shots, High shot volume",
     "defensive_style": "High Line; Use offside positioning",
+    "goal_scored_pg": 0.9,
+    "goals_concede_pg": 2.26,
     "aggressive_players": ["Bernardo","Matús Bero","Keven Schlotterbeck"],
     "provocative_players": ["Kevin Stöger"],
-    "win_form": ["D","W","L","W","D","L","L"],
-    "corner_form": ["W","L","W","W","L","W","L"],
+    "win_form": ["L","D","W","L","W","D","L"],
+    "corner_form": ["L","W","L","W","W","L","W"],
     "recent_matches": {
         "teams": {
+            "match_five": [
+                "B. Monchengladbach",
+                "Bochum"
+            ],
             "match_six": [
                 "Bochum",
                 "RB Leipzig"
@@ -35,13 +41,13 @@
             "match_four": [
                 "Bochum",
                 "Werder Bremen"
-            ],
-            "match_five": [
-                "Augsburg",
-                "Bochum"
             ]
         },
         "goals": {
+            "match_five": [
+                3,
+                0
+            ],
             "match_six": [
                 3,
                 3
@@ -65,13 +71,13 @@
             "match_four": [
                 0,
                 1
-            ],
-            "match_five": [
-                1,
-                0
             ]
         },
         "x_goals": {
+            "match_five": [
+                2.39,
+                0.58
+            ],
             "match_six": [
                 2.67,
                 2.34
@@ -95,13 +101,13 @@
             "match_four": [
                 1.47,
                 0.87
-            ],
-            "match_five": [
-                1.91,
-                0.28
             ]
         },
         "corners": {
+            "match_five": [
+                8,
+                7
+            ],
             "match_six": [
                 6,
                 3
@@ -125,13 +131,13 @@
             "match_four": [
                 9,
                 5
-            ],
-            "match_five": [
-                6,
-                1
             ]
         },
         "fouls": {
+            "match_five": [
+                6,
+                15
+            ],
             "match_six": [
                 14,
                 7
@@ -155,13 +161,13 @@
             "match_four": [
                 12,
                 10
-            ],
-            "match_five": [
-                8,
-                22
             ]
         },
         "HT_cards": {
+            "match_five": [
+                1,
+                0
+            ],
             "match_six": [
                 2,
                 0
@@ -185,13 +191,13 @@
             "match_four": [
                 1,
                 1
-            ],
-            "match_five": [
-                2,
-                0
             ]
         },
         "FT_cards": {
+            "match_five": [
+                1,
+                3
+            ],
             "match_six": [
                 4,
                 0
@@ -215,10 +221,6 @@
             "match_four": [
                 1,
                 1
-            ],
-            "match_five": [
-                3,
-                3
             ]
         }
     }

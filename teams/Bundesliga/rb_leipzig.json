@@ -6,12 +6,18 @@
     "pressing_style": " ",
     "attacking_style": "Frequent through ball attempts",
     "defensive_style": "Deep positioning",
-    "aggressive_players": [" "],
+    "goal_scored_pg": 1.79,
+    "goals_concede_pg": 1.52,
+    "aggressive_players": [ ],
     "provocative_players": ["Xavi Simons","Loïs Openda"],
-    "win_form": ["D","L","W","L","W","W","L"],
-    "corner_form": ["L","L","W","L","L","L","W"],
+    "win_form": ["D","D","L","W","L","W","W"],
+    "corner_form": ["W","L","L","W","L","L","L"],
     "recent_matches": {
         "teams": { 
+            "match_five": [
+                "RB Leipzig",
+                "Bayer Leverkusen"
+            ],
             "match_six": [
                 "Bochum",
                 "RB Leipzig"
@@ -35,13 +41,13 @@
             "match_four": [
                 "Holstein Kiel",
                 "RB Leipzig"
-            ],
-            "match_five": [
-                "RB Leipzig",
-                "Wolfsburg"
             ]
         },
         "goals": {
+            "match_five": [
+                2,
+                2
+            ],
             "match_six": [
                 3,
                 3
@@ -62,13 +68,13 @@
             "match_four": [
                 0,
                 2
-            ],
-            "match_five": [
-                1,
-                5
             ]
         },
         "x_goals": {
+            "match_five": [
+                0.7,
+                2.41
+            ],
             "match_six": [
                 2.67,
                 2.34
@@ -92,13 +98,13 @@
             "match_four": [
                 1.12,
                 1.4
-            ],
-            "match_five": [
-                1.11,
-                2.3
             ]
         },
         "corners": {
+            "match_five": [
+                7,
+                3
+            ],
             "match_six": [
                 6,
                 3
@@ -122,13 +128,13 @@
             "match_four": [
                 6,
                 1
-            ],
-            "match_five": [
-                7,
-                3
             ]
         },
         "fouls": {
+            "match_five": [
+                12,
+                6
+            ],
             "match_six": [
                 14,
                 7
@@ -152,13 +158,13 @@
             "match_four": [
                 11,
                 13
-            ],
-            "match_five": [
-                11,
-                6
             ]
         },
         "HT_cards": {
+            "match_five": [
+                0,
+                2
+            ],
             "match_six": [
                 2,
                 0
@@ -182,13 +188,13 @@
             "match_four": [
                 1,
                 0
-            ],
-            "match_five": [
-                1,
-                0
             ]
         },
         "FT_cards": {
+            "match_five": [
+                2,
+                2
+            ],
             "match_six": [
                 4,
                 0
@@ -212,10 +218,6 @@
             "match_four": [
                 4,
                 3
-            ],
-            "match_five": [
-                2,
-                1
             ]
         }
     }

@@ -6,13 +6,19 @@
     "pressing_style": " ",
     "attacking_style": "High shot volume, Attack through the middle,Take long shots",
     "defensive_style": "Non-aggressive",
+    "goal_scored_pg": 1.36,
+    "goals_concede_pg": 1.9,
     "aggressive_players": ["Roland Sallai","Merlin Röhl"],
     "provocative_players": ["Roland Sallai","Lucas Höler"],
     "unavailable_attacking_players": ["Michele Di Gregorio"],
-    "win_form": ["L","L","W","L","W","D","W"],
-    "corner_form": ["L","L","W","L","L","L","L"],
+    "win_form": ["L","L","L","W","L","W","D"],
+    "corner_form": ["L","L","L","W","L","L","L"],
     "recent_matches": {
         "teams": {
+            "match_five": [
+                "Freiburg",
+                "Bayern Munich"
+            ],
             "match_six": [
                 "Stuttgart",
                 "Freiburg"
@@ -36,13 +42,13 @@
             "match_four": [
                 "Hoffenheim",
                 "Freiburg"
-            ],
-            "match_five": [
-                "Freiburg",
-                "B. Monchengladbach"
             ]
         },
         "goals": {
+            "match_five": [
+                1,
+                2
+            ],
             "match_six": [
                 4,
                 0
@@ -66,13 +72,13 @@
             "match_four": [
                 1,
                 1
-            ],
-            "match_five": [
-                3,
-                1
             ]
         },
         "x_goals": {
+            "match_five": [
+                0.35,
+                0.54
+            ],
             "match_six": [
                 2.08,
                 0.32
@@ -96,13 +102,13 @@
             "match_four": [
                 1.28,
                 1.23
-            ],
-            "match_five": [
-                1.61,
-                1.57
             ]
         },
         "corners": {
+            "match_five": [
+                2,
+                4
+            ],
             "match_six": [
                 4,
                 1
@@ -126,13 +132,13 @@
             "match_four": [
                 6,
                 1
-            ],
-            "match_five": [
-                4,
-                6
             ]
         },
         "fouls": {
+            "match_five": [
+                15,
+                9
+            ],
             "match_six": [
                 8,
                 12
@@ -156,13 +162,13 @@
             "match_four": [
                 10,
                 5
-            ],
-            "match_five": [
-                5,
-                14
             ]
         },
         "HT_cards": {
+            "match_five": [
+                0,
+                0
+            ],
             "match_six": [
                 2,
                 2
@@ -186,13 +192,13 @@
             "match_four": [
                 0,
                 1
-            ],
-            "match_five": [
-                0,
-                0
             ]
         },
         "FT_cards": {
+            "match_five": [
+                4,
+                2
+            ],
             "match_six": [
                 5,
                 3
@@ -214,10 +220,6 @@
                 1
             ],
             "match_four": [
-                1,
-                1
-            ],
-            "match_five": [
                 1,
                 1
             ]

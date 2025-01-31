@@ -6,13 +6,19 @@
     "pressing_style": "Moderate-pressing",
     "attacking_style": "Long balls; High crossing frequency",
     "defensive_style": "High Line; Use offside positioning",
-    "aggressive_players": ["Alejandro Catena","Lucas Torró","Jorge Herrando","Iker Muñoz"],
-    "provocative_players": ["Iker Muñoz","Bryan Zaragoza","Aimar Oroz"],
+    "goal_scored_pg": 1.19,
+    "goals_concede_pg": 1.43,
+    "aggressive_players": ["Lucas Torró","Enxo Boyomo"],
+    "provocative_players": ["Aimar Oroz"],
     "unavailable_attacking_players": [],
     "win_form": ["D","L","L","D","D","D","D"],
     "corner_form": ["W","L","D","L","W","L","L"],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "Las Palmas",
+                "Osasuna"
+            ],
             "match_seven": [
                 "Osasuna",
                 "Rayo Vallecano"
@@ -36,13 +42,13 @@
             "match_five": [
                 "Sevilla",
                 "Osasuna"
-            ],
-            "match_six": [
-                "Osasuna",
-                "Villarreal"
             ]
         },
         "goals": {
+            "match_six": [
+                1,
+                1
+            ],
             "match_seven": [
                 1,
                 1
@@ -66,13 +72,13 @@
             "match_five": [
                 1,
                 1
-            ],
-            "match_six": [
-                2,
-                2
             ]
         },
         "x_goals": {
+            "match_six": [
+                0.75,
+                2.7
+            ],
             "match_seven": [
                 0.67,
                 0.73
@@ -96,13 +102,13 @@
             "match_five": [
                 1.36,
                 0.95
-            ],
-            "match_six": [
-                1.08,
-                2.43
             ]
         },
         "corners": {
+            "match_six": [
+                4,
+                2
+            ],
             "match_seven": [
                 6,
                 3
@@ -126,13 +132,13 @@
             "match_five": [
                 5,
                 1
-            ],
-            "match_six": [
-                0,
-                8
             ]
         },
         "fouls": {
+            "match_six": [
+                14,
+                17
+            ],
             "match_seven": [
                 9,
                 13
@@ -156,13 +162,13 @@
             "match_five": [
                 11,
                 15
-            ],
-            "match_six": [
-                12,
-                13
             ]
         },
         "HT_cards": {
+            "match_six": [
+                2,
+                3
+            ],
             "match_seven": [
                 1,
                 1
@@ -186,13 +192,13 @@
             "match_five": [
                 0,
                 0
-            ],
-            "match_six": [
-                1,
-                4
             ]
         },
         "FT_cards": {
+            "match_six": [
+                8,
+                8
+            ],
             "match_seven": [
                 3,
                 2
@@ -216,10 +222,6 @@
             "match_five": [
                 1,
                 1
-            ],
-            "match_six": [
-                6,
-                5
             ]
         }
     }

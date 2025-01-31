@@ -7,13 +7,19 @@
     "pressing_style": "Non-aggressive",
     "attacking_style": "Attack through the middle; Frequent through ball attempts",
     "defensive_style": " ",
-    "aggressive_players": ["Lautaro Martínez"],
-    "provocative_players": ["Lautaro Martinez","Hakan Çalhanoglu"],
+    "goal_scored_pg": 2.5,
+    "goals_concede_pg": 0.86,
+    "aggressive_players": ["Denzel Dumfries", "Alesandro Bastoni"],
+    "provocative_players": ["Lautaro Martinez"],
     "unavailable_attacking_players": [],
-    "win_form": ["W","D","W","W","W","W","W"],
-    "corner_form": ["W","D","W","W","L","W","L"],
+    "win_form": ["W","W","D","W","W","W","W"],
+    "corner_form": ["L","W","D","W","W","L","W"],
     "recent_matches": {
       "teams": {
+        "match_five": [
+                "Lecce",
+                "Inter"
+            ],
         "match_seven": [
                 "Inter",
                 "Empoli"
@@ -37,13 +43,13 @@
           "match_four": [
               "Inter",
               "Parma"
-          ],
-          "match_five": [
-              "Verona",
-              "Inter"
           ]
       },
       "goals": {
+        "match_five": [
+                0,
+                4
+            ],
         "match_seven": [
                 3,
                 1
@@ -67,13 +73,13 @@
           "match_four": [
               3,
               1
-          ],
-          "match_five": [
-              0,
-              5
           ]
       },
       "x_goals": {
+        "match_five": [
+            0.88,
+            2.13
+        ],
         "match_seven": [
                 1.58,
                 0.27
@@ -97,13 +103,13 @@
           "match_four": [
               2.31,
               0.24
-          ],
-          "match_five": [
-              0.51,
-              3.14
           ]
       },
       "corners": {
+        "match_five": [
+                7,
+                0
+            ],
         "match_seven": [
                 7,
                 3
@@ -127,13 +133,13 @@
           "match_four": [
               10,
               1
-          ],
-          "match_five": [
-              4,
-              2
           ]
       },
       "fouls": {
+        "match_five": [
+                13,
+                12
+            ],
         "match_seven": [
             11,
             9
@@ -157,13 +163,13 @@
           "match_four": [
               8,
               3
-          ],
-          "match_five": [
-              14,
-              5
           ]
       },
       "HT_cards": {
+        "match_five": [
+                0,
+                1
+            ],
         "match_seven": [
                 0,
                 0
@@ -187,13 +193,13 @@
           "match_four": [
               0,
               1
-          ],
-          "match_five": [
-              1,
-              0
           ]
       },
       "FT_cards": {
+        "match_five": [
+                0,
+                2
+            ],
         "match_seven": [
                 0,
                 0
@@ -210,10 +216,6 @@
           ],
           "match_four": [
               1,
-              1
-          ],
-          "match_five": [
-              2,
               1
           ]
       }

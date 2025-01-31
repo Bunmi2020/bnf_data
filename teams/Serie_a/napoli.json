@@ -7,13 +7,19 @@
     "pressing_style": "Non-aggressive",
     "attacking_style": "Attacking down the right",
     "defensive_style": "High Line; Use offside positioning",
-    "aggressive_players": ["Alessandro Buongiorno","Cyril Ngonge","Michael Folorunsho"],
-    "provocative_players": ["Khvicha Kvaratskhelia","Michael Folorunsho","Alessandro","Buongiorno","Mário Rui"],
+    "goal_scored_pg": 1.68,
+    "goals_concede_pg": 0.68,
+    "aggressive_players": ["Scott McTominay", "Di Lorenzo"],
+    "provocative_players": ["Scott McTominay", "Di Lorenzo"],
     "unavailable_attacking_players": [],
-    "win_form": ["W","W","W","W","W","W","L"],
-    "corner_form": ["L","W","L","W","W","W","W"],
+    "win_form": ["W","W","W","W","W","W","W"],
+    "corner_form": ["W","L","W","L","W","W","W"],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "Napoli",
+                "Juventus"
+            ],
             "match_seven": [
                 "Atalanta",
                 "Napoli"
@@ -37,13 +43,13 @@
             "match_five": [
                 "Udinese",
                 "Napoli"
-            ],
-            "match_six": [
-                "Napoli",
-                "Lazio"
             ]
         },
         "goals": {
+            "match_six": [
+                2,
+                1
+            ],
             "match_seven": [
                 2,
                 3
@@ -67,13 +73,13 @@
             "match_five": [
                 1,
                 3
-            ],
-            "match_six": [
-                0,
-                1
             ]
         },
         "x_goals": {
+            "match_six": [
+                2.41,
+                0.78
+            ],
             "match_seven": [
                 0.72,
                 0.8
@@ -97,13 +103,13 @@
             "match_five": [
                 1.34,
                 2.16
-            ],
-            "match_six": [
-                0.6,
-                0.26
             ]
         },
         "corners": {
+            "match_six": [
+                9,
+                1
+            ],
             "match_seven": [
                 3,
                 1
@@ -127,13 +133,13 @@
             "match_five": [
                 3,
                 9
-            ],
-            "match_six": [
-                6,
-                2
             ]
         },
         "fouls": {
+            "match_six": [
+                9,
+                15
+            ],
             "match_seven": [
                 18,
                 9
@@ -157,13 +163,13 @@
             "match_five": [
                 14,
                 8
-            ],
-            "match_six": [
-                16,
-                12
             ]
         },
         "HT_cards": {
+            "match_six": [
+                0,
+                1
+            ],
             "match_seven": [
                 0,
                 1
@@ -187,13 +193,13 @@
             "match_five": [
                 1,
                 0
-            ],
-            "match_six": [
-                0,
-                2
             ]
         },
         "FT_cards": {
+            "match_six": [
+                2,
+                2
+            ],
             "match_seven": [
                 4,
                 2
@@ -214,10 +220,6 @@
             "match_five": [
                 1,
                 1
-            ],
-            "match_six": [
-                2,
-                3
             ]
         }
     }

@@ -1,19 +1,25 @@
 {
     "name": "Real Madrid",
-"coach": "Carlo Ancelotti",
-"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/real_madrid.png",
-"playing_style": "Ball Retention; Control the game in the opposition's half; Short passes",
-"pressing_style": "Non-aggressive",
-"attacking_style": "Attacking down the left, Frequent through ball attempts",
-"defensive_style": "Loose",
-"aggressive_players": ["Juanmi Latasa","Eduardo","Camavinga"],
-"provocative_players": ["Vinicius Jr.","Rodrygo", "Jude Bellingham","Eduardo Camavinga"],
-"unavailable_attacking_players": [],
-"win_form": ["W","W","W","D","W","W","L"],
-"corner_form": ["W","W","D","L","L","W","W"],
-"recent_matches": {
-"teams": {
-    "match_seven": [
+    "coach": "Carlo Ancelotti",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/real_madrid.png",
+    "playing_style": "Ball Retention; Control the game in the opposition's half; Short passes",
+    "pressing_style": "Non-aggressive",
+    "attacking_style": "Attacking down the left, Frequent through ball attempts",
+    "defensive_style": "Loose",
+    "goal_scored_pg": 2.28,
+    "goals_concede_pg": 1.14,
+    "aggressive_players": ["Eder Militao", "Vinicius Jr"],
+    "provocative_players": ["Vinicius Jr.", "Bellingham", "Dani Ceballos"],
+    "unavailable_attacking_players": [],
+    "win_form": ["W","W","W","W","D","W","W"],
+    "corner_form": ["W","W","W","D","L","L","W"],
+    "recent_matches": {
+    "teams": {
+        "match_six": [
+                "Valladolid",
+                "Real Madrid"
+            ],
+        "match_seven": [
                 "Real Madrid",
                 "Las Palmas"
             ],
@@ -33,11 +39,14 @@
                 "Girona",
                 "Real Madrid"
             ],
-  "match_five": ["Real Madrid", "Osasuna"],
-  "match_six": ["Real Madrid","Barcelona"]
+  "match_five": ["Real Madrid", "Osasuna"]
 },
 
 "goals": {
+    "match_six": [
+                0,
+                3
+            ],
     "match_seven": [
                 4,
                 1
@@ -58,10 +67,13 @@
                 0,
                 3
             ],
-  "match_five": [4,0],
-  "match_six": [0,4]
+  "match_five": [4,0]
 },
 "x_goals": {
+    "match_six": [
+                0.19,
+                1.9
+            ],
     "match_seven": [
                 5.81,
                 1.18
@@ -82,10 +94,13 @@
                 0.33,
                 0.97
             ],
-  "match_five": [2.91,0.05],
-  "match_six": [1.48,2.45]
+  "match_five": [2.91,0.05]
 },
 "corners": {
+    "match_six": [
+                1,
+                7
+            ],
     "match_seven": [
                 8,
                 2
@@ -106,10 +121,13 @@
                 6,
                 3
             ],
-  "match_five": [11,3],
-  "match_six": [10,3]
+  "match_five": [11,3]
 },
 "fouls": {
+    "match_six": [
+                11,
+                12
+            ],
     "match_seven": [
                 11,
                 13
@@ -130,10 +148,13 @@
                 6,
                 7
             ],
-  "match_five": [9,16],
-  "match_six": [15,17]
+  "match_five": [9,16]
 },
 "HT_cards": {
+    "match_six": [
+                2,
+                1
+            ],
     "match_seven": [
                 0,
                 1
@@ -154,10 +175,13 @@
                 0,
                 1
             ],
-  "match_five": [0,0],
-  "match_six": [0,1]
+  "match_five": [0,0]
 },
 "FT_cards": {
+    "match_six": [
+                4,
+                3
+            ],
     "match_seven": [
                 0,
                 2
@@ -178,11 +202,7 @@
                 3,
                 2
             ],
-  "match_five": [0,2],
-  "match_six": [2,5]
+  "match_five": [0,2]
 }
+} 
 }
-              
-  
-  
-  }

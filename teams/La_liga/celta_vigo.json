@@ -1,18 +1,24 @@
 {
     "name": "Celta Vigo",
-"coach": "Claudio Giráldez",
-"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/celta_vigo.png",
-"playing_style": " ",
-"pressing_style": "Non-aggressive",
-"attacking_style": "Frequent through ball attempts; Attacking down the right; High shot volume",
-"defensive_style": "Compact",
-"aggressive_players": ["Luca de la Torre"],
-"provocative_players": ["Iago Aspas","Jonathan Bamba"],
-"unavailable_attacking_players": [],
-"win_form": ["L","L","W","L","W","L","D"],
-"corner_form": ["L","D","L","W","D","W","W"],
-"recent_matches": {
+    "coach": "Claudio Giráldez",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/celta_vigo.png",
+    "playing_style": " ",
+    "pressing_style": "Non-aggressive",
+    "attacking_style": "Frequent through ball attempts; Attacking down the right; High shot volume",
+    "defensive_style": "Compact",
+    "goal_scored_pg": 1.43,
+    "goals_concede_pg": 1.57,
+    "aggressive_players": ["Pablo Duran"],
+    "provocative_players": ["Ilaix Moriba", "Iago Aspas", "Tasos Douvikas", "Jonathan Bamba"],
+    "unavailable_attacking_players": [],
+    "win_form": ["D","L","L","W","L","W","L"],
+    "corner_form": ["W","L","D","L","W","D","W"],
+    "recent_matches": {
         "teams": {
+            "match_six": [
+                "Alaves",
+                "Celta Vigo"
+            ],
             "match_seven": [
                 "Celta Vigo",
                 "Ath Bilbao"
@@ -36,13 +42,13 @@
             "match_five": [
                 "Espanyol",
                 "Celta Vigo"
-            ],
-            "match_six": [
-                "Celta Vigo",
-                "Barcelona"
             ]
         },
         "goals": {
+            "match_six": [
+                1,
+                1
+            ],
             "match_seven": [
                 1,
                 2
@@ -66,13 +72,13 @@
             "match_five": [
                 3,
                 1
-            ],
-            "match_six": [
-                2,
-                2
             ]
         },
         "x_goals": {
+            "match_six": [
+                0.95,
+                0.13
+            ],
             "match_seven": [
                 0.59,
                 1.83
@@ -96,13 +102,13 @@
             "match_five": [
                 0.85,
                 1.53
-            ],
-            "match_six": [
-                2.6,
-                1.72
             ]
         },
         "corners": {
+            "match_six": [
+                3,
+                4
+            ],
             "match_seven": [
                 3,
                 4
@@ -126,13 +132,13 @@
             "match_five": [
                 2,
                 5
-            ],
-            "match_six": [
-                5,
-                1
             ]
         },
         "fouls": {
+            "match_six": [
+                15,
+                14
+            ],
             "match_seven": [
                 14,
                 6
@@ -156,13 +162,13 @@
             "match_five": [
                 13,
                 7
-            ],
-            "match_six": [
-                13,
-                9
             ]
         },
         "HT_cards": {
+            "match_six": [
+                0,
+                1
+            ],
             "match_seven": [
                 0,
                 0
@@ -186,13 +192,13 @@
             "match_five": [
                 0,
                 2
-            ],
-            "match_six": [
-                1,
-                1
             ]
         },
         "FT_cards": {
+            "match_six": [
+                2,
+                3
+            ],
             "match_seven": [
                 0,
                 0
@@ -216,10 +222,6 @@
             "match_five": [
                 2,
                 2
-            ],
-            "match_six": [
-                5,
-                6
             ]
         }
     }

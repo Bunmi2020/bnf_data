@@ -6,13 +6,19 @@
     "pressing_style": "Non-aggressive",
     "attacking_style": "Take long shots; Attacking down the left",
     "defensive_style": "High Line; Use offside positioning",
-    "aggressive_players": ["Jaime Mata"],
-    "provocative_players": ["Sandro Ramírez"],
+    "goal_scored_pg": 1.24,
+    "goals_concede_pg": 1.62,
+    "aggressive_players": ["Fabio Silva", "Dario Essugo", "Alex Munoz"],
+    "provocative_players": ["Fabio Silva", "Dario Essugo"],
     "unavailable_attacking_players": [],
     "win_form": ["L","L","W","D","W","W","L"],
     "corner_form": ["L","L","D","L","D","L","W"],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "Las Palmas",
+                "Osasuna"
+            ],
             "match_seven": [
                 "Real Madrid",
                 "Las Palmas"
@@ -36,13 +42,13 @@
             "match_five": [
                 "Barcelona",
                 "Las Palmas"
-            ],
-            "match_six": [
-                "Las Palmas",
-                "Mallorca"
             ]
         },
         "goals": {
+            "match_six": [
+                1,
+                1
+            ],
             "match_seven": [
                 4,
                 1
@@ -66,13 +72,13 @@
             "match_five": [
                 1,
                 2
-            ],
-            "match_six": [
-                2,
-                3
             ]
         },
         "x_goals": {
+            "match_six": [
+                0.75,
+                2.7
+            ],
             "match_seven": [
                 5.81,
                 1.18
@@ -96,13 +102,13 @@
             "match_five": [
                 2.32,
                 0.5
-            ],
-            "match_six": [
-                1.2,
-                1.7
             ]
         },
         "corners": {
+            "match_six": [
+                4,
+                2
+            ],
             "match_seven": [
                 8,
                 2
@@ -126,13 +132,13 @@
             "match_five": [
                 7,
                 0
-            ],
-            "match_six": [
-                4,
-                3
             ]
         },
         "fouls": {
+            "match_six": [
+                14,
+                17
+            ],
             "match_seven": [
                 11,
                 13
@@ -156,13 +162,13 @@
             "match_five": [
                 7,
                 11
-            ],
-            "match_six": [
-                10,
-                18
             ]
         },
         "HT_cards": {
+            "match_six": [
+                2,
+                3
+            ],
             "match_seven": [
                 0,
                 1
@@ -186,13 +192,13 @@
             "match_five": [
                 0,
                 0
-            ],
-            "match_six": [
-                0,
-                1
             ]
         },
         "FT_cards": {
+            "match_six": [
+                8,
+                8
+            ],
             "match_seven": [
                 0,
                 2
@@ -213,11 +219,7 @@
                 4,
                 3
             ],
-            "match_five": [0,0],
-            "match_six": [
-                4,
-                3
-            ]
+            "match_five": [0,0]
         }
     }
   }

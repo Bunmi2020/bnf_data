@@ -1,21 +1,27 @@
 {
     "name": "Real Sociedad",
-"coach": "Imanol Alguacil",
-"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/real_sociedad.png",
-"playing_style": "Ball Retention; Short passes",
-"pressing_style": "Aggressive",
-"attacking_style": "Take long shots",
-"defensive_style": "Organized",
-"aggressive_players": ["Mikel Merino","Brais Méndez","Umar Sadiq","Igor Zubeldia","Jon Pacheco"],
-"provocative_players": ["Mikel Merino","Brais Méndez","Takefusa Kubo"],
-"unavailable_attacking_players": [],
-"win_form": ["L","W","L","D","W","W"],
-"corner_form": ["W","L","W","W","L","L"],
-"recent_matches": {
-  "teams": {
-    "match_seven": [
-                "Valencia",
-                "Real Sociedad"
+    "coach": "Imanol Alguacil",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/real_sociedad.png",
+    "playing_style": "Ball Retention; Short passes",
+    "pressing_style": "Aggressive",
+    "attacking_style": "Take long shots",
+    "defensive_style": "Organized",
+    "goal_scored_pg": 0.81,
+    "goals_concede_pg": 0.81,
+    "aggressive_players": ["Braise Mendez", "Igor Zubekdia", "Jon Pacheco", "Jon Aramburu"],
+    "provocative_players": ["Braise Mendez", "Takefusa Kubo"],
+    "unavailable_attacking_players": [],
+    "win_form": ["L","L","W","L","D","W","W"],
+    "corner_form": ["W","W","L","W","W","L","L"],
+    "recent_matches": {
+    "teams": {
+        "match_six": [
+                "Real Sociedad",
+                "Getafe"
+            ],
+        "match_seven": [
+            "Valencia",
+            "Real Sociedad"
             ],
       "match_one": [
           "Real Sociedad",
@@ -39,7 +45,10 @@
       ]
   },
   "goals": {
-    
+    "match_six": [
+                0,
+                3
+            ],
     "match_seven": [
                 1,
                 0
@@ -66,6 +75,10 @@
       ]
   },
   "x_goals": {
+    "match_six": [
+        0.98,
+        1.22
+    ],
     "match_seven": [
                 1.64,
                 0.81
@@ -92,6 +105,10 @@
       ]
   },
   "corners": {
+    "match_six": [
+                5,
+                2
+            ],
     "match_seven": [
                 4,
                 7
@@ -118,6 +135,10 @@
       ]
   },
   "fouls": {
+    "match_six": [
+                11,
+                15
+            ],
     "match_seven": [
                 10,
                 12
@@ -144,6 +165,10 @@
       ]
   },
   "HT_cards": {
+    "match_six": [
+        1,
+        2
+    ],
     "match_seven": [
                 0,
                 1
@@ -170,6 +195,10 @@
       ]
   },
   "FT_cards": {
+    "match_six": [
+                3,
+                6
+            ],
     "match_seven": [
                 3,
                 4

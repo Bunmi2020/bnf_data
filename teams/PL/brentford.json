@@ -7,12 +7,18 @@
     "pressing_style": " ",
     "attacking_style": "High crossing frequency; Frequent through ball attempts",
     "defensive_style": "Organized",
-    "aggressive_players": ["Christian Norgaard", "Yoane Wissa"],
-    "provocative_players": ["Bryan Mbeumo", "Yoane Wissa"],
-    "win_form": ["L","D","W","L","D","L","L"],
-    "corner_form": ["L","L","D","W","L","W","L"],
+    "goal_scored_pg": 1.83,
+    "goals_concede_pg": 1.74,
+    "aggressive_players": ["Christian Norgaard"],
+    "provocative_players": ["Yoane Wissa"],
+    "win_form": ["W","L","D","W","L","D","L"],
+    "corner_form": ["W","L","L","D","W","L","W"],
     "recent_matches": {
         "teams": {
+            "match_five": [
+                "Crystal Palace",
+                "Brentford"
+            ],
             "match_six": [
                 "Brentford",
                 "Liverpool"
@@ -36,13 +42,13 @@
             "match_four": [
                 "Brentford",
                 "Nottingham"
-            ],
-            "match_five": [
-                "Chelsea",
-                "Brentford"
             ]
         },
         "goals": {
+            "match_five": [
+                1,
+                2
+            ],
             "match_six": [
                 0,
                 2
@@ -66,13 +72,13 @@
             "match_four": [
                 0,
                 2
-            ],
-            "match_five": [
-                2,
-                1
             ]
         },
         "x_goals": {
+            "match_five": [
+                1.09,
+                1.68
+            ],
             "match_six": [
                 0.72,
                 3.4
@@ -96,13 +102,13 @@
             "match_four": [
                 0.8,
                 0.84
-            ],
-            "match_five": [
-                2.13,
-                1.61
             ]
         },
         "corners": {
+            "match_five": [
+                4,
+                7
+            ],
             "match_six": [
                 2,
                 15
@@ -126,13 +132,13 @@
             "match_four": [
                 9,
                 5
-            ],
-            "match_five": [
-                8,
-                5
             ]
         },
         "fouls": {
+            "match_five": [
+                8,
+                11
+            ],
             "match_six": [
                 6,
                 14
@@ -156,13 +162,13 @@
             "match_four": [
                 9,
                 14
-            ],
-            "match_five": [
-                11,
-                7
             ]
         },
         "HT_cards": {
+            "match_five": [
+                1,
+                0
+            ],
             "match_six": [
                 0,
                 2
@@ -186,13 +192,13 @@
             "match_four": [
                 1,
                 1
-            ],
-            "match_five": [
-                0,
-                0
             ]
         },
         "FT_cards": {
+            "match_five": [
+                2,
+                2
+            ],
             "match_six": [
                 2,
                 3
@@ -216,10 +222,6 @@
             "match_four": [
                 3,
                 4
-            ],
-            "match_five": [
-                3,
-                2
             ]
         }
     }

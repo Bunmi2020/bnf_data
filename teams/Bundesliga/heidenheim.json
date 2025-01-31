@@ -6,12 +6,18 @@
     "pressing_style": " ",
     "attacking_style": "Attacking down the right",
     "defensive_style": " ",
+    "goal_scored_pg": 1.26,
+    "goals_concede_pg": 2.11,
     "aggressive_players": ["Tim Kleindienst","Benedikt Gimber","Lennard Maloney"],
-    "provocative_players": [" "],
-    "win_form": ["L","D","W","L","L","L","L"],
-    "corner_form": ["D","L","W","L","W","L","W"],
+    "provocative_players": [ ],
+    "win_form": ["L","L","D","W","L","L","L"],
+    "corner_form": ["L","D","L","W","L","W","L"],
     "recent_matches": {
         "teams": {
+            "match_five": [
+                "Augsburg",
+                "Heidenheim"
+            ],
             "match_six": [
                 "Heidenheim",
                 "St. Pauli"
@@ -35,13 +41,13 @@
             "match_four": [
                 "Bayern Munich",
                 "Heidenheim"
-            ],
-            "match_five": [
-                "Heidenheim",
-                "Eintracht Frankfurt"
             ]
         },
         "goals": {
+            "match_five": [
+                2,
+                1
+            ],
             "match_six": [
                 0,
                 2
@@ -65,13 +71,13 @@
             "match_four": [
                 4,
                 2
-            ],
-            "match_five": [
-                0,
-                4
             ]
         },
         "x_goals": {
+            "match_five": [
+                1.09,
+                1.01
+            ],
             "match_six": [
                 0.75,
                 2.24
@@ -95,13 +101,13 @@
             "match_four": [
                 2.36,
                 1.29
-            ],
-            "match_five": [
-                0.69,
-                2.42
             ]
         },
         "corners": {
+            "match_five": [
+                6,
+                4
+            ],
             "match_six": [
                 4,
                 4
@@ -125,13 +131,13 @@
             "match_four": [
                 8,
                 0
-            ],
-            "match_five": [
-                6,
-                5
             ]
         },
         "fouls": {
+            "match_five": [
+                8,
+                9
+            ],
             "match_six": [
                 11,
                 17
@@ -155,13 +161,13 @@
             "match_four": [
                 4,
                 5
-            ],
-            "match_five": [
-                7,
-                9
             ]
         },
         "HT_cards": {
+            "match_five": [
+                0,
+                0
+            ],
             "match_six": [
                 0,
                 1
@@ -185,13 +191,13 @@
             "match_four": [
                 0,
                 0
-            ],
-            "match_five": [
-                0,
-                1
             ]
         },
         "FT_cards": {
+            "match_five": [
+                1,
+                0
+            ],
             "match_six": [
                 1,
                 2
@@ -215,10 +221,6 @@
             "match_four": [
                 1,
                 0
-            ],
-            "match_five": [
-                0,
-                2
             ]
         }
     }

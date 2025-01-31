@@ -7,12 +7,18 @@
     "pressing_style": " ",
     "attacking_style": "Take long shots; High shot volume",
     "defensive_style": " ",
-    "aggressive_players": ["Murillo","Ryan Yates"],
-    "provocative_players": ["Morgan Gibbs-White","Ryan Yates"],
-    "win_form": ["W","D","W","W","W","W","W"],
-    "corner_form": ["L","L","L","L","L","L","W"],
+    "goal_scored_pg": 1.43,
+    "goals_concede_pg": 1.91,
+    "aggressive_players": ["Gibbs-White","Ryan Yates"],
+    "provocative_players": ["Ryan Yates"],
+    "win_form": ["L","W","D","W","W","W","W"],
+    "corner_form": ["W","L","L","L","L","L","L"],
     "recent_matches": {
         "teams": {
+            "match_five": [
+                "Bournemouth",
+                "Nottingham"
+            ],
             "match_six": [
                 "Nottingham",
                 "Southampton"
@@ -36,13 +42,13 @@
             "match_four": [
                 "Brentford",
                 "Nottingham"
-            ],
-            "match_five": [
-                "Nottingham",
-                "Aston Villa"
             ]
         },
         "goals": {
+            "match_five": [
+                5,
+                0
+            ],
             "match_six": [
                 3,
                 2
@@ -66,13 +72,13 @@
             "match_four": [
                 0,
                 2
-            ],
-            "match_five": [
-                2,
-                1
             ]
         },
         "x_goals": {
+            "match_five": [
+                1.78,
+                0.89
+            ],
             "match_six": [
                 1.9,
                 0.88
@@ -96,13 +102,13 @@
             "match_four": [
                 0.8,
                 0.84
-            ],
-            "match_five": [
-                1.65,
-                0.44
             ]
         },
         "corners": {
+            "match_five": [
+                3,
+                9
+            ],
             "match_six": [
                 2,
                 8
@@ -126,13 +132,13 @@
             "match_four": [
                 9,
                 5
-            ],
-            "match_five": [
-                4,
-                3
             ]
         },
         "fouls": {
+            "match_five": [
+                9,
+                12
+            ],
             "match_six": [
                 4,
                 18
@@ -156,13 +162,13 @@
             "match_four": [
                 9,
                 14
-            ],
-            "match_five": [
-                12,
-                5
             ]
         },
         "HT_cards": {
+            "match_five": [
+                1,
+                0
+            ],
             "match_six": [
                 0,
                 0
@@ -186,13 +192,13 @@
             "match_four": [
                 1,
                 1
-            ],
-            "match_five": [
-                0,
-                0
             ]
         },
         "FT_cards": {
+            "match_five": [
+                2,
+                3
+            ],
             "match_six": [
                 0,
                 0
@@ -216,10 +222,6 @@
             "match_four": [
                 3,
                 4
-            ],
-            "match_five": [
-                0,
-                1
             ]
         }
     }

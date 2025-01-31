@@ -1,18 +1,24 @@
 {
     "name": "Sevilla",
-"coach": "Xavier García Pimienta",
-"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/sevilla.png",
-"playing_style": "Wide play",
-"pressing_style": "Aggressive",
-"attacking_style": "Attacking down the right; High crossing frequency",
-"defensive_style": " ",
-"aggressive_players": ["Nemanja Gudel","Kike Salas"],
-"provocative_players": ["Lucas Ocampos"],
-"unavailable_attacking_players": [],
-"win_form": ["W","D","L","W","L","D","L"],
-"corner_form": ["L","W","D","L","L","W","W"],
-"recent_matches": {
+    "coach": "Xavier García Pimienta",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/sevilla.png",
+    "playing_style": "Wide play",
+    "pressing_style": "Aggressive",
+    "attacking_style": "Attacking down the right; High crossing frequency",
+    "defensive_style": " ",
+    "goal_scored_pg": 1.14,
+    "goals_concede_pg": 1.43,
+    "aggressive_players": ["Saul Niguez", "Tanguy Nianzou", "Isaac Romero"],
+    "provocative_players": ["Dodi Lukebakio", "Angel Carmona", "Djibril Sow"],
+    "unavailable_attacking_players": [],
+    "win_form": ["D","W","D","L","W","L","D"],
+    "corner_form": ["W","L","W","D","L","L","W"],
+    "recent_matches": {
         "teams": {
+            "match_six": [
+                "Sevilla",
+                "Espanyol"
+            ],
             "match_seven": [
                 "Girona",
                 "Sevilla"
@@ -36,13 +42,13 @@
             "match_five": [
                 "Sevilla",
                 "Osasuna"
-            ],
-            "match_six": [
-                "Sevilla",
-                "Rayo Vallecano"
             ]
         },
         "goals": {
+            "match_six": [
+                1,
+                1
+            ],
             "match_seven": [
                 1,
                 2
@@ -66,13 +72,13 @@
             "match_five": [
                 1,
                 1
-            ],
-            "match_six": [
-                1,
-                0
             ]
         },
         "x_goals": {
+            "match_six": [
+                1.26,
+                0.69
+            ],
             "match_seven": [
                 1.23,
                 2.91
@@ -96,13 +102,13 @@
             "match_five": [
                 1.36,
                 0.95
-            ],
-            "match_six": [
-                0.89,
-                0.85
             ]
         },
         "corners": {
+            "match_six": [
+                5,
+                1
+            ],
             "match_seven": [
                 7,
                 4
@@ -126,13 +132,13 @@
             "match_five": [
                 5,
                 1
-            ],
-            "match_six": [
-                8,
-                3
             ]
         },
         "fouls": {
+            "match_six": [
+                13,
+                14
+            ],
             "match_seven": [
                 6,
                 15
@@ -156,13 +162,13 @@
             "match_five": [
                 11,
                 15
-            ],
-            "match_six": [
-                14,
-                14
             ]
         },
         "HT_cards": {
+            "match_six": [
+                0,
+                1
+            ],
             "match_seven": [
                 0,
                 0
@@ -186,13 +192,13 @@
             "match_five": [
                 0,
                 0
-            ],
-            "match_six": [
-                1,
-                5
             ]
         },
         "FT_cards": {
+            "match_six": [
+                1,
+                4
+            ],
             "match_seven": [
                 0,
                 4
@@ -216,10 +222,6 @@
             "match_five": [
                 1,
                 1
-            ],
-            "match_six": [
-                2,
-                6
             ]
         }
     }

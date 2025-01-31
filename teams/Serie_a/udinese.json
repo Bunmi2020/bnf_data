@@ -6,13 +6,19 @@
     "pressing_style": "Aggressive",
     "attacking_style": "High shot volume; Attacking down the right; Take long shots; High crossing frequency",
     "defensive_style": " ",
-    "aggressive_players": ["Martín Payero", "Lorenzo Lucca"],
-    "provocative_players": ["Lorenzo Lucca","Festy Ebosele"],
+    "goal_scored_pg": 1.14,
+    "goals_concede_pg": 1.55,
+    "aggressive_players": ["Lorenzo Lucca", "Martin Payero", "Christian Kabasele", "Sandi Lovric"],
+    "provocative_players": ["Lorenzo Lucca","Martin Payero"],
     "unavailable_attacking_players": [],
-    "win_form": ["L","D","D","D","W","L","W"],
-    "corner_form": ["L","W","L","W","L","L","L"],
+    "win_form": ["L","L","D","D","D","W","L"],
+    "corner_form": ["L","L","W","L","W","L","L"],
     "recent_matches": {
       "teams": {
+        "match_six": [
+                "Udinese",
+                "AS Roma"
+            ],
         "match_seven": [
                 "Como",
                 "Udinese"
@@ -36,13 +42,13 @@
           "match_five": [
               "Udinese",
               "Napoli"
-          ],
-          "match_six": [
-              "Monza",
-              "Udinese"
           ]
       },
       "goals": {
+        "match_six": [
+                1,
+                2
+            ],
         "match_seven": [
                 4,
                 1
@@ -66,13 +72,13 @@
           "match_five": [
               1,
               3
-          ],
-          "match_six": [
-              1,
-              2
           ]
       },
       "x_goals": {
+        "match_six": [
+                0.59,
+                2.88
+            ],
         "match_seven": [
                 1.76,
                 0.59
@@ -96,13 +102,13 @@
           "match_five": [
               1.34,
               2.16
-          ],
-          "match_six": [
-              1.38,
-              1.21
           ]
       },
       "corners": {
+        "match_six": [
+            1,
+            5
+        ],
         "match_seven": [
                 3,
                 2
@@ -126,13 +132,13 @@
           "match_five": [
               3,
               9
-          ],
-          "match_six": [
-              10,
-              1
           ]
       },
       "fouls": {
+        "match_six": [
+                15,
+                12
+            ],
         "match_seven": [
                 10,
                 16
@@ -156,13 +162,13 @@
           "match_five": [
               14,
               8
-          ],
-          "match_six": [
-              12,
-              16
           ]
       },
       "HT_cards": {
+        "match_six": [
+            0,
+            2
+        ],
         "match_seven": [
                 0,
                 0
@@ -186,13 +192,13 @@
           "match_five": [
               1,
               0
-          ],
-          "match_six": [
-              0,
-              0
           ]
       },
       "FT_cards": {
+        "match_six": [
+                2,
+                2
+            ],
         "match_seven": [
                 3,
                 5
@@ -216,10 +222,6 @@
           "match_five": [
               1,
               1
-          ],
-          "match_six": [
-              1,
-              2
           ]
       }
   }

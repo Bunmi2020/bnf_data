@@ -1,18 +1,24 @@
 {
     "name": "Rayo Vallecano",
-"coach": "Iñigo Pérez",
-"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/rayo_vallecano.png",
-"playing_style": "Wide play; Ball Retention; Draws fouls",
-"pressing_style": "Aggressive",
-"attacking_style": "Take long shots; High shot volume; Attacking down the left",
-"defensive_style": " ",
-"aggressive_players": ["Óscar Valentín","Gerard Gumbau","Unai López","Alfonso Espino","Óscar Trejo"],
-"provocative_players": ["Isi Palazon","Alfonso Espino"],
-"unavailable_attacking_players": [],
-"win_form": ["D","W","D","D","D","W","L"],
-"corner_form": ["L","D","D","D","W","L","L"],
-"recent_matches": {
+    "coach": "Iñigo Pérez",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/rayo_vallecano.png",
+    "playing_style": "Wide play; Ball Retention; Draws fouls",
+    "pressing_style": "Aggressive",
+    "attacking_style": "Take long shots; High shot volume; Attacking down the left",
+    "defensive_style": " ",
+    "goal_scored_pg": 1.19,
+    "goals_concede_pg": 1.14,
+    "aggressive_players": ["Óscar Valentín","Pathe Ciss","Isi Palazon","Alfonso Espino"],
+    "provocative_players": ["Isi Palazon","Alfonso Espino"],
+    "unavailable_attacking_players": [],
+    "win_form": ["W","D","W","D","D","D","W"],
+    "corner_form": ["W","L","D","D","D","W","L"],
+    "recent_matches": {
         "teams": {
+            "match_six": [
+                "Rayo Vallecano",
+                "Girona"
+            ],
             "match_seven": [
                 "Osasuna",
                 "Rayo Vallecano"
@@ -36,13 +42,13 @@
             "match_five": [
                 "Valencia",
                 "Rayo Vallecano"
-            ],
-            "match_six": [
-                "Rayo Vallecano",
-                "Ath Bilbao"
             ]
         },
         "goals": {
+            "match_six": [
+                2,
+                1
+            ],
             "match_seven": [
                 1,
                 1
@@ -66,13 +72,13 @@
             "match_five": [
                 0,
                 1
-            ],
-            "match_six": [
-                1,
-                2
             ]
         },
         "x_goals": {
+            "match_six": [
+                2.41,
+                1.37
+            ],
             "match_seven": [
                 0.67,
                 0.73
@@ -96,13 +102,13 @@
             "match_five": [
                 1.26,
                 0.9
-            ],
-            "match_six": [
-                0.18,
-                0.71
             ]
         },
         "corners": {
+            "match_six": [
+                4,
+                1
+            ],
             "match_seven": [
                 6,
                 3
@@ -126,13 +132,13 @@
             "match_five": [
                 9,
                 4
-            ],
-            "match_six": [
-                1,
-                7
             ]
         },
         "fouls": {
+            "match_six": [
+                19,
+                9
+            ],
             "match_seven": [
                 9,
                 13
@@ -156,13 +162,13 @@
             "match_five": [
                 5,
                 12
-            ],
-            "match_six": [
-                14,
-                8
             ]
         },
         "HT_cards": {
+            "match_six": [
+                1,
+                0
+            ],
             "match_seven": [
                 1,
                 1
@@ -186,13 +192,13 @@
             "match_five": [
                 0,
                 0
-            ],
-            "match_six": [
-                0,
-                0
             ]
         },
         "FT_cards": {
+            "match_six": [
+                3,
+                1
+            ],
             "match_seven": [
                 3,
                 2
@@ -216,10 +222,6 @@
             "match_five": [
                 2,
                 2
-            ],
-            "match_six": [
-                3,
-                0
             ]
         }
     }

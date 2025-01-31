@@ -6,13 +6,19 @@
     "pressing_style": "Medium-block pressing",
     "attacking_style": "Counter-attacking",
     "defensive_style": "Compact",
-    "aggressive_players": ["Kike Pérez"],
-    "provocative_players": ["Kike Pérez"],
+    "goal_scored_pg": 0.67,
+    "goals_concede_pg": 2,
+    "aggressive_players": ["Kike Perez", "Lucas Rosa", "Juanmi Latasa", "Mario Martin", "Stanko Juric"],
+    "provocative_players": ["Anuar Tuhami", "Marcos", "Andre", "Mario Martin"],
     "unavailable_attacking_players": [],
-    "win_form": ["L","W","L","W","L","L","L"],
-    "corner_form": ["W","L","L","L","D","L","L"],
+    "win_form": ["L","L","W","L","W","L","L"],
+    "corner_form": ["L","W","L","L","L","D","L"],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "Valladolid",
+                "Real Madrid"
+            ],
             "match_seven": [
                 "Espanyol",
                 "Valladolid"
@@ -36,13 +42,13 @@
             "match_five": [
                 "Valladolid",
                 "Atl. Madrid"
-            ],
-            "match_six": [
-                "Getafe",
-                "Valladolid"
             ]
         },
         "goals": {
+            "match_six": [
+                0,
+                3
+            ],
             "match_seven": [
                 2,
                 1
@@ -66,13 +72,13 @@
             "match_five": [
                 0,
                 5
-            ],
-            "match_six": [
-                2,
-                0
             ]
         },
         "x_goals": {
+            "match_six": [
+                0.19,
+                1.9
+            ],
             "match_seven": [
                 1.03,
                 1.24
@@ -96,13 +102,13 @@
             "match_five": [
                 0.47,
                 3.77
-            ],
-            "match_six": [
-                0.58,
-                0.98
             ]
         },
         "corners": {
+            "match_six": [
+                1,
+                7
+            ],
             "match_seven": [
                 1,
                 7
@@ -126,13 +132,13 @@
             "match_five": [
                 3,
                 5
-            ],
-            "match_six": [
-                3,
-                2
             ]
         },
         "fouls": {
+            "match_six": [
+                11,
+                12
+            ],
             "match_seven": [
                 13,
                 16
@@ -156,13 +162,13 @@
             "match_five": [
                 6,
                 11
-            ],
-            "match_six": [
-                15,
-                15
             ]
         },
         "HT_cards": {
+            "match_six": [
+                2,
+                1
+            ],
             "match_seven": [
                 1,
                 0
@@ -186,13 +192,13 @@
             "match_five": [
                 1,
                 1
-            ],
-            "match_six": [
-                1,
-                0
             ]
         },
         "FT_cards": {
+            "match_six": [
+                4,
+                3
+            ],
             "match_seven": [
                 2,
                 2
@@ -215,10 +221,6 @@
             ],
             "match_five": [
                 1,
-                2
-            ],
-            "match_six": [
-                3,
                 2
             ]
         }

@@ -7,13 +7,19 @@
     "pressing_style": "Aggressive",
     "attacking_style": "Attacking down the left; High crossing frequency; Frequent through ball attempts",
     "defensive_style": " ",
-    "aggressive_players": ["Youssef Maleh"],
-    "provocative_players": [],
+    "goal_scored_pg": 0.95,
+    "goals_concede_pg": 1.32,
+    "aggressive_players": ["Youssef Maleh","Liam Henderson","Jacopo Fazzini","Lorenzo Colombo","Pezzella"],
+    "provocative_players": ["Esposito","Jacopo Fazzini","Alberto Grassi"],
     "unavailable_attacking_players": [],
-    "win_form": ["L","L","D","L","L","L","W"],
-    "corner_form": ["L","W","W","W","L","W","W"],
+    "win_form": ["D","L","L","D","L","L","L"],
+    "corner_form": ["L","L","W","W","W","L","W"],
     "recent_matches": {
       "teams": {
+        "match_six": [
+                "Empoli",
+                "Bologna"
+            ],
         "match_seven": [
                 "Inter",
                 "Empoli"
@@ -37,13 +43,13 @@
           "match_five": [
               "Empoli",
               "Torino"
-          ],
-          "match_six": [
-              "Verona",
-              "Empoli"
           ]
       },
       "goals": {
+        "match_six": [
+                1,
+                1
+            ],
         "match_seven": [
                 3,
                 1
@@ -67,13 +73,13 @@
           "match_five": [
               0,
               1
-          ],
-          "match_six": [
-              1,
-              4
           ]
       },
       "x_goals": {
+        "match_six": [
+                0.69,
+                0.75
+            ],
         "match_seven": [
                 1.58,
                 0.27
@@ -97,13 +103,13 @@
           "match_five": [
               0.27,
               0.98
-          ],
-          "match_six": [
-              0.74,
-              1.28
           ]
       },
       "corners": {
+        "match_six": [
+                2,
+                4
+            ],
         "match_seven": [
                 7,
                 3
@@ -127,13 +133,13 @@
           "match_five": [
               12,
               3
-          ],
-          "match_six": [
-              5,
-              8
           ]
       },
       "fouls": {
+        "match_six": [
+                25,
+                13
+            ],
         "match_seven": [
             11,
             9
@@ -157,13 +163,13 @@
           "match_five": [
               7,
               15
-          ],
-          "match_six": [
-              15,
-              16
           ]
       },
       "HT_cards": {
+        "match_six": [
+                2,
+                0
+            ],
         "match_seven": [
                 0,
                 0
@@ -187,13 +193,13 @@
           "match_five": [
               0,
               2
-          ],
-          "match_six": [
-              2,
-              0
           ]
       },
       "FT_cards": {
+        "match_six": [
+                3,
+                0
+            ],
         "match_seven": [
                 0,
                 0
@@ -217,10 +223,6 @@
           "match_five": [
               2,
               3
-          ],
-          "match_six": [
-              2,
-              2
           ]
       }
   }

@@ -7,12 +7,18 @@
     "pressing_style": "Aggressive",
     "attacking_style": "Attack through the middle; Attacking down the left; ",
     "defensive_style": " ",
-    "aggressive_players": ["Carlos Balepa","Noom Quomah"],
-    "provocative_players": ["Joao Pedro", "Joel Veltman","Facundo Buonanotte"],
-    "win_form": ["W","W","D","D","D","D","L"],
-    "corner_form": ["L","W","L","L","W","L","W"],
+    "goal_scored_pg": 1.52,
+    "goals_concede_pg": 1.34,
+    "aggressive_players": [ ],
+    "provocative_players": ["Joao Pedro", "Joel Veltman","Georgino Rutter","Carlos Baleba"],
+    "win_form": ["L","W","W","D","D","D","D"],
+    "corner_form": ["W","L","W","L","L","W","L"],
     "recent_matches": {
         "teams": {
+            "match_five": [
+                "Brighton",
+                "Everton"
+            ],
             "match_six": [
                 "Manchester Utd",
                 "Brighton"
@@ -36,13 +42,13 @@
             "match_four": [
                 "West Ham",
                 "Brighton"
-            ],
-            "match_five": [
-                "Brighton",
-                "Crystal Palace"
             ]
         },
         "goals": {
+            "match_five": [
+                0,
+                1
+            ],
             "match_six": [
                 1,
                 3
@@ -66,13 +72,13 @@
             "match_four": [
                 1,
                 1
-            ],
-            "match_five": [
-                1,
-                3
             ]
         },
         "x_goals": {
+            "match_five": [
+                0.75,
+                0.87
+            ],
             "match_six": [
                 1.41,
                 1.98
@@ -96,13 +102,13 @@
             "match_four": [
                 1.6,
                 0.91
-            ],
-            "match_five": [
-                0.81,
-                2.4
             ]
         },
         "corners": {
+            "match_five": [
+                9,
+                1
+            ],
             "match_six": [
                 4,
                 2
@@ -126,13 +132,13 @@
             "match_four": [
                 8,
                 4
-            ],
-            "match_five": [
-                8,
-                5
             ]
         },
         "fouls": {
+            "match_five": [
+                8,
+                11
+            ],
             "match_six": [
                 13,
                 12
@@ -156,13 +162,13 @@
             "match_four": [
                 14,
                 20
-            ],
-            "match_five": [
-                11,
-                15
             ]
         },
         "HT_cards": {
+            "match_five": [
+                2,
+                2
+            ],
             "match_six": [
                 0,
                 2
@@ -186,13 +192,13 @@
             "match_four": [
                 2,
                 1
-            ],
-            "match_five": [
-                1,
-                1
             ]
         },
         "FT_cards": {
+            "match_five": [
+                4,
+                4
+            ],
             "match_six": [
                 3,
                 3
@@ -216,10 +222,6 @@
             "match_four": [
                 2,
                 2
-            ],
-            "match_five": [
-                1,
-                4
             ]
         }
     }

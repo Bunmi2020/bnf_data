@@ -7,12 +7,18 @@
     "pressing_style": "Medium block",
     "attacking_style": "Attack through the middle; Frequent through ball attempts",
     "defensive_style": "High Line; Use offside positioning",
-    "aggressive_players": ["John McGinn"],
-    "provocative_players": ["John McGinn", "Ezri Konsa","Ollie Watkins","Douglas Luiz","Enzo Barrenechea","Amadou Onana"],
-    "win_form": ["D","W","W","D","L","W","L"],
-    "corner_form": ["L","L","W","W","L","W","L"],
+    "goal_scored_pg": 1.47,
+    "goals_concede_pg": 1.52,
+    "aggressive_players": ["Morgan Rogers", "Amadou Onana"],
+    "provocative_players": ["John McGinn","Youri Tielemans"],
+    "win_form": ["D","D","W","W","D","L","W"],
+    "corner_form": ["W","L","L","W","W","L","W"],
     "recent_matches": {
         "teams": {
+            "match_five": [
+                "Aston Villa",
+                "West Ham"
+            ],
             "match_six": [
                 "Arsenal",
                 "Aston Villa"
@@ -36,13 +42,13 @@
             "match_four": [
                 "Aston Villa",
                 "Manchester City"
-            ],
-            "match_five": [
-                "Nottingham",
-                "Aston Villa"
             ]
         },
         "goals": {
+            "match_five": [
+                1,
+                1
+            ],
             "match_six": [
                 2,
                 2
@@ -66,13 +72,13 @@
             "match_four": [
                 2,
                 1
-            ],
-            "match_five": [
-                2,
-                1
             ]
         },
         "x_goals": {
+            "match_five": [
+                0.79,
+                1.39
+            ],
             "match_six": [
                 1.55,
                 1.06
@@ -96,13 +102,13 @@
             "match_four": [
                 1.41,
                 1.03
-            ],
-            "match_five": [
-                1.65,
-                0.44
             ]
         },
         "corners": {
+            "match_five": [
+                4,
+                3
+            ],
             "match_six": [
                 10,
                 1
@@ -126,13 +132,13 @@
             "match_four": [
                 5,
                 4
-            ],
-            "match_five": [
-                4,
-                3
             ]
         },
         "fouls": {
+            "match_five": [
+                13,
+                16
+            ],
             "match_six": [
                 10,
                 18
@@ -156,13 +162,13 @@
             "match_four": [
                 14,
                 7
-            ],
-            "match_five": [
-                12,
-                5
             ]
         },
         "HT_cards": {
+            "match_five": [
+                1,
+                1
+            ],
             "match_six": [
                 0,
                 1
@@ -186,13 +192,13 @@
             "match_four": [
                 2,
                 0
-            ],
-            "match_five": [
-                0,
-                0
             ]
         },
         "FT_cards": {
+            "match_five": [
+                2,
+                3
+            ],
             "match_six": [
                 2,
                 3
@@ -216,10 +222,6 @@
             "match_four": [
                 3,
                 3
-            ],
-            "match_five": [
-                0,
-                1
             ]
         }
     }

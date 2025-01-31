@@ -6,13 +6,19 @@
     "pressing_style": "Aggressive",
     "attacking_style": "Attacking down the left; Frequent through ball attempts",
     "defensive_style": " ",
-    "aggressive_players": ["Nicolò Rovella"],
-    "provocative_players": ["Mattia Zaccagni","Matteo Cancellieri"],
+    "goal_scored_pg": 0.77,
+    "goals_concede_pg": 1.37,
+    "aggressive_players": ["Nicolò Rovella","Castellanos"],
+    "provocative_players": ["Mattia Zaccagni","Cancellieri","Manuel Lazzari","Nuno Tavares"],
     "unavailable_attacking_players": [],
-    "win_form": ["W","D","L","D","W","L","W"],
-    "corner_form": ["W","D","W","L","D","W","L"],
+    "win_form": ["L","W","D","L","D","W","L"],
+    "corner_form": ["W","W","D","W","L","D","W"],
     "recent_matches": {
       "teams": {
+        "match_six": [
+                "Lazio",
+                "Fiorentina"
+            ],
         "match_seven": [
                 "Verona",
                 "Lazio"
@@ -36,13 +42,13 @@
           "match_five": [
               "Lazio",
               "Inter"
-          ],
-          "match_six": [
-              "Napoli",
-              "Lazio"
           ]
       },
       "goals": {
+        "match_six": [
+                1,
+                2
+            ],
         "match_seven": [
                 0,
                 3
@@ -66,13 +72,13 @@
           "match_five": [
               0,
               6
-          ],
-          "match_six": [
-              0,
-              1
           ]
       },
       "x_goals": {
+        "match_six": [
+                1.43,
+                0.59
+            ],
         "match_seven": [
                 1.31,
                 1.45
@@ -96,13 +102,13 @@
           "match_five": [
               0.41,
               2.13
-          ],
-          "match_six": [
-              0.6,
-              0.26
           ]
       },
       "corners": {
+        "match_six": [
+                14,
+                2
+            ],
         "match_seven": [
                 5,
                 6
@@ -126,13 +132,13 @@
           "match_five": [
               4,
               2
-          ],
-          "match_six": [
-              6,
-              2
           ]
       },
       "fouls": {
+        "match_six": [
+                9,
+                12
+            ],
         "match_seven": [
                 10,
                 8
@@ -156,13 +162,13 @@
           "match_five": [
               7,
               14
-          ],
-          "match_six": [
-              16,
-              12
           ]
       },
       "HT_cards": {
+        "match_six": [
+                0,
+                0
+            ],
         "match_seven": [
                 1,
                 1
@@ -186,13 +192,13 @@
           "match_five": [
               1,
               3
-          ],
-          "match_six": [
-              0,
-              2
           ]
       },
       "FT_cards": {
+        "match_six": [
+                1,
+                5
+            ],
         "match_seven": [
                 7,
                 2
@@ -216,10 +222,6 @@
           "match_five": [
               2,
               4
-          ],
-          "match_six": [
-              2,
-              3
           ]
       }
   }

@@ -1,18 +1,24 @@
 {
     "name": "Valencia",
-"coach": "Rubén Baraja",
-"team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/valencia.png",
-"playing_style": "Wide play; Long balls; Plays in own half",
-"pressing_style": "Non-aggressive",
-"attacking_style": "Attacking down the right; Take long shots; ",
-"defensive_style": "Compact",
-"aggressive_players": ["Hugo Guillamón","Pepelu","Thierry Correia"],
-"provocative_players": ["Hugo Duro"],
-"unavailable_attacking_players": [],
-"win_form": ["W","D","L","D","D","L","L"],
-"corner_form": ["L","W","L","W","W","W","W"],
-"recent_matches": {
+    "coach": "Rubén Baraja",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/valencia.png",
+    "playing_style": "Wide play; Long balls; Plays in own half",
+    "pressing_style": "Non-aggressive",
+    "attacking_style": "Attacking down the right; Take long shots; ",
+    "defensive_style": "Compact",
+    "goal_scored_pg": 0.95,
+    "goals_concede_pg": 0.81,
+    "aggressive_players": ["Cesar Tarrega","Thierry Correia"],
+    "provocative_players": ["Hugo Duro"],
+    "unavailable_attacking_players": [],
+    "win_form": ["L","W","D","L","D","D","L"],
+    "corner_form": ["L","L","W","L","W","W","W"],
+    "recent_matches": {
         "teams": {
+            "match_six": [
+                "Barcelona",
+                "Valencia"
+            ],
             "match_seven": [
                 "Valencia",
                 "Real Sociedad"
@@ -36,13 +42,13 @@
             "match_five": [
                 "Valladolid",
                 "Valencia"
-            ],
-            "match_six": [
-                "Valencia",
-                "Rayo Vallecano"
             ]
         },
         "goals": {
+            "match_six": [
+                7,
+                1
+            ],
             "match_seven": [
                 1,
                 0
@@ -66,13 +72,13 @@
             "match_five": [
                 1,
                 0
-            ],
-            "match_six": [
-                0,
-                1
             ]
         },
         "x_goals": {
+            "match_six": [
+                4.38,
+                1.43
+            ],
             "match_seven": [
                 1.64,
                 0.81
@@ -96,13 +102,13 @@
             "match_five": [
                 0.55,
                 0.81
-            ],
-            "match_six": [
-                1.26,
-                0.9
             ]
         },
         "corners": {
+            "match_six": [
+                14,
+                4
+            ],
             "match_seven": [
                 4,
                 7
@@ -126,13 +132,13 @@
             "match_five": [
                 1,
                 7
-            ],
-            "match_six": [
-                9,
-                4
             ]
         },
         "fouls": {
+            "match_six": [
+                10,
+                12
+            ],
             "match_seven": [
                 10,
                 12
@@ -156,13 +162,13 @@
             "match_five": [
                 10,
                 10
-            ],
-            "match_six": [
-                5,
-                12
             ]
         },
         "HT_cards": {
+            "match_six": [
+                0,
+                0
+            ],
             "match_seven": [
                 0,
                 1
@@ -186,13 +192,13 @@
             "match_five": [
                 0,
                 1
-            ],
-            "match_six": [
-                0,
-                0
             ]
         },
         "FT_cards": {
+            "match_six": [
+                0,
+                1
+            ],
             "match_seven": [
                 3,
                 4
@@ -216,10 +222,6 @@
             "match_five": [
                 5,
                 3
-            ],
-            "match_six": [
-                2,
-                2
             ]
         }
     }

@@ -7,12 +7,18 @@
     "pressing_style": " ",
     "attacking_style": "High shot volume; Wide paly; Take long shots",
     "defensive_style": "Compact",
-    "aggressive_players": ["Jordan Ayew","Jefferson Lerma","Joachim","Andersen","Will Hughes","Daichi Kamada"],
-    "provocative_players": ["Eberechi Eze", "Jordan Ayew","Ismaïla Sarr"],
-    "win_form": ["W","W","D","W","D","L","W"],
-    "corner_form": ["W","L","D","W","L","D","W"],
+    "goal_scored_pg": 1.13,
+    "goals_concede_pg": 1.3,
+    "aggressive_players": ["Will Hughes","Daniel Munoz"],
+    "provocative_players": ["Eberechi Eze"],
+    "win_form": ["L","W","W","D","W","D","L"],
+    "corner_form": ["L","W","L","D","W","L","D"],
     "recent_matches": {
         "teams": {
+            "match_five": [
+                "Crystal Palace",
+                "Brentford"
+            ],
             "match_six": [
                 "West Ham",
                 "Crystal Palace"
@@ -36,13 +42,13 @@
             "match_four": [
                 "Crystal Palace",
                 "Arsenal"
-            ],
-            "match_five": [
-                "Brighton",
-                "Crystal Palace"
             ]
         },
         "goals": {
+            "match_five": [
+                1,
+                2
+            ],
             "match_six": [
                 0,
                 2
@@ -66,13 +72,13 @@
             "match_four": [
                 1,
                 5
-            ],
-            "match_five": [
-                1,
-                3
             ]
         },
         "x_goals": {
+            "match_five": [
+                1.09,
+                1.68
+            ],
             "match_six": [
                 0.3,
                 1.31
@@ -96,13 +102,13 @@
             "match_four": [
                 1.72,
                 2.88
-            ],
-            "match_five": [
-                0.81,
-                2.4
             ]
         },
         "corners": {
+            "match_five": [
+                4,
+                7
+            ],
             "match_six": [
                 2,
                 4
@@ -126,13 +132,13 @@
             "match_four": [
                 3,
                 3
-            ],
-            "match_five": [
-                8,
-                5
             ]
         },
         "fouls": {
+            "match_five": [
+                8,
+                11
+            ],
             "match_six": [
                 13,
                 10
@@ -156,13 +162,13 @@
             "match_four": [
                 9,
                 8
-            ],
-            "match_five": [
-                11,
-                15
             ]
         },
         "HT_cards": {
+            "match_five": [
+                1,
+                0
+            ],
             "match_six": [
                 1,
                 0
@@ -186,13 +192,13 @@
             "match_four": [
                 0,
                 2
-            ],
-            "match_five": [
-                1,
-                1
             ]
         },
         "FT_cards": {
+            "match_five": [
+                2,
+                2
+            ],
             "match_six": [
                 1,
                 0
@@ -216,10 +222,6 @@
             "match_four": [
                 2,
                 2
-            ],
-            "match_five": [
-                1,
-                4
             ]
         }
     }

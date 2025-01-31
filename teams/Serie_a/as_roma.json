@@ -6,13 +6,19 @@
     "pressing_style": "Aggressive",
     "attacking_style": "Attack through the middle",
     "defensive_style": " ",
-    "aggressive_players": ["Bryan Cristante","Gianluca Mancini"],
-    "provocative_players": ["Paulo Dybala","Matías Soulé"],
+    "goal_scored_pg": 1.5,
+    "goals_concede_pg": 1.27,
+    "aggressive_players": ["Gianluca Mancini"],
+    "provocative_players": ["Paulo Dybala","Matías Soulé","Manu Kone"],
     "unavailable_attacking_players": [],
-    "win_form": ["W","D","W","D","W","L","W"],
-    "corner_form": ["W","L","L","L","W","L","W"],
+    "win_form": ["W","W","D","W","D","W","L"],
+    "corner_form": ["W","W","L","L","L","W","L"],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "Udinese",
+                "AS Roma"
+            ],
             "match_seven": [
                 "AS Roma",
                 "Genoa"
@@ -36,13 +42,13 @@
             "match_five": [
                 "Como",
                 "AS Roma"
-            ],
-            "match_six": [
-                "AS Roma",
-                "Lecce"
             ]
         },
         "goals": {
+            "match_six": [
+                1,
+                2
+            ],
             "match_seven": [
                 3,
                 1
@@ -66,13 +72,13 @@
             "match_five": [
                 2,
                 0
-            ],
-            "match_six": [
-                4,
-                1
             ]
         },
         "x_goals": {
+            "match_six": [
+                0.59,
+                2.88
+            ],
             "match_seven": [
                 1.51,
                 0.5
@@ -96,13 +102,13 @@
             "match_five": [
                 1.07,
                 0.59
-            ],
-            "match_six": [
-                1.92,
-                0.92
             ]
         },
         "corners": {
+            "match_six": [
+                1,
+                5
+            ],
             "match_seven": [
                 3,
                 2
@@ -126,13 +132,13 @@
             "match_five": [
                 6,
                 5
-            ],
-            "match_six": [
-                8,
-                1
             ]
         },
         "fouls": {
+            "match_six": [
+                15,
+                12
+            ],
             "match_seven": [
                 12,
                 12
@@ -156,13 +162,13 @@
             "match_five": [
                 18,
                 17
-            ],
-            "match_six": [
-                5,
-                14
             ]
         },
         "HT_cards": {
+            "match_six": [
+                0,
+                2
+            ],
             "match_seven": [
                 0,
                 1
@@ -186,13 +192,13 @@
             "match_five": [
                 1,
                 0
-            ],
-            "match_six": [
-                1,
-                0
             ]
         },
         "FT_cards": {
+            "match_six": [
+                2,
+                2
+            ],
             "match_seven": [
                 1,
                 1
@@ -216,10 +222,6 @@
             "match_five": [
                 6,
                 1
-            ],
-            "match_six": [
-                2,
-                3
             ]
         }
     }

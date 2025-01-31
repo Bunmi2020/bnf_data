@@ -6,13 +6,19 @@
     "pressing_style": " ",
     "attacking_style": "Attacking down the left",
     "defensive_style": "Aggressive",
+    "goal_scored_pg": 1.2,
+    "goals_concede_pg": 1.8,
     "aggressive_players": ["Ermedin Demirovic","Kevin Mbabu","Mads Pedersen"],
     "provocative_players": ["Elvis Rexhbeçaj"],
     
-    "win_form": ["W","W","L", "L", "L", "D", "W"],
-    "corner_form": ["L","L","L", "W", "L", "L", "W"],
+    "win_form": ["W","W","W","L", "L", "L", "D"],
+    "corner_form": ["W","L","L","L", "W", "L", "L"],
     "recent_matches": {
         "teams": {
+            "match_five": [
+                "Augsburg",
+                "Heidenheim"
+            ],
             "match_six": [
                 "Werder Bremen",
                 "Augsburg"
@@ -36,13 +42,13 @@
             "match_four": [
                 "Eintracht Frankfurt",
                 "Augsburg"
-            ],
-            "match_five": [
-                "Augsburg",
-                "Bochum"
             ]
         },
         "goals": {
+            "match_five": [
+                2,
+                1
+            ],
             "match_six": [
                 0,
                 2
@@ -63,13 +69,13 @@
             "match_four": [
                 2,
                 2
-            ],
-            "match_five": [
-                1,
-                0
             ]
         },
         "x_goals": {
+            "match_five": [
+                1.09,
+                1.01
+            ],
             "match_six": [
                 1.35,
                 0.83
@@ -93,13 +99,13 @@
             "match_four": [
                 1.6,
                 0.57
-            ],
-            "match_five": [
-                1.91,
-                0.28
             ]
         },
         "corners": {
+            "match_five": [
+                6,
+                4
+            ],
             "match_six": [
                 6,
                 2
@@ -123,13 +129,13 @@
             "match_four": [
                 4,
                 0
-            ],
-            "match_five": [
-                6,
-                1
             ]
         },
         "fouls": {
+            "match_five": [
+                8,
+                9
+            ],
             "match_six": [
                 8,
                 14
@@ -153,13 +159,13 @@
             "match_four": [
                 17,
                 9
-            ],
-            "match_five": [
-                8,
-                22
             ]
         },
         "HT_cards": {
+            "match_five": [
+                0,
+                0
+            ],
             "match_six": [
                 0,
                 0
@@ -183,13 +189,13 @@
             "match_four": [
                 1,
                 1
-            ],
-            "match_five": [
-                2,
-                0
             ]
         },
         "FT_cards": {
+            "match_five": [
+                1,
+                0
+            ],
             "match_six": [
                 0,
                 0
@@ -213,10 +219,6 @@
             "match_four": [
                 2,
                 2
-            ],
-            "match_five": [
-                3,
-                3
             ]
         }
     }
