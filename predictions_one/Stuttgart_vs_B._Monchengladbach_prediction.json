@@ -1,0 +1,25 @@
+{
+    "fixture": "Stuttgart vs B. Monchengladbach",
+    "day": "saturday",
+    "prediction": {
+        "cards": {
+            "discuss": "",
+            "ht": "- The data does not strongly indicate a clear outcome. Some values may conflict or be borderline.",
+            "ft": "Over 2.5 bookings - The head-to-head full-time card average (4.2) is above 2.5, along with both home (7.142857142857143) and away (2.7142857142857144) teams. The referee issues more than 3.3 yellow cards per game (3.68), and the foul-to-tackle ratio (0.6) is very high (> 0.8)."
+        },
+        "corners": {
+            "discuss": "",
+            "full_time_total_corners": "Over 8.5 corners - The head-to-head average (8.8) and team averages (Home: 9.285714285714286, Away: 11.857142857142858) are all above 8.5. Standard deviations indicate sufficient variability in corner counts (> 1), and at least one team has decent form in winning corners (home: 4, away: 4).",
+            "win_corners": "The data does not strongly indicate a clear outcome, with conflicting or borderline values."
+        },
+        "goals": {
+            "discuss": "",
+            "Both_teams_to_score": "<span className='bold'>Yes </span><br />- (Historical BTTS rate exceeds 60%, and at least one team is in strong form. Goals per game stats indicate an open match.)",
+            "fulltime_total_goals": "<span className='bold'>Over 1.5 goals </span><br />- Most fixtures exceed at least 1.5 goals, and the statistical indicators suggest that at least two goals are highly probable given the teams' offensive and defensive tendencies."
+        },
+        "win_draw": {
+            "discuss": "",
+            "win_or_draw": "<span className='bold'>Home win or draw (1X)</span><br /> - The home team has a superior head-to-head record and has been in better recent form, winning more games than the away team. Their ability to secure results at home strengthens their case for avoiding defeat."
+        }
+    }
+}
