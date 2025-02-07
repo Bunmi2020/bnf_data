@@ -1,0 +1,227 @@
+{
+        
+    "name": "Angers",
+    "coach": "Alexandre Dujeux",
+    "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/angers.png",
+    "playing_style": "Counter-Attack",
+    "pressing_style": "Mid-Block",
+    "attacking_style": "Direct Play",
+    "defensive_style": "Compact",
+    "goal_scored_pg": 1.1,
+    "goals_concede_pg": 1.45,
+    "aggressive_players": [ "Jean-Eudes Aholou", "Himad Abdelli", "Carlens Arcus"],
+    "provocative_players": ["Farid el Melali"],
+    "win_form": ["D","L","W","W","W","L","L"],
+    "corner_form": ["W","W","W","W","L","W","D"],
+    "unavailable_attacking_players": [""],
+    "recent_matches": {
+        "teams": {
+            "match_seven": [
+                "Angers",
+                "Le Havre"
+            ],
+            "match_one": [
+                "Lens",
+                "Angers"
+            ],
+            "match_two": [
+                "Angers",
+                "Auxerre"
+            ],
+            "match_three": [
+                "Montpellier",
+                "Angers"
+            ],
+            "match_four": [
+                "Angers",
+                "Brest"
+            ],
+            "match_five": [
+                "Rennes",
+                "Angers"
+            ],
+            "match_six": [
+                "Angers",
+                "Lyon"
+            ]
+        },
+        "goals": {
+            "match_seven": [
+                1,
+                1
+            ],
+            "match_one": [
+                1,
+                0
+            ],
+            "match_two": [
+                2,
+                0
+            ],
+            "match_three": [
+                1,
+                3
+            ],
+            "match_four": [
+                2,
+                0
+            ],
+            "match_five": [
+                2,
+                0
+            ],
+            "match_six": [
+                0,
+                3
+            ]
+        },
+        "x_goals": {
+            "match_seven": [
+                1.54,
+                2.07
+            ],
+            "match_one": [
+                1.88,
+                0.15
+            ],
+            "match_two": [
+                0.87,
+                0.51
+            ],
+            "match_three": [
+                1.3,
+                3.14
+            ],
+            "match_four": [
+                1.56,
+                0.87
+            ],
+            "match_five": [
+                0.61,
+                0.36
+            ],
+            "match_six": [
+                0.51,
+                1.31
+            ]
+        },
+        "corners": {
+            "match_seven": [
+                4,
+                2
+            ],
+            "match_one": [
+                4,
+                4
+            ],
+            "match_two": [
+                4,
+                2
+            ],
+            "match_three": [
+                3,
+                3
+            ],
+            "match_four": [
+                2,
+                4
+            ],
+            "match_five": [
+                2,
+                1
+            ],
+            "match_six": [
+                2,
+                7
+            ]
+        },
+        "fouls": {
+            "match_seven": [
+                8,
+                19
+            ],
+            "match_one": [
+                16,
+                10
+            ],
+            "match_two": [
+                9,
+                10
+            ],
+            "match_three": [
+                11,
+                15
+            ],
+            "match_four": [
+                14,
+                11
+            ],
+            "match_five": [
+                18,
+                12
+            ],
+            "match_six": [
+                13,
+                13
+            ]
+        },
+        "HT_cards": {
+            "match_seven": [
+                2,
+                3
+            ],
+            "match_one": [
+                0,
+                0
+            ],
+            "match_two": [
+                1,
+                1
+            ],
+            "match_three": [
+                2,
+                0
+            ],
+            "match_four": [
+                2,
+                1
+            ],
+            "match_five": [
+                1,
+                0
+            ],
+            "match_six": [
+                0,
+                1
+            ]
+        },
+        "FT_cards": {
+            "match_seven": [
+                3,
+                5
+            ],
+            "match_one": [0,0],
+            "match_two": [
+                2,
+                2
+            ],
+            "match_three": [
+                8,
+                2
+            ],
+            "match_four": [
+                2,
+                1
+            ],
+            "match_five": [
+                3,
+                1
+            ],
+            "match_six": [
+                0,
+                2
+            ]
+        }
+    }
+  
+  }
