@@ -10,10 +10,14 @@
     "goals_concede_pg": 1.8,
     "aggressive_players": ["Mattias Svanberg","Sebastiaan Bornauw","Lucas Tousart"],
     "provocative_players": ["Kevin Paredes","Maximilian Arnold"],
-    "win_form": ["D","L","W","W","L","L","W"],
-    "corner_form": ["W","L","L","W","W","W","L"],
+    "win_form": ["D","D","L","W","W","L","L"],
+    "corner_form": ["L","W","L","L","W","W","W"],
     "recent_matches": {
         "teams": {
+            "match_four": [
+                "E. Frankfurt",
+                "Wolfsburg"
+            ],
             "match_five": [
                 "Wolfsburg",
                 "Holstein Kiel"
@@ -37,13 +41,13 @@
             "match_three": [
                 "Freiburg",
                 "Wolfsburg"
-            ],
-            "match_four": [
-                "Wolfsburg",
-                "Mainz"
             ]
         },
         "goals": {
+            "match_four": [
+                1,
+                1
+            ],
             "match_five": [
                 2,
                 2
@@ -67,13 +71,13 @@
             "match_three": [
                 3,
                 2
-            ],
-            "match_four": [
-                4,
-                3
             ]
         },
         "x_goals": {
+            "match_four": [
+                1.28,
+                1.21
+            ],
             "match_five": [
                 2.09,
                 0.27
@@ -97,13 +101,13 @@
             "match_three": [
                 2.14,
                 1.67
-            ],
-            "match_four": [
-                1.23,
-                2.34
             ]
         },
         "corners": {
+            "match_four": [
+                9,
+                1
+            ],
             "match_five": [
                 10,
                 3
@@ -127,13 +131,13 @@
             "match_three": [
                 5,
                 6
-            ],
-            "match_four": [
-                3,
-                5
             ]
         },
         "fouls": {
+            "match_four": [
+                8,
+                8
+            ],
             "match_five": [
                 9,
                 10
@@ -157,13 +161,13 @@
             "match_three": [
                 11,
                 3
-            ],
-            "match_four": [
-                10,
-                15
             ]
         },
         "HT_cards": {
+            "match_four": [
+                0,
+                1
+            ],
             "match_five": [
                 0,
                 1
@@ -187,13 +191,13 @@
             "match_three": [
                 2,
                 0
-            ],
-            "match_four": [
-                2,
-                2
             ]
         },
         "FT_cards": {
+            "match_four": [
+                1,
+                3
+            ],
             "match_five": [
                 2,
                 4
@@ -217,10 +221,6 @@
             "match_three": [
                 4,
                 1
-            ],
-            "match_four": [
-                3,
-                4
             ]
         }
     }

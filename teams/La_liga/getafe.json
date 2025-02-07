@@ -11,10 +11,14 @@
     "aggressive_players": ["Christantus Uche", "Bertug Yildirim", "Carles Perez", "Alvaro Rodriguez", "Allan Nyom"],
     "provocative_players": ["Christantus Uche", "Diego Rico", "Luis Milla", "Alex Sola"],
     "unavailable_attacking_players": [" "],
-    "win_form": ["W","D","W","L","L","W","L"],
-    "corner_form": ["L","L","W","W","L","D","L"],
+    "win_form": ["D","W","D","W","L","L","W"],
+    "corner_form": ["W","L","L","W","W","L","D"],
     "recent_matches": {
         "teams": {
+            "match_five": [
+                "Getafe",
+                "Sevilla"
+            ],
             "match_six": [
                 "Real Sociedad",
                 "Getafe"
@@ -38,13 +42,13 @@
             "match_four": [
                 "Getafe",
                 "Espanyol"
-            ],
-            "match_five": [
-                "Real Madrid",
-                "Getafe"
             ]
         },
         "goals": {
+            "match_five": [
+                0,
+                0
+            ],
             "match_six": [
                 0,
                 3
@@ -68,13 +72,13 @@
             "match_four": [
                 1,
                 0
-            ],
-            "match_five": [
-                2,
-                0
             ]
         },
         "x_goals": {
+            "match_five": [
+                0.68,
+                0.84
+            ],
             "match_six": [
                 0.98,
                 1.22
@@ -98,13 +102,13 @@
             "match_four": [
                 0.37,
                 0.79
-            ],
-            "match_five": [
-                2.58,
-                0.4
             ]
         },
         "corners": {
+            "match_five": [
+                6,
+                5
+            ],
             "match_six": [
                 5,
                 2
@@ -128,13 +132,13 @@
             "match_four": [
                 3,
                 3
-            ],
-            "match_five": [
-                5,
-                3
             ]
         },
         "fouls": {
+            "match_five": [
+                15,
+                12
+            ],
             "match_six": [
                 11,
                 15
@@ -158,13 +162,13 @@
             "match_four": [
                 14,
                 15
-            ],
-            "match_five": [
-                7,
-                26
             ]
         },
         "HT_cards": {
+            "match_five": [
+                3,
+                2
+            ],
             "match_six": [
                 1,
                 2
@@ -188,13 +192,13 @@
             "match_four": [
                 2,
                 1
-            ],
-            "match_five": [
-                1,
-                1
             ]
         },
         "FT_cards": {
+            "match_five": [
+                4,
+                6
+            ],
             "match_six": [
                 3,
                 6
@@ -217,10 +221,6 @@
             ],
             "match_four": [
                 3,
-                6
-            ],
-            "match_five": [
-                2,
                 6
             ]
         }

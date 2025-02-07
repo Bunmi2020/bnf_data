@@ -10,10 +10,14 @@
     "goals_concede_pg": 1.1,
     "aggressive_players": [ ],
     "provocative_players": [ ],
-    "win_form": ["W","W","L","L","W","L","L"],
-    "corner_form": ["L","D","W","D","L","L","L"],
+    "win_form": ["D","W","W","L","L","W","L"],
+    "corner_form": ["W","L","D","W","D","L","L"],
     "recent_matches": {
         "teams": {
+            "match_four": [
+                "St. Pauli",
+                "Augsburg"
+            ],
             "match_five": [
                 "St. Pauli",
                 "Union Berlin"
@@ -28,7 +32,7 @@
             ],
             "match_one": [
                 "St. Pauli",
-                "Eintracht Frankfurt"
+                "E. Frankfurt"
             ],
             "match_two": [
                 "Stuttgart",
@@ -37,13 +41,13 @@
             "match_three": [
                 "St. Pauli",
                 "Werder Bremen"
-            ],
-            "match_four": [
-                "Bayer Leverkusen",
-                "St. Pauli"
             ]
         },
         "goals": {
+            "match_four": [
+                1,
+                1
+            ],
             "match_five": [
                 3,
                 0
@@ -67,13 +71,13 @@
             "match_three": [
                 0,
                 2
-            ],
-            "match_four": [
-                2,
-                1
             ]
         },
         "x_goals": {
+            "match_four": [
+                0.49,
+                0.32
+            ],
             "match_five": [
                 1.23,
                 0.88
@@ -97,13 +101,13 @@
             "match_three": [
                 0.36,
                 0.97
-            ],
-            "match_four": [
-                0.92,
-                1.42
             ]
         },
         "corners": {
+            "match_four": [
+                3,
+                1
+            ],
             "match_five": [
                 5,
                 7
@@ -127,13 +131,13 @@
             "match_three": [
                 4,
                 5
-            ],
-            "match_four": [
-                7,
-                4
             ]
         },
         "fouls": {
+            "match_four": [
+                16,
+                18
+            ],
             "match_five": [
                 6,
                 15
@@ -157,13 +161,13 @@
             "match_three": [
                 10,
                 9
-            ],
-            "match_four": [
-                8,
-                10
             ]
         },
         "HT_cards": {
+            "match_four": [
+                0,
+                0
+            ],
             "match_five": [
                 0,
                 1
@@ -187,13 +191,13 @@
             "match_three": [
                 0,
                 3
-            ],
-            "match_four": [
-                1,
-                1
             ]
         },
         "FT_cards": {
+            "match_four": [
+                1,
+                3
+            ],
             "match_five": [
                 0,
                 3
@@ -216,10 +220,6 @@
             ],
             "match_three": [
                 2,
-                3
-            ],
-            "match_four": [
-                1,
                 3
             ]
         }

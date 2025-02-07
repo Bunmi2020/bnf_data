@@ -10,16 +10,20 @@
     "goals_concede_pg": 1.53,
     "aggressive_players": ["Jordan Siebatcheu", "Ko Itakura", "Manu Koné"],
     "provocative_players": ["Manu Koné","Joe Scally"],
-    "win_form": ["W","L","L","L","W","W","D"],
-    "corner_form": ["W","L","W","L","L","W","W"],
+    "win_form": ["W","W","L","L","L","W","W"],
+    "corner_form": ["L","W","L","W","L","L","W"],
     "recent_matches": {
         "teams": {
+            "match_four": [
+                "Stuttgart",
+                "B. Monchengladbach"
+            ],
             "match_five": [
                 "B. Monchengladbach",
                 "Bochum"
             ],
             "match_six": [
-                "Bayer Leverkusen",
+                "B. Leverkusen",
                 "B. Monchengladbach"
             ],
             "match_seven": [
@@ -37,13 +41,13 @@
             "match_three": [
                 "B. Monchengladbach",
                 "Holstein Kiel"
-            ],
-            "match_four": [
-                "B. Monchengladbach",
-                "Dortmund"
             ]
         },
         "goals": {
+            "match_four": [
+                1,
+                2
+            ],
             "match_five": [
                 3,
                 0
@@ -67,13 +71,13 @@
             "match_three": [
                 4,
                 1
-            ],
-            "match_four": [
-                1,
-                1
             ]
         },
         "x_goals": {
+            "match_four": [
+                1.16,
+                1.7
+            ],
             "match_five": [
                 2.39,
                 0.58
@@ -97,13 +101,13 @@
             "match_three": [
                 2.47,
                 0.37
-            ],
-            "match_four": [
-                1.09,
-                1.32
             ]
         },
         "corners": {
+            "match_four": [
+                2,
+                0
+            ],
             "match_five": [
                 8,
                 7
@@ -127,13 +131,13 @@
             "match_three": [
                 5,
                 2
-            ],
-            "match_four": [
-                7,
-                4
             ]
         },
         "fouls": {
+            "match_four": [
+                11,
+                11
+            ],
             "match_five": [
                 6,
                 15
@@ -157,13 +161,13 @@
             "match_three": [
                 10,
                 14
-            ],
-            "match_four": [
-                16,
-                11
             ]
         },
         "HT_cards": {
+            "match_four": [
+                0,
+                1
+            ],
             "match_five": [
                 1,
                 0
@@ -187,13 +191,13 @@
             "match_three": [
                 0,
                 0
-            ],
-            "match_four": [
-                1,
-                0
             ]
         },
         "FT_cards": {
+            "match_four": [
+                2,
+                2
+            ],
             "match_five": [
                 1,
                 3
@@ -214,10 +218,6 @@
             "match_three": [
                 1,
                 1
-            ],
-            "match_four": [
-                4,
-                2
             ]
         }
     }

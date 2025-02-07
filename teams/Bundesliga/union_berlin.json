@@ -10,10 +10,14 @@
     "goals_concede_pg": 1.42,
     "aggressive_players": ["Lucas Tousart","Diogo Leite","Rani Khedira"],
     "provocative_players": [ ],
-    "win_form": ["L","W","L","L","L","D","L"],
-    "corner_form": ["W","D","W","L","W","W","W"],
+    "win_form": ["D","L","W","L","L","L","D"],
+    "corner_form": ["L","W","D","W","L","W","W"],
     "recent_matches": {
         "teams": {
+            "match_four": [
+                "Union Berlin",
+                "RB Leipzig"
+            ],
             "match_five": [
                 "St. Pauli",
                 "Union Berlin"
@@ -37,13 +41,13 @@
             "match_three": [
                 "Union Berlin",
                 "Bochum"
-            ],
-            "match_four": [
-                "Stuttgart",
-                "Union Berlin"
             ]
         },
         "goals": {
+            "match_four": [
+                0,
+                0
+            ],
             "match_five": [
                 3,
                 0
@@ -67,13 +71,13 @@
             "match_three": [
                 1,
                 1
-            ],
-            "match_four": [
-                3,
-                2
             ]
         },
         "x_goals": {
+            "match_four": [
+                1.37,
+                0.24
+            ],
             "match_five": [
                 1.23,
                 0.88
@@ -97,13 +101,13 @@
             "match_three": [
                 2.01,
                 0.92
-            ],
-            "match_four": [
-                2.03,
-                1.47
             ]
         },
         "corners": {
+            "match_four": [
+                4,
+                5
+            ],
             "match_five": [
                 5,
                 7
@@ -127,13 +131,13 @@
             "match_three": [
                 7,
                 6
-            ],
-            "match_four": [
-                1,
-                6
             ]
         },
         "fouls": {
+            "match_four": [
+                5,
+                12
+            ],
             "match_five": [
                 6,
                 15
@@ -157,13 +161,13 @@
             "match_three": [
                 11,
                 9
-            ],
-            "match_four": [
-                14,
-                19
             ]
         },
         "HT_cards": {
+            "match_four": [
+                1,
+                0
+            ],
             "match_five": [
                 0,
                 1
@@ -185,15 +189,15 @@
                 2
             ],
             "match_three": [
-                1,
-                1
-            ],
-            "match_four": [
                 1,
                 1
             ]
         },
         "FT_cards": {
+            "match_four": [
+                3,
+                2
+            ],
             "match_five": [
                 0,
                 3
@@ -217,10 +221,6 @@
             "match_three": [
                 2,
                 3
-            ],
-            "match_four": [
-                1,
-                6
             ]
         }
     }

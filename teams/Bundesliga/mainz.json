@@ -10,10 +10,14 @@
     "goals_concede_pg": 1.21,
     "aggressive_players": ["Leandro Barreiro","Dominik Kohr","Phillipp Mwene","Karim Onisiwo"],
     "provocative_players": ["Karim Onisiwo","Jonathan Burkardt","Brajan Gruda","Leandro Barreiro"],
-    "win_form": ["W","L","L","W","W","W","L"],
-    "corner_form": ["W","D","L","L","L","W","W"],
+    "win_form": ["L","W","L","L","W","W","W"],
+    "corner_form": ["W","W","D","L","L","L","W"],
     "recent_matches": {
         "teams": {
+            "match_four": [
+                "Werder Bremen",
+                "Mainz"
+            ],
             "match_five": [
                 "Mainz",
                 "Stuttgart"
@@ -23,7 +27,7 @@
                 "Mainz"
             ],
             "match_seven": [
-                "Bayer Leverkusen",
+                "B. Leverkusen",
                 "Mainz"
             ],
             "match_one": [
@@ -31,19 +35,19 @@
                 "Bochum"
             ],
             "match_two": [
-                "Eintracht Frankfurt",
+                "E. Frankfurt",
                 "Mainz"
             ],
             "match_three": [
                 "Mainz",
                 "Bayern Munich"
-            ],
-            "match_four": [
-                "Wolfsburg",
-                "Mainz"
             ]
         },
         "goals": {
+            "match_four": [
+                1,
+                0
+            ],
             "match_five": [
                 2,
                 0
@@ -64,13 +68,13 @@
             "match_three": [
                 2,
                 1
-            ],
-            "match_four": [
-                4,
-                3
             ]
         },
         "x_goals": {
+            "match_four": [
+                2.68,
+                1.24
+            ],
             "match_five": [
                 1.89,
                 1.08
@@ -94,13 +98,13 @@
             "match_three": [
                 0.84,
                 1.48
-            ],
-            "match_four": [
-                1.23,
-                2.34
             ]
         },
         "corners": {
+            "match_four": [
+                3,
+                8
+            ],
             "match_five": [
                 9,
                 2
@@ -124,13 +128,13 @@
             "match_three": [
                 3,
                 2
-            ],
-            "match_four": [
-                3,
-                5
             ]
         },
         "fouls": {
+            "match_four": [
+                14,
+                13
+            ],
             "match_five": [
                 12,
                 8
@@ -154,13 +158,13 @@
             "match_three": [
                 21,
                 12
-            ],
-            "match_four": [
-                10,
-                15
             ]
         },
         "HT_cards": {
+            "match_four": [
+                2,
+                2
+            ],
             "match_five": [
                 4,
                 0
@@ -184,13 +188,13 @@
             "match_three": [
                 0,
                 0
-            ],
-            "match_four": [
-                2,
-                2
             ]
         },
         "FT_cards": {
+            "match_four": [
+                10,
+                3
+            ],
             "match_five": [
                 4,
                 3
@@ -214,10 +218,6 @@
             "match_three": [
                 3,
                 2
-            ],
-            "match_four": [
-                3,
-                4
             ]
         }
     }
