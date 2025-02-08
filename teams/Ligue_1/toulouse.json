@@ -7,16 +7,20 @@
     "pressing_style": "Aggressive",
     "attacking_style": "Attacking down the right",
     "defensive_style": " ",
-    "goal_scored_pg": 1.91,
-    "goals_concede_pg": 0.91,
-    "aggressive_players": [ "Kai Havertz"],
-    "provocative_players": ["Bukayo Saka"],
-    "win_form": ["W","D","W","D","W","W","W"],
-    "corner_form": ["W","W","W","W","L","W","D"],
+    "goal_scored_pg": 1.05,
+    "goals_concede_pg": 1.1,
+    "aggressive_players": ["Cristian Casseres", "Zakaria Aboukhlal", "Aron Donnum"],
+    "provocative_players": ["Yann Gboho", "Aron Donnum", "Cristian Casseres"],
+    "win_form": ["D","L","D","L","W","W","L"],
+    "corner_form": ["W","W","L","W","L","L","W"],
     "unavailable_attacking_players": [],
     
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Toulouse",
+                "Nice"
+            ],
             "match_one": [
                 "Toulouse",
                 "Montpellier"
@@ -40,13 +44,13 @@
             "match_six": [
                 "Monaco",
                 "Toulouse"
-            ],
-            "match_seven": [
-                "Toulouse",
-                "Auxerre"
             ]
         },
         "goals": {
+            "match_seven": [
+                1,
+                1
+            ],
             "match_one": [
                 1,
                 2
@@ -70,13 +74,13 @@
             "match_six": [
                 2,
                 0
-            ],
-            "match_seven": [
-                2,
-                0
             ]
         },
         "x_goals": {
+            "match_seven": [
+                1.39,
+                1.67
+            ],
             "match_one": [
                 1.0,
                 0.59
@@ -100,13 +104,13 @@
             "match_six": [
                 2.92,
                 0.38
-            ],
-            "match_seven": [
-                2.17,
-                0.08
             ]
         },
         "corners": {
+            "match_seven": [
+                7,
+                2
+            ],
             "match_one": [
                 6,
                 2
@@ -130,13 +134,13 @@
             "match_six": [
                 2,
                 3
-            ],
-            "match_seven": [
-                6,
-                2
             ]
         },
         "fouls": {
+            "match_seven": [
+                20,
+                20
+            ],
             "match_one": [
                 9,
                 15
@@ -160,13 +164,13 @@
             "match_six": [
                 15,
                 16
-            ],
-            "match_seven": [
-                14,
-                12
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                0,
+                0
+            ],
             "match_one": [
                 0,
                 2
@@ -190,13 +194,13 @@
             "match_six": [
                 0,
                 1
-            ],
-            "match_seven": [
-                0,
-                0
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                2,
+                2
+            ],
             "match_one": [
                 1,
                 2
@@ -220,8 +224,7 @@
             "match_six": [
                 2,
                 2
-            ],
-            "match_seven": [0,0]
+            ]
         }
     }
   

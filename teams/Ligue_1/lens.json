@@ -7,15 +7,19 @@
     "pressing_style": "Aggressive",
     "attacking_style": "High crossing frequency; Attacking down the right",
     "defensive_style": " ",
-    "goal_scored_pg": 1.91,
-    "goals_concede_pg": 0.91,
-    "aggressive_players": [ "Kai Havertz"],
-    "provocative_players": ["Bukayo Saka"],
-    "win_form": ["W","D","W","D","W","W","W"],
-    "corner_form": ["W","W","W","W","L","W","D"],
+    "goal_scored_pg": 1.25,
+    "goals_concede_pg": 0.9,
+    "aggressive_players": ["Kevin Danso", "Lascary", "Thomasson", "Jonathan Gradit", "M’Bala Nzola", "Andy Diouf"],
+    "provocative_players": ["Angelo Fulgini"],
+    "win_form": ["W","W","L","W","L","D","W"],
+    "corner_form": ["W","D","W","W","W","W","W"],
     "unavailable_attacking_players": [],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Montpellier",
+                "Lens"
+            ],
             "match_one": [
                 "Lens",
                 "Angers"
@@ -39,13 +43,13 @@
             "match_six": [
                 "Lens",
                 "Montpellier"
-            ],
-            "match_seven": [
-                "Reims",
-                "Lens"
             ]
         },
         "goals": {
+            "match_seven": [
+                0,
+                2
+            ],
             "match_one": [
                 1,
                 0
@@ -69,13 +73,13 @@
             "match_six": [
                 2,
                 0
-            ],
-            "match_seven": [
-                0,
-                2
             ]
         },
         "x_goals": {
+            "match_seven": [
+                0.83,
+                2.08
+            ],
             "match_one": [
                 1.88,
                 0.15
@@ -99,13 +103,13 @@
             "match_six": [
                 1.23,
                 1.1
-            ],
-            "match_seven": [
-                0.81,
-                1.02
             ]
         },
         "corners": {
+            "match_seven": [
+                4,
+                5
+            ],
             "match_one": [
                 4,
                 4
@@ -129,13 +133,13 @@
             "match_six": [
                 6,
                 3
-            ],
-            "match_seven": [
-                3,
-                1
             ]
         },
         "fouls": {
+            "match_seven": [
+                12,
+                17
+            ],
             "match_one": [
                 16,
                 10
@@ -159,13 +163,13 @@
             "match_six": [
                 15,
                 7
-            ],
-            "match_seven": [
-                14,
-                12
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                1,
+                2
+            ],
             "match_one": [
                 0,
                 0
@@ -189,14 +193,14 @@
             "match_six": [
                 0,
                 1
-            ],
-            "match_seven": [
-                1,
-                1
             ]
         },
         "FT_cards": {
-            "match_one": [],
+            "match_seven": [
+                4,
+                3
+            ],
+            "match_one": [0,0],
             "match_two": [
                 2,
                 2
@@ -216,10 +220,6 @@
             "match_six": [
                 2,
                 3
-            ],
-            "match_seven": [
-                1,
-                2
             ]
         }
     }

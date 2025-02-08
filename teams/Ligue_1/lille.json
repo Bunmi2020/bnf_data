@@ -7,15 +7,19 @@
     "pressing_style": "Non-aggressive",
     "attacking_style": "Take long shots; Attack through the middle",
     "defensive_style": "High Line; Use offside positioning",
-    "goal_scored_pg": 1.91,
-    "goals_concede_pg": 0.91,
+    "goal_scored_pg": 1.65,
+    "goals_concede_pg": 1,
     "aggressive_players": [ "Kai Havertz"],
-    "provocative_players": ["Bukayo Saka"],
-    "win_form": ["W","D","W","D","W","W","W"],
-    "corner_form": ["W","W","W","W","L","W","D"],
+    "provocative_players": ["Benjamin Abdre", "Gudmundsson"],
+    "win_form": ["W","L","W","D","D","D","W"],
+    "corner_form": ["W","W","D","W","W","W","W"],
     "unavailable_attacking_players": [],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Lille",
+                "St Etienne"
+            ],
             "match_one": [
                 "Strasbourg",
                 "Lille"
@@ -42,6 +46,10 @@
             ]
         },
         "goals": {
+            "match_seven": [
+                4,
+                1
+            ],
             "match_one": [
                 2,
                 1
@@ -68,6 +76,10 @@
             ]
         },
         "x_goals": {
+            "match_seven": [
+                3.41,
+                2.11
+            ],
             "match_one": [
                 1.06,
                 1.58
@@ -94,6 +106,10 @@
             ]
         },
         "corners": {
+            "match_seven": [
+                7,
+                1
+            ],
             "match_one": [
                 6,
                 7
@@ -120,6 +136,10 @@
             ]
         },
         "fouls": {
+            "match_seven": [
+                11,
+                12
+            ],
             "match_one": [
                 10,
                 9
@@ -146,6 +166,10 @@
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                0,
+                0
+            ],
             "match_one": [
                 2,
                 1
@@ -172,6 +196,10 @@
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                0,
+                0
+            ],
             "match_one": [
                 4,
                 2

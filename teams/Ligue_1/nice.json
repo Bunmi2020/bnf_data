@@ -7,15 +7,19 @@
     "pressing_style": " ",
     "attacking_style": "Attack through the middle",
     "defensive_style": " ",
-    "goal_scored_pg": 1.91,
-    "goals_concede_pg": 0.91,
-    "aggressive_players": [ "Kai Havertz"],
-    "provocative_players": ["Bukayo Saka"],
-    "win_form": ["W","D","W","D","W","W","W"],
-    "corner_form": ["W","W","W","W","L","W","D"],
+    "goal_scored_pg": 1.95,
+    "goals_concede_pg": 1.3,
+    "aggressive_players": [ "Hicham Boudaoui", "Evann Guessand"],
+    "provocative_players": ["Hicham Boudaoui", "Evann Guessand", "Mohamed-Ali Cho", "Ndombele"],
+    "win_form": ["D","W","L","W","W","D","W"],
+    "corner_form": ["L","L","D","L","D","L","L"],
     "unavailable_attacking_players": [],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Toulouse",
+                "Nice"
+            ],
             "match_one": [
                 "Nice",
                 "Marseille"
@@ -42,6 +46,10 @@
             ]
         },
         "goals": {
+            "match_seven": [
+                1,
+                1
+            ],
             "match_one": [
                 2,
                 0
@@ -68,6 +76,10 @@
             ]
         },
         "x_goals": {
+            "match_seven": [
+                1.39,
+                1.67
+            ],
             "match_one": [
                 1.13,
                 0.82
@@ -94,6 +106,10 @@
             ]
         },
         "corners": {
+            "match_seven": [
+                7,
+                2
+            ],
             "match_one": [
                 6,
                 12
@@ -120,6 +136,10 @@
             ]
         },
         "fouls": {
+            "match_seven": [
+                20,
+                20
+            ],
             "match_one": [
                 12,
                 9
@@ -146,6 +166,10 @@
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                0,
+                0
+            ],
             "match_one": [
                 0,
                 0
@@ -172,6 +196,10 @@
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                2,
+                2
+            ],
             "match_one": [
                 1,
                 1

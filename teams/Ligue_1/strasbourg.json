@@ -7,16 +7,20 @@
     "pressing_style": " ",
     "attacking_style": "Attacking down the right; Take long shots; Frequent through ball attempts",
     "defensive_style": "High Line; Use offside positioning",
-    "goal_scored_pg": 1.91,
-    "goals_concede_pg": 0.91,
-    "aggressive_players": [ "Kai Havertz"],
-    "provocative_players": ["Bukayo Saka"],
-    "win_form": ["W","D","W","D","W","W","W"],
-    "corner_form": ["W","W","W","W","L","W","D"],
+    "goal_scored_pg": 1.05,
+    "goals_concede_pg": 1.1,
+    "aggressive_players": [ "Emanuel Emegha", "Mamadou Sarr", "Guela Doue"],
+    "provocative_players": ["Dilane Bakwa", "Andrey Santos", "Habib Diarra", "Emanuel Emegha"],
+    "win_form": ["L","W","D","W","W","W","D"],
+    "corner_form": ["L","L","L","L","W","L","W"],
     "unavailable_attacking_players": [],
     
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Rennes",
+                "Strasbourg"
+            ],
             "match_one": [
                 "Strasbourg",
                 "Lille"
@@ -40,13 +44,13 @@
             "match_six": [
                 "Strasbourg",
                 "Reims"
-            ],
-            "match_seven": [
-                "Brest",
-                "Strasbourg"
             ]
         },
         "goals": {
+            "match_seven": [
+                1,
+                0
+            ],
             "match_one": [
                 2,
                 1
@@ -70,13 +74,13 @@
             "match_six": [
                 0,
                 0
-            ],
-            "match_seven": [
-                3,
-                1
             ]
         },
         "x_goals": {
+            "match_seven": [
+                0.93,
+                1.19
+            ],
             "match_one": [
                 1.06,
                 1.58
@@ -100,13 +104,13 @@
             "match_six": [
                 0.51,
                 0.96
-            ],
-            "match_seven": [
-                2.57,
-                0.49
             ]
         },
         "corners": {
+            "match_seven": [
+                6,
+                2
+            ],
             "match_one": [
                 6,
                 7
@@ -130,13 +134,13 @@
             "match_six": [
                 3,
                 2
-            ],
-            "match_seven": [
-                4,
-                3
             ]
         },
         "fouls": {
+            "match_seven": [
+                14,
+                10
+            ],
             "match_one": [
                 10,
                 9
@@ -160,13 +164,13 @@
             "match_six": [
                 13,
                 16
-            ],
-            "match_seven": [
-                15,
-                8
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                1,
+                0
+            ],
             "match_one": [
                 2,
                 1
@@ -190,13 +194,13 @@
             "match_six": [
                 1,
                 1
-            ],
-            "match_seven": [
-                3,
-                1
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                3,
+                3
+            ],
             "match_one": [
                 4,
                 2
@@ -219,10 +223,6 @@
             ],
             "match_six": [
                 1,
-                2
-            ],
-            "match_seven": [
-                3,
                 2
             ]
         }

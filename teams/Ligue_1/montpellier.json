@@ -7,15 +7,19 @@
     "pressing_style": "Aggressive",
     "attacking_style": "Attacking down the right; High shot volume; Take long shots; High crossing frequency",
     "defensive_style": " ",
-    "goal_scored_pg": 1.91,
-    "goals_concede_pg": 0.91,
-    "aggressive_players": [ "Kai Havertz"],
-    "provocative_players": ["Bukayo Saka"],
-    "win_form": ["W","D","W","D","W","W","W"],
-    "corner_form": ["W","W","W","W","L","W","D"],
+    "goal_scored_pg": 1,
+    "goals_concede_pg": 2.3,
+    "aggressive_players": ["Rabby Nzingoula", "Modibo Sagnan"],
+    "provocative_players": ["Arnaud Nordin", "Teji Savanier", "Rabby Nzingoula", "Al Ta’mari"],
+    "win_form": ["L","W","W","L","L","D","L"],
+    "corner_form": ["L","L","L","D","W","W","L"],
     "unavailable_attacking_players": [],
     "recent_matches": {
         "teams": {
+            "match_seven": [
+                "Montpellier",
+                "Lens"
+            ],
             "match_one": [
                 "Toulouse",
                 "Montpellier"
@@ -39,13 +43,13 @@
             "match_six": [
                 "Lens",
                 "Montpellier"
-            ],
-            "match_seven": [
-                "Montpellier",
-                "Lille"
             ]
         },
         "goals": {
+            "match_seven": [
+                0,
+                2
+            ],
             "match_one": [
                 1,
                 2
@@ -69,13 +73,13 @@
             "match_six": [
                 2,
                 0
-            ],
-            "match_seven": [
-                2,
-                2
             ]
         },
         "x_goals": {
+            "match_seven": [
+                0.83,
+                2.08
+            ],
             "match_one": [
                 1.0,
                 0.59
@@ -99,13 +103,13 @@
             "match_six": [
                 1.23,
                 1.1
-            ],
-            "match_seven": [
-                1.45,
-                2.36
             ]
         },
         "corners": {
+            "match_seven": [
+                4,
+                5
+            ],
             "match_one": [
                 6,
                 2
@@ -129,13 +133,13 @@
             "match_six": [
                 6,
                 3
-            ],
-            "match_seven": [
-                7,
-                2
             ]
         },
         "fouls": {
+            "match_seven": [
+                12,
+                17
+            ],
             "match_one": [
                 9,
                 15
@@ -159,13 +163,13 @@
             "match_six": [
                 15,
                 7
-            ],
-            "match_seven": [
-                9,
-                21
             ]
         },
         "HT_cards": {
+            "match_seven": [
+                1,
+                2
+            ],
             "match_one": [
                 0,
                 2
@@ -189,13 +193,13 @@
             "match_six": [
                 0,
                 1
-            ],
-            "match_seven": [
-                2,
-                1
             ]
         },
         "FT_cards": {
+            "match_seven": [
+                4,
+                3
+            ],
             "match_one": [
                 1,
                 2
@@ -219,10 +223,6 @@
             "match_six": [
                 2,
                 3
-            ],
-            "match_seven": [
-                5,
-                6
             ]
         }
     }    

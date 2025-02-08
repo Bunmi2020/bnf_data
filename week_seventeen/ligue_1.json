@@ -1233,5 +1233,4422 @@
                 "win_or_draw": "Away win or draw (X2) \n-\n- The away team has a stronger record both in head-to-head and recent matches. \n Their consistency in securing wins, even away from home, suggests they are unlikely to lose."
             }
         }
+    },
+    {
+        "fixture": "Nice vs Lens",
+        "league":"🇫🇷 Ligue 1",
+        "day": "saturday",
+        "position": [5,6],
+        "type_of_match": "Regular",
+        "referee": {
+        "name": "Romain L.",
+        "fouls_per_tackle": 0.84,
+        "yellow_per_game": 3.72
+        },
+        "head_to_head": {
+            "win_form": [["D","W","W","W","D"],["D","L","L","L","D"]],
+              "corner_form": [["L","L","W","L","L"],["W","W","L","W","W"]],
+            "teams": {
+                "match_one": [
+                    "Lens",
+                    "Nice"
+                ],
+                "match_two": [
+                    "Lens",
+                    "Nice"
+                ],
+                "match_three": [
+                    "Nice",
+                    "Lens"
+                ],
+                "match_four": [
+                    "Lens",
+                    "Nice"
+                ],
+                "match_five": [
+                    "Nice",
+                    "Lens"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    0,
+                    0
+                ],
+                "match_two": [
+                    1,
+                    3
+                ],
+                "match_three": [
+                    2,
+                    0
+                ],
+                "match_four": [
+                    0,
+                    1
+                ],
+                "match_five": [
+                    0,
+                    0
+                ]
+            },
+            "x_goals": {
+                "match_one": [
+                    1.61,
+                    0.8
+                ],
+                "match_two": [
+                    0.91,
+                    1.97
+                ],
+                "match_three": [
+                    2.69,
+                    0.49
+                ],
+                "match_four": [],
+                "match_five": []
+            },
+            "corners": {
+                "match_one": [
+                    11,
+                    4
+                ],
+                "match_two": [
+                    11,
+                    3
+                ],
+                "match_three": [
+                    5,
+                    6
+                ],
+                "match_four": [
+                    5,
+                    3
+                ],
+                "match_five": [
+                    4,
+                    6
+                ]
+            },
+            "fouls": {
+                "match_one": [
+                    16,
+                    7
+                ],
+                "match_two": [
+                    9,
+                    12
+                ],
+                "match_three": [
+                    14,
+                    11
+                ],
+                "match_four": [
+                    12,
+                    8
+                ],
+                "match_five": [
+                    11,
+                    18
+                ]
+            },
+            "HT_cards": {
+                "match_one": [
+                    0,
+                    1
+                ],
+                "match_two": [
+                    1,
+                    1
+                ],
+                "match_three": [
+                    1,
+                    0
+                ],
+                "match_four": [
+                    0,
+                    0
+                ],
+                "match_five": [
+                    0,
+                    1
+                ]
+            },
+            "FT_cards": {
+                "match_one": [
+                    4,
+                    2
+                ],
+                "match_two": [
+                    4,
+                    3
+                ],
+                "match_three": [
+                    2,
+                    2
+                ],
+                "match_four": [
+                    0,
+                    2
+                ],
+                "match_five": [
+                    2,
+                    3
+                ]
+            }
+        },
+        "home_team": {
+            
+            "name": "Nice",
+            "coach": "Franck Haise",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/nice.png",
+            "playing_style": "Short passes;Deep positioning ",
+            "pressing_style": " ",
+            "attacking_style": "Attack through the middle",
+            "defensive_style": " ",
+            "goal_scored_pg": 1.95,
+            "goals_concede_pg": 1.3,
+            "aggressive_players": [ "Hicham Boudaoui", "Evann Guessand"],
+            "provocative_players": ["Hicham Boudaoui", "Evann Guessand", "Mohamed-Ali Cho", "Ndombele"],
+            "win_form": ["D","W","L","W","W","D","W"],
+            "corner_form": ["L","L","D","L","D","L","L"],
+            "unavailable_attacking_players": [],
+            "recent_matches": {
+                "teams": {
+                    "match_seven": [
+                        "Toulouse",
+                        "Nice"
+                    ],
+                    "match_one": [
+                        "Nice",
+                        "Marseille"
+                    ],
+                    "match_two": [
+                        "Lille",
+                        "Nice"
+                    ],
+                    "match_three": [
+                        "Reims",
+                        "Nice"
+                    ],
+                    "match_four": [
+                        "Nice",
+                        "Rennes"
+                    ],
+                    "match_five": [
+                        "Montpellier",
+                        "Nice"
+                    ],
+                    "match_six": [
+                        "Nice",
+                        "Le Havre"
+                    ]
+                },
+                "goals": {
+                    "match_seven": [
+                        1,
+                        1
+                    ],
+                    "match_one": [
+                        2,
+                        0
+                    ],
+                    "match_two": [
+                        2,
+                        1
+                    ],
+                    "match_three": [
+                        2,
+                        4
+                    ],
+                    "match_four": [
+                        3,
+                        2
+                    ],
+                    "match_five": [
+                        2,
+                        2
+                    ],
+                    "match_six": [
+                        2,
+                        1
+                    ]
+                },
+                "x_goals": {
+                    "match_seven": [
+                        1.39,
+                        1.67
+                    ],
+                    "match_one": [
+                        1.13,
+                        0.82
+                    ],
+                    "match_two": [
+                        1.02,
+                        2.87
+                    ],
+                    "match_three": [
+                        0.8,
+                        2.41
+                    ],
+                    "match_four": [
+                        0.78,
+                        1.44
+                    ],
+                    "match_five": [
+                        2.23,
+                        1.12
+                    ],
+                    "match_six": [
+                        2.0,
+                        1.02
+                    ]
+                },
+                "corners": {
+                    "match_seven": [
+                        7,
+                        2
+                    ],
+                    "match_one": [
+                        6,
+                        12
+                    ],
+                    "match_two": [
+                        7,
+                        7
+                    ],
+                    "match_three": [
+                        6,
+                        3
+                    ],
+                    "match_four": [
+                        3,
+                        3
+                    ],
+                    "match_five": [
+                        9,
+                        4
+                    ],
+                    "match_six": [
+                        5,
+                        8
+                    ]
+                },
+                "fouls": {
+                    "match_seven": [
+                        20,
+                        20
+                    ],
+                    "match_one": [
+                        12,
+                        9
+                    ],
+                    "match_two": [
+                        13,
+                        13
+                    ],
+                    "match_three": [
+                        12,
+                        7
+                    ],
+                    "match_four": [
+                        11,
+                        14
+                    ],
+                    "match_five": [
+                        15,
+                        13
+                    ],
+                    "match_six": [
+                        10,
+                        10
+                    ]
+                },
+                "HT_cards": {
+                    "match_seven": [
+                        0,
+                        0
+                    ],
+                    "match_one": [
+                        0,
+                        0
+                    ],
+                    "match_two": [
+                        1,
+                        1
+                    ],
+                    "match_three": [
+                        1,
+                        1
+                    ],
+                    "match_four": [
+                        1,
+                        1
+                    ],
+                    "match_five": [
+                        0,
+                        1
+                    ],
+                    "match_six": [
+                        0,
+                        0
+                    ]
+                },
+                "FT_cards": {
+                    "match_seven": [
+                        2,
+                        2
+                    ],
+                    "match_one": [
+                        1,
+                        1
+                    ],
+                    "match_two": [
+                        1,
+                        3
+                    ],
+                    "match_three": [
+                        4,
+                        2
+                    ],
+                    "match_four": [
+                        4,
+                        3
+                    ],
+                    "match_five": [
+                        1,
+                        2
+                    ],
+                    "match_six": [
+                        3,
+                        2
+                    ]
+                }
+            }
+          
+          },
+        "away_team": {
+            
+            "name": "Lens",
+            "coach": "Will Still",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/lens.png",
+            "playing_style": "High territorial control",
+            "pressing_style": "Aggressive",
+            "attacking_style": "High crossing frequency; Attacking down the right",
+            "defensive_style": " ",
+            "goal_scored_pg": 1.25,
+            "goals_concede_pg": 0.9,
+            "aggressive_players": ["Kevin Danso", "Lascary", "Thomasson", "Jonathan Gradit", "M’Bala Nzola", "Andy Diouf"],
+            "provocative_players": ["Angelo Fulgini"],
+            "win_form": ["W","W","L","W","L","D","W"],
+            "corner_form": ["W","D","W","W","W","W","W"],
+            "unavailable_attacking_players": [],
+            "recent_matches": {
+                "teams": {
+                    "match_seven": [
+                        "Montpellier",
+                        "Lens"
+                    ],
+                    "match_one": [
+                        "Lens",
+                        "Angers"
+                    ],
+                    "match_two": [
+                        "Lens",
+                        "PSG"
+                    ],
+                    "match_three": [
+                        "Le Havre",
+                        "Lens"
+                    ],
+                    "match_four": [
+                        "Lens",
+                        "Toulouse"
+                    ],
+                    "match_five": [
+                        "Auxerre",
+                        "Lens"
+                    ],
+                    "match_six": [
+                        "Lens",
+                        "Montpellier"
+                    ]
+                },
+                "goals": {
+                    "match_seven": [
+                        0,
+                        2
+                    ],
+                    "match_one": [
+                        1,
+                        0
+                    ],
+                    "match_two": [
+                        1,
+                        2
+                    ],
+                    "match_three": [
+                        1,
+                        2
+                    ],
+                    "match_four": [
+                        0,
+                        1
+                    ],
+                    "match_five": [
+                        2,
+                        2
+                    ],
+                    "match_six": [
+                        2,
+                        0
+                    ]
+                },
+                "x_goals": {
+                    "match_seven": [
+                        0.83,
+                        2.08
+                    ],
+                    "match_one": [
+                        1.88,
+                        0.15
+                    ],
+                    "match_two": [
+                        0.64,
+                        1.22
+                    ],
+                    "match_three": [
+                        1.84,
+                        2.68
+                    ],
+                    "match_four": [
+                        1.42,
+                        2.19
+                    ],
+                    "match_five": [
+                        0.57,
+                        1.46
+                    ],
+                    "match_six": [
+                        1.23,
+                        1.1
+                    ]
+                },
+                "corners": {
+                    "match_seven": [
+                        4,
+                        5
+                    ],
+                    "match_one": [
+                        4,
+                        4
+                    ],
+                    "match_two": [
+                        6,
+                        1
+                    ],
+                    "match_three": [
+                        3,
+                        8
+                    ],
+                    "match_four": [
+                        7,
+                        1
+                    ],
+                    "match_five": [
+                        3,
+                        5
+                    ],
+                    "match_six": [
+                        6,
+                        3
+                    ]
+                },
+                "fouls": {
+                    "match_seven": [
+                        12,
+                        17
+                    ],
+                    "match_one": [
+                        16,
+                        10
+                    ],
+                    "match_two": [
+                        12,
+                        8
+                    ],
+                    "match_three": [
+                        11,
+                        14
+                    ],
+                    "match_four": [
+                        20,
+                        12
+                    ],
+                    "match_five": [
+                        10,
+                        10
+                    ],
+                    "match_six": [
+                        15,
+                        7
+                    ]
+                },
+                "HT_cards": {
+                    "match_seven": [
+                        1,
+                        2
+                    ],
+                    "match_one": [
+                        0,
+                        0
+                    ],
+                    "match_two": [
+                        1,
+                        1
+                    ],
+                    "match_three": [
+                        1,
+                        1
+                    ],
+                    "match_four": [
+                        2,
+                        1
+                    ],
+                    "match_five": [
+                        1,
+                        0
+                    ],
+                    "match_six": [
+                        0,
+                        1
+                    ]
+                },
+                "FT_cards": {
+                    "match_seven": [
+                        4,
+                        3
+                    ],
+                    "match_one": [0,0],
+                    "match_two": [
+                        2,
+                        2
+                    ],
+                    "match_three": [
+                        2,
+                        2
+                    ],
+                    "match_four": [
+                        6,
+                        2
+                    ],
+                    "match_five": [
+                        3,
+                        1
+                    ],
+                    "match_six": [
+                        2,
+                        3
+                    ]
+                }
+            }
+          },
+        "prediction": {
+            "cards": {
+                "discuss": "",
+                "ht": "Under 2.5 bookings \n-\n- The historical head-to-head card count is low, and both teams have relatively mild aggression levels. \n- The referee's yellow card issuance rate is below 3.5, and recent halftime averages for both teams remain under 2.",
+                "ft": "Over 3.5 bookings \n-\n- The historical head-to-head full-time card average exceeds 3.5, with both home and away teams' full-time card average also considerable high. \n- Additionally, the referee issues more than 3.5 yellow cards per game, and the foul-to-tackle ratio is high. \n Both teams have a high number of aggressive or provocative players, increasing the likelihood of bookings."
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Over 8.5 corners \n-\n- The head-to-head average and team averages for home and away teams are all above 8.5. \n Standard deviations indicate sufficient variability in corner counts, and at least one team has decent form in winning corners.",
+                "win_corners": "Lens \n-\n- The away team has a better head-to-head corner form, a better recent corner form, has won more than 3 recent corner battles, has won more than 2 head-to-head corner battles, and has an average corner total above 8."
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": "-Too many inconsistency in the data to make a clear prediction.",
+                "fulltime_total_goals": "Under 3.5 goals \n-\n- The data indicates that goal-scoring trends lean towards a moderate or low goal count, with teams struggling to generate consistent attacking output. \n Defensive discipline and lack of high-scoring encounters suggest that the match will remain under 3.5 goals."
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "Home win or draw (1X) \n-\n- The home team has a better league standing, suggesting they have been more consistent, and their recent form supports a positive result."
+            }
+        }
+    },
+    {
+        "fixture": "Lille vs Le Havre",
+        "league":"🇫🇷 Ligue 1",
+        "day": "saturday",
+        "position": [4,18],
+        "type_of_match": "Regular",
+        "referee": {
+        "name": "Thomas L.",
+        "fouls_per_tackle": 0.60,
+        "yellow_per_game": 3.84
+        },
+        "head_to_head": {
+            "win_form": [["W","W","W"],["L","L","L"]],
+              "corner_form": [["W","L","D"],["L","W","D"]],
+            "teams": {
+                "match_one": [
+                    "Le Havre",
+                    "Lille"
+                ],
+                "match_two": [
+                    "Lille",
+                    "Le Havre"
+                ],
+                "match_three": [
+                    "Le Havre",
+                    "Lille"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    0,
+                    3
+                ],
+                "match_two": [
+                    3,
+                    0
+                ],
+                "match_three": [
+                    0,
+                    2
+                ]
+            },
+            "x_goals": {
+                "match_one": [
+                    0.59,
+                    4.14
+                ],
+                "match_two": [
+                    3.87,
+                    0.63
+                ],
+                "match_three": [
+                    0.86,
+                    1.1
+                ],
+                "match_four": []
+            },
+            "corners": {
+                "match_one": [
+                    1,
+                    5
+                ],
+                "match_two": [
+                    1,
+                    3
+                ],
+                "match_three": [
+                    6,
+                    6
+                ]
+            },
+            "fouls": {
+                "match_one": [
+                    11,
+                    9
+                ],
+                "match_two": [
+                    11,
+                    17
+                ],
+                "match_three": [
+                    18,
+                    6
+                ]
+            },
+            "HT_cards": {
+                "match_one": [
+                    1,
+                    0
+                ],
+                "match_two": [
+                    1,
+                    1
+                ],
+                "match_three": [
+                    0,
+                    0
+                ]
+            },
+            "FT_cards": {
+                "match_one": [
+                    2,
+                    1
+                ],
+                "match_two": [
+                    2,
+                    3
+                ],
+                "match_three": [0,0]
+            }
+        },
+        "home_team": {
+            
+            "name": "Lille",
+            "coach": "Bruno Génésio",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/lille.png",
+            "playing_style": "Short passes; Ball retention; Draws fouls",
+            "pressing_style": "Non-aggressive",
+            "attacking_style": "Take long shots; Attack through the middle",
+            "defensive_style": "High Line; Use offside positioning",
+            "goal_scored_pg": 1.65,
+            "goals_concede_pg": 1,
+            "aggressive_players": [ "Kai Havertz"],
+            "provocative_players": ["Benjamin Abdre", "Gudmundsson"],
+            "win_form": ["W","L","W","D","D","D","W"],
+            "corner_form": ["W","W","D","W","W","W","W"],
+            "unavailable_attacking_players": [],
+            "recent_matches": {
+                "teams": {
+                    "match_seven": [
+                        "Lille",
+                        "St Etienne"
+                    ],
+                    "match_one": [
+                        "Strasbourg",
+                        "Lille"
+                    ],
+                    "match_two": [
+                        "Lille",
+                        "Nice"
+                    ],
+                    "match_three": [
+                        "Auxerre",
+                        "Lille"
+                    ],
+                    "match_four": [
+                        "Lille",
+                        "Nantes"
+                    ],
+                    "match_five": [
+                        "Marseille",
+                        "Lille"
+                    ],
+                    "match_six": [
+                        "Lille",
+                        "Brest"
+                    ]
+                },
+                "goals": {
+                    "match_seven": [
+                        4,
+                        1
+                    ],
+                    "match_one": [
+                        2,
+                        1
+                    ],
+                    "match_two": [
+                        2,
+                        1
+                    ],
+                    "match_three": [
+                        0,
+                        0
+                    ],
+                    "match_four": [
+                        1,
+                        1
+                    ],
+                    "match_five": [
+                        1,
+                        1
+                    ],
+                    "match_six": [
+                        3,
+                        1
+                    ]
+                },
+                "x_goals": {
+                    "match_seven": [
+                        3.41,
+                        2.11
+                    ],
+                    "match_one": [
+                        1.06,
+                        1.58
+                    ],
+                    "match_two": [
+                        1.02,
+                        2.87
+                    ],
+                    "match_three": [
+                        0.58,
+                        1.47
+                    ],
+                    "match_four": [
+                        1.22,
+                        1.33
+                    ],
+                    "match_five": [
+                        1.28,
+                        0.77
+                    ],
+                    "match_six": [
+                        2.51,
+                        0.63
+                    ]
+                },
+                "corners": {
+                    "match_seven": [
+                        7,
+                        1
+                    ],
+                    "match_one": [
+                        6,
+                        7
+                    ],
+                    "match_two": [
+                        7,
+                        7
+                    ],
+                    "match_three": [
+                        6,
+                        10
+                    ],
+                    "match_four": [
+                        2,
+                        0
+                    ],
+                    "match_five": [
+                        3,
+                        8
+                    ],
+                    "match_six": [
+                        2,
+                        1
+                    ]
+                },
+                "fouls": {
+                    "match_seven": [
+                        11,
+                        12
+                    ],
+                    "match_one": [
+                        10,
+                        9
+                    ],
+                    "match_two": [
+                        13,
+                        13
+                    ],
+                    "match_three": [
+                        7,
+                        8
+                    ],
+                    "match_four": [
+                        6,
+                        10
+                    ],
+                    "match_five": [
+                        14,
+                        9
+                    ],
+                    "match_six": [
+                        13,
+                        16
+                    ]
+                },
+                "HT_cards": {
+                    "match_seven": [
+                        0,
+                        0
+                    ],
+                    "match_one": [
+                        2,
+                        1
+                    ],
+                    "match_two": [
+                        1,
+                        1
+                    ],
+                    "match_three": [
+                        0,
+                        2
+                    ],
+                    "match_four": [
+                        0,
+                        0
+                    ],
+                    "match_five": [
+                        0,
+                        0
+                    ],
+                    "match_six": [
+                        0,
+                        1
+                    ]
+                },
+                "FT_cards": {
+                    "match_seven": [
+                        0,
+                        0
+                    ],
+                    "match_one": [
+                        4,
+                        2
+                    ],
+                    "match_two": [
+                        1,
+                        3
+                    ],
+                    "match_three": [
+                        1,
+                        4
+                    ],
+                    "match_four": [
+                        1,
+                        2
+                    ],
+                    "match_five": [
+                        2,
+                        3
+                    ],
+                    "match_six": [
+                        1,
+                        1
+                    ]
+                }
+            }
+          },
+        "away_team": {
+            
+            "name": "Le Havre",
+            "coach": "Didier Digard",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/havre.png",
+            "playing_style": "Wide play",
+            "pressing_style": " ",
+            "attacking_style": "Attacking down the left; Take long shots; High shot volume",
+            "defensive_style": "High Line; Use offside positioning",
+           "goal_scored_pg": 0.75,
+            "goals_concede_pg": 1.95,
+            "aggressive_players": [ "Arouna Sangante"],
+            "provocative_players": ["Andre Ayew", "Abdoulaye Toure", "Issa Soumare", "Josue Casimir"],
+            "win_form": ["D","L","D","L","L","L","L"],
+            "corner_form": ["W","W","W","W","L","W","D"],
+            "unavailable_attacking_players": [""],
+            "recent_matches": {
+                "teams": {
+                    "match_seven": [
+                        "Angers",
+                        "Le Havre"
+                    ],
+                    "match_one": [
+                        "Le Havre",
+                        "Brest"
+                    ],
+                    "match_two": [
+                        "Reims",
+                        "Le Havre"
+                    ],
+                    "match_three": [
+                        "Le Havre",
+                        "Lens"
+                    ],
+                    "match_four": [
+                        "Marseille",
+                        "Le Havre"
+                    ],
+                    "match_five": [
+                        "Le Havre",
+                        "Strasbourg"
+                    ],
+                    "match_six": [
+                        "Nice",
+                        "Le Havre"
+                    ]
+                },
+                "goals": {
+                    "match_seven": [
+                        1,
+                        1
+                    ],
+                    "match_one": [
+                        0,
+                        1
+                    ],
+                    "match_two": [
+                        1,
+                        1
+                    ],
+                    "match_three": [
+                        1,
+                        2
+                    ],
+                    "match_four": [
+                        5,
+                        1
+                    ],
+                    "match_five": [
+                        0,
+                        3
+                    ],
+                    "match_six": [
+                        2,
+                        1
+                    ]
+                },
+                "x_goals": {
+                    "match_seven": [
+                        1.54,
+                        2.07
+                    ],
+                    "match_one": [
+                        0.92,
+                        1.94
+                    ],
+                    "match_two": [
+                        0.8,
+                        0.94
+                    ],
+                    "match_three": [
+                        1.84,
+                        2.68
+                    ],
+                    "match_four": [
+                        3.26,
+                        0.46
+                    ],
+                    "match_five": [
+                        0.93,
+                        0.92
+                    ],
+                    "match_six": [
+                        2.0,
+                        1.02
+                    ]
+                },
+                "corners": {
+                    "match_seven": [
+                        4,
+                        2
+                    ],
+                    "match_one": [
+                        6,
+                        6
+                    ],
+                    "match_two": [
+                        6,
+                        6
+                    ],
+                    "match_three": [
+                        3,
+                        8
+                    ],
+                    "match_four": [
+                        4,
+                        0
+                    ],
+                    "match_five": [
+                        3,
+                        2
+                    ],
+                    "match_six": [
+                        5,
+                        8
+                    ]
+                },
+                "fouls": {
+                    "match_seven": [
+                        8,
+                        19
+                    ],
+                    "match_one": [
+                        12,
+                        14
+                    ],
+                    "match_two": [
+                        9,
+                        8
+                    ],
+                    "match_three": [
+                        11,
+                        14
+                    ],
+                    "match_four": [
+                        12,
+                        6
+                    ],
+                    "match_five": [
+                        11,
+                        7
+                    ],
+                    "match_six": [
+                        10,
+                        10
+                    ]
+                },
+                "HT_cards": {
+                    "match_seven": [
+                        2,
+                        3
+                    ],
+                    "match_one": [
+                        2,
+                        2
+                    ],
+                    "match_two": [
+                        1,
+                        1
+                    ],
+                    "match_three": [
+                        1,
+                        1
+                    ],
+                    "match_four": [
+                        1,
+                        0
+                    ],
+                    "match_five": [
+                        0,
+                        0
+                    ],
+                    "match_six": [
+                        0,
+                        0
+                    ]
+                },
+                "FT_cards": {
+                    "match_seven": [
+                        3,
+                        5
+                    ],
+                    "match_one": [
+                        2,
+                        3
+                    ],
+                    "match_two": [
+                        2,
+                        2
+                    ],
+                    "match_three": [
+                        2,
+                        2
+                    ],
+                    "match_four": [
+                        1,
+                        0
+                    ],
+                    "match_five": [
+                        0,
+                        1
+                    ],
+                    "match_six": [
+                        3,
+                        2
+                    ]
+                }
+            }
+          },
+        "prediction": {
+            "cards": {
+                "discuss": "",
+                "ht": "- Too many inconsistency in the data to make a clear prediction.",
+                "ft": "- Too many inconsistency in the data to make a clear prediction."
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "- Too many inconsistency in the data to make a clear prediction.",
+                "win_corners": "Too many inconsistency in the data to make a clear prediction."
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": "-Too many inconsistency in the data to make a clear prediction.",
+                "fulltime_total_goals": "Under 4.5 goals \n-\n- The goal-scoring patterns suggest a controlled game with limited goal-scoring variability. \n Both teams exhibit a consistent trend of matches staying below 4.5 goals, with stable attacking and defensive performances."
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "Home win or draw (1X) \n-\n- The home team has a favorable head-to-head advantage and fewer losses, suggesting they are more likely to secure at least a draw."
+            }
+        }
+    },
+    {
+        "fixture": "St Etienne vs Rennes",
+        "league":"🇫🇷 Ligue 1",
+        "day": "saturday",
+        "position": [16,18],
+        "type_of_match": "Regular",
+        "referee": {
+        "name": "Vernice M.",
+        "fouls_per_tackle": 0.67,
+        "yellow_per_game": 4.02
+        },
+        "head_to_head": {
+            "win_form": [["L","L","L","W"],["W","W","W","L"]],
+              "corner_form": [["L","L","W","L"],["W","W","L","W"]],
+            "teams": {
+                "match_one": [
+                    "Rennes",
+                    "St Etienne"
+                ],
+                "match_two": [
+                    "Rennes",
+                    "St Etienne"
+                ],
+                "match_three": [
+                    "St Etienne",
+                    "Rennes"
+                ],
+                "match_four": [
+                    "Rennes",
+                    "St Etienne"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    5,
+                    0
+                ],
+                "match_two": [
+                    2,
+                    0
+                ],
+                "match_three": [
+                    0,
+                    5
+                ],
+                "match_four": [
+                    0,
+                    2
+                ]
+            },
+            "x_goals": {
+                "match_one": [
+                    3.19,
+                    0.11
+                ],
+                "match_two": [],
+                "match_three": [],
+                "match_four": []
+            },
+            "corners": {
+                "match_one": [
+                    6,
+                    1
+                ],
+                "match_two": [
+                    4,
+                    3
+                ],
+                "match_three": [
+                    7,
+                    2
+                ],
+                "match_four": [
+                    7,
+                    1
+                ]
+            },
+            "fouls": {
+                "match_one": [
+                    14,
+                    12
+                ],
+                "match_two": [
+                    11,
+                    15
+                ],
+                "match_three": [
+                    10,
+                    7
+                ],
+                "match_four": [
+                    18,
+                    16
+                ]
+            },
+            "HT_cards": {
+                "match_one": [
+                    0,
+                    1
+                ],
+                "match_two": [
+                    0,
+                    0
+                ],
+                "match_three": [
+                    0,
+                    0
+                ],
+                "match_four": [
+                    1,
+                    1
+                ]
+            },
+            "FT_cards": {
+                "match_one": [
+                    0,
+                    2
+                ],
+                "match_two": [
+                    1,
+                    4
+                ],
+                "match_three": [
+                    1,
+                    0
+                ],
+                "match_four": [
+                    5,
+                    2
+                ]
+            }
+        },
+        "home_team": {
+            
+            "name": "Saint-Étienne",
+            "coach": "Olivier Dall'Oglio",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/etienne.png",
+            "playing_style": "Counter-attacking",
+            "pressing_style": "Low-pressing",
+            "attacking_style": "Direct play with emphasis on long balls",
+            "defensive_style": "Organized",
+            "goal_scored_pg": 0.95,
+            "goals_concede_pg": 2.15,
+            "aggressive_players": ["Ibrahim Sissoko", "Yunis Abdelhamid"],
+            "provocative_players": ["Mickael Nade", "Bouchouari"],
+            "win_form": ["L","D","D","L","W","L","L"],
+            "corner_form": ["L","W","D","L","L","W","L"],
+            "unavailable_attacking_players": [""],
+            "recent_matches": {
+                "teams": {
+                    "match_seven": [
+                        "Lille",
+                        "St Etienne"
+                    ],
+                    "match_one": [
+                        "Auxerre",
+                        "St Etienne"
+                    ],
+                    "match_two": [
+                        "St Etienne",
+                        "Nantes"
+                    ],
+                    "match_three": [
+                        "PSG",
+                        "St Etienne"
+                    ],
+                    "match_four": [
+                        "St Etienne",
+                        "Reims"
+                    ],
+                    "match_five": [
+                        "Toulouse",
+                        "St Etienne"
+                    ],
+                    "match_six": [
+                        "St Etienne",
+                        "Marseille"
+                    ]
+                },
+                "goals": {
+                    "match_seven": [
+                        4,
+                        1
+                    ],
+                    "match_one": [
+                        1,
+                        1
+                    ],
+                    "match_two": [
+                        1,
+                        1
+                    ],
+                    "match_three": [
+                        2,
+                        1
+                    ],
+                    "match_four": [
+                        3,
+                        1
+                    ],
+                    "match_five": [
+                        2,
+                        1
+                    ],
+                    "match_six": [
+                        0,
+                        2
+                    ]
+                },
+                "x_goals": {
+                    "match_seven": [
+                        3.41,
+                        2.11
+                    ],
+                    "match_one": [
+                        0.84,
+                        1.18
+                    ],
+                    "match_two": [
+                        0.81,
+                        1.24
+                    ],
+                    "match_three": [
+                        4.02,
+                        0.18
+                    ],
+                    "match_four": [
+                        2.13,
+                        1.14
+                    ],
+                    "match_five": [
+                        1.02,
+                        0.51
+                    ],
+                    "match_six": [
+                        0.16,
+                        2.51
+                    ]
+                },
+                "corners": {
+                    "match_seven": [
+                        7,
+                        1
+                    ],
+                    "match_one": [
+                        3,
+                        4
+                    ],
+                    "match_two": [
+                        7,
+                        7
+                    ],
+                    "match_three": [
+                        7,
+                        3
+                    ],
+                    "match_four": [
+                        6,
+                        9
+                    ],
+                    "match_five": [
+                        2,
+                        3
+                    ],
+                    "match_six": [
+                        0,
+                        9
+                    ]
+                },
+                "fouls": {
+                    "match_seven": [
+                        11,
+                        12
+                    ],
+                    "match_one": [
+                        15,
+                        13
+                    ],
+                    "match_two": [
+                        9,
+                        11
+                    ],
+                    "match_three": [
+                        16,
+                        11
+                    ],
+                    "match_four": [
+                        19,
+                        10
+                    ],
+                    "match_five": [
+                        16,
+                        15
+                    ],
+                    "match_six": [
+                        13,
+                        10
+                    ]
+                },
+                "HT_cards": {
+                    "match_seven": [
+                        0,
+                        0
+                    ],
+                    "match_one": [
+                        0,
+                        0
+                    ],
+                    "match_two": [
+                        2,
+                        1
+                    ],
+                    "match_three": [
+                        0,
+                        0
+                    ],
+                    "match_four": [
+                        0,
+                        0
+                    ],
+                    "match_five": [
+                        1,
+                        1
+                    ],
+                    "match_six": [
+                        0,
+                        0
+                    ]
+                },
+                "FT_cards": {
+                    "match_seven": [
+                        0,
+                        0
+                    ],
+                    "match_one": [
+                        2,
+                        0
+                    ],
+                    "match_two": [
+                        2,
+                        1
+                    ],
+                    "match_three": [
+                        1,
+                        2
+                    ],
+                    "match_four": [
+                        2,
+                        1
+                    ],
+                    "match_five": [
+                        3,
+                        4
+                    ],
+                    "match_six": [
+                        1,
+                        1
+                    ]
+                }
+            }
+          
+          },
+        "away_team": {
+            
+            "name": "Rennes",
+            "coach": "Julien Stéphan",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/rennes.png",
+            "playing_style": "Control the game in the opposition's half",
+            "pressing_style": " ",
+            "attacking_style": "Attacking down the right, High shot volume Take long shots",
+            "defensive_style": "High Line; Use offside positioning",
+            "goal_scored_pg": 1.35,
+            "goals_concede_pg": 1.5,
+            "aggressive_players": ["Lorenz Assigno", "Chris wooh", "Jordan James", "Azor Matusiwa"],
+            "provocative_players": ["Alidu Seidu", "Ludovic Blas", "Kalimuendo"],
+            "win_form": ["W","L","L","L","L","W","L"],
+            "corner_form": ["W","L","D","L","D","W","L"],
+            "unavailable_attacking_players": [],
+          
+            "recent_matches": {
+                "teams": {
+                    "match_seven": [
+                        "Rennes",
+                        "Strasbourg"
+                    ],
+                    "match_one": [
+                        "Monaco",
+                        "Rennes"
+                    ],
+                    "match_two": [
+                        "Rennes",
+                        "Brest"
+                    ],
+                    "match_three": [
+                        "Rennes",
+                        "Marseille"
+                    ],
+                    "match_four": [
+                        "Nice",
+                        "Rennes"
+                    ],
+                    "match_five": [
+                        "Rennes",
+                        "Angers"
+                    ],
+                    "match_six": [
+                        "Nantes",
+                        "Rennes"
+                    ]
+                },
+                "goals": {
+                    "match_seven": [
+                        1,
+                        0
+                    ],
+                    "match_one": [
+                        3,
+                        2
+                    ],
+                    "match_two": [
+                        1,
+                        2
+                    ],
+                    "match_three": [
+                        1,
+                        2
+                    ],
+                    "match_four": [
+                        3,
+                        2
+                    ],
+                    "match_five": [
+                        2,
+                        0
+                    ],
+                    "match_six": [
+                        1,
+                        0
+                    ]
+                },
+                "x_goals": {
+                    "match_seven": [
+                        0.93,
+                        1.19
+                    ],
+                    "match_one": [
+                        3.18,
+                        2.01
+                    ],
+                    "match_two": [
+                        1.49,
+                        1.29
+                    ],
+                    "match_three": [
+                        1.63,
+                        1.43
+                    ],
+                    "match_four": [
+                        0.78,
+                        1.44
+                    ],
+                    "match_five": [
+                        0.61,
+                        0.36
+                    ],
+                    "match_six": [
+                        1.31,
+                        0.27
+                    ]
+                },
+                "corners": {
+                    "match_seven": [
+                        6,
+                        2
+                    ],
+                    "match_one": [
+                        4,
+                        2
+                    ],
+                    "match_two": [
+                        4,
+                        4
+                    ],
+                    "match_three": [
+                        2,
+                        3
+                    ],
+                    "match_four": [
+                        3,
+                        3
+                    ],
+                    "match_five": [
+                        2,
+                        1
+                    ],
+                    "match_six": [
+                        5,
+                        4
+                    ]
+                },
+                "fouls": {
+                    "match_seven": [
+                        14,
+                        10
+                    ],
+                    "match_one": [
+                        12,
+                        16
+                    ],
+                    "match_two": [
+                        13,
+                        11
+                    ],
+                    "match_three": [
+                        11,
+                        13
+                    ],
+                    "match_four": [
+                        11,
+                        14
+                    ],
+                    "match_five": [
+                        18,
+                        12
+                    ],
+                    "match_six": [
+                        15,
+                        9
+                    ]
+                },
+                "HT_cards": {
+                    "match_seven": [
+                        1,
+                        0
+                    ],
+                    "match_one": [
+                        0,
+                        0
+                    ],
+                    "match_two": [
+                        1,
+                        1
+                    ],
+                    "match_three": [
+                        0,
+                        0
+                    ],
+                    "match_four": [
+                        1,
+                        1
+                    ],
+                    "match_five": [
+                        1,
+                        0
+                    ],
+                    "match_six": [
+                        0,
+                        1
+                    ]
+                },
+                "FT_cards": {
+                    "match_seven": [
+                        3,
+                        3
+                    ],
+                    "match_one": [
+                        3,
+                        3
+                    ],
+                    "match_two": [
+                        2,
+                        3
+                    ],
+                    "match_three": [
+                        2,
+                        2
+                    ],
+                    "match_four": [
+                        4,
+                        3
+                    ],
+                    "match_five": [
+                        3,
+                        1
+                    ],
+                    "match_six": [
+                        1,
+                        2
+                    ]
+                }
+            }
+          
+          },
+        "prediction": {
+            "cards": {
+                "discuss": "",
+                "ht": "- Too many inconsistency in the data to make a clear prediction.",
+                "ft": "Over 2.5 bookings \n-\n- The head-to-head full-time card average is above 2.5, along with both home and away teams' full-time card average. \n The referee issues more than 3.3 yellow cards per game, and the foul-to-tackle ratio is very high."
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "- Too many inconsistency in the data to make a clear prediction.",
+                "win_corners": "Too many inconsistency in the data to make a clear prediction."
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": "-Too many inconsistency in the data to make a clear prediction.",
+                "fulltime_total_goals": "Over 1.5 goals \n-\n- Most fixtures exceed at least 1.5 goals, and the statistical indicators suggest that at least two goals are highly probable given the teams' offensive and defensive tendencies."
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "No draw (12) \n-\n- Both teams have shown a tendency to win rather than draw, and the historical matchups suggest a decisive result rather than a stalemate."
+            }
+        }
+    },
+    {
+        "fixture": "Lyon vs Reims",
+        "league":"🇫🇷 Ligue 1",
+        "day": "sunday",
+        "position": [8,13],
+        "type_of_match": "Regular",
+        "referee": {
+        "name": "Letexier F.",
+        "fouls_per_tackle": 0.51,
+        "yellow_per_game": 4.01
+        },
+        "head_to_head": {
+            "win_form": [["D","D","L","W","D"],["D","D","W","L","D"]],
+              "corner_form": [["L","L","W","W","W"],["W","W","L","L","L"]],
+            "teams": {
+                "match_one": [
+                    "Reims",
+                    "Lyon"
+                ],
+                "match_two": [
+                    "Lyon",
+                    "Reims"
+                ],
+                "match_three": [
+                    "Reims",
+                    "Lyon"
+                ],
+                "match_four": [
+                    "Lyon",
+                    "Reims"
+                ],
+                "match_five": [
+                    "Reims",
+                    "Lyon"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    1,
+                    1
+                ],
+                "match_two": [
+                    1,
+                    1
+                ],
+                "match_three": [
+                    2,
+                    0
+                ],
+                "match_four": [
+                    3,
+                    0
+                ],
+                "match_five": [
+                    1,
+                    1
+                ]
+            },
+            "x_goals": {
+                "match_one": [
+                    1.22,
+                    1.7
+                ],
+                "match_two": [
+                    1.65,
+                    1.46
+                ],
+                "match_three": [
+                    1.97,
+                    0.61
+                ],
+                "match_four": [
+                    2.04,
+                    1.14
+                ],
+                "match_five": []
+            },
+            "corners": {
+                "match_one": [
+                    4,
+                    2
+                ],
+                "match_two": [
+                    7,
+                    8
+                ],
+                "match_three": [
+                    1,
+                    5
+                ],
+                "match_four": [
+                    7,
+                    4
+                ],
+                "match_five": [
+                    2,
+                    7
+                ]
+            },
+            "fouls": {
+                "match_one": [
+                    11,
+                    13
+                ],
+                "match_two": [
+                    7,
+                    10
+                ],
+                "match_three": [
+                    19,
+                    14
+                ],
+                "match_four": [
+                    10,
+                    15
+                ],
+                "match_five": [
+                    12,
+                    12
+                ]
+            },
+            "HT_cards": {
+                "match_one": [
+                    0,
+                    0
+                ],
+                "match_two": [
+                    0,
+                    1
+                ],
+                "match_three": [
+                    1,
+                    1
+                ],
+                "match_four": [
+                    0,
+                    0
+                ],
+                "match_five": [
+                    0,
+                    0
+                ]
+            },
+            "FT_cards": {
+                "match_one": [
+                    2,
+                    0
+                ],
+                "match_two": [
+                    2,
+                    3
+                ],
+                "match_three": [
+                    2,
+                    2
+                ],
+                "match_four": [
+                    1,
+                    2
+                ],
+                "match_five": [
+                    2,
+                    1
+                ]
+            }
+        },
+        "home_team": {
+            "name": "Lyon",
+            "coach": "Pierre Sage",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/lyon.png",
+            "playing_style": " ",
+            "pressing_style": " ",
+            "attacking_style": "Frequent through ball attempts",
+            "defensive_style": " ",
+            "goal_scored_pg": 1.6,
+            "goals_concede_pg": 1.3,
+            "aggressive_players": ["Corentin Tolisso", "Lacazette, Caleta-Car"],
+            "provocative_players": ["Corentin Tolisso", "Malick Fofana"],
+            "win_form": ["L","D","D","L","W","L","W"],
+            "corner_form": ["L","W","W","W","L","L","W"],
+            "unavailable_attacking_players": [],
+        
+            "recent_matches": {
+                    "teams": {
+                    "match_seven": [
+                        "Marseille",
+                        "Lyon"
+                    ],
+                    "match_one": [
+                        "Nantes",
+                        "Lyon"
+                    ],
+                    "match_two": [
+                        "Lyon",
+                        "Toulouse"
+                    ],
+                    "match_three": [
+                        "Brest",
+                        "Lyon"
+                    ],
+                    "match_four": [
+                        "Lyon",
+                        "Montpellier"
+                    ],
+                    "match_five": [
+                        "PSG",
+                        "Lyon"
+                    ],
+                    "match_six": [
+                        "Angers",
+                        "Lyon"
+                    ]
+                },
+                "goals": {
+                    "match_seven": [
+                        3,
+                        2
+                    ],
+                    "match_one": [
+                        1,
+                        1
+                    ],
+                    "match_two": [
+                        0,
+                        0
+                    ],
+                    "match_three": [
+                        2,
+                        1
+                    ],
+                    "match_four": [
+                        1,
+                        0
+                    ],
+                    "match_five": [
+                        3,
+                        1
+                    ],
+                    "match_six": [
+                        0,
+                        3
+                    ]
+                },
+                "x_goals": {
+                    "match_seven": [
+                        3.24,
+                        1.75
+                    ],
+                    "match_one": [
+                        1.26,
+                        1.07
+                    ],
+                    "match_two": [
+                        0.77,
+                        1.11
+                    ],
+                    "match_three": [
+                        0.8,
+                        1.3
+                    ],
+                    "match_four": [
+                        1.35,
+                        1.17
+                    ],
+                    "match_five": [
+                        2.88,
+                        0.98
+                    ],
+                    "match_six": [
+                        0.51,
+                        1.31
+                    ]
+                },
+                "corners": {
+                    "match_seven": [
+                        6,
+                        2
+                    ],
+                    "match_one": [
+                        4,
+                        8
+                    ],
+                    "match_two": [
+                        8,
+                        5
+                    ],
+                    "match_three": [
+                        4,
+                        7
+                    ],
+                    "match_four": [
+                        3,
+                        5
+                    ],
+                    "match_five": [
+                        4,
+                        3
+                    ],
+                    "match_six": [
+                        2,
+                        7
+                    ]
+                },
+                "fouls": {
+                    "match_seven": [
+                        13,
+                        10
+                    ],
+                    "match_one": [
+                        14,
+                        11
+                    ],
+                    "match_two": [
+                        8,
+                        8
+                    ],
+                    "match_three": [
+                        10,
+                        10
+                    ],
+                    "match_four": [
+                        8,
+                        10
+                    ],
+                    "match_five": [
+                        7,
+                        8
+                    ],
+                    "match_six": [
+                        13,
+                        13
+                    ]
+                },
+                "HT_cards": {
+                    "match_seven": [
+                        1,
+                        0
+                    ],
+                    "match_one": [
+                        1,
+                        0
+                    ],
+                    "match_two": [
+                        0,
+                        0
+                    ],
+                    "match_three": [
+                        0,
+                        0
+                    ],
+                    "match_four": [
+                        0,
+                        0
+                    ],
+                    "match_five": [
+                        2,
+                        2
+                    ],
+                    "match_six": [
+                        0,
+                        1
+                    ]
+                },
+                "FT_cards": {
+                    "match_seven": [
+                        4,
+                        1
+                    ],
+                    "match_one": [
+                        3,
+                        1
+                    ],
+                    "match_two": [
+                        1,
+                        0
+                    ],
+                    "match_three": [
+                        1,
+                        2
+                    ],
+                    "match_four": [
+                        1,
+                        2
+                    ],
+                    "match_five": [
+                        2,
+                        3
+                    ],
+                    "match_six": [
+                        0,
+                        2
+                    ]
+                }
+            }
+           
+          },
+        "away_team": {
+            
+            "name": "de Reims",
+            "coach": "Luka Elsner",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/reims.png",
+            "playing_style": "Wide play",
+            "pressing_style": " ",
+            "attacking_style": "Attacking down the right",
+            "defensive_style": " ",
+            "goal_scored_pg": 1.3,
+            "goals_concede_pg": 1.45,
+            "aggressive_players": [ "Atangana Edoa"," Marshall Munetsi", "Oumar Diakite", "Aurelio Buta"],
+            "provocative_players": ["Amadou Kone", "Marshall Munetsi", "Atangana Edoa"],
+            "win_form": ["L","D","D","L","L","D","D"],
+            "corner_form": ["W","L","D","W","W","L","L"],
+            "unavailable_attacking_players": [""],
+            "recent_matches": {
+                "teams": {
+                    "match_seven": [
+                        "Reims",
+                        "Nantes"
+                    ],
+                    "match_one": [
+                        "PSG",
+                        "Reims"
+                    ],
+                    "match_two": [
+                        "Reims",
+                        "Le Havre"
+                    ],
+                    "match_three": [
+                        "Reims",
+                        "Nice"
+                    ],
+                    "match_four": [
+                        "St Etienne",
+                        "Reims"
+                    ],
+                    "match_five": [
+                        "Reims",
+                        "Monaco"
+                    ],
+                    "match_six": [
+                        "Strasbourg",
+                        "Reims"
+                    ]
+                },
+                "goals": {
+                    "match_seven": [
+                        1,
+                        2
+                    ],
+                    "match_one": [
+                        1,
+                        1
+                    ],
+                    "match_two": [
+                        1,
+                        1
+                    ],
+                    "match_three": [
+                        2,
+                        4
+                    ],
+                    "match_four": [
+                        3,
+                        1
+                    ],
+                    "match_five": [
+                        0,
+                        0
+                    ],
+                    "match_six": [
+                        0,
+                        0
+                    ]
+                },
+                "x_goals": {
+                    "match_seven": [
+                        0.91,
+                        1.93
+                    ],
+                    "match_one": [
+                        1.25,
+                        0.97
+                    ],
+                    "match_two": [
+                        0.8,
+                        0.94
+                    ],
+                    "match_three": [
+                        0.8,
+                        2.41
+                    ],
+                    "match_four": [
+                        2.13,
+                        1.14
+                    ],
+                    "match_five": [
+                        1.34,
+                        1.13
+                    ],
+                    "match_six": [
+                        0.51,
+                        0.96
+                    ]
+                },
+                "corners": {
+                    "match_seven": [
+                        9,
+                        3
+                    ],
+                    "match_one": [
+                        8,
+                        1
+                    ],
+                    "match_two": [
+                        6,
+                        6
+                    ],
+                    "match_three": [
+                        6,
+                        3
+                    ],
+                    "match_four": [
+                        6,
+                        9
+                    ],
+                    "match_five": [
+                        1,
+                        4
+                    ],
+                    "match_six": [
+                        3,
+                        2
+                    ]
+                },
+                "fouls": {
+                    "match_seven": [
+                        14,
+                        10
+                    ],
+                    "match_one": [
+                        13,
+                        13
+                    ],
+                    "match_two": [
+                        9,
+                        8
+                    ],
+                    "match_three": [
+                        12,
+                        7
+                    ],
+                    "match_four": [
+                        19,
+                        10
+                    ],
+                    "match_five": [
+                        15,
+                        22
+                    ],
+                    "match_six": [
+                        13,
+                        16
+                    ]
+                },
+                "HT_cards": {
+                    "match_seven": [
+                        0,
+                        0
+                    ],
+                    "match_one": [
+                        1,
+                        1
+                    ],
+                    "match_two": [
+                        1,
+                        1
+                    ],
+                    "match_three": [
+                        1,
+                        1
+                    ],
+                    "match_four": [
+                        0,
+                        0
+                    ],
+                    "match_five": [
+                        0,
+                        1
+                    ],
+                    "match_six": [
+                        1,
+                        1
+                    ]
+                },
+                "FT_cards": {
+                    "match_seven": [
+                        4,
+                        3
+                    ],
+                    "match_one": [
+                        2,
+                        2
+                    ],
+                    "match_two": [
+                        2,
+                        2
+                    ],
+                    "match_three": [
+                        4,
+                        2
+                    ],
+                    "match_four": [
+                        2,
+                        1
+                    ],
+                    "match_five": [
+                        1,
+                        3
+                    ],
+                    "match_six": [
+                        1,
+                        2
+                    ]
+                }
+            }
+          
+          },
+        "prediction": {
+            "cards": {
+                "discuss": "",
+                "ht": "- Too many inconsistency in the data to make a clear prediction.",
+                "ft": "Over 2.5 bookings \n-\n- The head-to-head full-time card average is above 2.5, along with both home and away teams' full-time card average. \n The referee issues more than 3.3 yellow cards per game, and the foul-to-tackle ratio is very high."
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Over 8.5 corners \n-\n- The head-to-head average and team averages for home and away teams are all above 8.5. \n Standard deviations indicate sufficient variability in corner counts, and at least one team has decent form in winning corners.",
+                "win_corners": "Lyon \n- The home team has a better head-to-head corner form, a better recent corner form, has won more than 3 recent corner battles, has won more than 2 head-to-head corner battles, and has an average corner total above 8."
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": "Yes \n-\n- (BTTS occurred in at least 60% of head-to-head, home, and away games. Both teams tend to score and concede regularly.)",
+                "fulltime_total_goals": "Under 3.5 goals \n-\n- The data indicates that goal-scoring trends lean towards a moderate or low goal count, with teams struggling to generate consistent attacking output. \n Defensive discipline and lack of high-scoring encounters suggest that the match will remain under 3.5 goals."
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "Too many inconsistency in the data to make a clear prediction."
+            }
+        }
+    },
+    {
+        "fixture": "Auxerre vs Toulouse",
+        "league":"🇫🇷 Ligue 1",
+        "day": "sunday",
+        "position": [11,10],
+        "type_of_match": "Regular",
+        "referee": {
+        "name": "Brisard J.",
+        "fouls_per_tackle": 0.67,
+        "yellow_per_game": 3.76
+        },
+        "head_to_head": {
+            "win_form": [["L","D","L","L","L"],["W","D","W","W","W"]],
+              "corner_form": [["L","L","W","L","L"],["W","W","L","W","W"]],
+            "teams": {
+                "match_one": [
+                    "Toulouse",
+                    "Auxerre"
+                ],
+                "match_two": [
+                    "Toulouse",
+                    "Auxerre"
+                ],
+                "match_three": [
+                    "Auxerre",
+                    "Toulouse"
+                ],
+                "match_four": [
+                    "Auxerre",
+                    "Toulouse"
+                ],
+                "match_five": [
+                    "Toulouse",
+                    "Auxerre"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    2,
+                    0
+                ],
+                "match_two": [
+                    1,
+                    1
+                ],
+                "match_three": [
+                    0,
+                    5
+                ],
+                "match_four": [
+                    1,
+                    2
+                ],
+                "match_five": [
+                    6,
+                    0
+                ]
+            },
+            "x_goals": {
+                "match_one": [
+                    2.17,
+                    0.08
+                ],
+                "match_two": [
+                    0.88,
+                    0.66
+                ],
+                "match_three": [],
+                "match_four": [],
+                "match_five": []
+            },
+            "corners": {
+                "match_one": [
+                    6,
+                    2
+                ],
+                "match_two": [
+                    6,
+                    3
+                ],
+                "match_three": [
+                    7,
+                    4
+                ],
+                "match_four": [
+                    2,
+                    5
+                ],
+                "match_five": [
+                    8,
+                    2
+                ]
+            },
+            "fouls": {
+                "match_one": [
+                    14,
+                    12
+                ],
+                "match_two": [
+                    18,
+                    14
+                ],
+                "match_three": [
+                    22,
+                    13
+                ],
+                "match_four": [
+                    14,
+                    13
+                ],
+                "match_five": [
+                    15,
+                    11
+                ]
+            },
+            "HT_cards": {
+                "match_one": [
+                    0,
+                    0
+                ],
+                "match_two": [
+                    0,
+                    2
+                ],
+                "match_three": [
+                    1,
+                    1
+                ],
+                "match_four": [
+                    2,
+                    1
+                ],
+                "match_five": [
+                    1,
+                    0
+                ]
+            },
+            "FT_cards": {
+                "match_one": [0,0],
+                "match_two": [
+                    1,
+                    3
+                ],
+                "match_three": [
+                    3,
+                    1
+                ],
+                "match_four": [
+                    2,
+                    1
+                ],
+                "match_five": [
+                    1,
+                    1
+                ]
+            }
+        },
+        "home_team": {
+        
+            
+            "name": "AJ Auxerre",
+            "coach": "Christophe Pélissier",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/auxerre.png",
+            "playing_style": "Balanced",
+            "pressing_style": "High-Pressing",
+            "attacking_style": "Wide Play",
+            "defensive_style": "Organized",
+            "goal_scored_pg": 1.35,
+            "goals_concede_pg": 2.3,
+            "aggressive_players": [ "Elisha Owusu", "Hamed Traore"],
+            "provocative_players": ["Hamed Traore", "Paul Joly"],
+            "win_form": ["L","D","L","D","L","D","D"],
+            "corner_form": ["L","L","L","L","L","L","L"],
+            "unavailable_attacking_players": ["Gauthier Hein"],
+            "recent_matches": {
+                "teams": {
+                    "match_seven": [
+                        "Monaco",
+                        "Auxerre"
+                    ],
+                    "match_one": [
+                        "Auxerre",
+                        "St Etienne"
+                    ],
+                    "match_two": [
+                        "Angers",
+                        "Auxerre"
+                    ],
+                    "match_three": [
+                        "Auxerre",
+                        "Lille"
+                    ],
+                    "match_four": [
+                        "Strasbourg",
+                        "Auxerre"
+                    ],
+                    "match_five": [
+                        "Auxerre",
+                        "Lens"
+                    ],
+                    "match_six": [
+                        "Auxerre",
+                        "PSG"
+                    ]
+                },
+                "goals": {
+                    "match_seven": [
+                        4,
+                        2
+                    ],
+                    "match_one": [
+                        1,
+                        1
+                    ],
+                    "match_two": [
+                        2,
+                        0
+                    ],
+                    "match_three": [
+                        0,
+                        0
+                    ],
+                    "match_four": [
+                        3,
+                        1
+                    ],
+                    "match_five": [
+                        2,
+                        2
+                    ],
+                    "match_six": [
+                        0,
+                        0
+                    ]
+                },
+                "x_goals": {
+                    "match_seven": [
+                        2.63,
+                        1.57
+                    ],
+                    "match_one": [
+                        0.84,
+                        1.18
+                    ],
+                    "match_two": [
+                        0.87,
+                        0.51
+                    ],
+                    "match_three": [
+                        0.58,
+                        1.47
+                    ],
+                    "match_four": [
+                        2.31,
+                        1.32
+                    ],
+                    "match_five": [
+                        0.57,
+                        1.46
+                    ],
+                    "match_six": [
+                        0.28,
+                        1.89
+                    ]
+                },
+                "corners": {
+                    "match_seven": [
+                        5,
+                        4
+                    ],
+                    "match_one": [
+                        3,
+                        4
+                    ],
+                    "match_two": [
+                        4,
+                        2
+                    ],
+                    "match_three": [
+                        6,
+                        10
+                    ],
+                    "match_four": [
+                        4,
+                        3
+                    ],
+                    "match_five": [
+                        3,
+                        5
+                    ],
+                    "match_six": [
+                        3,
+                        15
+                    ]
+                },
+                "fouls": {
+                    "match_seven": [
+                        17,
+                        15
+                    ],
+                    "match_one": [
+                        15,
+                        13
+                    ],
+                    "match_two": [
+                        9,
+                        10
+                    ],
+                    "match_three": [
+                        7,
+                        8
+                    ],
+                    "match_four": [
+                        10,
+                        13
+                    ],
+                    "match_five": [
+                        10,
+                        10
+                    ],
+                    "match_six": [
+                        8,
+                        7
+                    ]
+                },
+                "HT_cards": {
+                    "match_seven": [
+                        1,
+                        1
+                    ],
+                    "match_one": [
+                        0,
+                        0
+                    ],
+                    "match_two": [
+                        1,
+                        1
+                    ],
+                    "match_three": [
+                        0,
+                        2
+                    ],
+                    "match_four": [
+                        1,
+                        1
+                    ],
+                    "match_five": [
+                        1,
+                        0
+                    ],
+                    "match_six": [
+                        0,
+                        0
+                    ]
+                },
+                "FT_cards": {
+                    "match_seven": [
+                        2,
+                        2
+                    ],
+                    "match_one": [
+                        2,
+                        0
+                    ],
+                    "match_two": [
+                        2,
+                        2
+                    ],
+                    "match_three": [
+                        1,
+                        4
+                    ],
+                    "match_four": [
+                        1,
+                        2
+                    ],
+                    "match_five": [
+                        3,
+                        1
+                    ],
+                    "match_six": [
+                        2,
+                        1
+                    ]
+                }
+            }
+          
+        },
+        "away_team": {
+            
+            "name": "Toulouse",
+            "coach": "Carles Martínez",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/toulouse.png",
+            "playing_style": " ",
+            "pressing_style": "Aggressive",
+            "attacking_style": "Attacking down the right",
+            "defensive_style": " ",
+            "goal_scored_pg": 1.05,
+            "goals_concede_pg": 1.1,
+            "aggressive_players": ["Cristian Casseres", "Zakaria Aboukhlal", "Aron Donnum"],
+            "provocative_players": ["Yann Gboho", "Aron Donnum", "Cristian Casseres"],
+            "win_form": ["D","L","D","L","W","W","L"],
+            "corner_form": ["W","W","L","W","L","L","W"],
+            "unavailable_attacking_players": [],
+            
+            "recent_matches": {
+                "teams": {
+                    "match_seven": [
+                        "Toulouse",
+                        "Nice"
+                    ],
+                    "match_one": [
+                        "Toulouse",
+                        "Montpellier"
+                    ],
+                    "match_two": [
+                        "Lyon",
+                        "Toulouse"
+                    ],
+                    "match_three": [
+                        "Toulouse",
+                        "Strasbourg"
+                    ],
+                    "match_four": [
+                        "Lens",
+                        "Toulouse"
+                    ],
+                    "match_five": [
+                        "Toulouse",
+                        "St Etienne"
+                    ],
+                    "match_six": [
+                        "Monaco",
+                        "Toulouse"
+                    ]
+                },
+                "goals": {
+                    "match_seven": [
+                        1,
+                        1
+                    ],
+                    "match_one": [
+                        1,
+                        2
+                    ],
+                    "match_two": [
+                        0,
+                        0
+                    ],
+                    "match_three": [
+                        1,
+                        2
+                    ],
+                    "match_four": [
+                        0,
+                        1
+                    ],
+                    "match_five": [
+                        2,
+                        1
+                    ],
+                    "match_six": [
+                        2,
+                        0
+                    ]
+                },
+                "x_goals": {
+                    "match_seven": [
+                        1.39,
+                        1.67
+                    ],
+                    "match_one": [
+                        1.0,
+                        0.59
+                    ],
+                    "match_two": [
+                        0.77,
+                        1.11
+                    ],
+                    "match_three": [
+                        1.24,
+                        2.35
+                    ],
+                    "match_four": [
+                        1.42,
+                        2.19
+                    ],
+                    "match_five": [
+                        1.02,
+                        0.51
+                    ],
+                    "match_six": [
+                        2.92,
+                        0.38
+                    ]
+                },
+                "corners": {
+                    "match_seven": [
+                        7,
+                        2
+                    ],
+                    "match_one": [
+                        6,
+                        2
+                    ],
+                    "match_two": [
+                        8,
+                        5
+                    ],
+                    "match_three": [
+                        3,
+                        2
+                    ],
+                    "match_four": [
+                        7,
+                        1
+                    ],
+                    "match_five": [
+                        2,
+                        3
+                    ],
+                    "match_six": [
+                        2,
+                        3
+                    ]
+                },
+                "fouls": {
+                    "match_seven": [
+                        20,
+                        20
+                    ],
+                    "match_one": [
+                        9,
+                        15
+                    ],
+                    "match_two": [
+                        8,
+                        8
+                    ],
+                    "match_three": [
+                        12,
+                        14
+                    ],
+                    "match_four": [
+                        20,
+                        12
+                    ],
+                    "match_five": [
+                        16,
+                        15
+                    ],
+                    "match_six": [
+                        15,
+                        16
+                    ]
+                },
+                "HT_cards": {
+                    "match_seven": [
+                        0,
+                        0
+                    ],
+                    "match_one": [
+                        0,
+                        2
+                    ],
+                    "match_two": [
+                        0,
+                        0
+                    ],
+                    "match_three": [
+                        1,
+                        1
+                    ],
+                    "match_four": [
+                        2,
+                        1
+                    ],
+                    "match_five": [
+                        1,
+                        1
+                    ],
+                    "match_six": [
+                        0,
+                        1
+                    ]
+                },
+                "FT_cards": {
+                    "match_seven": [
+                        2,
+                        2
+                    ],
+                    "match_one": [
+                        1,
+                        2
+                    ],
+                    "match_two": [
+                        1,
+                        0
+                    ],
+                    "match_three": [
+                        1,
+                        4
+                    ],
+                    "match_four": [
+                        6,
+                        2
+                    ],
+                    "match_five": [
+                        3,
+                        4
+                    ],
+                    "match_six": [
+                        2,
+                        2
+                    ]
+                }
+            }
+          
+          },
+        "prediction": {
+            "cards": {
+                "discuss": "",
+                "ht": "Over 1.5 bookings \n-\n- The home and away team halftime card averages exceed 1.2. \n- The head-to-head average is also above this threshold, and the referee issues more than 4.0 yellow cards per game. \n- Furthermore, both teams have multiple aggressive or provocative players, increasing the likelihood of bookings.",
+                "ft": "Over 2.5 bookings \n-\n- The head-to-head full-time card average is above 2.5, along with both home and away teams' full-time card average. \n The referee issues more than 3.3 yellow cards per game, and the foul-to-tackle ratio is very high."
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Over 7.5 corners \n-\n- The averages for head-to-head, home and away teams are all above 7.5. \n Corner variability is evident with standard deviations above 0.7, and at least one team has solid corner-winning form.",
+                "win_corners": "Too many inconsistency in the data to make a clear prediction."
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": "-Too many inconsistency in the data to make a clear prediction.",
+                "fulltime_total_goals": "Over 1.5 goals \n-\n- Most fixtures exceed at least 1.5 goals, and the statistical indicators suggest that at least two goals are highly probable given the teams' offensive and defensive tendencies."
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "Too many inconsistency in the data to make a clear prediction."
+            }
+        }
+    },
+    {
+        "fixture": "Strasbourg vs Montpellier",
+        "league":"🇫🇷 Ligue 1",
+        "day": "sunday",
+        "position": [9,17],
+        "type_of_match": "Regular",
+        "referee": {
+        "name": "Stinat J.",
+        "fouls_per_tackle": 0.59,
+        "yellow_per_game": 3.50
+        },
+        "head_to_head": {
+            "win_form": [["D","D","D","W","L"],["D","D","D","L","W"]],
+              "corner_form": [["L","L","L","L","L"],["W","W","W","W","W"]],
+            "teams": {
+                "match_one": [
+                    "Montpellier",
+                    "Strasbourg"
+                ],
+                "match_two": [
+                    "Montpellier",
+                    "Strasbourg"
+                ],
+                "match_three": [
+                    "Strasbourg",
+                    "Montpellier"
+                ],
+                "match_four": [
+                    "Strasbourg",
+                    "Montpellier"
+                ],
+                "match_five": [
+                    "Montpellier",
+                    "Strasbourg"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    1,
+                    1
+                ],
+                "match_two": [
+                    2,
+                    2
+                ],
+                "match_three": [
+                    2,
+                    2
+                ],
+                "match_four": [
+                    2,
+                    0
+                ],
+                "match_five": [
+                    2,
+                    1
+                ]
+            },
+            "x_goals": {
+                "match_one": [
+                    1.5,
+                    1.23
+                ],
+                "match_two": [
+                    1.22,
+                    1.73
+                ],
+                "match_three": [
+                    2.75,
+                    1.23
+                ],
+                "match_four": [],
+                "match_five": []
+            },
+            "corners": {
+                "match_one": [
+                    6,
+                    4
+                ],
+                "match_two": [
+                    8,
+                    4
+                ],
+                "match_three": [
+                    2,
+                    4
+                ],
+                "match_four": [
+                    4,
+                    7
+                ],
+                "match_five": [
+                    8,
+                    6
+                ]
+            },
+            "fouls": {
+                "match_one": [
+                    20,
+                    18
+                ],
+                "match_two": [
+                    12,
+                    17
+                ],
+                "match_three": [
+                    17,
+                    18
+                ],
+                "match_four": [
+                    11,
+                    16
+                ],
+                "match_five": [
+                    11,
+                    20
+                ]
+            },
+            "HT_cards": {
+                "match_one": [
+                    1,
+                    1
+                ],
+                "match_two": [
+                    1,
+                    1
+                ],
+                "match_three": [
+                    2,
+                    2
+                ],
+                "match_four": [
+                    2,
+                    1
+                ],
+                "match_five": [
+                    2,
+                    2
+                ]
+            },
+            "FT_cards": {
+                "match_one": [
+                    4,
+                    3
+                ],
+                "match_two": [
+                    1,
+                    3
+                ],
+                "match_three": [
+                    4,
+                    6
+                ],
+                "match_four": [
+                    4,
+                    1
+                ],
+                "match_five": [
+                    4,
+                    4
+                ]
+            }
+        },
+        "home_team": {
+        
+            "name": "Strasbourg",
+            "coach": "Liam Rosenior",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/strasbourg.png",
+            "playing_style": "Deep positioning",
+            "pressing_style": " ",
+            "attacking_style": "Attacking down the right; Take long shots; Frequent through ball attempts",
+            "defensive_style": "High Line; Use offside positioning",
+            "goal_scored_pg": 1.05,
+            "goals_concede_pg": 1.1,
+            "aggressive_players": [ "Emanuel Emegha", "Mamadou Sarr", "Guela Doue"],
+            "provocative_players": ["Dilane Bakwa", "Andrey Santos", "Habib Diarra", "Emanuel Emegha"],
+            "win_form": ["L","W","D","W","W","W","D"],
+            "corner_form": ["L","L","L","L","W","L","W"],
+            "unavailable_attacking_players": [],
+            
+            "recent_matches": {
+                "teams": {
+                    "match_seven": [
+                        "Rennes",
+                        "Strasbourg"
+                    ],
+                    "match_one": [
+                        "Strasbourg",
+                        "Lille"
+                    ],
+                    "match_two": [
+                        "Marseille",
+                        "Strasbourg"
+                    ],
+                    "match_three": [
+                        "Toulouse",
+                        "Strasbourg"
+                    ],
+                    "match_four": [
+                        "Strasbourg",
+                        "Auxerre"
+                    ],
+                    "match_five": [
+                        "Le Havre",
+                        "Strasbourg"
+                    ],
+                    "match_six": [
+                        "Strasbourg",
+                        "Reims"
+                    ]
+                },
+                "goals": {
+                    "match_seven": [
+                        1,
+                        0
+                    ],
+                    "match_one": [
+                        2,
+                        1
+                    ],
+                    "match_two": [
+                        1,
+                        1
+                    ],
+                    "match_three": [
+                        1,
+                        2
+                    ],
+                    "match_four": [
+                        3,
+                        1
+                    ],
+                    "match_five": [
+                        0,
+                        3
+                    ],
+                    "match_six": [
+                        0,
+                        0
+                    ]
+                },
+                "x_goals": {
+                    "match_seven": [
+                        0.93,
+                        1.19
+                    ],
+                    "match_one": [
+                        1.06,
+                        1.58
+                    ],
+                    "match_two": [
+                        2.92,
+                        0.8
+                    ],
+                    "match_three": [
+                        1.24,
+                        2.35
+                    ],
+                    "match_four": [
+                        2.31,
+                        1.32
+                    ],
+                    "match_five": [
+                        0.93,
+                        0.92
+                    ],
+                    "match_six": [
+                        0.51,
+                        0.96
+                    ]
+                },
+                "corners": {
+                    "match_seven": [
+                        6,
+                        2
+                    ],
+                    "match_one": [
+                        6,
+                        7
+                    ],
+                    "match_two": [
+                        9,
+                        3
+                    ],
+                    "match_three": [
+                        3,
+                        2
+                    ],
+                    "match_four": [
+                        4,
+                        3
+                    ],
+                    "match_five": [
+                        3,
+                        2
+                    ],
+                    "match_six": [
+                        3,
+                        2
+                    ]
+                },
+                "fouls": {
+                    "match_seven": [
+                        14,
+                        10
+                    ],
+                    "match_one": [
+                        10,
+                        9
+                    ],
+                    "match_two": [
+                        13,
+                        14
+                    ],
+                    "match_three": [
+                        12,
+                        14
+                    ],
+                    "match_four": [
+                        10,
+                        13
+                    ],
+                    "match_five": [
+                        11,
+                        7
+                    ],
+                    "match_six": [
+                        13,
+                        16
+                    ]
+                },
+                "HT_cards": {
+                    "match_seven": [
+                        1,
+                        0
+                    ],
+                    "match_one": [
+                        2,
+                        1
+                    ],
+                    "match_two": [
+                        0,
+                        3
+                    ],
+                    "match_three": [
+                        1,
+                        1
+                    ],
+                    "match_four": [
+                        1,
+                        1
+                    ],
+                    "match_five": [
+                        0,
+                        0
+                    ],
+                    "match_six": [
+                        1,
+                        1
+                    ]
+                },
+                "FT_cards": {
+                    "match_seven": [
+                        3,
+                        3
+                    ],
+                    "match_one": [
+                        4,
+                        2
+                    ],
+                    "match_two": [
+                        3,
+                        3
+                    ],
+                    "match_three": [
+                        1,
+                        4
+                    ],
+                    "match_four": [
+                        1,
+                        2
+                    ],
+                    "match_five": [
+                        0,
+                        1
+                    ],
+                    "match_six": [
+                        1,
+                        2
+                    ]
+                }
+            }
+          },
+        "away_team": {
+            
+            "name": "Montpellier",
+            "coach": "Michel Der Zakarian",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/montpellier.png",
+            "playing_style": "Wide play; Long balls; Draws fouls; Deep positioning",
+            "pressing_style": "Aggressive",
+            "attacking_style": "Attacking down the right; High shot volume; Take long shots; High crossing frequency",
+            "defensive_style": " ",
+            "goal_scored_pg": 1,
+            "goals_concede_pg": 2.3,
+            "aggressive_players": ["Rabby Nzingoula", "Modibo Sagnan"],
+            "provocative_players": ["Arnaud Nordin", "Teji Savanier", "Rabby Nzingoula", "Al Ta’mari"],
+            "win_form": ["L","W","W","L","L","D","L"],
+            "corner_form": ["L","L","L","D","W","W","L"],
+            "unavailable_attacking_players": [],
+            "recent_matches": {
+                "teams": {
+                    "match_seven": [
+                        "Montpellier",
+                        "Lens"
+                    ],
+                    "match_one": [
+                        "Toulouse",
+                        "Montpellier"
+                    ],
+                    "match_two": [
+                        "Montpellier",
+                        "Monaco"
+                    ],
+                    "match_three": [
+                        "Montpellier",
+                        "Angers"
+                    ],
+                    "match_four": [
+                        "Lyon",
+                        "Montpellier"
+                    ],
+                    "match_five": [
+                        "Montpellier",
+                        "Nice"
+                    ],
+                    "match_six": [
+                        "Lens",
+                        "Montpellier"
+                    ]
+                },
+                "goals": {
+                    "match_seven": [
+                        0,
+                        2
+                    ],
+                    "match_one": [
+                        1,
+                        2
+                    ],
+                    "match_two": [
+                        2,
+                        1
+                    ],
+                    "match_three": [
+                        1,
+                        3
+                    ],
+                    "match_four": [
+                        1,
+                        0
+                    ],
+                    "match_five": [
+                        2,
+                        2
+                    ],
+                    "match_six": [
+                        2,
+                        0
+                    ]
+                },
+                "x_goals": {
+                    "match_seven": [
+                        0.83,
+                        2.08
+                    ],
+                    "match_one": [
+                        1.0,
+                        0.59
+                    ],
+                    "match_two": [
+                        2.48,
+                        1.83
+                    ],
+                    "match_three": [
+                        1.3,
+                        3.14
+                    ],
+                    "match_four": [
+                        1.35,
+                        1.17
+                    ],
+                    "match_five": [
+                        2.23,
+                        1.12
+                    ],
+                    "match_six": [
+                        1.23,
+                        1.1
+                    ]
+                },
+                "corners": {
+                    "match_seven": [
+                        4,
+                        5
+                    ],
+                    "match_one": [
+                        6,
+                        2
+                    ],
+                    "match_two": [
+                        4,
+                        16
+                    ],
+                    "match_three": [
+                        3,
+                        3
+                    ],
+                    "match_four": [
+                        3,
+                        5
+                    ],
+                    "match_five": [
+                        9,
+                        4
+                    ],
+                    "match_six": [
+                        6,
+                        3
+                    ]
+                },
+                "fouls": {
+                    "match_seven": [
+                        12,
+                        17
+                    ],
+                    "match_one": [
+                        9,
+                        15
+                    ],
+                    "match_two": [
+                        7,
+                        9
+                    ],
+                    "match_three": [
+                        11,
+                        15
+                    ],
+                    "match_four": [
+                        8,
+                        10
+                    ],
+                    "match_five": [
+                        15,
+                        13
+                    ],
+                    "match_six": [
+                        15,
+                        7
+                    ]
+                },
+                "HT_cards": {
+                    "match_seven": [
+                        1,
+                        2
+                    ],
+                    "match_one": [
+                        0,
+                        2
+                    ],
+                    "match_two": [
+                        0,
+                        0
+                    ],
+                    "match_three": [
+                        2,
+                        0
+                    ],
+                    "match_four": [
+                        0,
+                        0
+                    ],
+                    "match_five": [
+                        0,
+                        1
+                    ],
+                    "match_six": [
+                        0,
+                        1
+                    ]
+                },
+                "FT_cards": {
+                    "match_seven": [
+                        4,
+                        3
+                    ],
+                    "match_one": [
+                        1,
+                        2
+                    ],
+                    "match_two": [
+                        1,
+                        2
+                    ],
+                    "match_three": [
+                        8,
+                        2
+                    ],
+                    "match_four": [
+                        1,
+                        2
+                    ],
+                    "match_five": [
+                        1,
+                        2
+                    ],
+                    "match_six": [
+                        2,
+                        3
+                    ]
+                }
+            }    
+        
+          
+          },
+        "prediction": {
+            "cards": {
+                "discuss": "",
+                "ht": "- Too many inconsistency in the data to make a clear prediction.",
+                "ft": "Over 2.5 bookings \n-\n- The head-to-head full-time card average is above 2.5, along with both home and away teams' full-time card average. \n The referee issues more than 3.3 yellow cards per game, and the foul-to-tackle ratio is very high."
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Over 7.5 corners \n-\n- The averages for head-to-head, home and away teams are all above 7.5. \n Corner variability is evident with standard deviations above 0.7, and at least one team has solid corner-winning form.",
+                "win_corners": "Too many inconsistency in the data to make a clear prediction."
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": "-Too many inconsistency in the data to make a clear prediction.",
+                "fulltime_total_goals": "Under 4.5 goals \n-\n- The goal-scoring patterns suggest a controlled game with limited goal-scoring variability. \n Both teams exhibit a consistent trend of matches staying below 4.5 goals, with stable attacking and defensive performances."
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "Home win or draw (1X) \n-\n- The home team has a better league standing, suggesting they have been more consistent, and their recent form supports a positive result."
+            }
+        }
+    },
+    {
+        "fixture": "Angers vs Marseille",
+        "league":"🇫🇷 Ligue 1",
+        "day": "sunday",
+        "position": [12,2],
+        "type_of_match": "Regular",
+        "referee": {
+        "name": "Salem Hadj",
+        "fouls_per_tackle": 0.78,
+        "yellow_per_game": 3.98
+        },
+        "head_to_head": {
+            "win_form": [["D","L","L","L","D"],["D","W","W","W","D"]],
+              "corner_form": [["L","L","W","L","W"],["W","W","L","W","L"]],
+            "teams": {
+                "match_one": [
+                    "Marseille",
+                    "Angers"
+                ],
+                "match_two": [
+                    "Marseille",
+                    "Angers"
+                ],
+                "match_three": [
+                    "Angers",
+                    "Marseille"
+                ],
+                "match_four": [
+                    "Marseille",
+                    "Angers"
+                ],
+                "match_five": [
+                    "Angers",
+                    "Marseille"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    1,
+                    1
+                ],
+                "match_two": [
+                    3,
+                    1
+                ],
+                "match_three": [
+                    0,
+                    3
+                ],
+                "match_four": [
+                    5,
+                    2
+                ],
+                "match_five": [
+                    0,
+                    0
+                ]
+            },
+            "x_goals": {
+                "match_one": [
+                    1.23,
+                    0.51
+                ],
+                "match_two": [
+                    2.65,
+                    0.42
+                ],
+                "match_three": [],
+                "match_four": [],
+                "match_five": []
+            },
+            "corners": {
+                "match_one": [
+                    9,
+                    3
+                ],
+                "match_two": [
+                    7,
+                    0
+                ],
+                "match_three": [
+                    6,
+                    3
+                ],
+                "match_four": [
+                    6,
+                    2
+                ],
+                "match_five": [
+                    4,
+                    2
+                ]
+            },
+            "fouls": {
+                "match_one": [
+                    15,
+                    9
+                ],
+                "match_two": [
+                    17,
+                    9
+                ],
+                "match_three": [
+                    9,
+                    14
+                ],
+                "match_four": [
+                    13,
+                    13
+                ],
+                "match_five": [
+                    9,
+                    7
+                ]
+            },
+            "HT_cards": {
+                "match_one": [
+                    5,
+                    1
+                ],
+                "match_two": [
+                    0,
+                    2
+                ],
+                "match_three": [
+                    0,
+                    0
+                ],
+                "match_four": [
+                    0,
+                    0
+                ],
+                "match_five": [
+                    1,
+                    0
+                ]
+            },
+            "FT_cards": {
+                "match_one": [
+                    5,
+                    1
+                ],
+                "match_two": [
+                    1,
+                    2
+                ],
+                "match_three": [],
+                "match_four": [
+                    0,
+                    3
+                ],
+                "match_five": [
+                    1,
+                    3
+                ]
+            }
+        },
+        "home_team": {
+            
+            "name": "Angers",
+            "coach": "Alexandre Dujeux",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/angers.png",
+            "playing_style": "Counter-Attack",
+            "pressing_style": "Mid-Block",
+            "attacking_style": "Direct Play",
+            "defensive_style": "Compact",
+            "goal_scored_pg": 1.1,
+            "goals_concede_pg": 1.45,
+            "aggressive_players": [ "Jean-Eudes Aholou", "Himad Abdelli", "Carlens Arcus"],
+            "provocative_players": ["Farid el Melali"],
+            "win_form": ["D","L","W","W","W","L","L"],
+            "corner_form": ["W","W","W","W","L","W","D"],
+            "unavailable_attacking_players": [""],
+            "recent_matches": {
+                "teams": {
+                    "match_seven": [
+                        "Angers",
+                        "Le Havre"
+                    ],
+                    "match_one": [
+                        "Lens",
+                        "Angers"
+                    ],
+                    "match_two": [
+                        "Angers",
+                        "Auxerre"
+                    ],
+                    "match_three": [
+                        "Montpellier",
+                        "Angers"
+                    ],
+                    "match_four": [
+                        "Angers",
+                        "Brest"
+                    ],
+                    "match_five": [
+                        "Rennes",
+                        "Angers"
+                    ],
+                    "match_six": [
+                        "Angers",
+                        "Lyon"
+                    ]
+                },
+                "goals": {
+                    "match_seven": [
+                        1,
+                        1
+                    ],
+                    "match_one": [
+                        1,
+                        0
+                    ],
+                    "match_two": [
+                        2,
+                        0
+                    ],
+                    "match_three": [
+                        1,
+                        3
+                    ],
+                    "match_four": [
+                        2,
+                        0
+                    ],
+                    "match_five": [
+                        2,
+                        0
+                    ],
+                    "match_six": [
+                        0,
+                        3
+                    ]
+                },
+                "x_goals": {
+                    "match_seven": [
+                        1.54,
+                        2.07
+                    ],
+                    "match_one": [
+                        1.88,
+                        0.15
+                    ],
+                    "match_two": [
+                        0.87,
+                        0.51
+                    ],
+                    "match_three": [
+                        1.3,
+                        3.14
+                    ],
+                    "match_four": [
+                        1.56,
+                        0.87
+                    ],
+                    "match_five": [
+                        0.61,
+                        0.36
+                    ],
+                    "match_six": [
+                        0.51,
+                        1.31
+                    ]
+                },
+                "corners": {
+                    "match_seven": [
+                        4,
+                        2
+                    ],
+                    "match_one": [
+                        4,
+                        4
+                    ],
+                    "match_two": [
+                        4,
+                        2
+                    ],
+                    "match_three": [
+                        3,
+                        3
+                    ],
+                    "match_four": [
+                        2,
+                        4
+                    ],
+                    "match_five": [
+                        2,
+                        1
+                    ],
+                    "match_six": [
+                        2,
+                        7
+                    ]
+                },
+                "fouls": {
+                    "match_seven": [
+                        8,
+                        19
+                    ],
+                    "match_one": [
+                        16,
+                        10
+                    ],
+                    "match_two": [
+                        9,
+                        10
+                    ],
+                    "match_three": [
+                        11,
+                        15
+                    ],
+                    "match_four": [
+                        14,
+                        11
+                    ],
+                    "match_five": [
+                        18,
+                        12
+                    ],
+                    "match_six": [
+                        13,
+                        13
+                    ]
+                },
+                "HT_cards": {
+                    "match_seven": [
+                        2,
+                        3
+                    ],
+                    "match_one": [
+                        0,
+                        0
+                    ],
+                    "match_two": [
+                        1,
+                        1
+                    ],
+                    "match_three": [
+                        2,
+                        0
+                    ],
+                    "match_four": [
+                        2,
+                        1
+                    ],
+                    "match_five": [
+                        1,
+                        0
+                    ],
+                    "match_six": [
+                        0,
+                        1
+                    ]
+                },
+                "FT_cards": {
+                    "match_seven": [
+                        3,
+                        5
+                    ],
+                    "match_one": [0,0],
+                    "match_two": [
+                        2,
+                        2
+                    ],
+                    "match_three": [
+                        8,
+                        2
+                    ],
+                    "match_four": [
+                        2,
+                        1
+                    ],
+                    "match_five": [
+                        3,
+                        1
+                    ],
+                    "match_six": [
+                        0,
+                        2
+                    ]
+                }
+            }
+          
+          },
+        "away_team": {
+            
+            "name": "Marseille",
+            "coach": "Roberto De Zerbi",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/ligue_1/marseille.png",
+            "playing_style": "Ball retention; High territorial control; Draws fouls",
+            "pressing_style": "Non-aggressive",
+            "attacking_style": "High crossing frequency; Attack through the middle",
+            "defensive_style": " ",
+            "goal_scored_pg": 2.15,
+            "goals_concede_pg": 1.25,
+            "aggressive_players": [ "Adrien Rabiot", "Rongier"],
+            "provocative_players": ["Mason Greenwood", "Hojbjerg"],
+            "win_form": ["W","L","D","W","W","D","W"],
+            "corner_form": ["W","W","W","W","W","L","W"],
+            "unavailable_attacking_players": [],
+            "recent_matches": {
+                "teams": {
+                    "match_seven": [
+                        "Marseille",
+                        "Lyon"
+                    ],
+                    "match_one": [
+                        "Nice",
+                        "Marseille"
+                    ],
+                    "match_two": [
+                        "Marseille",
+                        "Strasbourg"
+                    ],
+                    "match_three": [
+                        "Rennes",
+                        "Marseille"
+                    ],
+                    "match_four": [
+                        "Marseille",
+                        "Le Havre"
+                    ],
+                    "match_five": [
+                        "Marseille",
+                        "Lille"
+                    ],
+                    "match_six": [
+                        "St Etienne",
+                        "Marseille"
+                    ]
+                },
+                "goals": {
+                    "match_seven": [
+                        3,
+                        2
+                    ],
+                    "match_one": [
+                        2,
+                        0
+                    ],
+                    "match_two": [
+                        1,
+                        1
+                    ],
+                    "match_three": [
+                        1,
+                        2
+                    ],
+                    "match_four": [
+                        5,
+                        1
+                    ],
+                    "match_five": [
+                        1,
+                        1
+                    ],
+                    "match_six": [
+                        0,
+                        2
+                    ]
+                },
+                "x_goals": {
+                    "match_seven": [
+                        3.24,
+                        1.75
+                    ],
+                    "match_one": [
+                        1.13,
+                        0.82
+                    ],
+                    "match_two": [
+                        2.92,
+                        0.8
+                    ],
+                    "match_three": [
+                        1.63,
+                        1.43
+                    ],
+                    "match_four": [
+                        3.26,
+                        0.46
+                    ],
+                    "match_five": [
+                        1.28,
+                        0.77
+                    ],
+                    "match_six": [
+                        0.16,
+                        2.51
+                    ]
+                },
+                "corners": {
+                    "match_seven": [
+                        6,
+                        2
+                    ],
+                    "match_one": [
+                        6,
+                        12
+                    ],
+                    "match_two": [
+                        9,
+                        3
+                    ],
+                    "match_three": [
+                        2,
+                        3
+                    ],
+                    "match_four": [
+                        4,
+                        0
+                    ],
+                    "match_five": [
+                        3,
+                        8
+                    ],
+                    "match_six": [
+                        0,
+                        9
+                    ]
+                },
+                "fouls": {
+                    "match_seven": [
+                        13,
+                        10
+                    ],
+                    "match_one": [
+                        12,
+                        9
+                    ],
+                    "match_two": [
+                        13,
+                        14
+                    ],
+                    "match_three": [
+                        11,
+                        13
+                    ],
+                    "match_four": [
+                        12,
+                        6
+                    ],
+                    "match_five": [
+                        14,
+                        9
+                    ],
+                    "match_six": [
+                        13,
+                        10
+                    ]
+                },
+                "HT_cards": {
+                    "match_seven": [
+                        1,
+                        0
+                    ],
+                    "match_one": [
+                        0,
+                        0
+                    ],
+                    "match_two": [
+                        0,
+                        3
+                    ],
+                    "match_three": [
+                        0,
+                        0
+                    ],
+                    "match_four": [
+                        1,
+                        0
+                    ],
+                    "match_five": [
+                        0,
+                        0
+                    ],
+                    "match_six": [
+                        0,
+                        0
+                    ]
+                },
+                "FT_cards": {
+                    "match_seven": [
+                        4,
+                        1
+                    ],
+                    "match_one": [
+                        1,
+                        1
+                    ],
+                    "match_two": [
+                        3,
+                        3
+                    ],
+                    "match_three": [
+                        2,
+                        2
+                    ],
+                    "match_four": [
+                        1,
+                        0
+                    ],
+                    "match_five": [
+                        2,
+                        3
+                    ],
+                    "match_six": [
+                        1,
+                        1
+                    ]
+                }
+            }
+          },
+        "prediction": {
+            "cards": {
+                "discuss": "",
+                "ht": "- Too many inconsistency in the data to make a clear prediction.",
+                "ft": "Over 2.5 bookings \n-\n- The head-to-head full-time card average is above 2.5, along with both home and away teams' full-time card average. \n The referee issues more than 3.3 yellow cards per game, and the foul-to-tackle ratio is very high."
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "- Too many inconsistency in the data to make a clear prediction.",
+                "win_corners": "Marseille \n-\n- The away team has a better head-to-head corner form, a better recent corner form, has won more than 3 recent corner battles, has won more than 2 head-to-head corner battles, and has an average corner total above 8."
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": "-Too many inconsistency in the data to make a clear prediction.",
+                "fulltime_total_goals": "Under 4.5 goals \n-\n- The goal-scoring patterns suggest a controlled game with limited goal-scoring variability. \n Both teams exhibit a consistent trend of matches staying below 4.5 goals, with stable attacking and defensive performances."
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "Away win or draw (X2) \n-\n- The away team has a stronger record both in head-to-head and recent matches. \n Their consistency in securing wins, even away from home, suggests they are unlikely to lose."
+            }
+        }
     }
 ]
