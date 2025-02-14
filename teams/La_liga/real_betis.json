@@ -12,10 +12,14 @@
     "aggressive_players": ["Vitor Roque", "Marc Roca", "Johnny Cardoso"],
     "provocative_players": ["Lo Celso", "Vitor Roque", "Romain Perraud", "Abde Ezzalzouli"],
     "unavailable_attacking_players": ["Isco"],
-    "win_form": ["D","W","L","L","D","W","D"],
-    "corner_form": ["L","D","L","W","D","D","W"],
+    "win_form": ["L","D","W","L","L","D","W"],
+    "corner_form": ["W","L","D","L","W","D","D"],
     "recent_matches": {
         "teams": {
+            "match_four": [
+                "Celta Vigo",
+                "Betis"
+            ],
             "match_five": [
                 "Betis",
                 "Ath Bilbao"
@@ -39,13 +43,13 @@
             "match_three": [
                 "Villarreal",
                 "Betis"
-            ],
-            "match_four": [
-                "Betis",
-                "Barcelona"
             ]
         },
         "goals": {
+            "match_four": [
+                3,
+                2
+            ],
             "match_five": [
                 2,
                 2
@@ -69,13 +73,13 @@
             "match_three": [
                 1,
                 2
-            ],
-            "match_four": [
-                2,
-                2
             ]
         },
         "x_goals": {
+            "match_four": [
+                2.40,
+                1.20
+            ],
             "match_five": [
                 1.11,
                 1.22
@@ -99,13 +103,13 @@
             "match_three": [
                 2.01,
                 0.6
-            ],
-            "match_four": [
-                2.87,
-                0.46
             ]
         },
         "corners": {
+            "match_four": [
+                4,
+                7
+            ],
             "match_five": [
                 3,
                 7
@@ -129,13 +133,13 @@
             "match_three": [
                 5,
                 5
-            ],
-            "match_four": [
-                6,
-                4
             ]
         },
         "fouls": {
+            "match_four": [
+                11,
+                11
+            ],
             "match_five": [
                 10,
                 20
@@ -159,13 +163,13 @@
             "match_three": [
                 19,
                 10
-            ],
-            "match_four": [
-                15,
-                14
             ]
         },
         "HT_cards": {
+        "match_four": [
+            0,
+            1
+        ],
             "match_five": [
                 0,
                 0
@@ -189,13 +193,13 @@
             "match_three": [
                 2,
                 3
-            ],
-            "match_four": [
-                1,
-                0
             ]
         },
         "FT_cards": {
+            "match_four": [
+                3,
+                5
+            ],
             "match_five": [
                 3,
                 1
@@ -219,10 +223,6 @@
             "match_three": [
                 5,
                 5
-            ],
-            "match_four": [
-                1,
-                2
             ]
         }
     }

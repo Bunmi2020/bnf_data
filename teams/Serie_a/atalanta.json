@@ -10,10 +10,14 @@
     "goals_concede_pg": 1.14,
     "aggressive_players": ["Sead Kolasinac","Marten de Roon"],
     "provocative_players": ["Raoul Bellanova","Ederson"],
-    "win_form": ["D","W","L","D","D","D","W"],
-    "corner_form": ["W","L","W","D","L","W","W"],
+    "win_form": ["W","D","W","L","D","D","D"],
+    "corner_form": ["L","W","L","W","D","L","W"],
     "recent_matches": {
         "teams": {
+            "match_three": [
+                "Verona",
+                "Atalanta"
+            ],
             "match_four": [
                 "Atalanta",
                 "Torino"
@@ -37,13 +41,13 @@
             "match_two": [
                 "Lazio",
                 "Atalanta"
-            ],
-            "match_three": [
-                "Atalanta",
-                "Empoli"
             ]
         },
         "goals": {
+            "match_three": [
+                0,
+                5
+            ],
             "match_four": [
                 1,
                 1
@@ -67,13 +71,13 @@
             "match_two": [
                 1,
                 1
-            ],
-            "match_three": [
-                3,
-                2
             ]
         },
         "x_goals": {
+            "match_three": [
+                1.61,
+                2.41
+            ],
             "match_four": [
                 3.13,
                 0.58
@@ -97,13 +101,13 @@
             "match_two": [
                 0.62,
                 2.84
-            ],
-            "match_three": [
-                1.38,
-                1.31
             ]
         },
         "corners": {
+            "match_three": [
+                7,
+                2
+            ],
             "match_five": [
                 8,
                 0
@@ -127,13 +131,13 @@
             "match_two": [
                 2,
                 7
-            ],
-            "match_three": [
-                6,
-                3
             ]
         },
         "fouls": {
+            "match_three": [
+                10,
+                6
+            ],
             "match_four": [
                 6,
                 11
@@ -157,13 +161,13 @@
             "match_two": [
                 6,
                 11
-            ],
-            "match_three": [
-                11,
-                15
             ]
         },
         "HT_cards": {
+            "match_three": [
+                2,
+                0
+            ],
             "match_four": [
                 0,
                 1
@@ -187,13 +191,13 @@
             "match_two": [
                 0,
                 1
-            ],
-            "match_three": [
-                1,
-                0
             ]
         },
         "FT_cards": {
+            "match_three": [
+                2,
+                1
+            ],
             "match_four": [
                 0,
                 3
@@ -217,10 +221,6 @@
             "match_two": [
                 2,
                 3
-            ],
-            "match_three": [
-                1,
-                1
             ]
         }
     }     

@@ -11,10 +11,14 @@
     "goals_concede_pg": 1.3,
     "aggressive_players": ["Will Hughes","Daniel Munoz"],
     "provocative_players": ["Eberechi Eze"],
-    "win_form": ["L","W","W","D","W","D","L"],
-    "corner_form": ["L","W","L","D","W","L","D"],
+    "win_form": ["W","L","W","W","D","W","D"],
+    "corner_form": ["L","L","W","L","D","W","L"],
     "recent_matches": {
         "teams": {
+            "match_four": [
+                "Manchester Utd",
+                "Crystal Palace"
+            ],
             "match_five": [
                 "Crystal Palace",
                 "Brentford"
@@ -38,13 +42,13 @@
             "match_three": [
                 "Bournemouth",
                 "Crystal Palace"
-            ],
-            "match_four": [
-                "Crystal Palace",
-                "Arsenal"
             ]
         },
         "goals": {
+            "match_four": [
+                0,
+                2
+            ],
             "match_five": [
                 1,
                 2
@@ -68,13 +72,13 @@
             "match_three": [
                 0,
                 0
-            ],
-            "match_four": [
-                1,
-                5
             ]
         },
         "x_goals": {
+            "match_four": [
+                1.31,
+                2.61
+            ],
             "match_five": [
                 1.09,
                 1.68
@@ -98,13 +102,13 @@
             "match_three": [
                 1.19,
                 0.53
-            ],
-            "match_four": [
-                1.72,
-                2.88
             ]
         },
         "corners": {
+            "match_four": [
+                11,
+                0
+            ],
             "match_five": [
                 4,
                 7
@@ -128,13 +132,13 @@
             "match_three": [
                 5,
                 2
-            ],
-            "match_four": [
-                3,
-                3
             ]
         },
         "fouls": {
+            "match_four": [
+                12,
+                13
+            ],
             "match_five": [
                 8,
                 11
@@ -158,13 +162,13 @@
             "match_three": [
                 13,
                 12
-            ],
-            "match_four": [
-                9,
-                8
             ]
         },
         "HT_cards": {
+            "match_four": [
+                0,
+                0
+            ],
             "match_five": [
                 1,
                 0
@@ -188,13 +192,13 @@
             "match_three": [
                 1,
                 1
-            ],
-            "match_four": [
-                0,
-                2
             ]
         },
         "FT_cards": {
+            "match_four": [
+                3,
+                1
+            ],
             "match_five": [
                 2,
                 2
@@ -216,10 +220,6 @@
                 3
             ],
             "match_three": [
-                2,
-                2
-            ],
-            "match_four": [
                 2,
                 2
             ]

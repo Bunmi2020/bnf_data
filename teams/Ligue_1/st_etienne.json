@@ -11,11 +11,15 @@
     "goals_concede_pg": 2.15,
     "aggressive_players": ["Ibrahim Sissoko", "Yunis Abdelhamid"],
     "provocative_players": ["Mickael Nade", "Bouchouari"],
-    "win_form": ["L","D","D","L","W","L","L"],
-    "corner_form": ["L","W","D","L","L","W","L"],
+    "win_form": ["L","L","D","D","L","W","L"],
+    "corner_form": ["L","L","W","D","L","L","W"],
     "unavailable_attacking_players": [""],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "St Etienne",
+                "Rennes"
+            ],
             "match_seven": [
                 "Lille",
                 "St Etienne"
@@ -39,13 +43,13 @@
             "match_five": [
                 "Toulouse",
                 "St Etienne"
-            ],
-            "match_six": [
-                "St Etienne",
-                "Marseille"
             ]
         },
         "goals": {
+            "match_six": [
+                0,
+                2
+            ],
             "match_seven": [
                 4,
                 1
@@ -69,13 +73,13 @@
             "match_five": [
                 2,
                 1
-            ],
-            "match_six": [
-                0,
-                2
             ]
         },
         "x_goals": {
+            "match_six": [
+                0.48,
+                3.75
+            ],
             "match_seven": [
                 3.41,
                 2.11
@@ -99,13 +103,13 @@
             "match_five": [
                 1.02,
                 0.51
-            ],
-            "match_six": [
-                0.16,
-                2.51
             ]
         },
         "corners": {
+            "match_six": [
+                2,
+                4
+            ],
             "match_seven": [
                 7,
                 1
@@ -129,13 +133,13 @@
             "match_five": [
                 2,
                 3
-            ],
-            "match_six": [
-                0,
-                9
             ]
         },
         "fouls": {
+            "match_six": [
+                13,
+                6
+            ],
             "match_seven": [
                 11,
                 12
@@ -159,13 +163,13 @@
             "match_five": [
                 16,
                 15
-            ],
-            "match_six": [
-                13,
-                10
             ]
         },
         "HT_cards": {
+            "match_six": [
+                0,
+                3
+            ],
             "match_seven": [
                 0,
                 0
@@ -189,13 +193,13 @@
             "match_five": [
                 1,
                 1
-            ],
-            "match_six": [
-                0,
-                0
             ]
         },
         "FT_cards": {
+            "match_six": [
+                1,
+                5
+            ],
             "match_seven": [
                 0,
                 0
@@ -219,10 +223,6 @@
             "match_five": [
                 3,
                 4
-            ],
-            "match_six": [
-                1,
-                1
             ]
         }
     }

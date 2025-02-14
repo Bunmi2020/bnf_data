@@ -11,10 +11,14 @@
     "goals_concede_pg": 1.3,
     "aggressive_players": [ "Moises Caicedo"],
     "provocative_players": [ "Cole Palmer"],
-    "win_form": ["L","W","D","D","L","L","D"],
-    "corner_form": ["W","L","W","D","W","W","W"],
+    "win_form": ["W","L","W","D","D","L","L"],
+    "corner_form": ["W","W","L","W","D","W","W"],
     "recent_matches": {
         "teams": {
+            "match_four": [
+                "Chelsea",
+                "West Ham"
+            ],
             "match_five": [
                 "Manchester City",
                 "Chelsea"
@@ -38,13 +42,13 @@
             "match_three": [
                 "Chelsea",
                 "Fulham"
-            ],
-            "match_four": [
-                "Everton",
-                "Chelsea"
             ]
         },
         "goals": {
+            "match_four": [
+                2,
+                1
+            ],
             "match_five": [
                 3,
                 1
@@ -68,13 +72,13 @@
             "match_three": [
                 1,
                 2
-            ],
-            "match_four": [
-                0,
-                0
             ]
         },
         "x_goals": {
+            "match_four": [
+                1.37,
+                1.12
+            ],
             "match_five": [
                 2.7,
                 1.61
@@ -98,13 +102,13 @@
             "match_three": [
                 0.82,
                 1.32
-            ],
-            "match_four": [
-                0.39,
-                0.77
             ]
         },
         "corners": {
+            "match_four": [
+                4,
+                3
+            ],
             "match_five": [
                 2,
                 3
@@ -128,13 +132,13 @@
             "match_three": [
                 3,
                 1
-            ],
-            "match_four": [
-                2,
-                5
             ]
         },
         "fouls": {
+            "match_four": [
+                11,
+                10
+            ],
             "match_five": [
                 6,
                 8
@@ -158,13 +162,13 @@
             "match_three": [
                 13,
                 13
-            ],
-            "match_four": [
-                20,
-                12
             ]
         },
         "HT_cards": {
+            "match_four": [
+                0,
+                0
+            ],
             "match_five": [
                 1,
                 1
@@ -188,13 +192,13 @@
             "match_three": [
                 0,
                 2
-            ],
-            "match_four": [
-                2,
-                0
             ]
         },
         "FT_cards": {
+            "match_four": [
+                3,
+                1
+            ],
             "match_five": [
                 3,
                 2
@@ -218,10 +222,6 @@
             "match_three": [
                 1,
                 3
-            ],
-            "match_four": [
-                4,
-                1
             ]
         }
     }

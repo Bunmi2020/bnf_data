@@ -10,10 +10,14 @@
     "goals_concede_pg": 1.4,
     "aggressive_players": [ ],
     "provocative_players": ["Serhou Guirassy","Atakan Karazor"],
-    "win_form": ["L","L","W","W","W","L","W"],
-    "corner_form": ["W","L","W","W","W","W","L"],
+    "win_form": ["W","L","L","W","W","W","L"],
+    "corner_form": ["L","W","L","W","W","W","W"],
     "recent_matches": {
         "teams": {
+            "match_three": [
+                "Dortmund",
+                "Stuttgart"
+            ],
             "match_four": [
                 "Stuttgart",
                 "B. Monchengladbach"
@@ -37,13 +41,10 @@
             "match_two": [
                 "Stuttgart",
                 "St. Pauli"
-            ],
-            "match_three": [
-                "Heidenheim",
-                "Stuttgart"
             ]
         },
         "goals": { 
+            "match_three": [1,2],
             "match_four": [
                 1,
                 2
@@ -67,13 +68,13 @@
             "match_two": [
                 0,
                 1
-            ],
-            "match_three": [
-                1,
-                3
             ]
         },
         "x_goals": {
+            "match_three": [
+                1.28,
+                0.35
+            ],
             "match_four": [
                 1.16,
                 1.7
@@ -97,13 +98,13 @@
             "match_two": [
                 1.76,
                 2.09
-            ],
-            "match_three": [
-                0.81,
-                2.3
             ]
         },
         "corners": {
+            "match_three": [
+                9,
+                4
+            ],
             "match_four": [
                 2,
                 0
@@ -127,13 +128,13 @@
             "match_two": [
                 9,
                 1
-            ],
-            "match_three": [
-                9,
-                6
             ]
         },
         "fouls": {
+            "match_three": [
+                13,
+                14
+            ],
             "match_four": [
                 11,
                 11
@@ -157,13 +158,13 @@
             "match_two": [
                 10,
                 11
-            ],
-            "match_three": [
-                25,
-                13
             ]
         },
         "HT_cards": {
+            "match_three": [
+                1,
+                0
+            ],
             "match_four": [
                 0,
                 1
@@ -187,13 +188,13 @@
             "match_two": [
                 0,
                 1
-            ],
-            "match_three": [
-                1,
-                2
             ]
         },
         "FT_cards": {
+            "match_three": [
+                6,
+                2
+            ],
             "match_four": [
                 2,
                 2
@@ -217,10 +218,6 @@
             "match_two": [
                 2,
                 2
-            ],
-            "match_three": [
-                4,
-                3
             ]
         }
     }

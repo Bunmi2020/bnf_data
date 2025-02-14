@@ -11,10 +11,14 @@
     "aggressive_players": ["Braise Mendez", "Igor Zubekdia", "Jon Pacheco", "Jon Aramburu"],
     "provocative_players": ["Braise Mendez", "Takefusa Kubo"],
     "unavailable_attacking_players": [],
-    "win_form": ["L","L","L","W","L","D","W"],
-    "corner_form": ["W","W","W","L","W","W","L"],
+    "win_form": ["W","L","L","L","W","L","D"],
+    "corner_form": ["W","W","W","W","L","W","W"],
     "recent_matches": {
     "teams": {
+        "match_four": [
+            "Real Sociedad",
+            "Espanyol"
+        ],
         "match_five": [
                 "Osasuna",
                 "Real Sociedad"
@@ -38,13 +42,13 @@
       "match_three": [
           "Real Sociedad",
           "Las Palmas"
-      ],
-      "match_four": [
-          "Leganes",
-          "Real Sociedad"
       ]
   },
   "goals": {
+    "match_four": [
+        2,
+        1
+    ],
     "match_five": [
                 2,
                 1
@@ -68,13 +72,13 @@
       "match_three": [
           0,
           0
-      ],
-      "match_four": [
-          0,
-          3
       ]
   },
   "x_goals": {
+    "match_four": [
+        1.49,
+        0.87
+    ],
     "match_five": [
                 0.65,
                 1.75
@@ -98,13 +102,13 @@
       "match_three": [
           0.6,
           0.85
-      ],
-      "match_four": [
-          0.64,
-          1.73
       ]
   },
   "corners": {
+    "match_four": [
+        6,
+        0
+    ],
     "match_five": [
         3,
         5
@@ -128,13 +132,13 @@
       "match_three": [
           8,
           6
-      ],
-      "match_four": [
-          5,
-          3
       ]
   },
   "fouls": {
+    "match_four": [
+        11,
+        17
+    ],
     "match_five": [
                 10,
                 8
@@ -158,13 +162,13 @@
       "match_three": [
           17,
           12
-      ],
-      "match_four": [
-          12,
-          15
       ]
   },
   "HT_cards": {
+    "match_four": [
+        0,
+        1
+    ],
     "match_five": [
                 1,
                 1
@@ -188,13 +192,13 @@
       "match_three": [
           1,
           0
-      ],
-      "match_four": [
-          0,
-          1
       ]
   },
   "FT_cards": {
+    "match_four": [
+        1,
+        2
+    ],
     "match_five": [
                 3,
                 3
@@ -218,10 +222,6 @@
       "match_three": [
           2,
           3
-      ],
-      "match_four": [
-          2,
-          2
       ]
   }
 }

@@ -11,10 +11,14 @@
     "aggressive_players": ["Lucas Torró","Enxo Boyomo"],
     "provocative_players": ["Aimar Oroz"],
     "unavailable_attacking_players": [],
-    "win_form": ["W","D","L","L","D","D","D"],
-    "corner_form": ["L","W","L","D","L","W","L"],
+    "win_form": ["D","W","D","L","L","D","D"],
+    "corner_form": ["W","L","W","L","D","L","W"],
     "recent_matches": {
         "teams": {
+            "match_four": [
+                "Mallorca",
+                "Osasuna"
+            ],
             "match_five": [
                 "Osasuna",
                 "Real Sociedad"
@@ -38,13 +42,13 @@
             "match_three": [
                 "Espanyol",
                 "Osasuna"
-            ],
-            "match_four": [
-                "Osasuna",
-                "Alaves"
             ]
         },
         "goals": {
+            "match_four": [
+                1,
+                1
+            ],
             "match_five": [
                 2,
                 1
@@ -68,13 +72,13 @@
             "match_three": [
                 0,
                 0
-            ],
-            "match_four": [
-                2,
-                2
             ]
         },
         "x_goals": {
+            "match_four": [
+                1.24,
+                1.53
+            ],
             "match_five": [
                 0.65,
                 1.75
@@ -98,10 +102,6 @@
             "match_three": [
                 0.41,
                 0.26
-            ],
-            "match_four": [
-                1.85,
-                1.54
             ]
         },
         "corners": {
@@ -135,6 +135,10 @@
             ]
         },
         "fouls": {
+            "match_four": [
+                7,
+                11
+            ],
             "match_five": [
                 10,
                 8
@@ -158,13 +162,13 @@
             "match_three": [
                 13,
                 13
-            ],
-            "match_four": [
-                13,
-                14
             ]
         },
         "HT_cards": {
+            "match_four": [
+                0,
+                1
+            ],
             "match_five": [
                 1,
                 1
@@ -188,13 +192,13 @@
             "match_three": [
                 1,
                 1
-            ],
-            "match_four": [
-                2,
-                2
             ]
         },
         "FT_cards": {
+            "match_four": [
+                1,
+                4
+            ],
             "match_five": [
                 3,
                 3
@@ -218,10 +222,6 @@
             "match_three": [
                 3,
                 1
-            ],
-            "match_four": [
-                4,
-                3
             ]
         }
     }

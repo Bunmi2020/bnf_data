@@ -12,10 +12,14 @@
     "aggressive_players": ["Zito Luvumbo", "Roberto Piccoli"],
     "provocative_players": ["Zito Luvumbo", "Roberto Piccoli", "Yerry Mina", "Nicolas Viola"],
     "unavailable_attacking_players": [],
-    "win_form": ["L","L","W","D","W","L","L"],
-    "corner_form": ["D","L","W","L","W","L","W"],
+    "win_form": ["W","L","L","W","D","W","L"],
+    "corner_form": ["W","D","L","W","L","W","L"],
     "recent_matches": {
         "teams": {
+            "match_four": [
+                "Cagliari",
+                "Parma"
+            ],
             "match_five": [
                 "Cagliari",
                 "Lazio"
@@ -39,13 +43,13 @@
             "match_three": [
                 "Cagliari",
                 "Inter"
-            ],
-            "match_four": [
-                "Venezia",
-                "Cagliari"
             ]
         },
         "goals": {
+            "match_four": [
+                2,
+                1
+            ],
             "match_five": [
                 1,
                 2
@@ -69,13 +73,13 @@
             "match_three": [
                 0,
                 3
-            ],
-            "match_four": [
-                2,
-                1
             ]
         },
         "x_goals": {
+            "match_four": [
+                0.94,
+                0.86
+            ],
             "match_five": [
                 1.49,
                 1.29
@@ -99,13 +103,13 @@
             "match_three": [
                 0.31,
                 3.5
-            ],
-            "match_four": [
-                1.74,
-                2.26
             ]
         },
         "corners": {
+            "match_four": [
+                7,
+                6
+            ],
             "match_five": [
                 7,
                 7
@@ -129,13 +133,13 @@
             "match_three": [
                 5,
                 7
-            ],
-            "match_four": [
-                4,
-                8
             ]
         },
         "fouls": {
+            "match_four": [
+                14,
+                12
+            ],
             "match_five": [
                 14,
                 9
@@ -159,13 +163,13 @@
             "match_three": [
                 14,
                 5
-            ],
-            "match_four": [
-                6,
-                11
             ]
         },
         "HT_cards": {
+            "match_four": [
+                0,
+                0
+            ],
             "match_five": [
                 0,
                 0
@@ -189,13 +193,13 @@
             "match_three": [
                 0,
                 0
-            ],
-            "match_four": [
-                0,
-                0
             ]
         },
         "FT_cards": {
+            "match_four": [
+                0,
+                2
+            ],
             "match_five": [
                 0,
                 0
@@ -216,11 +220,7 @@
                 3,
                 2
             ],
-            "match_three": [],
-            "match_four": [
-                1,
-                2
-            ]
+            "match_three": [0,0]
         }
     }
   }

@@ -11,10 +11,14 @@
     "goals_concede_pg": 1.22,
     "aggressive_players": ["Lewis Ferguson","Jens Odgaard","Castro","Tommaso"],
     "provocative_players": ["Dan Ndoye","Dominguez","Castro","Emil Holm","Riccardo Orsolini"],
-    "win_form": ["W","D","W","D","L","W","W"],
-    "corner_form": ["W","W","W","D","W","L","L"],
+    "win_form": ["D","W","D","W","D","L","W"],
+    "corner_form": ["L","W","W","W","D","W","L"],
    "recent_matches": {
         "teams": {
+            "match_three": [
+                "Lecce",
+                "Bologna"
+            ],
             "match_four": [
                 "Bologna",
                 "Como"
@@ -38,13 +42,13 @@
             "match_two": [
                 "Torino",
                 "Bologna"
-            ],
-            "match_three": [
-                "Bologna",
-                "Fiorentina"
             ]
         },
         "goals": {
+            "match_three": [
+                0,
+                0
+            ],
             "match_four": [
                 2,
                 0
@@ -68,13 +72,13 @@
             "match_two": [
                 0,
                 2
-            ],
-            "match_three": [
-                1,
-                0
             ]
         },
         "x_goals": {
+            "match_three": [
+                0.51,
+                0.93
+            ],
             "match_four": [
                 1.4,
                 0.54
@@ -98,13 +102,13 @@
             "match_two": [
                 0.36,
                 1.83
-            ],
-            "match_three": [
-                0.96,
-                0.7
             ]
         },
         "corners": {
+            "match_three": [
+                6,
+                5
+            ],
             "match_four": [
                 4,
                 2
@@ -128,13 +132,13 @@
             "match_two": [
                 4,
                 0
-            ],
-            "match_three": [
-                1,
-                3
             ]
         },
         "fouls": {
+            "match_three": [
+                14,
+                16
+            ],
             "match_four": [
                 16,
                 18
@@ -158,13 +162,14 @@
             "match_two": [
                 11,
                 17
-            ],
-            "match_three": [
-                16,
-                10
             ]
         },
         "HT_cards": {
+            
+            "match_three": [
+                0,
+                0
+            ],
             "match_four": [
                 1,
                 4
@@ -188,13 +193,13 @@
             "match_two": [
                 0,
                 0
-            ],
-            "match_three": [
-                1,
-                1
             ]
         },
         "FT_cards": {
+            "match_three": [
+                0,
+                2
+            ],
             "match_four": [
                 3,
                 5
@@ -217,10 +222,6 @@
             ],
             "match_two": [
                 0,
-                2
-            ],
-            "match_three": [
-                2,
                 2
             ]
         }

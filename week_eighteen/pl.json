@@ -1,0 +1,6306 @@
+[
+    {
+        "fixture": "Brighton vs Chelsea",
+        "league": "🇬🇧 Premier League",
+        "day": "friday",
+        "position": [10,4],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Kavanagh",
+          "fouls_per_tackle": 0.62,
+          "yellow_per_game": 3.61
+        },
+        "head_to_head": {
+            "win_form": [["L","L","L","L","W"],["W","W","W","W","L"]],
+          "corner_form": [["L","L","W","W","W"],["W","W","L","L","L"]],
+            
+        "teams": {
+            "match_one": [
+                "Chelsea",
+                "Brighton"
+            ],
+            "match_two": [
+                "Brighton",
+                "Chelsea"
+            ],
+            "match_three": [
+                "Chelsea",
+                "Brighton"
+            ],
+            "match_four": [
+                "Chelsea",
+                "Brighton"
+            ],
+            "match_five": [
+                "Chelsea",
+                "Brighton"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                4,
+                2
+            ],
+            "match_two": [
+                1,
+                2
+            ],
+            "match_three": [
+                3,
+                2
+            ],
+            "match_four": [
+                1,
+                0
+            ],
+            "match_five": [
+                1,
+                2
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                3.31,
+                1.14
+            ],
+            "match_two": [
+                1.22,
+                1.27
+            ],
+            "match_three": [
+                1.91,
+                0.92
+            ],
+            "match_four": [
+                1.21,
+                0.83
+            ],
+            "match_five": [
+                0.64,
+                2.33
+            ]
+        },
+        "corners": {
+            "match_one": [
+                8,
+                2
+            ],
+            "match_two": [
+                4,
+                6
+            ],
+            "match_three": [
+                5,
+                8
+            ],
+            "match_four": [
+                5,
+                8
+            ],
+            "match_five": [
+                2,
+                8
+            ]
+        },
+       
+        "fouls": {
+            "match_one": [
+                11,
+                8
+            ],
+            "match_two": [
+                13,
+                14
+            ],
+            "match_three": [
+                16,
+                12
+            ],
+            "match_four": [
+                5,
+                17
+            ],
+            "match_five": [
+                11,
+                11
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                2,
+                2
+            ],
+            "match_two": [
+                1,
+                0
+            ],
+            "match_three": [
+                3,
+                1
+            ],
+            "match_four": [
+                1,
+                2
+            ],
+            "match_five": [
+                1,
+                1
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                3,
+                2
+            ],
+            "match_two": [
+                2,
+                3
+            ],
+            "match_three": [
+                6,
+                5
+            ],
+            "match_four": [
+                1,
+                2
+            ],
+            "match_five": [
+                2,
+                2
+            ]
+        }
+    },
+        "home_team": {
+        
+            "name": "Brighton",
+            "coach": "Fabian Hürzeler",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/brighton.png",
+            "playing_style": "Ball Retention; Short passes; Draws fouls",
+            "pressing_style": "Aggressive",
+            "attacking_style": "Attack through the middle; Attacking down the left; ",
+            "defensive_style": " ",
+            "goal_scored_pg": 1.52,
+            "goals_concede_pg": 1.34,
+            "aggressive_players": [ ],
+            "provocative_players": ["Joao Pedro", "Joel Veltman","Georgino Rutter","Carlos Baleba"],
+            "win_form": ["L","L","W","W","D","D","D"],
+            "corner_form": ["W","W","L","W","L","L","W"],
+            "recent_matches": {
+                "teams": {
+                    "match_four": [
+                        "Nottingham",
+                        "Brighton"
+                    ],
+                    "match_five": [
+                        "Brighton",
+                        "Everton"
+                    ],
+                    "match_six": [
+                        "Manchester Utd",
+                        "Brighton"
+                    ],
+                    "match_seven": [
+                        "Ipswich",
+                        "Brighton"
+                    ],
+                    "match_one": [
+                        "Brighton",
+                        "Arsenal"
+                    ],
+                    "match_two": [
+                        "Aston Villa",
+                        "Brighton"
+                    ],
+                    "match_three": [
+                        "Brighton",
+                        "Brentford"
+                    ]
+                },
+                "goals": {
+                    "match_four": [
+                        7,
+                        0
+                    ],
+                    "match_five": [
+                        0,
+                        1
+                    ],
+                    "match_six": [
+                        1,
+                        3
+                    ],
+                    "match_seven": [
+                        0,
+                        2
+                    ],
+                    "match_one": [
+                        1,
+                        1
+                    ],
+                    "match_two": [
+                        2,
+                        2
+                    ],
+                    "match_three": [
+                        0,
+                        0
+                    ]
+                },
+                "x_goals": {
+                    "match_four": [
+                        3.23,
+                        0.8
+                    ],
+                    "match_five": [
+                        0.75,
+                        0.87
+                    ],
+                    "match_six": [
+                        1.41,
+                        1.98
+                    ],
+                    "match_seven": [
+                        0.29,
+                        0.97
+                    ],
+                    "match_one": [
+                        1.56,
+                        0.84
+                    ],
+                    "match_two": [
+                        1.74,
+                        1.09
+                    ],
+                    "match_three": [
+                        1.26,
+                        0.96
+                    ]
+                },
+                "corners": {
+                    "match_four": [
+                        4,
+                        6
+                    ],
+                    "match_five": [
+                        9,
+                        1
+                    ],
+                    "match_six": [
+                        4,
+                        2
+                    ],
+                    "match_seven": [
+                        1,
+                        9
+                    ],
+                    "match_one": [
+                        2,
+                        5
+                    ],
+                    "match_two": [
+                        12,
+                        3
+                    ],
+                    "match_three": [
+                        5,
+                        3
+                    ]
+                },
+                "fouls": {
+                    "match_four": [
+                        8,
+                        13
+                    ],
+                    "match_five": [
+                        8,
+                        11
+                    ],
+                    "match_six": [
+                        13,
+                        12
+                    ],
+                    "match_seven": [
+                        13,
+                        14
+                    ],
+                    "match_one": [
+                        17,
+                        14
+                    ],
+                    "match_two": [
+                        9,
+                        14
+                    ],
+                    "match_three": [
+                        6,
+                        12
+                    ]
+                },
+                "HT_cards": {
+                    "match_four": [
+                        1,
+                        2
+                    ],
+                    "match_five": [
+                        2,
+                        2
+                    ],
+                    "match_six": [
+                        0,
+                        2
+                    ],
+                    "match_seven": [
+                        0,
+                        0
+                    ],
+                    "match_one": [
+                        0,
+                        1
+                    ],
+                    "match_two": [
+                        2,
+                        1
+                    ],
+                    "match_three": [
+                        0,
+                        0
+                    ]
+                },
+                "FT_cards": {
+                    "match_four": [
+                        1,
+                        3
+                    ],
+                    "match_five": [
+                        4,
+                        4
+                    ],
+                    "match_six": [
+                        3,
+                        3
+                    ],
+                    "match_seven": [
+                        2,
+                        2
+                    ],
+                    "match_one": [
+                        2,
+                        3
+                    ],
+                    "match_two": [
+                        2,
+                        3
+                    ],
+                    "match_three": [
+                        0,
+                        2
+                    ]
+                }
+            }
+          },
+        "away_team": {
+    
+            "name": "Chelsea",
+            "coach": "Enzo Maresca",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/chelsea.png",
+            "playing_style": "Ball Retention; Short passes; Draws fouls",
+            "pressing_style": "Aggressive",
+            "attacking_style": "Frequent through ball attempts; Attacking down the right; Take long shots",
+            "defensive_style": "Structured",
+            "goal_scored_pg": 1.96,
+            "goals_concede_pg": 1.3,
+            "aggressive_players": [ "Moises Caicedo"],
+            "provocative_players": [ "Cole Palmer"],
+            "win_form": ["W","L","W","D","D","L","L"],
+            "corner_form": ["W","W","L","W","D","W","W"],
+            "recent_matches": {
+                "teams": {
+                    "match_four": [
+                        "Chelsea",
+                        "West Ham"
+                    ],
+                    "match_five": [
+                        "Manchester City",
+                        "Chelsea"
+                    ],
+                    "match_six": [
+                        "Chelsea",
+                        "Wolves"
+                    ],
+                    "match_seven": [
+                        "Chelsea",
+                        "Bournemouth"
+                    ],
+                    "match_one": [
+                        "Crystal Palace",
+                        "Chelsea"
+                    ],
+                    "match_two": [
+                        "Ipswich",
+                        "Chelsea"
+                    ],
+                    "match_three": [
+                        "Chelsea",
+                        "Fulham"
+                    ]
+                },
+                "goals": {
+                    "match_four": [
+                        2,
+                        1
+                    ],
+                    "match_five": [
+                        3,
+                        1
+                    ],
+                    "match_six": [
+                        3,
+                        1
+                    ],
+                    "match_seven": [
+                        2,
+                        2
+                    ],
+                    "match_one": [
+                        1,
+                        1
+                    ],
+                    "match_two": [
+                        2,
+                        0
+                    ],
+                    "match_three": [
+                        1,
+                        2
+                    ]
+                },
+                "x_goals": {
+                    "match_four": [
+                        1.37,
+                        1.12
+                    ],
+                    "match_five": [
+                        2.7,
+                        1.61
+                    ],
+                    "match_six": [
+                        3.15,
+                        0.86
+                    ],
+                    "match_seven": [
+                        2.45,
+                        1.23
+                    ],
+                    "match_one": [
+                        1.01,
+                        1.3
+                    ],
+                    "match_two": [
+                        1.58,
+                        2.0
+                    ],
+                    "match_three": [
+                        0.82,
+                        1.32
+                    ]
+                },
+                "corners": {
+                    "match_four": [
+                        4,
+                        3
+                    ],
+                    "match_five": [
+                        2,
+                        3
+                    ],
+                    "match_six": [
+                        3,
+                        6
+                    ],
+                    "match_seven": [
+                        9,
+                        3
+                    ],
+                    "match_one": [
+                        6,
+                        6
+                    ],
+                    "match_two": [
+                        4,
+                        7
+                    ],
+                    "match_three": [
+                        3,
+                        1
+                    ]
+                },
+                "fouls": {
+                    "match_four": [
+                        11,
+                        10
+                    ],
+                    "match_five": [
+                        6,
+                        8
+                    ],
+                    "match_six": [
+                        8,
+                        14
+                    ],
+                    "match_seven": [
+                        15,
+                        16
+                    ],
+                    "match_one": [
+                        9,
+                        12
+                    ],
+                    "match_two": [
+                        9,
+                        5
+                    ],
+                    "match_three": [
+                        13,
+                        13
+                    ]
+                },
+                "HT_cards": {
+                    "match_four": [
+                        0,
+                        0
+                    ],
+                    "match_five": [
+                        1,
+                        1
+                    ],
+                    "match_six": [
+                        1,
+                        1
+                    ],
+                    "match_seven": [
+                        1,
+                        1
+                    ],
+                    "match_one": [
+                        0,
+                        0
+                    ],
+                    "match_two": [
+                        1,
+                        0
+                    ],
+                    "match_three": [
+                        0,
+                        2
+                    ]
+                },
+                "FT_cards": {
+                    "match_four": [
+                        3,
+                        1
+                    ],
+                    "match_five": [
+                        3,
+                        2
+                    ],
+                    "match_six": [
+                        4,
+                        2
+                    ],
+                    "match_seven": [
+                        2,
+                        3
+                    ],
+                    "match_one": [
+                        0,
+                        2
+                    ],
+                    "match_two": [
+                        4,
+                        4
+                    ],
+                    "match_three": [
+                        1,
+                        3
+                    ]
+                }
+            }
+          },
+        "prediction": {
+            "cards": {
+                "discuss": "Working on it. BRB!",
+                "ht": "",
+                "ft": ""
+            },
+            "corners": {
+                "discuss": "Working on it. BRB!",
+                "full_time_total_corners": "",
+                "win_corners": ""
+            },
+            "goals": {
+                "discuss": "Working on it. BRB!",
+                "Both_teams_to_score": "",
+                "fulltime_total_goals": ""
+            },
+            "win_draw": {
+                "discuss": "Working on it. BRB!",
+                "win_or_draw": ""
+            }
+      }
+      },
+      {
+        "fixture": "Leicester vs Arsenal",
+        "league": "🇬🇧 Premier League",
+        "day": "saturday",
+        "position": [18,2],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Samuel B.",
+          "fouls_per_tackle": 0.58,
+          "yellow_per_game": 3.63
+        },
+        "head_to_head": {
+            
+        "win_form": [["L","L","D","L","L"],["W","W","D","W","W"]],
+        "corner_form": [["L","L","L","L","L"],["W","W","W","W","W"]],
+        "teams": {
+            "match_one": [
+                "Arsenal",
+                "Leicester"
+            ],
+            "match_two": [
+                "Leicester",
+                "Arsenal"
+            ],
+            "match_three": [
+                "Arsenal",
+                "Leicester"
+            ],
+            "match_four": [
+                "Arsenal",
+                "Leicester"
+            ],
+            "match_five": [
+                "Leicester",
+                "Arsenal"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                4,
+                2
+            ],
+            "match_two": [
+                0,
+                1
+            ],
+            "match_three": [
+                4,
+                2
+            ],
+            "match_four": [
+                2,
+                0
+            ],
+            "match_five": [
+                0,
+                2
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                4.11,
+                0.4
+            ],
+            "match_two": [
+                0.02,
+                0.69
+            ],
+            "match_three": [],
+            "match_four": [],
+            "match_five": []
+        },
+        "corners": {
+            "match_one": [
+                17,
+                0
+            ],
+            "match_two": [
+                0,
+                8
+            ],
+            "match_three": [
+                6,
+                2
+            ],
+            "match_four": [
+                2,
+                6
+            ],
+            "match_five": [
+                7,
+                6
+            ]
+        },
+        
+        "fouls": {
+            "match_one": [
+                11,
+                6
+            ],
+            "match_two": [
+                14,
+                9
+            ],
+            "match_three": [
+                15,
+                9
+            ],
+            "match_four": [
+                8,
+                10
+            ],
+            "match_five": [
+                8,
+                11
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                0,
+                2
+            ],
+            "match_two": [
+                0,
+                1
+            ],
+            "match_three": [
+                0,
+                1
+            ],
+            "match_four": [
+                0,
+                1
+            ],
+            "match_five": [
+                0,
+                0
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                2,
+                4
+            ],
+            "match_two": [
+                0,
+                1
+            ],
+            "match_three": [
+                1,
+                1
+            ],
+            "match_four": [
+                0,
+                3
+            ],
+            "match_five": [
+                2,
+                0
+            ]
+        }
+    },
+        "home_team": {
+        
+            "name": "Leicester",
+            "coach": "Steve Cooper",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/leicester_city.png",
+            "playing_style": "Ball Retention; Short passes; High territorial control; Draws fouls",
+            "pressing_style": "Non-aggressive",
+            "attacking_style": "Attack through the middle; Attacking down the left",
+            "defensive_style": " ",
+            "goal_scored_pg": 1.09,
+            "goals_concede_pg": 2.13,
+            "aggressive_players": ["Ryan Yates", "Gibbs-White"],
+            "provocative_players": ["Ryan Yates"],
+            "win_form": ["L","W","L","L","L","L","L"],
+            "corner_form": ["W","L","W","W","L","D","L"],
+            "recent_matches": {
+                "teams": {
+                    "match_four": [
+                        "Everton",
+                        "Leicester"
+                    ],
+                    "match_five": [
+                        "Tottenham",
+                        "Leicester"
+                    ],
+                    "match_six": [
+                        "Leicester",
+                        "Fulham"
+                    ],
+                    "match_seven": [
+                        "Leicester",
+                        "Crystal Palace"
+                    ],
+                    "match_one": [
+                        "Aston Villa",
+                        "Leicester"
+                    ],
+                    "match_two": [
+                        "Leicester",
+                        "Manchester City"
+                    ],
+                    "match_three": [
+                        "Liverpool",
+                        "Leicester"
+                    ]
+                },
+                "goals": {
+                    "match_four": [
+                        4,
+                        0
+                    ],
+                    "match_five": [
+                        1,
+                        2
+                    ],
+                    "match_six": [
+                        0,
+                        2
+                    ],
+                    "match_seven": [
+                        0,
+                        2
+                    ],
+                    "match_one": [
+                        2,
+                        1
+                    ],
+                    "match_two": [
+                        0,
+                        2
+                    ],
+                    "match_three": [
+                        3,
+                        1
+                    ]
+                },
+                "x_goals": {
+                    "match_four": [
+                        2.35,
+                        0.39
+                    ],
+                    "match_five": [
+                        1.1,
+                        1.5
+                    ],
+                    "match_six": [
+                        0.47,
+                        2.08
+                    ],
+                    "match_seven": [
+                        1.52,
+                        1.81
+                    ],
+                    "match_one": [
+                        1.4,
+                        0.36
+                    ],
+                    "match_two": [
+                        1.33,
+                        1.4
+                    ],
+                    "match_three": [
+                        1.83,
+                        0.35
+                    ]
+                },
+                "corners": {
+                    "match_four": [
+                        5,
+                        6
+                    ],
+                    "match_five": [
+                        6,
+                        4
+                    ],
+                    "match_six": [
+                        5,
+                        2
+                    ],
+                    "match_seven": [
+                        4,
+                        3
+                    ],
+                    "match_one": [
+                        6,
+                        2
+                    ],
+                    "match_two": [
+                        4,
+                        4
+                    ],
+                    "match_three": [
+                        14,
+                        1
+                    ]
+                },
+                "fouls": {
+                    "match_four": [
+                        7,
+                        13
+                    ],
+                    "match_five": [
+                        6,
+                        16
+                    ],
+                    "match_six": [
+                        8,
+                        8
+                    ],
+                    "match_seven": [
+                        7,
+                        6
+                    ],
+                    "match_one": [
+                        10,
+                        11
+                    ],
+                    "match_two": [
+                        11,
+                        6
+                    ],
+                    "match_three": [
+                        17,
+                        5
+                    ]
+                },
+                "HT_cards": {
+                    "match_four": [
+                        0,
+                        0
+                    ],
+                    "match_five": [
+                        0,
+                        0
+                    ],
+                    "match_six": [
+                        1,
+                        0
+                    ],
+                    "match_seven": [
+                        0,
+                        0
+                    ],
+                    "match_one": [
+                        0,
+                        0
+                    ],
+                    "match_two": [
+                        0,
+                        0
+                    ],
+                    "match_three": [
+                        1,
+                        1
+                    ]
+                },
+                "FT_cards": {
+                    "match_four": [
+                        0,
+                        0
+                    ],
+                    "match_five": [
+                        1,
+                        5
+                    ],
+                    "match_six": [
+                        3,
+                        1
+                    ],
+                    "match_seven": [
+                        0,
+                        0
+                    ],
+                    "match_one": [
+                        0,
+                        1
+                    ],
+                    "match_two": [
+                        2,
+                        1
+                    ],
+                    "match_three": [
+                        3,
+                        2
+                    ]
+                }
+            }
+          },
+        "away_team": {
+        
+            "name": "Arsenal",
+            "coach": "Mikel Arteta",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/arsenal.png",
+            "playing_style": "Ball Retention; High territorial control; Short passes",
+            "pressing_style": "Non-aggressive",
+            "attacking_style": "Attacking down the right; Frequent through ball attempts",
+            "defensive_style": "Structured",
+            "goal_scored_pg": 1.91,
+            "goals_concede_pg": 0.91,
+            "aggressive_players": [ "Kai Havertz"],
+            "provocative_players": ["Bukayo Saka"],
+            "win_form": ["W","W","D","W","D","W","W"],
+            "corner_form": ["W","W","W","W","W","L","W"],
+            "recent_matches": {
+                "teams": {
+                    "match_four": [
+                        "Arsenal",
+                        "Manchester City"
+                    ],
+                    "match_five": [
+                        "Wolves",
+                        "Arsenal"
+                    ],
+                    "match_six": [
+                        "Arsenal",
+                        "Aston Villa"
+                    ],
+                    "match_seven": [
+                        "Arsenal",
+                        "Tottenham"
+                    ],
+                    "match_one": [
+                        "Brighton",
+                        "Arsenal"
+                    ],
+                    "match_two": [
+                        "Brentford",
+                        "Arsenal"
+                    ],
+                    "match_three": [
+                        "Arsenal",
+                        "Ipswich"
+                    ]
+                },
+                "goals": {
+                    "match_four": [
+                        5,
+                        1
+                    ],
+                    "match_five": [
+                        0,
+                        1
+                    ],
+                    "match_six": [
+                        2,
+                        2
+                    ],
+                    "match_seven": [
+                        2,
+                        1
+                    ],
+                    "match_one": [
+                        1,
+                        1
+                    ],
+                    "match_two": [
+                        1,
+                        3
+                    ],
+                    "match_three": [
+                        1,
+                        0
+                    ]
+                },
+                "x_goals": {
+                    "match_four": [
+                        1.04,
+                        0.81
+                    ],
+                    "match_five": [
+                        0.58,
+                        0.99
+                    ],
+                    "match_six": [
+                        1.55,
+                        1.06
+                    ],
+                    "match_seven": [
+                        1.43,
+                        0.83
+                    ],
+                    "match_one": [
+                        1.56,
+                        0.84
+                    ],
+                    "match_two": [
+                        0.29,
+                        1.95
+                    ],
+                    "match_three": [
+                        1.94,
+                        0.16
+                    ]
+                },
+                "corners": {
+                    "match_four": [
+                        5,
+                        2
+                    ],
+                    "match_five": [
+                        1,
+                        5
+                    ],
+                    "match_six": [
+                        10,
+                        1
+                    ],
+                    "match_seven": [
+                        10,
+                        4
+                    ],
+                    "match_one": [
+                        2,
+                        5
+                    ],
+                    "match_two": [
+                        4,
+                        3
+                    ],
+                    "match_three": [
+                        5,
+                        1
+                    ]
+                },
+                "fouls": {
+                    "match_four": [
+                        6,
+                        7
+                    ],
+                    "match_five": [
+                        20,
+                        10
+                    ],
+                    "match_six": [
+                        10,
+                        18
+                    ],
+                    "match_seven": [
+                        16,
+                        9
+                    ],
+                    "match_one": [
+                        17,
+                        14
+                    ],
+                    "match_two": [
+                        6,
+                        8
+                    ],
+                    "match_three": [
+                        7,
+                        12
+                    ]
+                },
+                "HT_cards": {
+                    "match_four": [
+                        1,
+                        0
+                    ],
+                    "match_five": [
+                        1,
+                        2
+                    ],
+                    "match_six": [
+                        0,
+                        1
+                    ],
+                    "match_seven": [
+                        1,
+                        1
+                    ],
+                    "match_one": [
+                        0,
+                        1
+                    ],
+                    "match_two": [
+                        1,
+                        1
+                    ],
+                    "match_three": [
+                        0,
+                        0
+                    ]
+                },
+                "FT_cards": {
+                    "match_four": [
+                        2,
+                        0
+                    ],
+                    "match_five": [
+                        3,
+                        2
+                    ],
+                    "match_six": [
+                        2,
+                        3
+                    ],
+                    "match_seven": [
+                        3,
+                        1
+                    ],
+                    "match_one": [
+                        2,
+                        3
+                    ],
+                    "match_two": [
+                        1,
+                        2
+                    ],
+                    "match_three": [
+                        1,
+                        1
+                    ]
+                }
+            }
+          },
+        "prediction": {
+            "cards": {
+                "discuss": "Working on it. BRB!",
+                "ht": "",
+                "ft": ""
+            },
+            "corners": {
+                "discuss": "Working on it. BRB!",
+                "full_time_total_corners": "",
+                "win_corners": ""
+            },
+            "goals": {
+                "discuss": "Working on it. BRB!",
+                "Both_teams_to_score": "",
+                "fulltime_total_goals": ""
+            },
+            "win_draw": {
+                "discuss": "Working on it. BRB!",
+                "win_or_draw": ""
+            }
+      }
+      },
+      {
+        "fixture": "Aston Villa vs Ipswich",
+        "league": "🇬🇧 Premier League",
+        "day": "saturday",
+        "position": [8,19],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Jones R.",
+          "fouls_per_tackle": 0.72,
+          "yellow_per_game": 3.53
+        },
+        "head_to_head": {
+            
+        "win_form": [["D"],["D"]],
+        "corner_form": [["L"],["W"]],
+        "teams": {
+            "match_one": [
+                "Ipswich",
+                "Aston Villa"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                2,
+                2
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                1.73,
+                1.13
+            ]
+        },
+        "corners": {
+            "match_one": [
+                10,
+                0
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                10,
+                14
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                2,
+                0
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                4,
+                1
+            ]
+        }
+    },
+        "home_team": {
+        
+            "name": "Aston Villa",
+            "coach": "Unai Emery",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/aston_villa.png",
+            "playing_style": "Short passes; Draws fouls",
+            "pressing_style": "Medium block",
+            "attacking_style": "Attack through the middle; Frequent through ball attempts",
+            "defensive_style": "High Line; Use offside positioning",
+            "goal_scored_pg": 1.47,
+            "goals_concede_pg": 1.52,
+            "aggressive_players": ["Morgan Rogers", "Amadou Onana"],
+            "provocative_players": ["John McGinn","Youri Tielemans"],
+            "win_form": ["L","D","D","W","W","D","L","W"],
+            "corner_form": ["W","W","L","L","W","W","L","W"],
+            "recent_matches": {
+                "teams": {
+                    "match_four": [
+                        "Wolves",
+                        "Aston Villa"
+                    ],
+                    "match_five": [
+                        "Aston Villa",
+                        "West Ham"
+                    ],
+                    "match_six": [
+                        "Arsenal",
+                        "Aston Villa"
+                    ],
+                    "match_seven": [
+                        "Everton",
+                        "Aston Villa"
+                    ],
+                    "match_one": [
+                        "Aston Villa",
+                        "Leicester"
+                    ],
+                    "match_two": [
+                        "Aston Villa",
+                        "Brighton"
+                    ],
+                    "match_three": [
+                        "Newcastle",
+                        "Aston Villa"
+                    ]
+                },
+                "goals": {
+                    "match_four": [
+                        2,
+                        0
+                    ],
+                    "match_five": [
+                        1,
+                        1
+                    ],
+                    "match_six": [
+                        2,
+                        2
+                    ],
+                    "match_seven": [
+                        0,
+                        1
+                    ],
+                    "match_one": [
+                        2,
+                        1
+                    ],
+                    "match_two": [
+                        2,
+                        2
+                    ],
+                    "match_three": [
+                        3,
+                        0
+                    ]
+                },
+                "x_goals": {
+                    "match_four": [
+                        1.57,
+                        0.51
+                    ],
+                    "match_five": [
+                        0.79,
+                        1.39
+                    ],
+                    "match_six": [
+                        1.55,
+                        1.06
+                    ],
+                    "match_seven": [
+                        1.09,
+                        1.36
+                    ],
+                    "match_one": [
+                        1.4,
+                        0.36
+                    ],
+                    "match_two": [
+                        1.74,
+                        1.09
+                    ],
+                    "match_three": [
+                        2.62,
+                        0.34
+                    ]
+                },
+                "corners": {
+                    "match_four": [
+                        5,
+                        8
+                    ],
+                    "match_five": [
+                        4,
+                        3
+                    ],
+                    "match_six": [
+                        10,
+                        1
+                    ],
+                    "match_seven": [
+                        8,
+                        5
+                    ],
+                    "match_one": [
+                        6,
+                        2
+                    ],
+                    "match_two": [
+                        12,
+                        3
+                    ],
+                    "match_three": [
+                        9,
+                        6
+                    ]
+                },
+                "fouls": {
+                    "match_four": [
+                        20,
+                        13
+                    ],
+                    "match_five": [
+                        13,
+                        16
+                    ],
+                    "match_six": [
+                        10,
+                        18
+                    ],
+                    "match_seven": [
+                        17,
+                        10
+                    ],
+                    "match_one": [
+                        10,
+                        11
+                    ],
+                    "match_two": [
+                        9,
+                        14
+                    ],
+                    "match_three": [
+                        15,
+                        10
+                    ]
+                },
+                "HT_cards": {
+                    "match_four": [
+                        1,
+                        3
+                    ],
+                    "match_five": [
+                        1,
+                        1
+                    ],
+                    "match_six": [
+                        0,
+                        1
+                    ],
+                    "match_seven": [
+                        0,
+                        1
+                    ],
+                    "match_one": [
+                        0,
+                        0
+                    ],
+                    "match_two": [
+                        2,
+                        1
+                    ],
+                    "match_three": [
+                        2,
+                        2
+                    ]
+                },
+                "FT_cards": {
+                    "match_four": [
+                        2,
+                        3
+                    ],
+                    "match_five": [
+                        2,
+                        3
+                    ],
+                    "match_six": [
+                        2,
+                        3
+                    ],
+                    "match_seven": [
+                        2,
+                        1
+                    ],
+                    "match_one": [
+                        0,
+                        1
+                    ],
+                    "match_two": [
+                        2,
+                        3
+                    ],
+                    "match_three": [
+                        2,
+                        2
+                    ]
+                }
+            }
+          },
+        "away_team": {
+        
+            "name": "Ipswich",
+            "coach": "Kieran McKenna",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/ipswich_town.png",
+            "playing_style": "Short passes; ",
+            "pressing_style": "Aggressive",
+            "attacking_style": "Attack through the middle; Frequent through ball attempts; High shot volume",
+            "defensive_style": " ",
+            "goal_scored_pg": 0.91,
+            "goals_concede_pg": 1.91,
+            "aggressive_players": ["Liam Delap", "Sam Morsy", "Kalvin Philips"],
+            "provocative_players": ["Liam Delap"],
+            "win_form": ["L","L","L","L","D","W","L"],
+            "corner_form": ["L","W","L","L","L","W","L"],
+            "recent_matches": {
+                "teams": {
+                    "match_four": [
+                        "Ipswich",
+                        "Southampton"
+                    ],
+                    "match_five": [
+                        "Liverpool",
+                        "Ipswich"
+                    ],
+                    "match_six": [
+                        "Ipswich",
+                        "Manchester City"
+                    ],
+                    "match_seven": [
+                        "Ipswich",
+                        "Brighton"
+                    ],
+                    "match_one": [
+                        "Fulham",
+                        "Ipswich"
+                    ],
+                    "match_two": [
+                        "Ipswich",
+                        "Chelsea"
+                    ],
+                    "match_three": [
+                        "Arsenal",
+                        "Ipswich"
+                    ]
+                },
+                "goals": {
+                    "match_four": [
+                        1,
+                        2
+                    ],
+                    "match_five": [
+                        4,
+                        1
+                    ],
+                    "match_six": [
+                        0,
+                        6
+                    ],
+                    "match_seven": [
+                        0,
+                        2
+                    ],
+                    "match_one": [
+                        2,
+                        2
+                    ],
+                    "match_two": [
+                        2,
+                        0
+                    ],
+                    "match_three": [
+                        1,
+                        0
+                    ]
+                },
+                "x_goals": {
+                    "match_four": [
+                        1.55,
+                        1.01
+                    ],
+                    "match_five": [
+                        1.9,
+                        0.43
+                    ],
+                    "match_six": [
+                        0.65,
+                        2.84
+                    ],
+                    "match_seven": [
+                        0.29,
+                        0.97
+                    ],
+                    "match_one": [
+                        1.34,
+                        1.47
+                    ],
+                    "match_two": [
+                        1.58,
+                        2.0
+                    ],
+                    "match_three": [
+                        1.94,
+                        0.16
+                    ]
+                },
+                "corners": {
+                    "match_four": [
+                        1,
+                        2
+                    ],
+                    "match_five": [
+                        3,
+                        4
+                    ],
+                    "match_six": [
+                        4,
+                        7
+                    ],
+                    "match_seven": [
+                        1,
+                        9
+                    ],
+                    "match_one": [
+                        9,
+                        2
+                    ],
+                    "match_two": [
+                        4,
+                        7
+                    ],
+                    "match_three": [
+                        5,
+                        1
+                    ]
+                },
+                "fouls": {
+                    "match_four": [
+                        11,
+                        14
+                    ],
+                    "match_five": [
+                        10,
+                        11
+                    ],
+                    "match_six": [
+                        4,
+                        7
+                    ],
+                    "match_seven": [
+                        13,
+                        14
+                    ],
+                    "match_one": [
+                        10,
+                        14
+                    ],
+                    "match_two": [
+                        9,
+                        5
+                    ],
+                    "match_three": [
+                        7,
+                        12
+                    ]
+                },
+                "HT_cards": {
+                    "match_four": [
+                        0,
+                        1
+                    ],
+                    "match_five": [
+                        0,
+                        0
+                    ],
+                    "match_six": [
+                        0,
+                        0
+                    ],
+                    "match_seven": [
+                        0,
+                        0
+                    ],
+                    "match_one": [
+                        0,
+                        2
+                    ],
+                    "match_two": [
+                        1,
+                        0
+                    ],
+                    "match_three": [
+                        0,
+                        0
+                    ]
+                },
+                "FT_cards": {
+                    "match_four": [
+                        0,
+                        3
+                    ],
+                    "match_five": [
+                        0,
+                        2
+                    ],
+                    "match_six": [
+                        0,
+                        1
+                    ],
+                    "match_seven": [
+                        2,
+                        2
+                    ],
+                    "match_one": [
+                        1,
+                        5
+                    ],
+                    "match_two": [
+                        4,
+                        4
+                    ],
+                    "match_three": [
+                        1,
+                        1
+                    ]
+                }
+            }
+          },
+        "prediction": {
+            "cards": {
+                "discuss": "Working on it. BRB!",
+                "ht": "",
+                "ft": ""
+            },
+            "corners": {
+                "discuss": "Working on it. BRB!",
+                "full_time_total_corners": "",
+                "win_corners": ""
+            },
+            "goals": {
+                "discuss": "Working on it. BRB!",
+                "Both_teams_to_score": "",
+                "fulltime_total_goals": ""
+            },
+            "win_draw": {
+                "discuss": "Working on it. BRB!",
+                "win_or_draw": ""
+            }
+      }
+      },
+      {
+        "fixture": "Fulham vs Nottingham",
+        "league": "🇬🇧 Premier League",
+        "day": "saturday",
+        "position": [9,3],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Bramall T.",
+          "fouls_per_tackle": 0.69,
+          "yellow_per_game": 3.22
+        },
+       "head_to_head": {
+        
+        "win_form": [["W","L","W","W","W"],["L","W","L","L","L"]],
+        "corner_form": [["L","W","W","W","W"],["W","L","L","L","L"]],
+        "teams": {
+            "match_one": [
+                "Nottingham",
+                "Fulham"
+            ],
+            "match_two": [
+                "Nottingham",
+                "Fulham"
+            ],
+            "match_three": [
+                "Fulham",
+                "Nottingham"
+            ],
+            "match_four": [
+                "Fulham",
+                "Nottingham"
+            ],
+            "match_five": [
+                "Nottingham",
+                "Fulham"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                0,
+                1
+            ],
+            "match_two": [
+                3,
+                1
+            ],
+            "match_three": [
+                5,
+                0
+            ],
+            "match_four": [
+                2,
+                0
+            ],
+            "match_five": [
+                2,
+                3
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                0.67,
+                1.49
+            ],
+            "match_two": [
+                1.51,
+                1.24
+            ],
+            "match_three": [
+                2.08,
+                0.32
+            ],
+            "match_four": [
+                1.52,
+                0.63
+            ],
+            "match_five": []
+        },
+        "corners": {
+            "match_one": [
+                6,
+                5
+            ],
+            "match_two": [
+                3,
+                8
+            ],
+            "match_three": [
+                6,
+                1
+            ],
+            "match_four": [
+                5,
+                4
+            ],
+            "match_five": [
+                2,
+                10
+            ]
+        },
+           
+        "fouls": {
+            "match_one": [
+                11,
+                15
+            ],
+            "match_two": [
+                7,
+                8
+            ],
+            "match_three": [
+                7,
+                10
+            ],
+            "match_four": [
+                9,
+                11
+            ],
+            "match_five": [
+                11,
+                10
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                1,
+                0
+            ],
+            "match_two": [
+                0,
+                0
+            ],
+            "match_three": [
+                0,
+                0
+            ],
+            "match_four": [
+                0,
+                1
+            ],
+            "match_five": [
+                2,
+                1
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                2,
+                4
+            ],
+            "match_two": [
+                1,
+                0
+            ],
+            "match_three": [
+                0,
+                1
+            ],
+            "match_four": [
+                0,
+                1
+            ],
+            "match_five": [
+                2,
+                4
+            ]
+        }
+    },
+        "home_team": {
+        
+            "name": "Fulham",
+            "coach": "Marco Silva",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/fulham.png",
+            "playing_style": "Wide play; Deep positioning",
+            "pressing_style": " ",
+            "attacking_style": "Take long shots",
+            "defensive_style": "High Line; Use offside positioning",
+            "goal_scored_pg": 1.48,
+            "goals_concede_pg": 1.35,
+            "aggressive_players": ["Sasa Lukic", "Kenny Tete"],
+            "provocative_players": [ ],
+            "win_form": ["W","L","W","L","D","D","W"],
+            "corner_form": ["W","W","L","L","W","L","L"],
+            "recent_matches": {
+                "teams": {
+                    "match_four": [
+                        "Newcastle",
+                        "Fulham"
+                    ],
+                    "match_five": [
+                        "Fulham",
+                        "Manchester Utd"
+                    ],
+                    "match_six": [
+                        "Leicester",
+                        "Fulham"
+                    ],
+                    "match_seven": [
+                        "West Ham",
+                        "Fulham"
+                    ],
+                    "match_one": [
+                        "Fulham",
+                        "Ipswich"
+                    ],
+                    "match_two": [
+                        "Fulham",
+                        "Bournemouth"
+                    ],
+                    "match_three": [
+                        "Chelsea",
+                        "Fulham"
+                    ]
+                },
+                "goals": {
+                    "match_four": [
+                        1,
+                        2
+                    ],
+                    "match_five": [
+                        0,
+                        1
+                    ],
+                    "match_six": [
+                        0,
+                        2
+                    ],
+                    "match_seven": [
+                        3,
+                        2
+                    ],
+                    "match_one": [
+                        2,
+                        2
+                    ],
+                    "match_two": [
+                        2,
+                        2
+                    ],
+                    "match_three": [
+                        1,
+                        2
+                    ]
+                },
+                "x_goals": {
+                    "match_four": [
+                        0.91,
+                        1.64
+                    ],
+                    "match_five": [
+                        0.7,
+                        0.25
+                    ],
+                    "match_six": [
+                        0.47,
+                        2.08
+                    ],
+                    "match_seven": [
+                        1.12,
+                        1.70
+                    ],
+                    "match_one": [
+                        1.34,
+                        1.47
+                    ],
+                    "match_two": [
+                        1.01,
+                        1.86
+                    ],
+                    "match_three": [
+                        0.82,
+                        1.32
+                    ]
+                },
+                "corners": {
+                    "match_four": [
+                        3,
+                        7
+                    ],
+                    "match_five": [
+                        3,
+                        0
+                    ],
+                    "match_six": [
+                        5,
+                        2
+                    ],
+                    "match_seven": [
+                        0,
+                        3
+                    ],
+                    "match_one": [
+                        9,
+                        2
+                    ],
+                    "match_two": [
+                        1,
+                        7
+                    ],
+                    "match_three": [
+                        3,
+                        1
+                    ]
+                },
+                "fouls": {
+                    "match_four": [
+                        10,
+                        15
+                    ],
+                    "match_five": [
+                        7,
+                        9
+                    ],
+                    "match_six": [
+                        8,
+                        8
+                    ],
+                    "match_seven": [
+                        9,
+                        18
+                    ],
+                    "match_one": [
+                        10,
+                        14
+                    ],
+                    "match_two": [
+                        7,
+                        16
+                    ],
+                    "match_three": [
+                        13,
+                        13
+                    ]
+                },
+                "HT_cards": {
+                    "match_four": [
+                        2,
+                        2
+                    ],
+                    "match_five": [
+                        0,
+                        0
+                    ],
+                    "match_six": [
+                        1,
+                        0
+                    ],
+                    "match_seven": [
+                        0,
+                        1
+                    ],
+                    "match_one": [
+                        0,
+                        2
+                    ],
+                    "match_two": [
+                        0,
+                        2
+                    ],
+                    "match_three": [
+                        0,
+                        2
+                    ]
+                },
+                "FT_cards": {
+                    "match_four": [
+                        4,
+                        4
+                    ],
+                    "match_five": [
+                        0,
+                        1
+                    ],
+                    "match_six": [
+                        3,
+                        1
+                    ],
+                    "match_seven": [
+                        3,
+                        3
+                    ],
+                    "match_one": [
+                        1,
+                        5
+                    ],
+                    "match_two": [
+                        1,
+                        3
+                    ],
+                    "match_three": [
+                        1,
+                        3
+                    ]
+                }
+            }
+          },
+        "away_team": {
+        
+            "name": "Nottingham",
+            "coach": "Nuno Espírito Santo",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/nottingham_forest.png",
+            "playing_style": "Long balls; Wide play; Deep positioning",
+            "pressing_style": " ",
+            "attacking_style": "Take long shots; High shot volume",
+            "defensive_style": " ",
+            "goal_scored_pg": 1.43,
+            "goals_concede_pg": 1.91,
+            "aggressive_players": ["Gibbs-White","Ryan Yates"],
+            "provocative_players": ["Ryan Yates"],
+            "win_form": ["W","L","W","D","W","W","W"],
+            "corner_form": ["L","W","L","L","L","L","L"],
+            "recent_matches": {
+                "teams": {
+                    "match_four": [
+                        "Nottingham",
+                        "Brighton"
+                    ],
+                    "match_five": [
+                        "Bournemouth",
+                        "Nottingham"
+                    ],
+                    "match_six": [
+                        "Nottingham",
+                        "Southampton"
+                    ],
+                    "match_seven": [
+                        "Nottingham",
+                        "Liverpool"
+                    ],
+                    "match_one": [
+                        "Wolves",
+                        "Nottingham"
+                    ],
+                    "match_two": [
+                        "Everton",
+                        "Nottingham"
+                    ],
+                    "match_three": [
+                        "Nottingham",
+                        "Tottenham"
+                    ]
+                },
+                "goals": {
+                    "match_four": [
+                        7,
+                        0
+                    ],
+                    "match_five": [
+                        5,
+                        0
+                    ],
+                    "match_six": [
+                        3,
+                        2
+                    ],
+                    "match_seven": [
+                        1,
+                        1
+                    ],
+                    "match_one": [
+                        0,
+                        3
+                    ],
+                    "match_two": [
+                        0,
+                        2
+                    ],
+                    "match_three": [
+                        1,
+                        0
+                    ]
+                },
+                "x_goals": {
+                    "match_four": [
+                        3.23,
+                        0.8
+                    ],
+                    "match_five": [
+                        1.78,
+                        0.89
+                    ],
+                    "match_six": [
+                        1.9,
+                        0.88
+                    ],
+                    "match_seven": [
+                        0.39,
+                        1.95
+                    ],
+                    "match_one": [
+                        1.57,
+                        2.2
+                    ],
+                    "match_two": [
+                        0.64,
+                        1.42
+                    ],
+                    "match_three": [
+                        1.21,
+                        1.28
+                    ]
+                },
+                "corners": {
+                    "match_four": [
+                        4,
+                        6
+                    ],
+                    "match_five": [
+                        3,
+                        9
+                    ],
+                    "match_six": [
+                        2,
+                        8
+                    ],
+                    "match_seven": [
+                        0,
+                        9
+                    ],
+                    "match_one": [
+                        5,
+                        3
+                    ],
+                    "match_two": [
+                        5,
+                        4
+                    ],
+                    "match_three": [
+                        2,
+                        7
+                    ]
+                },
+                "fouls": {
+                    "match_four": [
+                        8,
+                        13
+                    ],
+                    "match_five": [
+                        9,
+                        12
+                    ],
+                    "match_six": [
+                        4,
+                        18
+                    ],
+                    "match_seven": [
+                        7,
+                        10
+                    ],
+                    "match_one": [
+                        10,
+                        8
+                    ],
+                    "match_two": [
+                        13,
+                        10
+                    ],
+                    "match_three": [
+                        12,
+                        13
+                    ]
+                },
+                "HT_cards": {
+                    "match_four": [
+                        1,
+                        2
+                    ],
+                    "match_five": [
+                        1,
+                        0
+                    ],
+                    "match_six": [
+                        0,
+                        0
+                    ],
+                    "match_seven": [
+                        1,
+                        0
+                    ],
+                    "match_one": [
+                        0,
+                        2
+                    ],
+                    "match_two": [
+                        1,
+                        0
+                    ],
+                    "match_three": [
+                        2,
+                        0
+                    ]
+                },
+                "FT_cards": {
+                    "match_four": [
+                        1,
+                        3
+                    ],
+                    "match_five": [
+                        2,
+                        3
+                    ],
+                    "match_six": [
+                        0,
+                        0
+                    ],
+                    "match_seven": [
+                        2,
+                        1
+                    ],
+                    "match_one": [
+                        1,
+                        2
+                    ],
+                    "match_two": [
+                        4,
+                        1
+                    ],
+                    "match_three": [
+                        3,
+                        5
+                    ]
+                }
+            }
+          },
+        "prediction": {
+            "cards": {
+                "discuss": "Working on it. BRB!",
+                "ht": "",
+                "ft": ""
+            },
+            "corners": {
+                "discuss": "Working on it. BRB!",
+                "full_time_total_corners": "",
+                "win_corners": ""
+            },
+            "goals": {
+                "discuss": "Working on it. BRB!",
+                "Both_teams_to_score": "",
+                "fulltime_total_goals": ""
+            },
+            "win_draw": {
+                "discuss": "Working on it. BRB!",
+                "win_or_draw": ""
+            }
+      }
+      },
+      {
+        "fixture": "Manchester City vs Newcastle",
+        "league": "🇬🇧 Premier League",
+        "day": "saturday",
+        "position": [5,6],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Madley A.",
+          "fouls_per_tackle": 0.62,
+          "yellow_per_game": 3.09
+        },
+        "head_to_head": {
+            "win_form": [["D","W","W","L","W"],["D","L","L","W","L"]],
+            "corner_form": [["W","W","W","W","W"],["L","L","L","L","L"]],
+        "teams": {
+            "match_one": [
+                "Newcastle",
+                "Manchester City"
+            ],
+            "match_two": [
+                "Manchester City",
+                "Newcastle"
+            ],
+            "match_three": [
+                "Newcastle",
+                "Manchester City"
+            ],
+            "match_four": [
+                "Newcastle",
+                "Manchester City"
+            ],
+            "match_five": [
+                "Manchester City",
+                "Newcastle"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                1,
+                1
+            ],
+            "match_two": [
+                2,
+                0
+            ],
+            "match_three": [
+                2,
+                3
+            ],
+            "match_four": [
+                1,
+                0
+            ],
+            "match_five": [
+                1,
+                0
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                1.31,
+                1.12
+            ],
+            "match_two": [
+                1.37,
+                0.26
+            ],
+            "match_three": [
+                1.15,
+                3.27
+            ],
+            "match_four": [
+                1.12,
+                0.58
+            ],
+            "match_five": [
+                0.96,
+                0.25
+            ]
+        },
+        "corners": {
+            "match_one": [
+                5,
+                6
+            ],
+            "match_two": [
+                11,
+                2
+            ],
+            "match_three": [
+                3,
+                13
+            ],
+            "match_four": [
+                4,
+                7
+            ],
+            "match_five": [
+                3,
+                0
+            ]
+        },
+        
+        "fouls": {
+            "match_one": [
+                14,
+                10
+            ],
+            "match_two": [
+                7,
+                16
+            ],
+            "match_three": [
+                7,
+                7
+            ],
+            "match_four": [
+                12,
+                12
+            ],
+            "match_five": [
+                12,
+                11
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                2,
+                0
+            ],
+            "match_two": [
+                0,
+                2
+            ],
+            "match_three": [
+                1,
+                1
+            ],
+            "match_four": [
+                0,
+                0
+            ],
+            "match_five": [
+                0,
+                2
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                4,
+                4
+            ],
+            "match_two": [
+                0,
+                3
+            ],
+            "match_three": [
+                1,
+                2
+            ],
+            "match_four": [
+                2,
+                2
+            ],
+            "match_five": [
+                1,
+                5
+            ]
+        }
+    },
+        "home_team": {
+        
+            "name": "Man City",
+            "coach": "Pep Guardiola",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/manchester_city.png",
+            "playing_style": "Ball Retention; High territorial control; Short passes",
+            "pressing_style": "Non-aggressive",
+            "attacking_style": "Attack through the middle",
+            "defensive_style": " ",
+            "goal_scored_pg": 2.04,
+            "goals_concede_pg": 1.3,
+            "aggressive_players": [],
+            "provocative_players": [],
+            "win_form": ["L","W","W","D","W","W","D"],
+            "corner_form": ["L","L","W","W","W","D","W"],
+            "recent_matches": {
+                "teams": {
+                    "match_four": [
+                        "Arsenal",
+                        "Manchester City"
+                    ],
+                    "match_five": [
+                        "Manchester City",
+                        "Chelsea"
+                    ],
+                    "match_six": [
+                        "Ipswich",
+                        "Manchester City"
+                    ],
+                    "match_seven": [
+                        "Brentford",
+                        "Manchester City"
+                    ],
+                    "match_one": [
+                        "Manchester City",
+                        "West Ham"
+                    ],
+                    "match_two": [
+                        "Leicester",
+                        "Manchester City"
+                    ],
+                    "match_three": [
+                        "Manchester City",
+                        "Everton"
+                    ]
+                },
+                "goals": {
+                    "match_four": [
+                        5,
+                        1
+                    ],
+                    "match_five": [
+                        3,
+                        1
+                    ],
+                    "match_six": [
+                        0,
+                        6
+                    ],
+                    "match_seven": [
+                        2,
+                        2
+                    ],
+                    "match_one": [
+                        4,
+                        1
+                    ],
+                    "match_two": [
+                        0,
+                        2
+                    ],
+                    "match_three": [
+                        1,
+                        1
+                    ]
+                },
+                "x_goals": {
+                    "match_four": [
+                        1.04,
+                        0.81
+                    ],
+                    "match_five": [
+                        2.7,
+                        1.61
+                    ],
+                    "match_six": [
+                        0.65,
+                        2.84
+                    ],
+                    "match_seven": [
+                        2.47,
+                        2.10
+                    ],
+                    "match_one": [
+                        2.03,
+                        1.19
+                    ],
+                    "match_two": [
+                        1.33,
+                        1.4
+                    ],
+                    "match_three": [
+                        2.02,
+                        0.62
+                    ]
+                },
+                "corners": {
+                    "match_four": [
+                        5,
+                        2
+                    ],
+                    "match_five": [
+                        2,
+                        3
+                    ],
+                    "match_six": [
+                        4,
+                        7
+                    ],
+                    "match_seven": [
+                        4,
+                        5
+                    ],
+                    "match_one": [
+                        7,
+                        1
+                    ],
+                    "match_two": [
+                        4,
+                        4
+                    ],
+                    "match_three": [
+                        8,
+                        5
+                    ]
+                },
+                "fouls": {
+                    "match_four": [
+                        6,
+                        7
+                    ],
+                    "match_five": [
+                        6,
+                        8
+                    ],
+                    "match_six": [
+                        4,
+                        7
+                    ],
+                    "match_seven": [
+                        4,
+                        4
+                    ],
+                    "match_one": [
+                        8,
+                        13
+                    ],
+                    "match_two": [
+                        11,
+                        6
+                    ],
+                    "match_three": [
+                        5,
+                        10
+                    ]
+                },
+                "HT_cards": {
+                    "match_four": [
+                        1,
+                        0
+                    ],
+                    "match_five": [
+                        1,
+                        1
+                    ],
+                    "match_six": [
+                        0,
+                        0
+                    ],
+                    "match_seven": [
+                        0,
+                        0
+                    ],
+                    "match_one": [
+                        1,
+                        1
+                    ],
+                    "match_two": [
+                        0,
+                        0
+                    ],
+                    "match_three": [
+                        0,
+                        1
+                    ]
+                },
+                "FT_cards": {
+                    "match_four": [
+                        2,
+                        0
+                    ],
+                    "match_five": [
+                        3,
+                        2
+                    ],
+                    "match_six": [
+                        0,
+                        1
+                    ],
+                    "match_seven": [
+                        0,
+                        0
+                    ],
+                    "match_one": [
+                        2,
+                        1
+                    ],
+                    "match_two": [
+                        2,
+                        1
+                    ],
+                    "match_three": [
+                        1,
+                        4
+                    ]
+                }
+            }
+          },
+        "away_team": {
+        
+            "name": "Newcastle",
+            "coach": "Eddie Howe",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/newcastle_united.png",
+            "playing_style": "Draws fouls",
+            "pressing_style": "Non-aggressive",
+            "attacking_style": "Attack through the middle; Frequent through ball attempts",
+            "defensive_style": " ",
+            "goal_scored_pg": 1.78,
+            "goals_concede_pg": 1.17,
+            "aggressive_players": ["Bruno Guimaraes","Joelinton"],
+            "provocative_players": ["Bruno Guimaraes","Anthony Gordon"],
+            "win_form": ["L","W","L","W","W","W","W"],
+            "corner_form": ["L","W","W","W","W","W","W"],
+            "recent_matches": {
+                "teams": {
+                    "match_four": [
+                        "Newcastle",
+                        "Fulham"
+                    ],
+                    "match_five": [
+                        "Southampton",
+                        "Newcastle"
+                    ],
+                    "match_six": [
+                        "Newcastle",
+                        "Bournemouth"
+                    ],
+                    "match_seven": [
+                        "Newcastle",
+                        "Wolves"
+                    ],
+                    "match_one": [
+                        "Tottenham",
+                        "Newcastle"
+                    ],
+                    "match_two": [
+                        "Manchester Utd",
+                        "Newcastle"
+                    ],
+                    "match_three": [
+                        "Newcastle",
+                        "Aston Villa"
+                    ]
+                },
+                "goals": {
+                    "match_four": [
+                        1,
+                        2
+                    ],
+                    "match_five": [
+                        1,
+                        3
+                    ],
+                    "match_six": [
+                        1,
+                        4
+                    ],
+                    "match_seven": [
+                        3,
+                        0
+                    ],
+                    "match_one": [
+                        1,
+                        2
+                    ],
+                    "match_two": [
+                        0,
+                        2
+                    ],
+                    "match_three": [
+                        3,
+                        0
+                    ]
+                },
+                "x_goals": {
+                    "match_four": [
+                        0.91,
+                        1.64
+                    ],
+                    "match_five": [
+                        0.76,
+                        2.87
+                    ],
+                    "match_six": [
+                        1.04,
+                        2.41
+                    ],
+                    "match_seven": [
+                        1.93,
+                        1.44
+                    ],
+                    "match_one": [
+                        0.85,
+                        1.08
+                    ],
+                    "match_two": [
+                        0.88,
+                        1.96
+                    ],
+                    "match_three": [
+                        2.62,
+                        0.34
+                    ]
+                },
+                "corners": {
+                    "match_four": [
+                        3,
+                        7
+                    ],
+                    "match_five": [
+                        3,
+                        8
+                    ],
+                    "match_six": [
+                        7,
+                        6
+                    ],
+                    "match_seven": [
+                        4,
+                        2
+                    ],
+                    "match_one": [
+                        9,
+                        10
+                    ],
+                    "match_two": [
+                        2,
+                        3
+                    ],
+                    "match_three": [
+                        9,
+                        6
+                    ]
+                },
+                "fouls": {
+                    "match_four": [
+                        10,
+                        15
+                    ],
+                    "match_five": [
+                        10,
+                        5
+                    ],
+                    "match_six": [
+                        7,
+                        18
+                    ],
+                    "match_seven": [
+                        10,
+                        13
+                    ],
+                    "match_one": [
+                        11,
+                        15
+                    ],
+                    "match_two": [
+                        13,
+                        8
+                    ],
+                    "match_three": [
+                        15,
+                        10
+                    ]
+                },
+                "HT_cards": {
+                    "match_four": [
+                        2,
+                        2
+                    ],
+                    "match_five": [
+                        1,
+                        0
+                    ],
+                    "match_six": [
+                        1,
+                        2
+                    ],
+                    "match_seven": [
+                        0,
+                        1
+                    ],
+                    "match_one": [
+                        0,
+                        1
+                    ],
+                    "match_two": [
+                        0,
+                        0
+                    ],
+                    "match_three": [
+                        2,
+                        2
+                    ]
+                },
+                "FT_cards": {
+                    "match_four": [
+                        4,
+                        4
+                    ],
+                    "match_five": [
+                        1,
+                        0
+                    ],
+                    "match_six": [
+                        1,
+                        6
+                    ],
+                    "match_seven": [
+                        0,
+                        2
+                    ],
+                    "match_one": [
+                        1,
+                        4
+                    ],
+                    "match_two": [
+                        1,
+                        1
+                    ],
+                    "match_three": [
+                        2,
+                        2
+                    ]
+                }
+            }
+        },
+        "prediction": {
+            "cards": {
+                "discuss": "Working on it. BRB!",
+                "ht": "",
+                "ft": ""
+            },
+            "corners": {
+                "discuss": "Working on it. BRB!",
+                "full_time_total_corners": "",
+                "win_corners": ""
+            },
+            "goals": {
+                "discuss": "Working on it. BRB!",
+                "Both_teams_to_score": "",
+                "fulltime_total_goals": ""
+            },
+            "win_draw": {
+                "discuss": "Working on it. BRB!",
+                "win_or_draw": ""
+            }
+      }
+      },
+      {
+        "fixture": "Southampton vs Bournemouth",
+        "league": "🇬🇧 Premier League",
+        "day": "saturday",
+        "position": [20,7],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Gillet J.",
+          "fouls_per_tackle": 0.67,
+          "yellow_per_game": 4.05
+        },
+        "head_to_head": {
+            "win_form": [["L","L","W","W"],["W","W","L","L"]],
+        "corner_form": [["L","W","L","W"],["W","L","W","L"]],
+        "teams": {
+            "match_one": [
+                "Bournemouth",
+                "Southampton"
+            ],
+            "match_two": [
+                "Southampton",
+                "Bournemouth"
+            ],
+            "match_three": [
+                "Bournemouth",
+                "Southampton"
+            ],
+            "match_four": [
+                "Bournemouth",
+                "Southampton"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                3,
+                1
+            ],
+            "match_two": [
+                0,
+                1
+            ],
+            "match_three": [
+                0,
+                1
+            ],
+            "match_four": [
+                0,
+                3
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                1.86,
+                0.98
+            ],
+            "match_two": [
+                0.53,
+                1.05
+            ],
+            "match_three": [],
+            "match_four": []
+        },
+        "corners": {
+            "match_one": [
+                6,
+                4
+            ],
+            "match_two": [
+                6,
+                4
+            ],
+            "match_three": [
+                7,
+                3
+            ],
+            "match_four": [
+                2,
+                5
+            ]
+        },
+        
+        "fouls": {
+            "match_one": [
+                19,
+                12
+            ],
+            "match_two": [
+                9,
+                11
+            ],
+            "match_three": [
+                8,
+                13
+            ],
+            "match_four": [
+                13,
+                12
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                1,
+                1
+            ],
+            "match_two": [
+                0,
+                0
+            ],
+            "match_three": [
+                1,
+                2
+            ],
+            "match_four": [
+                0,
+                1
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                2,
+                5
+            ],
+            "match_two": [
+                0,
+                3
+            ],
+            "match_three": [
+                1,
+                3
+            ],
+            "match_four": [
+                2,
+                2
+            ]
+        }
+    },
+        "home_team": {
+        
+            "name": "Southampton",
+            "coach": "Ruben Selles",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/southampton.png",
+            "playing_style": "Ball Retention; Wide play; Short passes",
+            "pressing_style": " ",
+            "attacking_style": "Attack through the middle",
+            "defensive_style": " ",
+            "goal_scored_pg": 0.7,
+            "goals_concede_pg": 2.3,
+            "aggressive_players": ["Flynn Downes","Mateus Fernandes"],
+            "provocative_players": ["Flynn Downes","Tyler Dibling","Kyle Walker-Peters"],
+            "win_form": ["W","L","L","L","L","L","L"],
+            "corner_form": ["W","L","W","D","D","L","D"],
+            "recent_matches": {
+                "teams": {
+                    "match_four": [
+                        "Ipswich",
+                        "Southampton"
+                    ],
+                    "match_five": [
+                        "Southampton",
+                        "Newcastle"
+                    ],
+                    "match_six": [
+                        "Nottingham",
+                        "Southampton"
+                    ],
+                    "match_seven": [
+                        "Manchester Utd",
+                        "Southampton"
+                    ],
+                    "match_one": [
+                        "Southampton",
+                        "Brentford"
+                    ],
+                    "match_two": [
+                        "Crystal Palace",
+                        "Southampton"
+                    ],
+                    "match_three": [
+                        "Southampton",
+                        "West Ham"
+                    ]
+                },
+                "goals": {
+                    "match_four": [
+                        1,
+                        2
+                    ],
+                    "match_five": [
+                        1,
+                        3
+                    ],
+                    "match_six": [
+                        3,
+                        2
+                    ],
+                    "match_seven": [
+                        3,
+                        1
+                    ],
+                    "match_one": [
+                        0,
+                        5
+                    ],
+                    "match_two": [
+                        2,
+                        1
+                    ],
+                    "match_three": [
+                        0,
+                        1
+                    ]
+                },
+                "x_goals": {
+                    "match_four": [
+                        1.55,
+                        1.01
+                    ],
+                    "match_five": [
+                        0.76,
+                        2.87
+                    ],
+                    "match_six": [
+                        1.9,
+                        0.88
+                    ],
+                    "match_seven": [
+                        3.20,
+                        1.52
+                    ],
+                    "match_one": [
+                        0.29,
+                        4.23
+                    ],
+                    "match_two": [
+                        1.82,
+                        1.3
+                    ],
+                    "match_three": [
+                        1.13,
+                        1.45
+                    ]
+                },
+                "corners": {
+                    "match_four": [
+                        1,
+                        2
+                    ],
+                    "match_five": [
+                        3,
+                        8
+                    ],
+                    "match_six": [
+                        2,
+                        8
+                    ],
+                    "match_seven": [
+                        4,
+                        4
+                    ],
+                    "match_one": [
+                        2,
+                        2
+                    ],
+                    "match_two": [
+                        8,
+                        7
+                    ],
+                    "match_three": [
+                        2,
+                        2
+                    ]
+                },
+                "fouls": {
+                    "match_four": [
+                        11,
+                        14
+                    ],
+                    "match_five": [
+                        10,
+                        5
+                    ],
+                    "match_six": [
+                        4,
+                        18
+                    ],
+                    "match_seven": [
+                        7,
+                        10
+                    ],
+                    "match_one": [
+                        10,
+                        4
+                    ],
+                    "match_two": [
+                        18,
+                        19
+                    ],
+                    "match_three": [
+                        15,
+                        8
+                    ]
+                },
+                "HT_cards": {
+                    "match_four": [
+                        0,
+                        1
+                    ],
+                    "match_five": [
+                        1,
+                        0
+                    ],
+                    "match_six": [
+                        0,
+                        0
+                    ],
+                    "match_seven": [
+                        0,
+                        2
+                    ],
+                    "match_one": [
+                        1,
+                        0
+                    ],
+                    "match_two": [
+                        0,
+                        0
+                    ],
+                    "match_three": [
+                        1,
+                        0
+                    ]
+                },
+                "FT_cards": {
+                    "match_four": [
+                        0,
+                        3
+                    ],
+                    "match_five": [
+                        1,
+                        0
+                    ],
+                    "match_six": [
+                        0,
+                        0
+                    ],
+                    "match_seven": [
+                        1,
+                        3
+                    ],
+                    "match_one": [
+                        2,
+                        0
+                    ],
+                    "match_two": [
+                        2,
+                        3
+                    ],
+                    "match_three": [
+                        1,
+                        2
+                    ]
+                }
+            }
+          },
+        "away_team": {
+    
+            "name": "Bournemouth",
+            "coach": "Andoni Iraola",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/bournemouth.png",
+            "playing_style": "Counter-Attack",
+            "pressing_style": "Medium-pressing",
+            "attacking_style": "Quick transitions and use of set pieces",
+            "defensive_style": "Compact",
+            "goal_scored_pg": 1.78,
+            "goals_concede_pg": 1.13,
+            "aggressive_players": ["Antonie Semenyo", "Lewis Cook", "Ryan Christie", "Justin Kluivert"],
+            "provocative_players": ["Evalnison"],
+            "win_form": ["L","W","W","D","W","D","D"],
+            "corner_form": ["D","L","L","W","W","W","L"],
+            "recent_matches": {
+                "teams": {
+                    "match_four": [
+                        "Bournemouth",
+                        "Liverpool"
+                    ],
+                    "match_five": [
+                        "Bournemouth",
+                        "Nottingham"
+                    ],
+                    "match_six": [
+                        "Newcastle",
+                        "Bournemouth"
+                    ],
+                    "match_seven": [
+                        "Chelsea",
+                        "Bournemouth"
+                    ],
+                    "match_one": [
+                        "Bournemouth",
+                        "Everton"
+                    ],
+                    "match_two": [
+                        "Fulham",
+                        "Bournemouth"
+                    ],
+                    "match_three": [
+                        "Bournemouth",
+                        "Crystal Palace"
+                    ]
+                },
+                "goals": {
+                    "match_four": [
+                        0,
+                        2
+                    ],
+                    "match_five": [
+                        5,
+                        0
+                    ],
+                    "match_six": [
+                        1,
+                        4
+                    ],
+                    "match_seven": [
+                        2,
+                        2
+                    ],
+                    "match_one": [
+                        1,
+                        0
+                    ],
+                    "match_two": [
+                        2,
+                        2
+                    ],
+                    "match_three": [
+                        0,
+                        0
+                    ]
+                },
+                "x_goals": {
+                    "match_four": [
+                        1.0,
+                        2.66
+                    ],
+                    "match_five": [
+                        1.78,
+                        0.89
+                    ],
+                    "match_six": [
+                        1.04,
+                        2.41
+                    ],
+                    "match_seven": [
+                        2.45,
+                        1.23
+                    ],
+                    "match_one": [
+                        1.69,
+                        0.67
+                    ],
+                    "match_two": [
+                        1.01,
+                        1.86
+                    ],
+                    "match_three": [
+                        1.19,
+                        0.53
+                    ]
+                },
+                "corners": {
+                    "match_four": [
+                        3,
+                        3
+                    ],
+                    "match_five": [
+                        3,
+                        9
+                    ],
+                    "match_six": [
+                        7,
+                        6
+                    ],
+                    "match_seven": [
+                        9,
+                        3
+                    ],
+                    "match_one": [
+                        9,
+                        3
+                    ],
+                    "match_two": [
+                        1,
+                        7
+                    ],
+                    "match_three": [
+                        5,
+                        2
+                    ]
+                },
+                "fouls": {
+                    "match_four": [
+                        15,
+                        9
+                    ],
+                    "match_five": [
+                        9,
+                        12
+                    ],
+                    "match_six": [
+                        7,
+                        18
+                    ],
+                    "match_seven": [
+                        15,
+                        16
+                    ],
+                    "match_one": [
+                        15,
+                        14
+                    ],
+                    "match_two": [
+                        7,
+                        16
+                    ],
+                    "match_three": [
+                        13,
+                        12
+                    ]
+                },
+                "HT_cards": {
+                    "match_four": [
+                        0,
+                        0
+                    ],
+                    "match_five": [
+                        1,
+                        0
+                    ],
+                    "match_six": [
+                        1,
+                        2
+                    ],
+                    "match_seven": [
+                        1,
+                        1
+                    ],
+                    "match_one": [
+                        0,
+                        1
+                    ],
+                    "match_two": [
+                        0,
+                        2
+                    ],
+                    "match_three": [
+                        1,
+                        1
+                    ]
+                },
+                "FT_cards": {
+                    "match_four": [
+                        2,
+                        3
+                    ],
+                    "match_five": [
+                        2,
+                        3
+                    ],
+                    "match_six": [
+                        1,
+                        6
+                    ],
+                    "match_seven": [
+                        2,
+                        3
+                    ],
+                    "match_one": [
+                        2,
+                        2
+                    ],
+                    "match_two": [
+                        1,
+                        3
+                    ],
+                    "match_three": [
+                        2,
+                        2
+                    ]
+                }
+            }
+          },
+        "prediction": {
+            "cards": {
+                "discuss": "Working on it. BRB!",
+                "ht": "",
+                "ft": ""
+            },
+            "corners": {
+                "discuss": "Working on it. BRB!",
+                "full_time_total_corners": "",
+                "win_corners": ""
+            },
+            "goals": {
+                "discuss": "Working on it. BRB!",
+                "Both_teams_to_score": "",
+                "fulltime_total_goals": ""
+            },
+            "win_draw": {
+                "discuss": "Working on it. BRB!",
+                "win_or_draw": ""
+            }
+      }
+      },
+      {
+        "fixture": "West Ham vs Brentford",
+        "league": "🇬🇧 Premier League",
+        "day": "saturday",
+        "position": [16,11],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "England D.",
+          "fouls_per_tackle": 0.66,
+          "yellow_per_game": 3.65
+        },
+        "head_to_head": {
+            "win_form": [["D","W","L","L","W"],["D","L","W","W","L"]],
+            "corner_form": [["L","L","L","L","L"],["W","W","W","W","W"]],
+        "teams": {
+            "match_one": [
+                "Brentford",
+                "West Ham"
+            ],
+            "match_two": [
+                "West Ham",
+                "Brentford"
+            ],
+            "match_three": [
+                "Brentford",
+                "West Ham"
+            ],
+            "match_four": [
+                "Brentford",
+                "West Ham"
+            ],
+            "match_five": [
+                "Brentford",
+                "West Ham"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                1,
+                1
+            ],
+            "match_two": [
+                4,
+                2
+            ],
+            "match_three": [
+                3,
+                2
+            ],
+            "match_four": [
+                2,
+                0
+            ],
+            "match_five": [
+                0,
+                1
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                0.58,
+                0.97
+            ],
+            "match_two": [
+                1.56,
+                1.05
+            ],
+            "match_three": [
+                1.23,
+                1.87
+            ],
+            "match_four": [
+                3.62,
+                0.22
+            ],
+            "match_five": []
+        },
+        "corners": {
+            "match_one": [
+                7,
+                6
+            ],
+            "match_two": [
+                1,
+                7
+            ],
+            "match_three": [
+                4,
+                3
+            ],
+            "match_four": [
+                7,
+                5
+            ],
+            "match_five": [
+                5,
+                4
+            ]
+        },        
+        "fouls": {
+            "match_one": [
+                2,
+                11
+            ],
+            "match_two": [
+                5,
+                9
+            ],
+            "match_three": [
+                12,
+                14
+            ],
+            "match_four": [
+                5,
+                5
+            ],
+            "match_five": [
+                6,
+                8
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                0,
+                1
+            ],
+            "match_two": [
+                0,
+                1
+            ],
+            "match_three": [
+                1,
+                1
+            ],
+            "match_four": [
+                0,
+                0
+            ],
+            "match_five": [
+                0,
+                0
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                2,
+                3
+            ],
+            "match_two": [
+                1,
+                2
+            ],
+            "match_three": [
+                1,
+                4
+            ],
+            "match_four": [
+                1,
+                0
+            ],
+            "match_five": [
+                1,
+                1
+            ]
+        }
+    },
+        "home_team": {
+        
+            "name": "West Ham",
+            "coach": "Julen Lopetegui",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/west_ham.png",
+            "playing_style": "Wide play; Long balls; Deep positioning",
+            "pressing_style": " ",
+            "attacking_style": "Attacking down the left; High crossing frequency; High shot volume",
+            "defensive_style": " ",
+            "goal_scored_pg": 1.46,
+            "goals_concede_pg": 1.05,
+            "aggressive_players": ["Edson Alvarez", "Paqueta", "Tomas Soucek"],
+            "provocative_players": ["Mohammed Kudus"],
+            "win_form": ["L","D","L","W","L","L","W"],
+            "corner_form": ["L","L","L","L","L","L","D"],
+            "recent_matches": {
+                "teams": {
+                    "match_four": [
+                        "Chelsea",
+                        "West Ham"
+                    ],
+                    "match_five": [
+                        "Aston Villa",
+                        "West Ham"
+                    ],
+                    "match_six": [
+                        "West Ham",
+                        "Crystal Palace"
+                    ],
+                    "match_seven": [
+                        "West Ham",
+                        "Fulham"
+                    ],
+                    "match_one": [
+                        "Manchester City",
+                        "West Ham"
+                    ],
+                    "match_two": [
+                        "West Ham",
+                        "Liverpool"
+                    ],
+                    "match_three": [
+                        "Southampton",
+                        "West Ham"
+                    ]
+                },
+                "goals": {
+                    "match_four": [
+                        2,
+                        1
+                    ],
+                    "match_five": [
+                        1,
+                        1
+                    ],
+                    "match_six": [
+                        0,
+                        2
+                    ],
+                    "match_seven": [
+                        3,
+                        2
+                    ],
+                    "match_one": [
+                        4,
+                        1
+                    ],
+                    "match_two": [
+                        0,
+                        5
+                    ],
+                    "match_three": [
+                        0,
+                        1
+                    ]
+                },
+                "x_goals": {
+                    "match_four": [
+                        1.37,
+                        1.12
+                    ],
+                    "match_five": [
+                        0.79,
+                        1.39
+                    ],
+                    "match_six": [
+                        0.3,
+                        1.31
+                    ],
+                    "match_seven": [
+                        1.12,
+                        1.70
+                    ],
+                    "match_one": [
+                        2.03,
+                        1.19
+                    ],
+                    "match_two": [
+                        0.32,
+                        2.92
+                    ],
+                    "match_three": [
+                        1.13,
+                        1.45
+                    ]
+                },
+                "corners": {
+                    "match_four": [
+                        4,
+                        3
+                    ],
+                    "match_five": [
+                        4,
+                        3
+                    ],
+                    "match_six": [
+                        2,
+                        4
+                    ],
+                    "match_seven": [
+                        0,
+                        3
+                    ],
+                    "match_one": [
+                        7,
+                        1
+                    ],
+                    "match_two": [
+                        2,
+                        6
+                    ],
+                    "match_three": [
+                        2,
+                        2
+                    ]
+                },
+                "fouls": {
+                    "match_four": [
+                        11,
+                        10
+                    ],
+                    "match_five": [
+                        13,
+                        16
+                    ],
+                    "match_six": [
+                        13,
+                        10
+                    ],
+                    "match_seven": [
+                        9,
+                        18
+                    ],
+                    "match_one": [
+                        8,
+                        13
+                    ],
+                    "match_two": [
+                        7,
+                        10
+                    ],
+                    "match_three": [
+                        15,
+                        8
+                    ]
+                },
+                "HT_cards": {
+                    "match_four": [
+                        0,
+                        0
+                    ],
+                    "match_five": [
+                        1,
+                        1
+                    ],
+                    "match_six": [
+                        1,
+                        0
+                    ],
+                    "match_seven": [
+                        0,
+                        1
+                    ],
+                    "match_one": [
+                        1,
+                        1
+                    ],
+                    "match_two": [
+                        0,
+                        0
+                    ],
+                    "match_three": [
+                        1,
+                        0
+                    ]
+                },
+                "FT_cards": {
+                    "match_four": [
+                        3,
+                        1
+                    ],
+                    "match_five": [
+                        2,
+                        3
+                    ],
+                    "match_six": [
+                        1,
+                        0
+                    ],
+                    "match_seven": [
+                        3,
+                        3
+                    ],
+                    "match_one": [
+                        2,
+                        1
+                    ],
+                    "match_two": [0,0],
+                    "match_three": [
+                        1,
+                        2
+                    ]
+                }
+            }
+          },
+        "away_team": {
+        
+            "name": "Brentford",
+            "coach": "Thomas Frank",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/brentford.png",
+            "playing_style": "Wide play; Long balls; Deep positioning",
+            "pressing_style": " ",
+            "attacking_style": "High crossing frequency; Frequent through ball attempts",
+            "defensive_style": "Organized",
+            "goal_scored_pg": 1.83,
+            "goals_concede_pg": 1.74,
+            "aggressive_players": ["Christian Norgaard"],
+            "provocative_players": ["Yoane Wissa"],
+            "win_form": ["L","W","L","D","W","L","D"],
+            "corner_form": ["W","W","L","L","D","W","L"],
+            "recent_matches": {
+                "teams": {
+                    "match_four": [
+                        "Brentford",
+                        "Tottenham"
+                    ],
+                    "match_five": [
+                        "Crystal Palace",
+                        "Brentford"
+                    ],
+                    "match_six": [
+                        "Brentford",
+                        "Liverpool"
+                    ],
+                    "match_seven": [
+                        "Brentford",
+                        "Manchester City"
+                    ],
+                    "match_one": [
+                        "Southampton",
+                        "Brentford"
+                    ],
+                    "match_two": [
+                        "Brentford",
+                        "Arsenal"
+                    ],
+                    "match_three": [
+                        "Brighton",
+                        "Brentford"
+                    ]
+                },
+                "goals": {
+                    "match_four": [
+                        0,
+                        2
+                    ],
+                    "match_five": [
+                        1,
+                        2
+                    ],
+                    "match_six": [
+                        0,
+                        2
+                    ],
+                    "match_seven": [
+                        2,
+                        2
+                    ],
+                    "match_one": [
+                        0,
+                        5
+                    ],
+                    "match_two": [
+                        1,
+                        3
+                    ],
+                    "match_three": [
+                        0,
+                        0
+                    ]
+                },
+                "x_goals": {
+                    "match_four": [
+                        2.29,
+                        0.75
+                    ],
+                    "match_five": [
+                        1.09,
+                        1.68
+                    ],
+                    "match_six": [
+                        0.72,
+                        3.4
+                    ],
+                    "match_seven": [
+                        2.47,
+                        2.10
+                    ],
+                    "match_one": [
+                        0.29,
+                        4.23
+                    ],
+                    "match_two": [
+                        0.29,
+                        1.95
+                    ],
+                    "match_three": [
+                        1.26,
+                        0.96
+                    ]
+                },
+                "corners": {
+                    "match_four": [
+                        10,
+                        3
+                    ],
+                    "match_five": [
+                        4,
+                        7
+                    ],
+                    "match_six": [
+                        2,
+                        15
+                    ],
+                    "match_seven": [
+                        4,
+                        5
+                    ],
+                    "match_one": [
+                        2,
+                        2
+                    ],
+                    "match_two": [
+                        4,
+                        3
+                    ],
+                    "match_three": [
+                        5,
+                        3
+                    ]
+                },
+                "fouls": {
+                    "match_four": [
+                        4,
+                        11
+                    ],
+                    "match_five": [
+                        8,
+                        11
+                    ],
+                    "match_six": [
+                        6,
+                        14
+                    ],
+                    "match_seven": [
+                        4,
+                        4
+                    ],
+                    "match_one": [
+                        10,
+                        4
+                    ],
+                    "match_two": [
+                        6,
+                        8
+                    ],
+                    "match_three": [
+                        6,
+                        12
+                    ]
+                },
+                "HT_cards": {
+                    "match_four": [
+                        0,
+                        0
+                    ],
+                    "match_five": [
+                        1,
+                        0
+                    ],
+                    "match_six": [
+                        0,
+                        2
+                    ],
+                    "match_seven": [
+                        0,
+                        0
+                    ],
+                    "match_one": [
+                        1,
+                        0
+                    ],
+                    "match_two": [
+                        1,
+                        1
+                    ],
+                    "match_three": [
+                        0,
+                        0
+                    ]
+                },
+                "FT_cards": {
+                    "match_four": [
+                        0,
+                        0
+                    ],
+                    "match_five": [
+                        2,
+                        2
+                    ],
+                    "match_six": [
+                        2,
+                        3
+                    ],
+                    "match_seven": [
+                        0,
+                        0
+                    ],
+                    "match_one": [
+                        2,
+                        0
+                    ],
+                    "match_two": [
+                        1,
+                        2
+                    ],
+                    "match_three": [
+                        0,
+                        2
+                    ]
+                }
+            }
+          },
+        "prediction": {
+            "cards": {
+                "discuss": "Working on it. BRB!",
+                "ht": "",
+                "ft": ""
+            },
+            "corners": {
+                "discuss": "Working on it. BRB!",
+                "full_time_total_corners": "",
+                "win_corners": ""
+            },
+            "goals": {
+                "discuss": "Working on it. BRB!",
+                "Both_teams_to_score": "",
+                "fulltime_total_goals": ""
+            },
+            "win_draw": {
+                "discuss": "Working on it. BRB!",
+                "win_or_draw": ""
+            }
+      }
+      },
+      {
+        "fixture": "Crystal Palace vs Everton",
+        "league": "🇬🇧 Premier League",
+        "day": "saturday",
+        "position": [12,15],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Taylor A.",
+          "fouls_per_tackle": 0.61,
+          "yellow_per_game": 3.80
+        },
+        "head_to_head": {
+            "win_form": [["L","D","L","D","L"],["W","D","W","D","W"]],
+        "corner_form": [["W","W","L","D","W"],["L","L","W","D","L"]],
+        "teams": {
+            "match_one": [
+                "Everton",
+                "Crystal Palace"
+            ],
+            "match_two": [
+                "Everton",
+                "Crystal Palace"
+            ],
+            "match_three": [
+                "Everton",
+                "Crystal Palace"
+            ],
+            "match_four": [
+                "Crystal Palace",
+                "Everton"
+            ],
+            "match_five": [
+                "Crystal Palace",
+                "Everton"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                2,
+                1
+            ],
+            "match_two": [
+                1,
+                1
+            ],
+            "match_three": [
+                1,
+                0
+            ],
+            "match_four": [
+                0,
+                0
+            ],
+            "match_five": [
+                2,
+                3
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                1.15,
+                0.89
+            ],
+            "match_two": [
+                1.66,
+                0.62
+            ],
+            "match_three": [],
+            "match_four": [
+                0.63,
+                1.37
+            ],
+            "match_five": [
+                1.73,
+                1.51
+            ]
+        },
+        "corners": {
+            "match_one": [
+                5,
+                8
+            ],
+            "match_two": [
+                3,
+                6
+            ],
+            "match_three": [
+                5,
+                1
+            ],
+            "match_four": [
+                7,
+                7
+            ],
+            "match_five": [
+                9,
+                2
+            ]
+        },
+           
+        "fouls": {
+            "match_one": [
+                13,
+                11
+            ],
+            "match_two": [
+                8,
+                12
+            ],
+            "match_three": [],
+            "match_four": [
+                6,
+                12
+            ],
+            "match_five": [
+                9,
+                18
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                0,
+                0
+            ],
+            "match_two": [
+                0,
+                0
+            ],
+            "match_three": [
+                0,
+                1
+            ],
+            "match_four": [
+                1,
+                0
+            ],
+            "match_five": [
+                1,
+                1
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                2,
+                0
+            ],
+            "match_two": [
+                0,
+                2
+            ],
+            "match_three": [
+                3,
+                2
+            ],
+            "match_four": [
+                2,
+                1
+            ],
+            "match_five": [
+                1,
+                4
+            ]
+        }
+    },
+        "home_team": {
+        
+            "name": "Crystal Palace",
+            "coach": "Oliver Glasner",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/crystal_palace.png",
+            "playing_style": "Long balls",
+            "pressing_style": " ",
+            "attacking_style": "High shot volume; Wide paly; Take long shots",
+            "defensive_style": "Compact",
+            "goal_scored_pg": 1.13,
+            "goals_concede_pg": 1.3,
+            "aggressive_players": ["Will Hughes","Daniel Munoz"],
+            "provocative_players": ["Eberechi Eze"],
+            "win_form": ["W","L","W","W","D","W","D"],
+            "corner_form": ["L","L","W","L","D","W","L"],
+            "recent_matches": {
+                "teams": {
+                    "match_four": [
+                        "Manchester Utd",
+                        "Crystal Palace"
+                    ],
+                    "match_five": [
+                        "Crystal Palace",
+                        "Brentford"
+                    ],
+                    "match_six": [
+                        "West Ham",
+                        "Crystal Palace"
+                    ],
+                    "match_seven": [
+                        "Leicester",
+                        "Crystal Palace"
+                    ],
+                    "match_one": [
+                        "Crystal Palace",
+                        "Chelsea"
+                    ],
+                    "match_two": [
+                        "Crystal Palace",
+                        "Southampton"
+                    ],
+                    "match_three": [
+                        "Bournemouth",
+                        "Crystal Palace"
+                    ]
+                },
+                "goals": {
+                    "match_four": [
+                        0,
+                        2
+                    ],
+                    "match_five": [
+                        1,
+                        2
+                    ],
+                    "match_six": [
+                        0,
+                        2
+                    ],
+                    "match_seven": [
+                        0,
+                        2
+                    ],
+                    "match_one": [
+                        1,
+                        1
+                    ],
+                    "match_two": [
+                        2,
+                        1
+                    ],
+                    "match_three": [
+                        0,
+                        0
+                    ]
+                },
+                "x_goals": {
+                    "match_four": [
+                        1.31,
+                        2.61
+                    ],
+                    "match_five": [
+                        1.09,
+                        1.68
+                    ],
+                    "match_six": [
+                        0.3,
+                        1.31
+                    ],
+                    "match_seven": [
+                        1.52,
+                        1.81
+                    ],
+                    "match_one": [
+                        1.01,
+                        1.3
+                    ],
+                    "match_two": [
+                        1.82,
+                        1.3
+                    ],
+                    "match_three": [
+                        1.19,
+                        0.53
+                    ]
+                },
+                "corners": {
+                    "match_four": [
+                        11,
+                        0
+                    ],
+                    "match_five": [
+                        4,
+                        7
+                    ],
+                    "match_six": [
+                        2,
+                        4
+                    ],
+                    "match_seven": [
+                        4,
+                        3
+                    ],
+                    "match_one": [
+                        6,
+                        6
+                    ],
+                    "match_two": [
+                        8,
+                        7
+                    ],
+                    "match_three": [
+                        5,
+                        2
+                    ]
+                },
+                "fouls": {
+                    "match_four": [
+                        12,
+                        13
+                    ],
+                    "match_five": [
+                        8,
+                        11
+                    ],
+                    "match_six": [
+                        13,
+                        10
+                    ],
+                    "match_seven": [
+                        7,
+                        6
+                    ],
+                    "match_one": [
+                        9,
+                        12
+                    ],
+                    "match_two": [
+                        18,
+                        19
+                    ],
+                    "match_three": [
+                        13,
+                        12
+                    ]
+                },
+                "HT_cards": {
+                    "match_four": [
+                        0,
+                        0
+                    ],
+                    "match_five": [
+                        1,
+                        0
+                    ],
+                    "match_six": [
+                        1,
+                        0
+                    ],
+                    "match_seven": [
+                        0,
+                        0
+                    ],
+                    "match_one": [
+                        0,
+                        0
+                    ],
+                    "match_two": [
+                        0,
+                        0
+                    ],
+                    "match_three": [
+                        1,
+                        1
+                    ]
+                },
+                "FT_cards": {
+                    "match_four": [
+                        3,
+                        1
+                    ],
+                    "match_five": [
+                        2,
+                        2
+                    ],
+                    "match_six": [
+                        1,
+                        0
+                    ],
+                    "match_seven": [
+                        0,
+                        0
+                    ],
+                    "match_one": [
+                        0,
+                        2
+                    ],
+                    "match_two": [
+                        2,
+                        3
+                    ],
+                    "match_three": [
+                        2,
+                        2
+                    ]
+                }
+            }
+          },
+        "away_team": {
+        
+            "name": "Everton",
+            "coach": "Sean Dyche",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/everton.png",
+            "playing_style": "Wide play; Long balls",
+            "pressing_style": "Mid-block",
+            "attacking_style": "High crossing frequency; High shot volume; Attacking down the right; Take long shots",
+            "defensive_style": "Compact",
+            "goal_scored_pg": 0.82,
+            "goals_concede_pg": 1.22,
+            "aggressive_players": ["Idrissa Gueye","Abdoulaye Doucoure"],
+            "provocative_players": ["Iliman Ndiaye"],
+            "win_form": ["D","W","W","W","L","L","L"],
+            "corner_form": ["L","L","L","L","W","L","W"],
+            "recent_matches": {
+                "teams": {
+                    "match_three": [
+                        "Everton",
+                        "Liverpool"
+                    ],
+                    "match_four": [
+                        "Everton",
+                        "Leicester"
+                    ],
+                    "match_five": [
+                        "Brighton",
+                        "Everton"
+                    ],
+                    "match_six": [
+                        "Everton",
+                        "Tottenham"
+                    ],
+                    "match_seven": [
+                        "Everton",
+                        "Aston Villa"
+                    ],
+                    "match_one": [
+                        "Bournemouth",
+                        "Everton"
+                    ],
+                    "match_two": [
+                        "Everton",
+                        "Nottingham"
+                    ]
+                },
+                "goals": {
+                    "match_three": [
+                        2,
+                        2
+                    ],
+                    "match_four": [
+                        4,
+                        0
+                    ],
+                    "match_five": [
+                        0,
+                        1
+                    ],
+                    "match_six": [
+                        3,
+                        2
+                    ],
+                    "match_seven": [
+                        0,
+                        1
+                    ],
+                    "match_one": [
+                        1,
+                        0
+                    ],
+                    "match_two": [
+                        0,
+                        2
+                    ]
+                },
+                "x_goals": {
+                    "match_three": [
+                        0.98,
+                        0.65
+                    ],
+                    "match_four": [
+                        2.35,
+                        0.39
+                    ],
+                    "match_five": [
+                        0.75,
+                        0.87
+                    ],
+                    "match_six": [
+                        2.03,
+                        1.11
+                    ],
+                    "match_seven": [
+                        1.09,
+                        1.36
+                    ],
+                    "match_one": [
+                        1.69,
+                        0.67
+                    ],
+                    "match_two": [
+                        0.64,
+                        1.42
+                    ]
+                },
+                "corners": {
+                    "match_three": [
+                        2,
+                        3
+                    ],
+                    "match_four": [
+                        5,
+                        6
+                    ],
+                    "match_five": [
+                        9,
+                        1
+                    ],
+                    "match_six": [
+                        3,
+                        8
+                    ],
+                    "match_seven": [
+                        8,
+                        5
+                    ],
+                    "match_one": [
+                        9,
+                        3
+                    ],
+                    "match_two": [
+                        5,
+                        4
+                    ]
+                },
+                "fouls": {
+                    "match_three": [
+                        9,
+                        20
+                    ],
+                    "match_four": [
+                        7,
+                        13
+                    ],
+                    "match_five": [
+                        8,
+                        11
+                    ],
+                    "match_six": [
+                        14,
+                        14
+                    ],
+                    "match_seven": [
+                        17,
+                        10
+                    ],
+                    "match_one": [
+                        15,
+                        14
+                    ],
+                    "match_two": [
+                        13,
+                        10
+                    ]
+                },
+                "HT_cards": {
+                    "match_three": [
+                        4,
+                        4
+                    ],
+                    "match_four": [
+                        0,
+                        0
+                    ],
+                    "match_five": [
+                        2,
+                        2
+                    ],
+                    "match_six": [
+                        1,
+                        1
+                    ],
+                    "match_seven": [
+                        0,
+                        1
+                    ],
+                    "match_one": [
+                        0,
+                        1
+                    ],
+                    "match_two": [
+                        1,
+                        0
+                    ]
+                },
+                "FT_cards": {
+                    "match_three": [
+                        3,
+                        2
+                    ],
+                    "match_four": [
+                        0,
+                        0
+                    ],
+                    "match_five": [
+                        4,
+                        4
+                    ],
+                    "match_six": [
+                        2,
+                        1
+                    ],
+                    "match_seven": [
+                        2,
+                        1
+                    ],
+                    "match_one": [
+                        2,
+                        2
+                    ],
+                    "match_two": [
+                        4,
+                        1
+                    ]
+                }
+            }
+          },
+        "prediction": {
+            "cards": {
+                "discuss": "Working on it. BRB!",
+                "ht": "",
+                "ft": ""
+            },
+            "corners": {
+                "discuss": "Working on it. BRB!",
+                "full_time_total_corners": "",
+                "win_corners": ""
+            },
+            "goals": {
+                "discuss": "Working on it. BRB!",
+                "Both_teams_to_score": "",
+                "fulltime_total_goals": ""
+            },
+            "win_draw": {
+                "discuss": "Working on it. BRB!",
+                "win_or_draw": ""
+            }
+      }
+      },
+      {
+        "fixture": "Liverpool vs Wolves",
+        "league": "🇬🇧 Premier League",
+        "day": "sunday",
+        "position": [1,17],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Hooper S.",
+          "fouls_per_tackle": 0.58,
+          "yellow_per_game": 3.33
+        },
+        "head_to_head": {
+            "win_form": [["W","W","W","W","L"],["L","L","L","L","W"]],
+        "corner_form": [["W","W","D","W","W"],["L","L","D","L","L"]],
+        
+        "teams": {
+            "match_one": [
+                "Wolves",
+                "Liverpool"
+            ],
+            "match_two": [
+                "Liverpool",
+                "Wolves"
+            ],
+            "match_three": [
+                "Wolves",
+                "Liverpool"
+            ],
+            "match_four": [
+                "Liverpool",
+                "Wolves"
+            ],
+            "match_five": [
+                "Wolves",
+                "Liverpool"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                1,
+                2
+            ],
+            "match_two": [
+                2,
+                0
+            ],
+            "match_three": [
+                1,
+                3
+            ],
+            "match_four": [
+                2,
+                0
+            ],
+            "match_five": [
+                3,
+                0
+            ]
+        },
+        "x_goals": {
+            "match_one": [
+                0.76,
+                2.36
+            ],
+            "match_two": [
+                4.46,
+                0.62
+            ],
+            "match_three": [
+                0.57,
+                3.0
+            ],
+            "match_four": [
+                2.74,
+                1.01
+            ],
+            "match_five": []
+        },
+        "corners": {
+            "match_one": [
+                2,
+                10
+            ],
+            "match_two": [
+                10,
+                2
+            ],
+            "match_three": [
+                4,
+                4
+            ],
+            "match_four": [
+                5,
+                2
+            ],
+            "match_five": [
+                2,
+                7
+            ]
+        },
+        
+        "fouls": {
+            "match_one": [
+                16,
+                8
+            ],
+            "match_two": [
+                14,
+                10
+            ],
+            "match_three": [
+                10,
+                4
+            ],
+            "match_four": [
+                13,
+                14
+            ],
+            "match_five": [
+                9,
+                7
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                1,
+                2
+            ],
+            "match_two": [
+                0,
+                2
+            ],
+            "match_three": [
+                0,
+                1
+            ],
+            "match_four": [
+                1,
+                2
+            ],
+            "match_five": [
+                1,
+                0
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                2,
+                3
+            ],
+            "match_two": [
+                1,
+                2
+            ],
+            "match_three": [
+                1,
+                3
+            ],
+            "match_four": [
+                2,
+                3
+            ],
+            "match_five": [
+                1,
+                1
+            ]
+        }
+    },
+        "home_team": {
+        
+            "name": "Liverpool",
+            "coach": "Arne Slot",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/liverpool.png",
+            "playing_style": "Short passes; Ball Retention; High territorial control",
+            "pressing_style": " ",
+            "attacking_style": "Frequent through ball attempts; Take long shots; Attack through the middle",
+            "defensive_style": "High defensive line",
+            "goal_scored_pg": 2.35,
+            "goals_concede_pg": 0.91,
+            "aggressive_players": ["Mac Allister"," Luis Diaz", "Gravenberch"],
+            "provocative_players": [],
+            "win_form": ["D","W","W","W","D","D","W"],
+            "corner_form": ["D","D","L","W","W","L","W"],
+            "recent_matches": {
+                "teams": {
+                    "match_three": [
+                        "Everton",
+                        "Liverpool"
+                    ],
+                    "match_four": [
+                        "Bournemouth",
+                        "Liverpool"
+                    ],
+                    "match_five": [
+                        "Liverpool",
+                        "Ipswich"
+                    ],
+                    "match_six": [
+                        "Brentford",
+                        "Liverpool"
+                    ],
+                    "match_seven": [
+                        "Nottingham",
+                        "Liverpool"
+                    ],
+                    "match_one": [
+                        "Liverpool",
+                        "Manchester Utd"
+                    ],
+                    "match_two": [
+                        "West Ham",
+                        "Liverpool"
+                    ]
+                },
+                "goals": {
+                    "match_three": [
+                        2,
+                        2
+                    ],
+                    "match_four": [
+                        0,
+                        2
+                    ],
+                    "match_five": [
+                        4,
+                        1
+                    ],
+                    "match_six": [
+                        0,
+                        2
+                    ],
+                    "match_seven": [
+                        1,
+                        1
+                    ],
+                    "match_one": [
+                        2,
+                        2
+                    ],
+                    "match_two": [
+                        0,
+                        5
+                    ]
+                },
+                "x_goals": {
+                    "match_three": [
+                        0.98,
+                        0.65
+                    ],
+                    "match_four": [
+                        1.0,
+                        2.66
+                    ],
+                    "match_five": [
+                        1.9,
+                        0.43
+                    ],
+                    "match_six": [
+                        0.72,
+                        3.4
+                    ],
+                    "match_seven": [
+                        0.39,
+                        1.95
+                    ],
+                    "match_one": [
+                        2.87,
+                        0.99
+                    ],
+                    "match_two": [
+                        0.32,
+                        2.92
+                    ]
+                },
+                "corners": {
+                    "match_three": [
+                        2,
+                        3
+                    ],
+                    "match_four": [
+                        3,
+                        3
+                    ],
+                    "match_five": [
+                        3,
+                        4
+                    ],
+                    "match_six": [
+                        2,
+                        15
+                    ],
+                    "match_seven": [
+                        0,
+                        9
+                    ],
+                    "match_one": [
+                        5,
+                        9
+                    ],
+                    "match_two": [
+                        2,
+                        6
+                    ]
+                },
+                "fouls": {
+                    "match_three": [
+                        9,
+                        20
+                    ],
+                    "match_four": [
+                        15,
+                        9
+                    ],
+                    "match_five": [
+                        10,
+                        11
+                    ],
+                    "match_six": [
+                        6,
+                        14
+                    ],
+                    "match_seven": [
+                        7,
+                        10
+                    ],
+                    "match_one": [
+                        10,
+                        13
+                    ],
+                    "match_two": [
+                        7,
+                        10
+                    ]
+                },
+                "HT_cards": {
+                    "match_three": [
+                        3,
+                        2
+                    ],
+                    "match_four": [
+                        0,
+                        0
+                    ],
+                    "match_five": [
+                        0,
+                        0
+                    ],
+                    "match_six": [
+                        0,
+                        2
+                    ],
+                    "match_seven": [
+                        1,
+                        0
+                    ],
+                    "match_one": [
+                        0,
+                        1
+                    ],
+                    "match_two": [
+                        0,
+                        0
+                    ]
+                },
+                "FT_cards": {
+                    "match_three": [
+                        4,
+                        4
+                    ],
+                    "match_four": [
+                        2,
+                        3
+                    ],
+                    "match_five": [
+                        0,
+                        2
+                    ],
+                    "match_six": [
+                        2,
+                        3
+                    ],
+                    "match_seven": [
+                        2,
+                        1
+                    ],
+                    "match_one": [
+                        2,
+                        4
+                    ],
+                    "match_two": [0,0]
+                }
+            }
+          },
+        "away_team": {
+        
+            "name": "Wolves",
+            "coach": "Gary O'Neil",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/wolverhampton_wanderers.png",
+            "playing_style": "Wide play; Deep positioning",
+            "pressing_style": "Aggressive",
+            "attacking_style": "Attacking down the right",
+            "defensive_style": " ",
+            "goal_scored_pg": 1.39,
+            "goals_concede_pg": 2.26,
+            "aggressive_players": ["Nelson Semedo","Joao Gomes"],
+            "provocative_players": ["Matheus Cunha"],
+            "win_form": ["W","L","L","L","L","D","W"],
+            "corner_form": ["L","L","W","L","W","D","D"],
+            "recent_matches": {
+                "teams": {
+                    "match_four": [
+                        "Wolves",
+                        "Aston Villa"
+                    ],
+                    "match_five": [
+                        "Wolves",
+                        "Arsenal"
+                    ] ,
+                    "match_six": [
+                        "Chelsea",
+                        "Wolves"
+                    ],
+                    "match_seven": [
+                        "Newcastle",
+                        "Wolves"
+                    ],
+                    "match_one": [
+                        "Wolves",
+                        "Nottingham"
+                    ],
+                    "match_two": [
+                        "Tottenham",
+                        "Wolves"
+                    ],
+                    "match_three": [
+                        "Wolves",
+                        "Manchester Utd"
+                    ]
+                },
+                "goals": {
+                    "match_four": [
+                        2,
+                        0
+                    ],
+                    "match_five": [
+                        0,
+                        1
+                    ],
+                    "match_six": [
+                        3,
+                        1
+                    ],
+                    "match_seven": [
+                        3,
+                        0
+                    ],
+                    "match_one": [
+                        0,
+                        3
+                    ],
+                    "match_two": [
+                        2,
+                        2
+                    ],
+                    "match_three": [
+                        2,
+                        0
+                    ]
+                },
+                "x_goals": {
+                    "match_four": [
+                        1.57,
+                        0.51
+                    ],
+                    "match_five": [
+                        0.58,
+                        0.99
+                    ],
+                    "match_six": [
+                        3.15,
+                        0.86
+                    ],
+                    "match_seven": [
+                        1.93,
+                        1.44
+                    ],
+                    "match_one": [
+                        1.57,
+                        2.2
+                    ],
+                    "match_two": [
+                        2.25,
+                        0.72
+                    ],
+                    "match_three": [
+                        0.87,
+                        0.35
+                    ]
+                },
+                "corners": {
+                    "match_four": [
+                        5,
+                        8
+                    ],
+                    "match_five": [
+                        1,
+                        5
+                    ],
+                    "match_six": [
+                        3,
+                        6
+                    ],
+                    "match_seven": [
+                        4,
+                        2
+                    ],
+                    "match_one": [
+                        5,
+                        3
+                    ],
+                    "match_two": [
+                        5,
+                        5
+                    ],
+                    "match_three": [
+                        4,
+                        4
+                    ]
+                },
+                "fouls": {
+                    "match_four": [
+                        20,
+                        13
+                    ],
+                    "match_five": [
+                        20,
+                        10
+                    ],
+                    "match_six": [
+                        8,
+                        14
+                    ],
+                    "match_seven": [
+                        10,
+                        13
+                    ],
+                    "match_one": [
+                        10,
+                        8
+                    ],
+                    "match_two": [
+                        9,
+                        10
+                    ],
+                    "match_three": [
+                        12,
+                        12
+                    ]
+                },
+                "HT_cards": {
+                    "match_four": [
+                        1,
+                        3
+                    ],
+                    "match_five": [
+                        1,
+                        2
+                    ],
+                    "match_six": [
+                        1,
+                        1
+                    ],
+                    "match_seven": [
+                        0,
+                        1
+                    ],
+                    "match_one": [
+                        0,
+                        2
+                    ],
+                    "match_two": [
+                        0,
+                        2
+                    ],
+                    "match_three": [
+                        1,
+                        2
+                    ]
+                },
+                "FT_cards": {
+                    "match_four": [
+                        2,
+                        3
+                    ],
+                    "match_five": [
+                        3,
+                        2
+                    ],
+                    "match_six": [
+                        4,
+                        2
+                    ],
+                    "match_seven": [
+                        0,
+                        2
+                    ],
+                    "match_one": [
+                        1,
+                        2
+                    ],
+                    "match_two": [
+                        1,
+                        2
+                    ],
+                    "match_three": [
+                        2,
+                        5
+                    ]
+                }
+            }
+          },
+        "prediction": {
+            "cards": {
+                "discuss": "Working on it. BRB!",
+                "ht": "",
+                "ft": ""
+            },
+            "corners": {
+                "discuss": "Working on it. BRB!",
+                "full_time_total_corners": "",
+                "win_corners": ""
+            },
+            "goals": {
+                "discuss": "Working on it. BRB!",
+                "Both_teams_to_score": "",
+                "fulltime_total_goals": ""
+            },
+            "win_draw": {
+                "discuss": "Working on it. BRB!",
+                "win_or_draw": ""
+            }
+      }
+      },
+      {
+        "fixture": "Tottenham vs Manchester Utd",
+        "league": "🇬🇧 Premier League",
+        "day": "sunday",
+        "position": [14,13],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Bankes P.",
+          "fouls_per_tackle": 0.51,
+          "yellow_per_game": 3.95
+        },
+        "head_to_head": {
+            "win_form": [["W","W","D","W","D"],["L","L","D","L","D"]],
+        "corner_form": [["L","L","W","L","L"],["W","W","L","W","W"]],
+        
+        "teams": {
+            "match_one": [
+                "Tottenham",
+                "Manchester Utd"
+            ],
+            "match_two": [
+                "Manchester Utd",
+                "Tottenham"
+            ],
+            "match_three": [
+                "Manchester Utd",
+                "Tottenham"
+            ],
+            "match_four": [
+                "Tottenham",
+                "Manchester Utd"
+            ],
+            "match_five": [
+                "Tottenham",
+                "Manchester Utd"
+            ]
+        },
+        "goals": {
+            "match_one": [
+                4,
+                3
+            ],
+            "match_two": [
+                0,
+                3
+            ],
+            "match_three": [
+                2,
+                2
+            ],
+            "match_four": [
+                2,
+                0
+            ],
+            "match_five": [
+                2,
+                2
+            ]
+        },
+        "x_goals": {
+            "match_one": [],
+            "match_two": [
+                1.05,
+                3.89
+            ],
+            "match_three": [
+                0.91,
+                1.46
+            ],
+            "match_four": [
+                1.91,
+                1.94
+            ],
+            "match_five": [
+                2.36,
+                2.17
+            ]
+        },
+        "corners": {
+            "match_one": [
+                3,
+                8
+            ],
+            "match_two": [
+                5,
+                3
+            ],
+            "match_three": [
+                8,
+                13
+            ],
+            "match_four": [
+                5,
+                6
+            ],
+            "match_five": [
+                6,
+                8
+            ]
+        },
+        "fouls": {
+            "match_one": [
+                10,
+                12
+            ],
+            "match_two": [
+                16,
+                14
+            ],
+            "match_three": [
+                8,
+                5
+            ],
+            "match_four": [
+                9,
+                8
+            ],
+            "match_five": [
+                8,
+                7
+            ]
+        },
+        "HT_cards": {
+            "match_one": [
+                1,
+                1
+            ],
+            "match_two": [
+                4,
+                1
+            ],
+            "match_three": [
+                2,
+                1
+            ],
+            "match_four": [
+                0,
+                3
+            ],
+            "match_five": [
+                1,
+                1
+            ]
+        },
+        "FT_cards": {
+            "match_one": [
+                3,
+                3
+            ],
+            "match_two": [
+                6,
+                3
+            ],
+            "match_three": [
+                2,
+                1
+            ],
+            "match_four": [
+                1,
+                3
+            ],
+            "match_five": [
+                1,
+                2
+            ]
+        }
+    },
+        "home_team": {
+        
+            "name": "Tottenham",
+            "coach": "Ange Postecoglou",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/tottenham_hotspur.png",
+            "playing_style": "Ball Retention; Short passes; High territorial control",
+            "pressing_style": "Aggressive",
+            "attacking_style": "Attacking down the right; Draws fouls; ",
+            "defensive_style": "High Line; Use offside positioning",
+            "goal_scored_pg": 2,
+            "goals_concede_pg": 1.61,
+            "aggressive_players": ["Solanke", "Rodrigo Bentancur","Dejan Kulusevski"],
+            "provocative_players": ["James Maddison","Destiny Udogie","Solanke"],
+            "win_form": ["W","L","L","L","L","D","L"],
+            "corner_form": ["L","W","W","L","L","D","W"],
+            "recent_matches": {
+                "teams": {  
+                    "match_four": [
+                        "Brentford",
+                        "Tottenham"
+                    ],
+                    "match_five": [
+                        "Tottenham",
+                        "Leicester"
+                    ], 
+                    "match_six": [
+                        "Everton",
+                        "Tottenham"
+                    ],         
+                    "match_seven": [
+                        "Arsenal",
+                        "Tottenham"
+                    ],
+                    "match_one": [
+                        "Tottenham",
+                        "Newcastle"
+                    ],
+                    "match_two": [
+                        "Tottenham",
+                        "Wolves"
+                    ],
+                    "match_three": [
+                        "Nottingham",
+                        "Tottenham"
+                    ]
+                },
+                "goals": {
+                    "match_four": [
+                        0,
+                        2
+                    ],
+                    "match_five": [
+                        1,
+                        2
+                    ],
+                    "match_six": [
+                        3,
+                        2
+                    ],
+                    "match_seven": [
+                        2,
+                        1
+                    ],
+                    "match_one": [
+                        1,
+                        2
+                    ],
+                    "match_two": [
+                        2,
+                        2
+                    ],
+                    "match_three": [
+                        1,
+                        0
+                    ]
+                },
+                "x_goals": {
+                    "match_four": [
+                        2.29,
+                        0.75
+                    ],
+                    "match_five": [
+                        1.1,
+                        1.5
+                    ],
+                    "match_six": [
+                        2.03,
+                        1.11
+                    ],
+                    "match_seven": [
+                        1.43,
+                        0.83
+                    ],
+                    "match_one": [
+                        0.85,
+                        1.08
+                    ],
+                    "match_two": [
+                        2.25,
+                        0.72
+                    ],
+                    "match_three": [
+                        1.21,
+                        1.28
+                    ]
+                },
+                "corners": {
+                    "match_four": [
+                        10,
+                        3
+                    ],
+                    "match_five": [
+                        6,
+                        4
+                    ],
+                    "match_six": [
+                        3,
+                        8
+                    ],
+                    "match_seven": [
+                        10,
+                        4
+                    ],
+                    "match_one": [
+                        9,
+                        10
+                    ],
+                    "match_two": [
+                        5,
+                        5
+                    ],
+                    "match_three": [
+                        2,
+                        7
+                    ]
+                },
+                "fouls": {
+                    "match_four": [
+                        4,
+                        11
+                    ],
+                    "match_five": [
+                        6,
+                        16
+                    ],
+                    "match_six": [
+                        14,
+                        14
+                    ],
+                    "match_seven": [
+                        16,
+                        9
+                    ],
+                    "match_one": [
+                        11,
+                        15
+                    ],
+                    "match_two": [
+                        9,
+                        10
+                    ],
+                    "match_three": [
+                        12,
+                        13
+                    ]
+                },
+                "HT_cards": {
+                    "match_four": [
+                        0,
+                        0
+                    ],
+                    "match_five": [
+                        0,
+                        0
+                    ],
+                    "match_six": [
+                        1,
+                        1
+                    ],
+                    "match_seven": [
+                        1,
+                        1
+                    ],
+                    "match_one": [
+                        0,
+                        1
+                    ],
+                    "match_two": [
+                        0,
+                        2
+                    ],
+                    "match_three": [
+                        2,
+                        0
+                    ]
+                },
+                "FT_cards": {
+                    "match_four": [
+                        0,
+                        0
+                    ],
+                    "match_five": [
+                        1,
+                        5
+                    ],
+                    "match_six": [
+                        2,
+                        1
+                    ],
+                    "match_seven": [
+                        3,
+                        1
+                    ],
+                    "match_one": [
+                        1,
+                        4
+                    ],
+                    "match_two": [
+                        1,
+                        2
+                    ],
+                    "match_three": [
+                        3,
+                        5
+                    ]
+                }
+            }
+          },
+        "away_team": {
+        
+            "name": "Man United",
+            "coach": "Erik ten Hag",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/PL/manchester_united.png",
+            "playing_style": " ",
+            "pressing_style": " ",
+            "attacking_style": "Attacking down the left; Take long shots",
+            "defensive_style": " ",
+            "goal_scored_pg": 1.46,
+            "goals_concede_pg": 1.05,
+            "aggressive_players": ["Manuel Ugarte"],
+            "provocative_players": [ ],
+            "win_form": ["L","W","L","W","D","L","L"],
+            "corner_form": ["W","L","W","D","W","L","D"],
+           "recent_matches": {
+                "teams": {
+                    "match_four": [
+                        "Manchester Utd",
+                        "Crystal Palace"
+                    ],
+                    "match_five": [
+                        "Fulham",
+                        "Manchester Utd"
+                    ],
+                    "match_six": [
+                        "Manchester Utd",
+                        "Brighton"
+                    ],
+                    "match_seven": [
+                        "Manchester Utd",
+                        "Southampton"
+                    ],
+                    "match_one": [
+                        "Liverpool",
+                        "Manchester Utd"
+                    ],
+                    "match_two": [
+                        "Manchester Utd",
+                        "Newcastle"
+                    ],
+                    "match_three": [
+                        "Wolves",
+                        "Manchester Utd"
+                    ]
+                },
+                "goals": {
+                    "match_four": [
+                        0,
+                        2
+                    ],
+                    "match_five": [
+                        0,
+                        1
+                    ],
+                    "match_six": [
+                        1,
+                        3
+                    ],
+                    "match_seven": [
+                        3,
+                        1
+                    ],
+                    "match_one": [
+                        2,
+                        2
+                    ],
+                    "match_two": [
+                        0,
+                        2
+                    ],
+                    "match_three": [
+                        2,
+                        0
+                    ]
+                },
+                "x_goals": {
+                    "match_four": [
+                        1.31,
+                        2.61
+                    ],
+                    "match_five": [
+                        0.7,
+                        0.25
+                    ],
+                    "match_six": [
+                        1.41,
+                        1.98
+                    ],
+                    "match_seven": [
+                        3.20,
+                        1.52
+                    ],
+                    "match_one": [
+                        2.87,
+                        0.99
+                    ],
+                    "match_two": [
+                        0.88,
+                        1.96
+                    ],
+                    "match_three": [
+                        0.87,
+                        0.35
+                    ]
+                },
+                "corners": {
+                    "match_four": [
+                        11,
+                        0
+                    ],
+                    "match_five": [
+                        3,
+                        0
+                    ],
+                    "match_six": [
+                        4,
+                        2
+                    ],
+                    "match_seven": [
+                        4,
+                        4
+                    ],
+                    "match_one": [
+                        5,
+                        9
+                    ],
+                    "match_two": [
+                        2,
+                        3
+                    ],
+                    "match_three": [
+                        4,
+                        4
+                    ]
+                },
+                "fouls": {
+                    "match_four": [
+                        11,
+                        0
+                    ],
+                    "match_five": [
+                        7,
+                        9
+                    ],
+                    "match_six": [
+                        13,
+                        12
+                    ],
+                    "match_seven": [
+                        7,
+                        10
+                    ],
+                    "match_one": [
+                        10,
+                        13
+                    ],
+                    "match_two": [
+                        13,
+                        8
+                    ],
+                    "match_three": [
+                        12,
+                        12
+                    ]
+                },
+                "HT_cards": {
+                    "match_four": [
+                        0,
+                        0
+                    ],
+                    "match_five": [
+                        0,
+                        0
+                    ],
+                    "match_six": [
+                        0,
+                        2
+                    ],
+                    "match_seven": [
+                        0,
+                        2
+                    ],
+                    "match_one": [
+                        0,
+                        1
+                    ],
+                    "match_two": [
+                        0,
+                        0
+                    ],
+                    "match_three": [
+                        1,
+                        2
+                    ]
+                },
+                "FT_cards": {
+                    "match_four": [
+                        3,
+                        1
+                    ],
+                    "match_five": [
+                        0,
+                        1
+                    ],
+                    "match_six": [
+                        3,
+                        3
+                    ],
+                    "match_seven": [
+                        1,
+                        3
+                    ],
+                    "match_one": [
+                        2,
+                        4
+                    ],
+                    "match_two": [
+                        1,
+                        1
+                    ],
+                    "match_three": [
+                        2,
+                        5
+                    ]
+                }
+            }
+          },
+        "prediction": {
+            "cards": {
+                "discuss": "Working on it. BRB!",
+                "ht": "",
+                "ft": ""
+            },
+            "corners": {
+                "discuss": "Working on it. BRB!",
+                "full_time_total_corners": "",
+                "win_corners": ""
+            },
+            "goals": {
+                "discuss": "Working on it. BRB!",
+                "Both_teams_to_score": "",
+                "fulltime_total_goals": ""
+            },
+            "win_draw": {
+                "discuss": "Working on it. BRB!",
+                "win_or_draw": ""
+            }
+      }
+      }
+]

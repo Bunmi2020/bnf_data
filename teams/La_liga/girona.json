@@ -11,10 +11,14 @@
     "aggressive_players": ["Yangel Herrera","Oriol Romeu"],
     "provocative_players": ["Yangel Herrera","Bryan Gil"],
     "unavailable_attacking_players": [],
-    "win_form": ["W","L","L","W","W","L","L"],
-    "corner_form": ["W","L","W","L","W","W","W"],
+    "win_form": ["L","W","L","L","W","W","L"],
+    "corner_form": ["L","W","L","W","L","W","W"],
     "recent_matches": {
         "teams": {
+            "match_four": [
+                "Ath Bilbao",
+                "Girona"
+            ],
             "match_five": [
                 "Girona",
                 "Las Palmas"
@@ -38,13 +42,13 @@
             "match_three": [
                 "Mallorca",
                 "Girona"
-            ],
-            "match_four": [
-                "Girona",
-                "Real Madrid"
             ]
         },
         "goals": {
+            "match_four": [
+                3,
+                0
+            ],
             "match_five": [
                 2,
                 1
@@ -68,13 +72,13 @@
             "match_three": [
                 2,
                 1
-            ],
-            "match_four": [
-                0,
-                3
             ]
         },
         "x_goals": {
+            "match_four": [
+                3.57,
+                0.06
+            ],
             "match_five": [
                 2.04,
                 1.29
@@ -98,13 +102,13 @@
             "match_three": [
                 1.14,
                 0.68
-            ],
-            "match_four": [
-                0.33,
-                0.97
             ]
         },
         "corners": {
+            "match_four": [
+                11,
+                2
+            ],
             "match_five": [
                 11,
                 3
@@ -128,13 +132,13 @@
             "match_three": [
                 2,
                 4
-            ],
-            "match_four": [
-                6,
-                3
             ]
         },
         "fouls": {
+            "match_four": [
+                7,
+                12
+            ],
             "match_five": [
                 12,
                 12
@@ -158,13 +162,13 @@
             "match_three": [
                 10,
                 14
-            ],
-            "match_four": [
-                6,
-                7
             ]
         },
         "HT_cards": {
+            "match_four": [
+                0,
+                0
+            ],
             "match_five": [
                 1,
                 2
@@ -188,13 +192,13 @@
             "match_three": [
                 4,
                 0
-            ],
-            "match_four": [
-                0,
-                1
             ]
         },
         "FT_cards": {
+            "match_four": [
+                0,
+                4
+            ],
             "match_five": [
                 2,
                 2
@@ -217,10 +221,6 @@
             ],
             "match_three": [
                 6,
-                2
-            ],
-            "match_four": [
-                3,
                 2
             ]
         }

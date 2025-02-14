@@ -11,10 +11,14 @@
     "aggressive_players": ["Ruíz Galarreta ","Mikel Jauregizar"],
     "provocative_players": ["Nico Williams","Inaki Williams"],
     "unavailable_attacking_players": [],
-    "win_form": ["D","D","W","W","D","W","W"],
-    "corner_form": ["W","W","W","D","W","D","W"],
+    "win_form": ["W","D","D","W","W","D","W"],
+    "corner_form": ["W","W","W","W","D","W","D"],
     "recent_matches": {
     "teams": {
+        "match_four": [
+            "Ath Bilbao",
+            "Girona"
+        ],
         "match_five": [
                 "Betis",
                 "Ath Bilbao"
@@ -38,13 +42,13 @@
       "match_three": [
           "Ath Bilbao",
           "Villarreal"
-      ],
-      "match_four": [
-          "Ath Bilbao",
-          "Real Madrid"
       ]
   },
   "goals": {
+    "match_four": [
+        3,
+        0
+    ],
     "match_five": [
         2,
         2
@@ -68,13 +72,13 @@
       "match_three": [
           2,
           0
-      ],
-      "match_four": [
-          2,
-          1
       ]
   },
   "x_goals": {
+    "match_four": [
+        3.57,
+        0.06
+    ],
     "match_five": [
                 1.11,
                 1.22
@@ -98,13 +102,13 @@
       "match_three": [
           1.29,
           0.53
-      ],
-      "match_four": [
-          1.74,
-          1.73
       ]
   },
   "corners": {
+    "match_four": [
+        11,
+        2
+    ],
     "match_five": [
                 3,
                 7
@@ -128,13 +132,13 @@
       "match_three": [
           3,
           3
-      ],
-      "match_four": [
-          5,
-          2
       ]
   },
   "fouls": {
+    "match_four": [
+        7,
+        12
+    ],
     "match_five": [
                 10,
                 20
@@ -158,13 +162,13 @@
       "match_three": [
           15,
           10
-      ],
-      "match_four": [
-          21,
-          9
       ]
   },
   "HT_cards": {
+    "match_four": [
+        0,
+        0
+    ],
     "match_five": [
                 0,
                 0
@@ -188,13 +192,13 @@
       "match_three": [
           0,
           1
-      ],
-      "match_four": [
-          0,
-          0
       ]
   },
   "FT_cards": {
+    "match_four": [
+        0,
+        4
+    ],
     "match_five": [
                 3,
                 1
@@ -218,10 +222,6 @@
       "match_three": [
           2,
           1
-      ],
-      "match_four": [
-          3,
-          3
       ]
   }
 }

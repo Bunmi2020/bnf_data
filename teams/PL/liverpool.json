@@ -11,10 +11,18 @@
     "goals_concede_pg": 0.91,
     "aggressive_players": ["Mac Allister"," Luis Diaz", "Gravenberch"],
     "provocative_players": [],
-    "win_form": ["W","W","D","D","W","W","W"],
-    "corner_form": ["L","W","W","L","W","W","L"],
+    "win_form": ["D","W","W","W","D","D","W"],
+    "corner_form": ["D","D","L","W","W","L","W"],
     "recent_matches": {
         "teams": {
+            "match_three": [
+                "Everton",
+                "Liverpool"
+            ],
+            "match_four": [
+                "Bournemouth",
+                "Liverpool"
+            ],
             "match_five": [
                 "Liverpool",
                 "Ipswich"
@@ -34,17 +42,17 @@
             "match_two": [
                 "West Ham",
                 "Liverpool"
-            ],
-            "match_three": [
-                "Liverpool",
-                "Leicester"
-            ],
-            "match_four": [
-                "Tottenham",
-                "Liverpool"
             ]
         },
         "goals": {
+            "match_three": [
+                2,
+                2
+            ],
+            "match_four": [
+                0,
+                2
+            ],
             "match_five": [
                 4,
                 1
@@ -64,17 +72,17 @@
             "match_two": [
                 0,
                 5
-            ],
-            "match_three": [
-                3,
-                1
-            ],
-            "match_four": [
-                3,
-                6
             ]
         },
         "x_goals": {
+            "match_three": [
+                0.98,
+                0.65
+            ],
+            "match_four": [
+                1.0,
+                2.66
+            ],
             "match_five": [
                 1.9,
                 0.43
@@ -94,17 +102,17 @@
             "match_two": [
                 0.32,
                 2.92
-            ],
-            "match_three": [
-                1.83,
-                0.35
-            ],
-            "match_four": [
-                1.25,
-                4.6
             ]
         },
         "corners": {
+            "match_three": [
+                2,
+                3
+            ],
+            "match_four": [
+                3,
+                3
+            ],
             "match_five": [
                 3,
                 4
@@ -124,17 +132,17 @@
             "match_two": [
                 2,
                 6
-            ],
-            "match_three": [
-                14,
-                1
-            ],
-            "match_four": [
-                7,
-                5
             ]
         },
         "fouls": {
+            "match_three": [
+                9,
+                20
+            ],
+            "match_four": [
+                15,
+                9
+            ],
             "match_five": [
                 10,
                 11
@@ -154,17 +162,17 @@
             "match_two": [
                 7,
                 10
-            ],
-            "match_three": [
-                17,
-                5
-            ],
-            "match_four": [
-                7,
-                9
             ]
         },
         "HT_cards": {
+            "match_three": [
+                3,
+                2
+            ],
+            "match_four": [
+                0,
+                0
+            ],
             "match_five": [
                 0,
                 0
@@ -184,17 +192,17 @@
             "match_two": [
                 0,
                 0
-            ],
-            "match_three": [
-                1,
-                1
-            ],
-            "match_four": [
-                0,
-                1
             ]
         },
         "FT_cards": {
+            "match_three": [
+                4,
+                4
+            ],
+            "match_four": [
+                2,
+                3
+            ],
             "match_five": [
                 0,
                 2
@@ -211,15 +219,7 @@
                 2,
                 4
             ],
-            "match_two": [0,0],
-            "match_three": [
-                3,
-                2
-            ],
-            "match_four": [
-                1,
-                2
-            ]
+            "match_two": [0,0]
         }
     }
   }

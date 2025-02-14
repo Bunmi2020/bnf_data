@@ -11,10 +11,14 @@
     "goals_concede_pg": 1.61,
     "aggressive_players": ["Solanke", "Rodrigo Bentancur","Dejan Kulusevski"],
     "provocative_players": ["James Maddison","Destiny Udogie","Solanke"],
-    "win_form": ["L","L","L","L","D","L","L"],
-    "corner_form": ["W","W","L","L","D","W","W"],
+    "win_form": ["W","L","L","L","L","D","L"],
+    "corner_form": ["L","W","W","L","L","D","W"],
     "recent_matches": {
         "teams": {  
+            "match_four": [
+                "Brentford",
+                "Tottenham"
+            ],
             "match_five": [
                 "Tottenham",
                 "Leicester"
@@ -38,13 +42,13 @@
             "match_three": [
                 "Nottingham",
                 "Tottenham"
-            ],
-            "match_four": [
-                "Tottenham",
-                "Liverpool"
             ]
         },
         "goals": {
+            "match_four": [
+                0,
+                2
+            ],
             "match_five": [
                 1,
                 2
@@ -68,13 +72,13 @@
             "match_three": [
                 1,
                 0
-            ],
-            "match_four": [
-                3,
-                6
             ]
         },
         "x_goals": {
+            "match_four": [
+                2.29,
+                0.75
+            ],
             "match_five": [
                 1.1,
                 1.5
@@ -98,13 +102,13 @@
             "match_three": [
                 1.21,
                 1.28
-            ],
-            "match_four": [
-                1.25,
-                4.6
             ]
         },
         "corners": {
+            "match_four": [
+                10,
+                3
+            ],
             "match_five": [
                 6,
                 4
@@ -128,13 +132,13 @@
             "match_three": [
                 2,
                 7
-            ],
-            "match_four": [
-                7,
-                5
             ]
         },
         "fouls": {
+            "match_four": [
+                4,
+                11
+            ],
             "match_five": [
                 6,
                 16
@@ -158,13 +162,13 @@
             "match_three": [
                 12,
                 13
-            ],
-            "match_four": [
-                7,
-                9
             ]
         },
         "HT_cards": {
+            "match_four": [
+                0,
+                0
+            ],
             "match_five": [
                 0,
                 0
@@ -188,13 +192,13 @@
             "match_three": [
                 2,
                 0
-            ],
-            "match_four": [
-                0,
-                1
             ]
         },
         "FT_cards": {
+            "match_four": [
+                0,
+                0
+            ],
             "match_five": [
                 1,
                 5
@@ -218,10 +222,6 @@
             "match_three": [
                 3,
                 5
-            ],
-            "match_four": [
-                1,
-                2
             ]
         }
     }

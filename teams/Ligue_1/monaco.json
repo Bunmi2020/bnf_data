@@ -11,11 +11,15 @@
     "goals_concede_pg": 1.3,
     "aggressive_players": [ "Lamine Camara", "Aleksandr Golovin", "Wilfried Singo", "Magassa"],
     "provocative_players": ["Ben Seghir", "Lamine Camara"],
-    "win_form": ["W","W","L","D","L","D"],
-    "corner_form": ["W","W","W","W","L","W"],
+    "win_form": ["L","W","W","L","D","L","D"],
+    "corner_form": ["D","W","W","W","W","L","W"],
     "unavailable_attacking_players": [],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "PSG",
+                "Monaco"
+            ],
             "match_seven": [
                 "Monaco",
                 "Auxerre"
@@ -42,6 +46,10 @@
             ]
         },
         "goals": {
+            "match_six": [
+                4,
+                1
+            ],
             "match_seven": [
                 4,
                 2
@@ -68,6 +76,10 @@
             ]
         },
         "x_goals": {
+            "match_six": [
+                2.89,
+                1.07
+            ],
             "match_seven": [
                 2.63,
                 1.57
@@ -94,6 +106,10 @@
             ]
         },
         "corners": {
+            "match_six": [
+                1,
+                1
+            ],
             "match_seven": [
                 5,
                 4
@@ -120,6 +136,10 @@
             ]
         },
         "fouls": {
+            "match_six": [
+                9,
+                11
+            ],
             "match_seven": [
                 17,
                 15
@@ -146,6 +166,10 @@
             ]
         },
         "HT_cards": {
+            "match_six": [
+                1,
+                0
+            ],
             "match_seven": [
                 1,
                 1
@@ -172,6 +196,10 @@
             ]
         },
         "FT_cards": {
+            "match_six": [
+                1,
+                0
+            ],
             "match_seven": [
                 2,
                 2

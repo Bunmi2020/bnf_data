@@ -12,11 +12,15 @@
     "goals_concede_pg": 2.3,
     "aggressive_players": [ "Elisha Owusu", "Hamed Traore"],
     "provocative_players": ["Hamed Traore", "Paul Joly"],
-    "win_form": ["L","D","L","D","L","D","D"],
+    "win_form": ["D","L","D","L","D","L","D"],
     "corner_form": ["L","L","L","L","L","L","L"],
     "unavailable_attacking_players": ["Gauthier Hein"],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "Auxerre",
+                "Toulouse"
+            ],
             "match_seven": [
                 "Monaco",
                 "Auxerre"
@@ -40,13 +44,13 @@
             "match_five": [
                 "Auxerre",
                 "Lens"
-            ],
-            "match_six": [
-                "Auxerre",
-                "PSG"
             ]
         },
         "goals": {
+            "match_six": [
+                2,
+                2
+            ],
             "match_seven": [
                 4,
                 2
@@ -70,13 +74,13 @@
             "match_five": [
                 2,
                 2
-            ],
-            "match_six": [
-                0,
-                0
             ]
         },
         "x_goals": {
+            "match_six": [
+                0.68,
+                0.83
+            ],
             "match_seven": [
                 2.63,
                 1.57
@@ -100,13 +104,13 @@
             "match_five": [
                 0.57,
                 1.46
-            ],
-            "match_six": [
-                0.28,
-                1.89
             ]
         },
         "corners": {
+            "match_six": [
+                3,
+                5
+            ],
             "match_seven": [
                 5,
                 4
@@ -130,13 +134,13 @@
             "match_five": [
                 3,
                 5
-            ],
-            "match_six": [
-                3,
-                15
             ]
         },
         "fouls": {
+            "match_six": [
+                11,
+                9
+            ],
             "match_seven": [
                 17,
                 15
@@ -160,13 +164,13 @@
             "match_five": [
                 10,
                 10
-            ],
-            "match_six": [
-                8,
-                7
             ]
         },
         "HT_cards": {
+            "match_six": [
+                0,
+                0
+            ],
             "match_seven": [
                 1,
                 1
@@ -188,15 +192,15 @@
                 1
             ],
             "match_five": [
-                1,
-                0
-            ],
-            "match_six": [
                 0,
                 0
             ]
         },
         "FT_cards": {
+            "match_six": [
+                1,
+                1
+            ],
             "match_seven": [
                 2,
                 2
@@ -219,10 +223,6 @@
             ],
             "match_five": [
                 3,
-                1
-            ],
-            "match_six": [
-                2,
                 1
             ]
         }

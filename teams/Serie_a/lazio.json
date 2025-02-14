@@ -11,10 +11,14 @@
     "aggressive_players": ["Nicolò Rovella","Castellanos"],
     "provocative_players": ["Mattia Zaccagni","Cancellieri","Manuel Lazzari","Nuno Tavares"],
     "unavailable_attacking_players": [],
-    "win_form": ["W","L","W","D","L","D","W"],
-    "corner_form": ["D","W","W","D","W","L","D"],
+    "win_form": ["W","W","L","W","D","L","D"],
+    "corner_form": ["W","D","W","W","D","W","L"],
     "recent_matches": {
       "teams": {
+        "match_four": [
+            "Lazio",
+            "Monza"
+        ],
         "match_five": [
                 "Cagliari",
                 "Lazio"
@@ -38,13 +42,13 @@
           "match_three": [
               "Lazio",
               "Atalanta"
-          ],
-          "match_four": [
-              "Lecce",
-              "Lazio"
           ]
       },
       "goals": {
+        "match_four": [
+            5,
+            1
+        ],
         "match_five": [
                 1,
                 2
@@ -68,13 +72,13 @@
           "match_three": [
               1,
               1
-          ],
-          "match_four": [
-              1,
-              2
           ]
       },
       "x_goals": {
+        "match_four": [
+            2.87,
+            0.90
+        ],
         "match_five": [
                 1.49,
                 1.29
@@ -98,13 +102,13 @@
           "match_three": [
               0.62,
               2.84
-          ],
-          "match_four": [
-              0.63,
-              1.96
           ]
       },
       "corners": {
+        "match_four": [
+            8,
+            1
+        ],
         "match_five": [
                 7,
                 7
@@ -128,13 +132,13 @@
           "match_three": [
               2,
               7
-          ],
-          "match_four": [
-              6,
-              6
           ]
       },
       "fouls": {
+        "match_four": [
+            10,
+            12
+        ],
         "match_five": [
                 14,
                 9
@@ -158,13 +162,13 @@
           "match_three": [
               6,
               11
-          ],
-          "match_four": [
-              13,
-              12
           ]
       },
       "HT_cards": {
+        "match_four": [
+            0,
+            1
+        ],
         "match_five": [
                 0,
                 0
@@ -188,13 +192,13 @@
           "match_three": [
               0,
               1
-          ],
-          "match_four": [
-              1,
-              0
           ]
       },
       "FT_cards": {
+        "match_four": [
+            0,
+            1
+        ],
         "match_five": [
                 0,
                 0
@@ -218,10 +222,6 @@
           "match_three": [
               2,
               3
-          ],
-          "match_four": [
-              4,
-              1
           ]
       }
   }

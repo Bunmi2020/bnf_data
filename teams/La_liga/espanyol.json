@@ -12,10 +12,14 @@
     
     "provocative_players": ["Jofre Carreras", "Alejo Veliz", "Walid Cheddira"],
     "unavailable_attacking_players": [],
-    "win_form": ["W","D","W","D","L","D","D"],
-    "corner_form": ["L","L","L","W","D","L","W"],
+    "win_form": ["L","W","D","W","D","L","D"],
+    "corner_form": ["L","L","L","L","W","D","L"],
     "recent_matches": {
         "teams": {
+            "match_four": [
+                "Real Sociedad",
+                "Espanyol"
+            ],
             "match_five": [
                 "Espanyol",
                 "Real Madrid"
@@ -39,13 +43,13 @@
             "match_three": [
                 "Espanyol",
                 "Valencia"
-            ],
-            "match_four": [
-                "Espanyol",
-                "Osasuna"
             ]
         },
         "goals": {
+            "match_four": [
+                2,
+                1
+            ],
             "match_five": [
                 1,
                 0
@@ -69,13 +73,13 @@
             "match_three": [
                 1,
                 1
-            ],
-            "match_four": [
-                0,
-                0
             ]
         },
         "x_goals": {
+            "match_four": [
+                1.49,
+                0.87
+            ],
             "match_five": [
                 0.31,
                 1.78
@@ -99,13 +103,13 @@
             "match_three": [
                 1.88,
                 2.08
-            ],
-            "match_four": [
-                0.41,
-                0.26
             ]
         },
         "corners": {
+            "match_four": [
+                6,
+                0
+            ],
             "match_five": [
                 1,
                 8
@@ -129,13 +133,13 @@
             "match_three": [
                 4,
                 7
-            ],
-            "match_four": [
-                5,
-                4
             ]
         },
         "fouls": {
+            "match_four": [
+                11,
+                17
+            ],
             "match_five": [
                 14,
                 3
@@ -159,13 +163,13 @@
             "match_three": [
                 13,
                 11
-            ],
-            "match_four": [
-                13,
-                13
             ]
         },
         "HT_cards": {
+            "match_four": [
+                0,
+                1
+            ],
             "match_five": [
                 0,
                 0
@@ -189,13 +193,13 @@
             "match_three": [
                 0,
                 0
-            ],
-            "match_four": [
-                1,
-                1
             ]
         },
         "FT_cards": {
+            "match_four": [
+                1,
+                2
+            ],
             "match_five": [
                 2,
                 0
@@ -219,10 +223,6 @@
             "match_three": [
                 1,
                 0
-            ],
-            "match_four": [
-                3,
-                1
             ]
         }
     }

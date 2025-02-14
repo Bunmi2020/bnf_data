@@ -11,12 +11,16 @@
     "goals_concede_pg": 1.5,
     "aggressive_players": ["Lorenz Assigno", "Chris wooh", "Jordan James", "Azor Matusiwa"],
     "provocative_players": ["Alidu Seidu", "Ludovic Blas", "Kalimuendo"],
-    "win_form": ["W","L","L","L","L","W","L"],
-    "corner_form": ["W","L","D","L","D","W","L"],
+    "win_form": ["W","W","L","L","L","L","W"],
+    "corner_form": ["W","W","L","D","L","D","W"],
     "unavailable_attacking_players": [],
   
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "St Etienne",
+                "Rennes"
+            ],
             "match_seven": [
                 "Rennes",
                 "Strasbourg"
@@ -40,13 +44,13 @@
             "match_five": [
                 "Rennes",
                 "Angers"
-            ],
-            "match_six": [
-                "Nantes",
-                "Rennes"
             ]
         },
         "goals": {
+            "match_six": [
+                0,
+                2
+            ],
             "match_seven": [
                 1,
                 0
@@ -70,13 +74,13 @@
             "match_five": [
                 2,
                 0
-            ],
-            "match_six": [
-                1,
-                0
             ]
         },
         "x_goals": {
+            "match_six": [
+                0.48,
+                3.75
+            ],
             "match_seven": [
                 0.93,
                 1.19
@@ -100,13 +104,13 @@
             "match_five": [
                 0.61,
                 0.36
-            ],
-            "match_six": [
-                1.31,
-                0.27
             ]
         },
         "corners": {
+            "match_six": [
+                2,
+                4
+            ],
             "match_seven": [
                 6,
                 2
@@ -130,13 +134,13 @@
             "match_five": [
                 2,
                 1
-            ],
-            "match_six": [
-                5,
-                4
             ]
         },
         "fouls": {
+            "match_six": [
+                13,
+                6
+            ],
             "match_seven": [
                 14,
                 10
@@ -160,13 +164,13 @@
             "match_five": [
                 18,
                 12
-            ],
-            "match_six": [
-                15,
-                9
             ]
         },
         "HT_cards": {
+            "match_six": [
+                0,
+                3
+            ],
             "match_seven": [
                 1,
                 0
@@ -190,13 +194,13 @@
             "match_five": [
                 1,
                 0
-            ],
-            "match_six": [
-                0,
-                1
             ]
         },
         "FT_cards": {
+            "match_six": [
+                1,
+                5
+            ],
             "match_seven": [
                 3,
                 3
@@ -220,10 +224,6 @@
             "match_five": [
                 3,
                 1
-            ],
-            "match_six": [
-                1,
-                2
             ]
         }
     }

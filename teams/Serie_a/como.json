@@ -11,10 +11,14 @@
     "aggressive_players": ["Alieu Fadera","Gabriel Strefezza","Nico Paz"],
     "provocative_players": ["Alieu Fadera","Gabriel Strefezza"],
     "unavailable_attacking_players": [],
-    "win_form": ["L","L","W","L","D","W","L"],
-    "corner_form": ["L","W","W","L","D","D","L"],
+    "win_form": ["L","L","L","W","L","D","W"],
+    "corner_form": ["W","L","W","W","L","D","D"],
     "recent_matches": {
         "teams": {
+            "match_three": [
+                "Como",
+                "Juventus"
+            ],
             "match_four": [
                 "Bologna",
                 "Como"
@@ -38,13 +42,13 @@
             "match_two": [
                 "Como",
                 "Lecce"
-            ],
-            "match_three": [
-                "Inter",
-                "Como"
             ]
         },
         "goals": {
+            "match_three": [
+                1,
+                2
+            ],
             "match_four": [
                 2,
                 0
@@ -68,13 +72,13 @@
             "match_two": [
                 2,
                 0
-            ],
-            "match_three": [
-                2,
-                0
             ]
         },
         "x_goals": {
+            "match_three": [
+                0.88,
+                1.14
+            ],
             "match_four": [
                 1.4,
                 0.54
@@ -98,13 +102,13 @@
             "match_two": [
                 1.92,
                 0.44
-            ],
-            "match_three": [
-                1.46,
-                0.37
             ]
         },
         "corners": {
+            "match_three": [
+                9,
+                1
+            ],
             "match_four": [
                 4,
                 2
@@ -128,13 +132,13 @@
             "match_two": [
                 4,
                 4
-            ],
-            "match_three": [
-                7,
-                1
             ]
         },
         "fouls": {
+            "match_three": [
+                15,
+                15
+            ],
             "match_four": [
                 16,
                 18
@@ -158,13 +162,13 @@
             "match_two": [
                 12,
                 15
-            ],
-            "match_three": [
-                13,
-                15
             ]
         },
         "HT_cards": {
+            "match_three": [
+                1,
+                1
+            ],
             "match_four": [
                 1,
                 4
@@ -188,13 +192,13 @@
             "match_two": [
                 1,
                 0
-            ],
-            "match_three": [
-                1,
-                0
             ]
         },
         "FT_cards": {
+            "match_three": [
+                3,
+                1
+            ],
             "match_four": [
                 3,
                 5
@@ -217,10 +221,6 @@
             ],
             "match_two": [
                 3,
-                2
-            ],
-            "match_three": [
-                2,
                 2
             ]
         }

@@ -11,11 +11,15 @@
     "goals_concede_pg": 1.5,
     "aggressive_players": [ "Lepenant", "Duverne", "Douglas Augusto"],
     "provocative_players": ["Moses Simon", "Douglas Augusto", "Mathis Abline"],
-    "win_form": ["W","D","D","D","D","L","W"],
-    "corner_form": ["L","L","D","L","L","W","W"],
+    "win_form": ["L","W","D","D","D","D","L"],
+    "corner_form": ["W","L","L","D","L","L","W"],
     "unavailable_attacking_players": [],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "Nantes",
+                "Brest"
+            ],
             "match_seven": [
                 "Reims",
                 "Nantes"
@@ -39,13 +43,13 @@
             "match_five": [
                 "Brest",
                 "Nantes"
-            ],
-            "match_six": [
-                "Nantes",
-                "Rennes"
             ]
         },
         "goals": {
+            "match_six": [
+                0,
+                2
+            ],
             "match_seven": [
                 1,
                 2
@@ -69,13 +73,13 @@
             "match_five": [
                 4,
                 1
-            ],
-            "match_six": [
-                1,
-                0
             ]
         },
         "x_goals": {
+            "match_six": [
+                1.06,
+                2.50
+            ],
             "match_seven": [
                 0.91,
                 1.93
@@ -99,13 +103,13 @@
             "match_five": [
                 1.83,
                 1.12
-            ],
-            "match_six": [
-                1.31,
-                0.27
             ]
         },
         "corners": {
+            "match_six": [
+                12,
+                4
+            ],
             "match_seven": [
                 9,
                 3
@@ -129,13 +133,13 @@
             "match_five": [
                 0,
                 5
-            ],
-            "match_six": [
-                5,
-                4
             ]
         },
         "fouls": {
+            "match_six": [
+                15,
+                13
+            ],
             "match_seven": [
                 14,
                 10
@@ -159,13 +163,13 @@
             "match_five": [
                 10,
                 14
-            ],
-            "match_six": [
-                15,
-                9
             ]
         },
         "HT_cards": {
+            "match_six": [
+                0,
+                1
+            ],
             "match_seven": [
                 0,
                 0
@@ -189,13 +193,13 @@
             "match_five": [
                 1,
                 0
-            ],
-            "match_six": [
-                0,
-                1
             ]
         },
         "FT_cards": {
+            "match_six": [
+                3,
+                2
+            ],
             "match_seven": [
                 4,
                 3
@@ -219,10 +223,6 @@
             "match_five": [
                 3,
                 3
-            ],
-            "match_six": [
-                1,
-                2
             ]
         }
     }

@@ -11,10 +11,15 @@
     "aggressive_players": ["Samu Costa", "Antonio Raillo"],
     "provocative_players": ["Samú Costa","Pablo Maffeo"],
     "unavailable_attacking_players": [],
-    "win_form": ["L","L","L","W","W","L","L"],
-    "corner_form": ["L","D","L","L","L","D","L"],
+    "win_form": ["D","L","L","L","W","W","L"],
+    "corner_form": ["L","L","D","L","L","L","D"],
    "recent_matches": {
         "teams": {
+            
+            "match_four": [
+                "Mallorca",
+                "Osasuna"
+            ],
             "match_five": [
                 "Atl. Madrid",
                 "Mallorca"
@@ -38,13 +43,13 @@
             "match_three": [
                 "Celta Vigo",
                 "Mallorca"
-            ],
-            "match_four": [
-                "Mallorca",
-                "Barcelona"
             ]
         },
         "goals": {
+            "match_four": [
+                1,
+                1
+            ],
             "match_five": [
                 2,
                 0
@@ -68,13 +73,13 @@
             "match_three": [
                 2,
                 0
-            ],
-            "match_four": [
-                1,
-                5
             ]
         },
         "x_goals": {
+            "match_four": [
+                1.24,
+                1.53
+            ],
             "match_five": [
                 1.37,
                 0.54
@@ -98,13 +103,13 @@
             "match_three": [
                 0.81,
                 0.84
-            ],
-            "match_four": [
-                0.92,
-                4.93
             ]
         },
         "corners": {
+            "match_four": [
+                7,
+                11
+            ],
             "match_five": [
                 10,
                 4
@@ -128,13 +133,13 @@
             "match_three": [
                 3,
                 3
-            ],
-            "match_four": [
-                2,
-                5
             ]
         },
         "fouls": {
+            "match_four": [
+                7,
+                11
+            ],
             "match_five": [
                 9,
                 14
@@ -158,13 +163,13 @@
             "match_three": [
                 9,
                 12
-            ],
-            "match_four": [
-                13,
-                13
             ]
         },
         "HT_cards": {
+            "match_four": [
+                0,
+                1
+            ],
             "match_five": [
                 0,
                 0
@@ -188,10 +193,6 @@
             "match_three": [
                 1,
                 0
-            ],
-            "match_four": [
-                1,
-                2
             ]
         },
         "FT_cards": {
@@ -218,10 +219,6 @@
             "match_three": [
                 1,
                 1
-            ],
-            "match_four": [
-                4,
-                3
             ]
         }
     }

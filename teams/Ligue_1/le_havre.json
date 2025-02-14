@@ -11,11 +11,15 @@
     "goals_concede_pg": 1.95,
     "aggressive_players": [ "Arouna Sangante"],
     "provocative_players": ["Andre Ayew", "Abdoulaye Toure", "Issa Soumare", "Josue Casimir"],
-    "win_form": ["D","L","D","L","L","L","L"],
-    "corner_form": ["W","W","W","W","L","W","D"],
+    "win_form": ["W","D","L","D","L","L","L"],
+    "corner_form": ["W","W","W","W","W","L","W"],
     "unavailable_attacking_players": [""],
     "recent_matches": {
         "teams": {
+            "match_six": [
+                "Lille",
+                "Le Havre"
+            ],
             "match_seven": [
                 "Angers",
                 "Le Havre"
@@ -39,13 +43,13 @@
             "match_five": [
                 "Le Havre",
                 "Strasbourg"
-            ],
-            "match_six": [
-                "Nice",
-                "Le Havre"
             ]
         },
         "goals": {
+            "match_six": [
+                1,
+                2
+            ],
             "match_seven": [
                 1,
                 1
@@ -69,13 +73,13 @@
             "match_five": [
                 0,
                 3
-            ],
-            "match_six": [
-                2,
-                1
             ]
         },
         "x_goals": {
+            "match_six": [
+                1.51,
+                2.03
+            ],
             "match_seven": [
                 1.54,
                 2.07
@@ -99,13 +103,13 @@
             "match_five": [
                 0.93,
                 0.92
-            ],
-            "match_six": [
-                2.0,
-                1.02
             ]
         },
         "corners": {
+            "match_six": [
+                8,
+                10
+            ],
             "match_seven": [
                 4,
                 2
@@ -129,13 +133,13 @@
             "match_five": [
                 3,
                 2
-            ],
-            "match_six": [
-                5,
-                8
             ]
         },
         "fouls": {
+            "match_six": [
+                16,
+                8
+            ],
             "match_seven": [
                 8,
                 19
@@ -159,13 +163,13 @@
             "match_five": [
                 11,
                 7
-            ],
-            "match_six": [
-                10,
-                10
             ]
         },
         "HT_cards": {
+            "match_six": [
+                0,
+                0
+            ],
             "match_seven": [
                 2,
                 3
@@ -189,13 +193,13 @@
             "match_five": [
                 0,
                 0
-            ],
-            "match_six": [
-                0,
-                0
             ]
         },
         "FT_cards": {
+            "match_six": [
+                2,
+                1
+            ],
             "match_seven": [
                 3,
                 5
@@ -219,10 +223,6 @@
             "match_five": [
                 0,
                 1
-            ],
-            "match_six": [
-                3,
-                2
             ]
         }
     }

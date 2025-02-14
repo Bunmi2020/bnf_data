@@ -11,10 +11,14 @@
     "aggressive_players": [ ],
     "provocative_players": ["Pape Gueye", "Ilias Akhomach", "Ayoze Perez", "Thierno Barry", "alex Barry"],
     "unavailable_attacking_players": [],
-    "win_form": ["W","D","W","L","W","D","L"],
-    "corner_form": ["L","W","W","W","W","D","W"],
+    "win_form": ["W","W","D","W","L","W","D"],
+    "corner_form": ["L","L","W","W","W","W","D"],
     "recent_matches": {
         "teams": {
+            "match_four": [
+                "Las Palmas",
+                "Villarreal"
+            ],
             "match_five": [
                 "Villarreal",
                 "Valladolid"
@@ -38,13 +42,13 @@
             "match_three": [
                 "Villarreal",
                 "Rayo Vallecano"
-            ],
-            "match_four": [
-                "Villarreal",
-                "Betis"
             ]
         },
         "goals": {
+            "match_four": [
+                1,
+                2
+            ],
             "match_five": [
                 5,
                 1
@@ -68,13 +72,13 @@
             "match_three": [
                 1,
                 1
-            ],
-            "match_four": [
-                1,
-                2
             ]
         },
         "x_goals": {
+            "match_four": [
+                1.60,
+                1.01
+            ],
             "match_five": [
                 3.32,
                 0.49
@@ -98,13 +102,13 @@
             "match_three": [
                 1.17,
                 1.34
-            ],
-            "match_four": [
-                2.01,
-                0.6
             ]
         },
         "corners": {
+            "match_four": [
+                6,
+                5
+            ],
             "match_five": [
                 3,
                 6
@@ -128,13 +132,13 @@
             "match_three": [
                 7,
                 7
-            ],
-            "match_four": [
-                5,
-                5
             ]
         },
         "fouls": {
+            "match_four": [
+                12,
+                12
+            ],
             "match_five": [
                 9,
                 14
@@ -158,13 +162,13 @@
             "match_three": [
                 10,
                 15
-            ],
-            "match_four": [
-                19,
-                10
             ]
         },
         "HT_cards": {
+            "match_four": [
+                2,
+                2
+            ],
             "match_five": [
                 1,
                 1
@@ -188,13 +192,13 @@
             "match_three": [
                 2,
                 1
-            ],
-            "match_four": [
-                2,
-                3
             ]
         },
         "FT_cards": {
+            "match_four": [
+                6,
+                3
+            ],
             "match_five": [
                 1,
                 2
@@ -218,10 +222,6 @@
             "match_three": [
                 5,
                 3
-            ],
-            "match_four": [
-                5,
-                5
             ]
         }
     }

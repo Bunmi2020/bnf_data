@@ -11,10 +11,14 @@
     "goals_concede_pg": 1.91,
     "aggressive_players": ["Liam Delap", "Sam Morsy", "Kalvin Philips"],
     "provocative_players": ["Liam Delap"],
-    "win_form": ["L","L","L","D","W","L","L"],
-    "corner_form": ["W","L","L","L","W","L","W"],
+    "win_form": ["L","L","L","L","D","W","L"],
+    "corner_form": ["L","W","L","L","L","W","L"],
     "recent_matches": {
         "teams": {
+            "match_four": [
+                "Ipswich",
+                "Southampton"
+            ],
             "match_five": [
                 "Liverpool",
                 "Ipswich"
@@ -38,13 +42,13 @@
             "match_three": [
                 "Arsenal",
                 "Ipswich"
-            ],
-            "match_four": [
-                "Ipswich",
-                "Newcastle"
             ]
         },
         "goals": {
+            "match_four": [
+                1,
+                2
+            ],
             "match_five": [
                 4,
                 1
@@ -68,13 +72,13 @@
             "match_three": [
                 1,
                 0
-            ],
-            "match_four": [
-                0,
-                4
             ]
         },
         "x_goals": {
+            "match_four": [
+                1.55,
+                1.01
+            ],
             "match_five": [
                 1.9,
                 0.43
@@ -98,13 +102,13 @@
             "match_three": [
                 1.94,
                 0.16
-            ],
-            "match_four": [
-                0.7,
-                2.31
             ]
         },
         "corners": {
+            "match_four": [
+                1,
+                2
+            ],
             "match_five": [
                 3,
                 4
@@ -128,13 +132,13 @@
             "match_three": [
                 5,
                 1
-            ],
-            "match_four": [
-                2,
-                1
             ]
         },
         "fouls": {
+            "match_four": [
+                11,
+                14
+            ],
             "match_five": [
                 10,
                 11
@@ -158,13 +162,13 @@
             "match_three": [
                 7,
                 12
-            ],
-            "match_four": [
-                9,
-                7
             ]
         },
         "HT_cards": {
+            "match_four": [
+                0,
+                1
+            ],
             "match_five": [
                 0,
                 0
@@ -188,13 +192,13 @@
             "match_three": [
                 0,
                 0
-            ],
-            "match_four": [
-                0,
-                0
             ]
         },
         "FT_cards": {
+            "match_four": [
+                0,
+                3
+            ],
             "match_five": [
                 0,
                 2
@@ -218,10 +222,6 @@
             "match_three": [
                 1,
                 1
-            ],
-            "match_four": [
-                2,
-                0
             ]
         }
     }

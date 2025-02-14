@@ -11,10 +11,14 @@
     "goals_concede_pg": 1.91,
     "aggressive_players": ["Gibbs-White","Ryan Yates"],
     "provocative_players": ["Ryan Yates"],
-    "win_form": ["L","W","D","W","W","W","W"],
-    "corner_form": ["W","L","L","L","L","L","L"],
+    "win_form": ["W","L","W","D","W","W","W"],
+    "corner_form": ["L","W","L","L","L","L","L"],
     "recent_matches": {
         "teams": {
+            "match_four": [
+                "Nottingham",
+                "Brighton"
+            ],
             "match_five": [
                 "Bournemouth",
                 "Nottingham"
@@ -38,13 +42,13 @@
             "match_three": [
                 "Nottingham",
                 "Tottenham"
-            ],
-            "match_four": [
-                "Brentford",
-                "Nottingham"
             ]
         },
         "goals": {
+            "match_four": [
+                7,
+                0
+            ],
             "match_five": [
                 5,
                 0
@@ -68,13 +72,13 @@
             "match_three": [
                 1,
                 0
-            ],
-            "match_four": [
-                0,
-                2
             ]
         },
         "x_goals": {
+            "match_four": [
+                3.23,
+                0.8
+            ],
             "match_five": [
                 1.78,
                 0.89
@@ -98,13 +102,13 @@
             "match_three": [
                 1.21,
                 1.28
-            ],
-            "match_four": [
-                0.8,
-                0.84
             ]
         },
         "corners": {
+            "match_four": [
+                4,
+                6
+            ],
             "match_five": [
                 3,
                 9
@@ -128,13 +132,13 @@
             "match_three": [
                 2,
                 7
-            ],
-            "match_four": [
-                9,
-                5
             ]
         },
         "fouls": {
+            "match_four": [
+                8,
+                13
+            ],
             "match_five": [
                 9,
                 12
@@ -158,13 +162,13 @@
             "match_three": [
                 12,
                 13
-            ],
-            "match_four": [
-                9,
-                14
             ]
         },
         "HT_cards": {
+            "match_four": [
+                1,
+                2
+            ],
             "match_five": [
                 1,
                 0
@@ -188,13 +192,13 @@
             "match_three": [
                 2,
                 0
-            ],
-            "match_four": [
-                1,
-                1
             ]
         },
         "FT_cards": {
+            "match_four": [
+                1,
+                3
+            ],
             "match_five": [
                 2,
                 3
@@ -218,10 +222,6 @@
             "match_three": [
                 3,
                 5
-            ],
-            "match_four": [
-                3,
-                4
             ]
         }
     }
