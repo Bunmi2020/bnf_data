@@ -10,10 +10,14 @@
     "goals_concede_pg": 2.26,
     "aggressive_players": ["Bernardo","Matús Bero","Keven Schlotterbeck"],
     "provocative_players": ["Kevin Stöger"],
-    "win_form": ["D","L","L","D","W","L","W"],
-    "corner_form": ["W","W","L","W","L","W","W"],
+    "win_form": ["W","D","L","L","D","W","L"],
+    "corner_form": ["L","W","W","L","W","L","W"],
     "recent_matches": {
         "teams": {
+            "match_two": [
+                "Bochum",
+                "Dortmund"
+            ],
             "match_three": [
                 "Holstein Kiel",
                 "Bochum"
@@ -37,13 +41,13 @@
             "match_one": [
                 "Mainz",
                 "Bochum"
-            ],
-            "match_two": [
-                "Bochum",
-                "Heidenheim"
             ]
         },
         "goals": {
+            "match_two": [
+                2,
+                0
+            ],
             "match_three": [
                 2,
                 2
@@ -67,13 +71,13 @@
             "match_one": [
                 2,
                 0
-            ],
-            "match_two": [
-                2,
-                0
             ]
         },
         "x_goals": {
+            "match_two": [
+                3.00,
+                2.47
+            ],
             "match_three": [
                 1.87,
                 2.12
@@ -97,13 +101,13 @@
             "match_one": [
                 1.6,
                 0.56
-            ],
-            "match_two": [
-                1.41,
-                0.51
             ]
         },
         "corners": {
+            "match_two": [
+                2,
+                8
+            ],
             "match_three": [
                 3,
                 5
@@ -127,13 +131,13 @@
             "match_one": [
                 5,
                 6
-            ],
-            "match_two": [
-                5,
-                2
             ]
         },
         "fouls": {
+            "match_two": [
+                12,
+                4
+            ],
             "match_three": [
                 11,
                 17
@@ -157,13 +161,13 @@
             "match_one": [
                 6,
                 16
-            ],
-            "match_two": [
-                18,
-                15
             ]
         },
         "HT_cards": {
+            "match_two": [
+                0,
+                0
+            ],
             "match_three": [
                 0,
                 0
@@ -187,13 +191,13 @@
             "match_one": [
                 0,
                 2
-            ],
-            "match_two": [
-                1,
-                2
             ]
         },
         "FT_cards": {
+            "match_two": [
+                1,
+                0
+            ],
             "match_three": [
                 2,
                 2
@@ -217,10 +221,6 @@
             "match_one": [
                 0,
                 2
-            ],
-            "match_two": [
-                2,
-                7
             ]
         }
     }

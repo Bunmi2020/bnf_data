@@ -1,0 +1,4799 @@
+[
+    {
+        "fixture": "Freiburg vs Werder Bremen",
+        "league": "🇩🇪 Bundesliga",
+        "day": "friday",
+        "position": [5,10],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Max B.",
+          "fouls_per_tackle": 0.88,
+          "yellow_per_game": 4.66
+        },
+        "head_to_head": {
+          "win_form": [["W","L","W","W","W"],["L","W","L","L","L"]],
+          "corner_form": [["L","D","D","L","W"],["W","D","D","W","L"]],
+          "teams": {
+            "match_five": ["Werder Bremen","Freiburg"],
+            "match_one": ["Werder Bremen", "Freiburg"],
+            "match_two": ["Freiburg", "Werder Bremen"],
+            "match_three": ["Werder Bremen", "Freiburg"],
+            "match_four": ["Freiburg", "Werder Bremen"]
+          },
+          "goals": {
+            
+            "match_five": [0,1],
+            "match_one": [3,1],
+            "match_two": [1,0],
+            "match_three": [1,2],
+            "match_four": [2,0]
+          },
+          "x_goals": {
+            "match_five": [0.84,1.12],
+            "match_one": [2.40,1.28],
+            "match_two": [2.62,1.16],
+            "match_three": [1.98,0.67],
+            "match_four": [ ]
+          },
+          "corners": {
+            "match_five": [7,5],
+            "match_one": [5,5],
+            "match_two": [5,5],
+            "match_three": [5,2],
+            "match_four": [6,2]
+          },
+          "fouls": {
+            "match_five": [7,9],
+            "match_one": [14,10],
+            "match_two": [9,8],
+            "match_three": [13,12],
+            "match_four": [14,12]
+          },
+          "HT_cards": {
+            "match_five": [0,1],
+            "match_one": [0,1],
+            "match_two": [2,1],
+            "match_three": [1,3],
+            "match_four": [1,1]
+          },
+          "FT_cards": {
+            "match_five": [1,2],
+            "match_one": [2,1],
+            "match_two": [2,2],
+            "match_three": [2,3],
+            "match_four": [2,3]
+          }
+        },
+        "home_team": {
+          "name": "Freiburg",
+          "coach": "Julian Schuster ",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/freiburg.png",
+          "playing_style": "Long balls",
+          "pressing_style": " ",
+          "attacking_style": "High shot volume, Attack through the middle,Take long shots",
+          "defensive_style": "Non-aggressive",
+          "goal_scored_pg": 1.36,
+          "goals_concede_pg": 1.9,
+          "aggressive_players": ["Roland Sallai","Merlin Röhl"],
+          "provocative_players": ["Roland Sallai","Lucas Höler"],
+          "unavailable_attacking_players": ["Michele Di Gregorio"],
+          "win_form": ["W","W","W","L","L","L","W","L"],
+          "corner_form": ["W","W","L","L","L","L","W"],
+          "recent_matches": {
+              "teams": {
+                  "match_two": [
+                      "St. Pauli",
+                      "Freiburg"
+                  ],
+                  "match_three": [
+                      "Freiburg",
+                      "Heidenheim"
+                  ],
+                  "match_four": [
+                      "Bochum",
+                      "Freiburg"
+                  ],
+                  "match_five": [
+                      "Freiburg",
+                      "Bayern Munich"
+                  ],
+                  "match_six": [
+                      "Stuttgart",
+                      "Freiburg"
+                  ],
+                  "match_seven": [
+                      "E. Frankfurt",
+                      "Freiburg"
+                  ],
+                  "match_one": [
+                      "Freiburg",
+                      "Holstein Kiel"
+                  ]
+              },
+              "goals": {
+                  "match_two": [
+                      0,
+                      1
+                  ],
+                  "match_three": [
+                      1,
+                      0
+                  ],
+                  "match_four": [
+                      0,
+                      1
+                  ],
+                  "match_five": [
+                      1,
+                      2
+                  ],
+                  "match_six": [
+                      4,
+                      0
+                  ],
+                  "match_seven": [
+                      4,
+                      1
+                  ],
+                  "match_one": [
+                      3,
+                      2
+                  ]
+              },
+              "x_goals": {
+                  "match_two": [
+                      0.15,
+                      1.21
+                  ],
+                  "match_three": [
+                      0.94,
+                      0.52
+                  ],
+                  "match_four": [
+                      0.94,
+                      2.0
+                  ],
+                  "match_five": [
+                      0.35,
+                      0.54
+                  ],
+                  "match_six": [
+                      2.08,
+                      0.32
+                  ],
+                  "match_seven": [
+                      2.09,
+                      0.49
+                  ],
+                  "match_one": [
+                      0.63,
+                      1.84
+                  ]
+              },
+              "corners": {
+                  "match_two": [
+                      2,
+                      6
+                  ],
+                  "match_three": [
+                      6,
+                      3
+                  ],
+                  "match_four": [
+                      9,
+                      7
+                  ],
+                  "match_five": [
+                      2,
+                      4
+                  ],
+                  "match_six": [
+                      4,
+                      1
+                  ],
+                  "match_seven": [
+                      8,
+                      1
+                  ],
+                  "match_one": [
+                      7,
+                      1
+                  ]
+              },
+              "fouls": {
+                  "match_two": [
+                      10,
+                      10
+                  ],
+                  "match_three": [
+                      11,
+                      8
+                  ],
+                  "match_four": [
+                      15,
+                      10
+                  ],
+                  "match_five": [
+                      15,
+                      9
+                  ],
+                  "match_six": [
+                      8,
+                      12
+                  ],
+                  "match_seven": [
+                      8,
+                      11
+                  ],
+                  "match_one": [
+                      9,
+                      12
+                  ]
+              },
+              "HT_cards": {
+                  "match_two": [
+                      0,
+                      0
+                  ],
+                  "match_three": [
+                      1,
+                      1
+                  ],
+                  "match_four": [
+                      1,
+                      0
+                  ],
+                  "match_five": [
+                      0,
+                      0
+                  ],
+                  "match_six": [
+                      2,
+                      2
+                  ],
+                  "match_seven": [
+                      0,
+                      1
+                  ],
+                  "match_one": [
+                      0,
+                      2
+                  ]
+              },
+              "FT_cards": {
+                  "match_two": [
+                      1,
+                      0
+                  ],
+                  "match_three": [
+                      3,
+                      1
+                  ],
+                  "match_four": [
+                      3,
+                      2
+                  ],
+                  "match_five": [
+                      4,
+                      2
+                  ],
+                  "match_six": [
+                      5,
+                      3
+                  ],
+                  "match_seven": [
+                      1,
+                      1
+                  ],
+                  "match_one": [
+                      2,
+                      3
+                  ]
+              }
+          }
+      
+      
+      },
+        "away_team": {
+          "name": "Werder Bremen",
+          "coach": "Ole Werner",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/bremen.png",
+           "playing_style": "Opponents play aggressively against them",
+           "pressing_style": " ",
+           "attacking_style": "Attacking down the right",
+           "defensive_style": "Non-aggressive, Deep positioning",
+           "goal_scored_pg": 1.74,
+          "goals_concede_pg": 1.9,
+           "aggressive_players": ["Jens Stage","Marco Friedl"],
+           "provocative_players": ["Felix Agu","Romano Schmid"],
+           "win_form": ["L","L","W","D","L","D","L"],
+          "corner_form": ["W","L","L","D","W","W","L"],
+           "recent_matches": {
+              "teams": {
+                  "match_two": [
+                      "Werder Bremen",
+                      "Hoffenheim"
+                  ],
+                  "match_three": [
+                      "Bayern Munich",
+                      "Werder Bremen"
+                  ],
+                  "match_four": [
+                      "Werder Bremen",
+                      "Mainz"
+                  ],
+                  "match_five": [
+                      "Dortmund",
+                      "Werder Bremen"
+                  ],
+                  "match_six": [
+                      "Werder Bremen",
+                      "Augsburg"
+                  ],
+                  "match_seven": [
+                      "Werder Bremen",
+                      "Heidenheim"
+                  ],
+                  "match_one": [
+                      "RB Leipzig",
+                      "Werder Bremen"
+                  ]
+              },
+              "goals": {
+                  "match_two": [
+                      1,
+                      3
+                  ],
+                  "match_three": [
+                      3,
+                      0
+                  ],
+                  "match_four": [
+                      1,
+                      0
+                  ],
+                  "match_five": [
+                      2,
+                      2
+                  ],
+                  "match_six": [
+                      0,
+                      2
+                  ],
+                  "match_seven": [
+                      3,
+                      3
+                  ],
+                  "match_one": [
+                      4,
+                      2
+                  ]
+              },
+              "x_goals": {
+                  "match_two": [
+                      1.14,
+                      1.40
+                  ],
+                  "match_three": [
+                      4.12,
+                      0.13
+                  ],
+                  "match_four": [
+                      2.68,
+                      1.24
+                  ],
+                  "match_five": [
+                      1.4,
+                      1.36
+                  ],
+                  "match_six": [
+                      1.35,
+                      0.83
+                  ],
+                  "match_seven": [
+                      1.59,
+                      0.67
+                  ],
+                  "match_one": [
+                      1.63,
+                      1.31
+                  ]
+              },
+              "corners": {
+                  "match_two": [
+                      6,
+                      4
+                  ],
+                  "match_three": [
+                      5,
+                      2
+                  ],
+                  "match_four": [
+                      3,
+                      8
+                  ],
+                  "match_five": [
+                      5,
+                      5
+                  ],
+                  "match_six": [
+                      6,
+                      2
+                  ],
+                  "match_seven": [
+                      4,
+                      2
+                  ],
+                  "match_one": [
+                      4,
+                      1
+                  ]
+              },
+              "fouls": { 
+                  "match_two": [
+                      14,
+                      12
+                  ],
+                  "match_three": [
+                  9,
+                  8
+              ],
+                  "match_four": [
+                      14,
+                      13
+                  ],
+                  "match_five": [
+                      11,
+                      15
+                  ],
+                  "match_six": [
+                      8,
+                      14
+                  ],
+                  "match_seven": [
+                      10,
+                      15
+                  ],
+                  "match_one": [
+                      7,
+                      12
+                  ]
+              },
+              "HT_cards": {
+                  "match_two": [
+                      1,
+                      0
+                  ],
+                  "match_three": [
+                      0,
+                      0
+                  ],
+                  "match_four": [
+                      2,
+                      2
+                  ],
+                  "match_five": [
+                      2,
+                      0
+                  ],
+                  "match_six": [
+                      0,
+                      0
+                  ],
+                  "match_seven": [
+                      0,
+                      1
+                  ],
+                  "match_one": [
+                      0,
+                      1
+                  ]
+              },
+              "FT_cards": {
+                  "match_two": [
+                      2,
+                      3
+                  ],
+                  "match_three": [
+                      0,
+                      0
+                  ],
+                  "match_four": [
+                      10,
+                      3
+                  ],
+                  "match_five": [
+                      2,
+                      4
+                  ],
+                  "match_six": [
+                      0,
+                      0
+                  ],
+                  "match_seven": [
+                      6,
+                      3
+                  ],
+                  "match_one": [
+                      1,
+                      1
+                  ]
+              }
+          }
+         
+      
+      },
+        "prediction": {
+            "cards": {
+                "discuss": "",
+                "ht": "Over 1.5 HT cards/bookings \n-\n- The home and away team half-time card averages exceed 1.2. \n- The head-to-head average is also above this threshold, and the referee issues more than 4.0 yellow cards per game. \n- Furthermore, both teams have multiple aggressive or provocative players, increasing the likelihood of cards/bookings.",
+                "ft": "Over 3.5 FT cards/bookings \n-\n- The historical head-to-head full-time card average exceeds 3.5, with both home and away teams' full-time card average also considerable high. \n- Additionally, the referee issues more than 4.0 yellow cards per game, and the foul-to-tackle ratio is high. \n Both teams have a high number of aggressive or provocative players, increasing the likelihood of cards/bookings."
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Over 7.5 FT total corners \n-\n- The averages for head-to-head, home and away teams are all above 7.5. \n Corner variability is evident with standard deviations above 0.7, and at least one team has solid corner-winning form.",
+                "win_corners": null
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": null,
+                "FT_total_goals": "Under 4.5 goals \n\n- The goal-scoring patterns suggest a controlled game with limited goal-scoring variability. \n Both teams exhibit a consistent trend of matches staying below 4.5 goals, with stable attacking and defensive performances."
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "Home win or draw (1X) \n\n- Freiburg has a superior head-to-head record and has been in better recent form, winning more games than Werder Bremen. \n Their ability to secure results at home strengthens their case for avoiding defeat."
+            }
+        }
+      },
+      {
+        "fixture": "Holstein Kiel vs B. Leverkusen",
+       "league": "🇩🇪 Bundesliga",
+        "day": "saturday",
+        "position": [18,2],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Schlager D.",
+          "fouls_per_tackle": 0.60,
+          "yellow_per_game": 4.55
+        },
+        "head_to_head": {
+          "win_form": [["D"],["D"]],
+          "corner_form": [["D"],["D"]],
+          "teams": {
+            "match_one": ["B. Leverkusen", "Holstein Kiel"]
+          },
+          "goals": {
+            "match_one": [2,2]
+          },
+          "x_goals": {
+            "match_one": [2.13,1.71]
+          },
+          "corners": {
+            "match_one": [12,3]
+          },
+          "fouls": {
+           "match_one": [5,9]
+          },
+          "HT_cards": {
+           "match_one": [0,0]
+          },
+          "FT_cards": {
+           "match_one": [2,2]
+          }
+        },
+        "home_team": {
+          "name": "Holstein Kiel",
+          "coach": "Marcel Rapp ",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/holstein.png",
+          "playing_style": "Opponents play aggressively against them",
+          "pressing_style": " ",
+          "attacking_style": "Attack through the middle",
+          "defensive_style": "Aggressive, Deep positioning",
+          "goal_scored_pg": 1.46,
+          "goals_concede_pg": 2.53,
+          "aggressive_players": [ ],
+          "provocative_players": [ ],
+          "win_form": ["L","D","L","D","L","W","L"],
+          "corner_form": ["W","L","L","L","W","L","L"],
+          "recent_matches": {
+              "teams": {
+                  "match_two": [
+                      "E. Frankfurt",
+                      "Holstein Kiel"
+                  ],
+                  "match_three": [
+                      "Holstein Kiel",
+                      "Bochum"
+                  ],
+                  "match_four": [
+                      "Bayern Munich",
+                      "Holstein Kiel"
+                  ],
+                  "match_five": [
+                      "Wolfsburg",
+                      "Holstein Kiel"
+                  ],
+                  "match_six": [
+                      "Holstein Kiel",
+                      "Hoffenheim"
+                  ],
+                  "match_seven": [
+                      "Holstein Kiel",
+                      "Dortmund"
+                  ],
+                  "match_one": [
+                      "Freiburg",
+                      "Holstein Kiel"
+                  ]
+              },
+              "goals": {
+                  "match_two": [
+                      3,
+                      1
+                  ],
+                  "match_three": [
+                      2,
+                      2
+                  ],
+                  "match_four": [
+                      4,
+                      3
+                  ],
+                  "match_five": [
+                      2,
+                      2
+                  ],
+                  "match_six": [
+                      1,
+                      3
+                  ],
+                  "match_seven": [
+                      4,
+                      2
+                  ],
+                  "match_one": [3,2]
+              },
+              "x_goals": {
+                  "match_two": [
+                      2.47,
+                      1.47
+                  ],
+                  "match_three": [
+                      1.87,
+                      2.12
+                  ],
+                  "match_four": [
+                      3.5,
+                      1.88
+                  ],
+                  "match_five": [
+                      2.09,
+                      0.27
+                  ],
+                  "match_six": [
+                      1.11,
+                      0.85
+                  ],
+                  "match_seven": [
+                      1.56,
+                      1.06
+                  ],
+                  "match_one": [
+                      0.63,
+                      1.84
+                  ]
+              },
+              "corners": {
+                  "match_two": [
+                      4,
+                      6
+                  ],
+                  "match_three": [
+                      3,
+                      5
+                  ],
+                  "match_four": [
+                      12,
+                      1
+                  ],
+                  "match_five": [
+                      10,
+                      3
+                  ],
+                  "match_six": [
+                      4,
+                      3
+                  ],
+                  "match_seven": [
+                      1,
+                      9
+                  ],
+                  "match_one": [
+                      7,
+                      1
+                  ]
+              },
+              "fouls": {
+                  "match_two": [
+                      16,
+                      10
+                  ],
+                  "match_three": [
+                      11,
+                      17
+                  ],
+                  "match_four": [
+                      7,
+                      10
+                  ],
+                  "match_five": [
+                      9,
+                      10
+                  ],
+                  "match_six": [
+                      13,
+                      14
+                  ],
+                  "match_seven": [
+                      13,
+                      11
+                  ],
+                  "match_one": [
+                      9,
+                      12
+                  ]
+              },
+              "HT_cards": {
+                  "match_two": [
+                      0,
+                      0
+                  ],
+                  "match_three": [
+                      0,
+                      0
+                  ],
+                  "match_four": [
+                      0,
+                      0
+                  ],
+                  "match_five": [
+                      0,
+                      1
+                  ],
+                  "match_six": [
+                      0,
+                      1
+                  ],
+                  "match_seven": [
+                      0,
+                      1
+                  ],
+                  "match_one": [
+                      0,
+                      2
+                  ]
+              },
+              "FT_cards": {
+                  "match_two": [
+                      2,
+                      0
+                  ],
+                  "match_three": [
+                      2,
+                      2
+                  ],
+                  "match_four": [
+                      1,
+                      1
+                  ],
+                  "match_five": [
+                      2,
+                      4
+                  ],
+                  "match_six": [
+                      2,
+                      1
+                  ],
+                  "match_seven": [
+                      3,
+                      2
+                  ],
+                  "match_one": [
+                      2,
+                      3
+                  ]
+              }
+          }
+      
+      },
+        "away_team": {
+          "name": "B. Leverkusen",
+          "coach": "Xabi Alonso",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/leverkusen.png",
+          "playing_style": "Control the game in the opposition's half, Short passes, Ball retention",
+          "pressing_style": " ",
+          "attacking_style": "Attack through the middle, High shot volume",
+          "defensive_style": "High Line; Use offside positioning, Non-aggressive",
+          "goal_scored_pg": 2.42,
+          "goals_concede_pg": 0.77,
+          "aggressive_players": [ ],
+          "provocative_players": ["Exequiel Palacios"],
+          "win_form": ["D","D","W","D","W","W","W"],
+          "corner_form": ["W","W","D","L","W","W","L"],
+          "recent_matches": {
+              "teams": {
+                  "match_two": [
+                      "B. Leverkusen",
+                      "Bayern Munich"
+                  ],
+                  "match_three": [
+                      "Wolfsburg",
+                      "B. Leverkusen"
+                  ],
+                  "match_four": [
+                      "B. Leverkusen",
+                      "Hoffenheim"
+                  ],
+                  "match_five": [
+                      "RB Leipzig",
+                      "B. Leverkusen"
+                  ],
+                  "match_six": [
+                      "B. Leverkusen",
+                      "B. Monchengladbach"
+                  ],
+                  "match_seven": [
+                      "B. Leverkusen",
+                      "Mainz"
+                  ],
+                  "match_one": [
+                      "Dortmund",
+                      "B. Leverkusen"
+                  ]
+              },
+              "goals": {
+                  "match_two": [
+                      0,
+                      0
+                  ],
+                  "match_three": [
+                      0,
+                      0
+                  ],
+                  "match_four": [
+                      3,
+                      1
+                  ],
+                  "match_five": [
+                      2,
+                      2
+                  ],
+                  "match_six": [
+                      3,
+                      1
+                  ],
+                  "match_seven": [
+                      1,
+                      0
+                  ],
+                  "match_one": [
+                      2,
+                      3
+                  ]
+              },
+              "x_goals": {
+                  "match_two": [
+                      2.19,
+                      0.04
+                  ],
+                  "match_three": [
+                      0.88,
+                      1.53
+                  ],
+                  "match_four": [
+                      1.53,
+                      2.09
+                  ],
+                  "match_five": [
+                      0.7,
+                      2.41
+                  ],
+                  "match_six": [
+                      2.14,
+                      0.63
+                  ],
+                  "match_seven": [
+                      1.75,
+                      0.72
+                  ],
+                  "match_one": [
+                      1.26,
+                      1.49
+                  ]
+              },
+              "corners": {
+                  "match_two": [
+                      6,
+                      0
+                  ],
+                  "match_three": [
+                      3,
+                      9
+                  ],
+                  "match_four": [
+                      3,
+                      3
+                  ],
+                  "match_five": [
+                      7,
+                      3
+                  ],
+                  "match_six": [
+                      7,
+                      6
+                  ],
+                  "match_seven": [
+                      8,
+                      4
+                  ],
+                  "match_one": [
+                      6,
+                      1
+                  ]
+              },
+              "fouls": {
+                  "match_two": [
+                      16,
+                      13
+                  ],
+                  "match_three": [
+                      7,
+                      8
+                  ],
+                  "match_four": [
+                      14,
+                      7
+                  ],
+                  "match_five": [
+                      12,
+                      6
+                  ],
+                  "match_six": [
+                      12,
+                      10
+                  ],
+                  "match_seven": [
+                      4,
+                      14
+                  ],
+                  "match_one": [
+                      8,
+                      6
+                  ]
+              },
+              "HT_cards": {
+                  "match_two": [
+                      1,
+                      1
+                  ],
+                  "match_three": [
+                      0,
+                      2
+                  ],
+                  "match_four": [
+                      1,
+                      1
+                  ],
+                  "match_five": [
+                      0,
+                      2
+                  ],
+                  "match_six": [
+                          0,
+                          0
+                      ],
+                  "match_seven": [
+                      0,
+                      1
+                  ],
+                  "match_one": [
+                      0,
+                      1
+                  ]
+              },
+              "FT_cards": {
+                  "match_two": [
+                      2,
+                      3
+                  ],
+                  "match_three": [
+                      2,
+                      3
+                  ],
+                  "match_four": [
+                      5,
+                      3
+                  ],
+                  "match_five": [
+                      2,
+                      2
+                  ],
+                  "match_six": [
+                      0,
+                      2
+                  ],
+                  "match_seven": [
+                      2,
+                      3
+                  ],
+                  "match_one": [
+                      1,
+                      2
+                  ]
+              }
+          }
+      
+      
+      },
+        "prediction": {
+            "cards": {
+                "discuss": "",
+                "ht": "Under 2.5 HT cards/bookings \n-\n- The historical head-to-head card count is low, and both teams have relatively mild aggression levels. \n- The referee's yellow card issuance rate is below 3.5, and recent half-time averages for both teams remain under 2.",
+                "ft": null
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Over 8.5 FT total corners \n-\n- The head-to-head average and team averages for home and away teams are all above 8.5. \n Standard deviations indicate sufficient variability in corner counts, and at least one team has decent form in winning corners.",
+                "win_corners": null
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": null,
+                "FT_total_goals": "Over 1.5 goals \n\n- Most fixtures exceed at least 1.5 goals, and the statistical indicators suggest that at least two goals are highly probable given the teams' offensive and defensive tendencies."
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "Away win or draw (X2) \n\n- B. Leverkusen has a higher league position, indicating stronger overall performance, and has also shown better recent form."
+            }
+        }
+      },
+      {
+        "fixture": "B. Monchengladbach vs Augsburg",
+       "league": "🇩🇪 Bundesliga",
+        "day": "saturday",
+        "position": [8,12],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Exner F.",
+          "fouls_per_tackle": 0.66,
+          "yellow_per_game": 4.11
+        },
+        "head_to_head": {
+          "win_form": [["L","L","D","W","L"],["W","W","D","L","W"]],
+          "corner_form": [["L","L","L","D","L"],["W","W","W","D","W"]],
+          "teams": {
+            "match_five": ["Augsburg","B. Monchengladbach"],
+            "match_one": ["B. Monchengladbach", "Augsburg"],
+            "match_two": ["Augsburg", "B. Monchengladbach"],
+            "match_three": ["B. Monchengladbach", "Augsburg"],
+            "match_four": ["Augsburg", "B. Monchengladbach"]
+          },
+          "goals": {
+            "match_five": [2,1],
+            "match_one": [1,2],
+            "match_two": [4,4],
+            "match_three": [2,0],
+            "match_four": [1,0]
+          },
+          "x_goals": {
+            "match_five": [1.30,0.65],
+            "match_one": [2.33,1.61],
+            "match_two": [2.39,1.95],
+            "match_three": [2.93,0.89],
+            "match_four": [ ]
+          },
+          "corners": {
+            "match_five": [6,5],
+            "match_one": [5,7],
+            "match_two": [8,7],
+            "match_three": [4,4],
+            "match_four": [3,2]
+          },
+          "fouls": {
+            "match_five": [13,15],
+            "match_one": [10,20],
+            "match_two": [9,14],
+            "match_three": [5,19],
+            "match_four": [15,15]
+          },
+          "HT_cards": {
+            "match_five": [0,0],
+            "match_one": [0,1],
+            "match_two": [1,2],
+            "match_three": [0,1],
+            "match_four": [0,1]
+          },
+          "FT_cards": {
+            "match_five": [2,4],
+            "match_one": [1,2],
+            "match_two": [1,2],
+            "match_three": [0,2],
+            "match_four": [1,2]
+          }
+        },
+        "home_team": {
+          "name": "B. Monchengladbach",
+          "coach": "Gerardo Seoane",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/monchengladbach.png",
+          "playing_style": "Wide play, ",
+          "pressing_style": " ",
+          "attacking_style": "Attacking down the right, Frequent through ball attempts",
+          "defensive_style": "Deep positioning, Non-aggressive",
+          "goal_scored_pg": 1.57,
+          "goals_concede_pg": 1.53,
+          "aggressive_players": ["Jordan Siebatcheu", "Ko Itakura", "Manu Koné"],
+          "provocative_players": ["Manu Koné","Joe Scally"],
+          "win_form": ["L","D","W","W","L","L","L"],
+          "corner_form": ["W","W","L","W","L","W","L"],
+          "recent_matches": {
+              "teams": {
+                  "match_two": [
+                      "Union Berlin",
+                      "B. Monchengladbach"
+                  ],
+                  "match_three": [
+                      "B. Monchengladbach",
+                      "E. Frantfurt"
+                  ],
+                  "match_four": [
+                      "Stuttgart",
+                      "B. Monchengladbach"
+                  ],
+                  "match_five": [
+                      "B. Monchengladbach",
+                      "Bochum"
+                  ],
+                  "match_six": [
+                      "B. Leverkusen",
+                      "B. Monchengladbach"
+                  ],
+                  "match_seven": [
+                      "Wolfsburg",
+                      "B. Monchengladbach"
+                  ],
+                  "match_one": [
+                      "B. Monchengladbach",
+                      "Bayern Munich"
+                  ]
+              },
+              "goals": {
+                  "match_two": [
+                      1,
+                      2
+                  ],
+                  "match_three": [
+                      1,
+                      1
+                  ],
+                  "match_four": [
+                      1,
+                      2
+                  ],
+                  "match_five": [
+                      3,
+                      0
+                  ],
+                  "match_six": [
+                      3,
+                      1
+                  ],
+                  "match_seven": [
+                      5,
+                      1
+                  ],
+                  "match_one": [
+                      0,
+                      1
+                  ]
+              },
+              "x_goals": {
+                  "match_two": [
+                      2.1,
+                      2.06
+                  ],
+                  "match_three": [
+                      0.43,
+                      2.17
+                  ],
+                  "match_four": [
+                      1.16,
+                      1.7
+                  ],
+                  "match_five": [
+                      2.39,
+                      0.58
+                  ],
+                  "match_six": [
+                      2.14,
+                      0.63
+                  ],
+                  "match_seven": [
+                      3.82,
+                      1.21
+                  ],
+                  "match_one": [
+                      0.39,
+                      3.27
+                  ]
+              },
+              "corners": {
+                  "match_two": [
+                      4,
+                      5
+                  ],
+                  "match_three": [
+                      6,
+                      1
+                  ],
+                  "match_four": [
+                      2,
+                      0
+                  ],
+                  "match_five": [
+                      8,
+                      7
+                  ],
+                  "match_six": [
+                      7,
+                      6
+                  ],
+                  "match_seven": [
+                      4,
+                      7
+                  ],
+                  "match_one": [
+                      4,
+                      10
+                  ]
+              },
+              "fouls": {
+                  "match_two": [
+                      9,
+                      8
+                  ],
+                  "match_three": [
+                      10,
+                      9
+                  ],
+                  "match_four": [
+                      11,
+                      11
+                  ],
+                  "match_five": [
+                      6,
+                      15
+                  ],
+                  "match_six": [
+                      12,
+                      10
+                  ],
+                  "match_seven": [
+                      10,
+                      7
+                  ],
+                  "match_one": [
+                      10,
+                      7
+                  ]
+              },
+              "HT_cards": {
+                  "match_two": [
+                      0,
+                      0
+                  ],
+                  "match_three": [
+                      1,
+                      2
+                  ],
+                  "match_four": [
+                      0,
+                      1
+                  ],
+                  "match_five": [
+                      1,
+                      0
+                  ],
+                  "match_six": [
+                      0,
+                      0
+                  ],
+                  "match_seven": [
+                      1,
+                      0
+                  ],
+                  "match_one": [
+                      0,
+                      0
+                  ]
+              },
+              "FT_cards": {
+                  "match_two": [0,1],
+                  "match_three": [
+                      3,
+                      3
+                  ],
+                  "match_four": [
+                      2,
+                      2
+                  ],
+                  "match_five": [
+                      1,
+                      3
+                  ],
+                  "match_six": [
+                      0,
+                      2
+                  ],
+                  "match_seven": [
+                      1,
+                      0
+                  ],
+                  "match_one": [
+                      3,
+                      1
+                  ]
+              }
+          }
+      },
+        "away_team": {
+          "name": "Augsburg",
+          "coach": "Jess Thorup",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/augsburg.png",
+          "playing_style": "Short passes, Control the game in the opposition's half, Wide play",
+          "pressing_style": " ",
+          "attacking_style": "Attacking down the left",
+          "defensive_style": "Aggressive",
+          "goal_scored_pg": 1.2,
+          "goals_concede_pg": 1.8,
+          "aggressive_players": ["Ermedin Demirovic","Kevin Mbabu","Mads Pedersen"],
+          "provocative_players": ["Elvis Rexhbeçaj"],
+          
+          "win_form": ["D","D","D","W","W","W","L"],
+          "corner_form": ["L","W","L","W","L","L","L"],
+          "recent_matches": {
+              "teams": {
+                  "match_two": [
+                      "Augsburg",
+                      "RB Leipzig"
+                  ],
+                  "match_three": [
+                      "Mainz",
+                      "Augsburg"
+                  ],
+                  "match_four": [
+                      "St. Pauli",
+                      "Augsburg"
+                  ],
+                  "match_five": [
+                      "Augsburg",
+                      "Heidenheim"
+                  ],
+                  "match_six": [
+                      "Werder Bremen",
+                      "Augsburg"
+                  ],
+                  "match_seven": [
+                      "Union Berlin",
+                      "Ausgburg"
+                  ],
+                  "match_one": [
+                      "Augsburg",
+                      "Stuttgart"
+                  ]
+              },
+              "goals": {
+                  "match_two": [
+                      0,
+                      0
+                  ],
+                  "match_three": [
+                      0,
+                      0
+                  ],
+                  "match_four": [
+                      1,
+                      1
+                  ],
+                  "match_five": [
+                      2,
+                      1
+                  ],
+                  "match_six": [
+                      0,
+                      2
+                  ],
+                  "match_seven": [
+                      0,
+                      2
+                  ],
+                  "match_one": [
+                      0,
+                      1
+                  ]
+              },
+              "x_goals": {
+                  "match_two": [
+                      1.04,
+                      1.27
+                  ],
+                  "match_three": [
+                      1.47,
+                      0.38
+                  ],
+                  "match_four": [
+                      0.49,
+                      0.32
+                  ],
+                  "match_five": [
+                      1.09,
+                      1.01
+                  ],
+                  "match_six": [
+                      1.35,
+                      0.83
+                  ],
+                  "match_seven": [
+                      0.67,
+                      1.25
+                  ],
+                  "match_one": [
+                      0.22,
+                      2.57
+                  ]
+              },
+              "corners": {
+                  "match_two": [
+                      8,
+                      9
+                  ],
+                  "match_three": [
+                      1,
+                      3
+                  ],
+                  "match_four": [
+                      3,
+                      1
+                  ],
+                  "match_five": [
+                      6,
+                      4
+                  ],
+                  "match_six": [
+                      6,
+                      2
+                  ],
+                  "match_seven": [
+                      7,
+                      4
+                  ],
+                  "match_one": [
+                      3,
+                      9
+                  ]
+              },
+              "fouls": {
+                  "match_two": [
+                      12,
+                      12
+                  ],
+                  "match_three": [
+                      12,
+                      9
+                  ],
+                  "match_four": [
+                      16,
+                      18
+                  ],
+                  "match_five": [
+                      8,
+                      9
+                  ],
+                  "match_six": [
+                      8,
+                      14
+                  ],
+                  "match_seven": [
+                      15,
+                      9
+                  ],
+                  "match_one": [
+                      11,
+                      14
+                  ]
+              },
+              "HT_cards": {
+                  "match_two": [
+                      1,
+                      0
+                  ],
+                  "match_three": [
+                      2,
+                      2
+                  ],
+                  "match_four": [
+                      0,
+                      0
+                  ],
+                  "match_five": [
+                      0,
+                      0
+                  ],
+                  "match_six": [
+                      0,
+                      0
+                  ],
+                  "match_seven": [
+                      0,
+                      1
+                  ],
+                  "match_one": [
+                      2,
+                      0
+                  ]
+              },
+              "FT_cards": {
+                  "match_two": [
+                      2,
+                      1
+                  ],
+                  "match_three": [
+                      3,
+                      3
+                  ],
+                  "match_four": [
+                      1,
+                      3
+                  ],
+                  "match_five": [
+                      1,
+                      0
+                  ],
+                  "match_six": [
+                      0,
+                      0
+                  ],
+                  "match_seven": [
+                      1,
+                      2
+                  ],
+                  "match_one": [
+                      5,
+                      1
+                  ]
+              }
+          }
+      
+      
+      },
+        "prediction": {
+            "cards": {
+                "discuss": "",
+                "ht": null,
+                "ft": "Over 2.5 FT cards/bookings \n-\n- The head-to-head full-time card average is above 2.5, along with both home and away teams' full-time card average. \n The referee issues more than 3.3 yellow cards per game, and the foul-to-tackle ratio is very high."
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Over 8.5 FT total corners \n-\n- The head-to-head average and team averages for home and away teams are all above 8.5. \n Standard deviations indicate sufficient variability in corner counts, and at least one team has decent form in winning corners.",
+                "win_corners": null
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": null,
+                "FT_total_goals": "Under 4.5 goals \n\n- The goal-scoring patterns suggest a controlled game with limited goal-scoring variability. \n Both teams exhibit a consistent trend of matches staying below 4.5 goals, with stable attacking and defensive performances."
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "Away win or draw (X2) \n\n- Augsburg has shown stronger resilience in head-to-head matches and has a lower tendency to lose games compared to B. Monchengladbach."
+            }
+        }
+      },
+      {
+        "fixture": "Wolfsburg vs Bochum",
+       "league": "🇩🇪 Bundesliga",
+        "day": "saturday",
+        "position": [9,16],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Gerach T.",
+          "fouls_per_tackle": 0.70,
+          "yellow_per_game": 3.90
+        },
+        "head_to_head": {
+          "win_form": [["W","W","L","W","W"],["L","L","W","L","L"]],
+          "corner_form": [["L","L","D","L","W"],["W","W","D","W","L"]],
+          "teams": {
+            "match_five": ["Bochum","Wolfsburg"],
+            "match_one": ["Wolfsburg", "Bochum"],
+            "match_two": ["Bochum", "Wolfsburg"],
+            "match_three": ["Bochum", "Wolfsburg"],
+            "match_four": ["Wolfsburg", "Bochum"]
+          },
+          "goals": {
+            "match_five": [1,3],
+            "match_one": [1,0],
+            "match_two": [3,1],
+            "match_three": [1,5],
+            "match_four": [4,0]
+          },
+          "x_goals": {
+            "match_five": [2.01,3.41],
+            "match_one": [1.16,1.09],
+            "match_two": [2.13,1.26],
+            "match_three": [3.52,3.75],
+            "match_four": [ ]
+          },
+          "corners": {
+            "match_five": [7,6],
+            "match_one": [5,8],
+            "match_two": [6,6],
+            "match_three": [10,3],
+            "match_four": [7,2]
+          },
+          "fouls": {
+            "match_five": [11,12],
+            "match_one": [11,16],
+            "match_two": [14,13],
+            "match_three": [11,8],
+            "match_four": [7,17]
+          },
+          "HT_cards": {
+            "match_five": [1,1],
+            "match_one": [1,1],
+            "match_two": [2,1],
+            "match_three": [3,1],
+            "match_four": [1,0]
+          },
+          "FT_cards": {
+            "match_five": [1,2],
+            "match_one": [4,3],
+            "match_two": [6,2],
+            "match_three": [3,3],
+            "match_four": [1,1]
+          }
+        },
+        "home_team": {
+          "name": "Wolfsburg",
+          "coach": "Ralph Hasenhüttl ",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/woflsburg.png",
+          "playing_style": "Wide play, Long balls, High crossing frequency, Control the game in the opposition's half",
+          "pressing_style": " ",
+          "attacking_style": "High shot volume",
+          "defensive_style": "Aggressive, Opponents play aggressively against them",
+          "goal_scored_pg": 2.2,
+          "goals_concede_pg": 1.8,
+          "aggressive_players": ["Mattias Svanberg","Sebastiaan Bornauw","Lucas Tousart"],
+          "provocative_players": ["Kevin Paredes","Maximilian Arnold"],
+          "win_form": ["W","D","D","D","L","W","W"],
+          "corner_form": ["L","L","L","W","L","L","W"],
+          "recent_matches": {
+              "teams": {
+                  "match_two": [
+                      "Stuttgart",
+                      "Wolfsburg"
+                  ],
+                  "match_three": [
+                      "Wolfsburg",
+                      "B. Leverkusen"
+                  ],
+                  "match_four": [
+                      "E. Frankfurt",
+                      "Wolfsburg"
+                  ],
+                  "match_five": [
+                      "Wolfsburg",
+                      "Holstein Kiel"
+                  ],
+                  "match_six": [
+                      "Bayern Munich",
+                      "Wolfsburg"
+                  ],
+                  "match_seven": [
+                      "Wolfsburg",
+                      "B. Monchengladbach"
+                  ],
+                  "match_one": [
+                      "Hoffenheim",
+                      "Wolfsburg"
+                  ]
+              },
+              "goals": {
+                  "match_two": [
+                      1,
+                      2
+                  ],
+                  "match_three": [
+                      0,
+                      0
+                  ],
+                  "match_four": [
+                      1,
+                      1
+                  ],
+                  "match_five": [
+                      2,
+                      2
+                  ],
+                  "match_six": [
+                      3,
+                      2
+                  ],
+                  "match_seven": [
+                      5,
+                      1
+                  ],
+                  "match_one": [
+                      0,
+                      1
+                  ]
+              },
+              "x_goals": {
+                  "match_two": [
+                      0.82,
+                      1.65
+                  ],
+                  "match_three": [
+                      0.88,
+                      1.53
+                  ],
+                  "match_four": [
+                      1.28,
+                      1.21
+                  ],
+                  "match_five": [
+                      2.09,
+                      0.27
+                  ],
+                  "match_six": [
+                      2.87,
+                      0.59
+                  ],
+                  "match_seven": [
+                      3.82,
+                      1.21
+                  ],
+                  "match_one": [
+                      1.02,
+                      0.91
+                  ]
+              },
+              "corners": {
+                  "match_two": [
+                      7,
+                      5
+                  ],
+                  "match_three": [
+                      3,
+                      9
+                  ],
+                  "match_four": [
+                      9,
+                      1
+                  ],
+                  "match_five": [
+                      10,
+                      3
+                  ],
+                  "match_six": [
+                      6,
+                      2
+                  ],
+                  "match_seven": [
+                      4,
+                      7
+                  ],
+                  "match_one": [
+                      4,
+                      8
+                  ]
+              },
+              "fouls": {
+                  "match_two": [
+                      10,
+                      15
+                  ],
+                  "match_three": [
+                      7,
+                      8
+                  ],
+                  "match_four": [
+                      8,
+                      8
+                  ],
+                  "match_five": [
+                      9,
+                      10
+                  ],
+                  "match_six": [
+                      10,
+                      9
+                  ],
+                  "match_seven": [
+                      10,
+                      7
+                  ],
+                  "match_one": [
+                      15,
+                      14
+                  ]
+              },
+              "HT_cards": {
+                  "match_two": [
+                      2,
+                      2
+                  ],
+                  "match_three": [
+                      0,
+                      2
+                  ],
+                  "match_four": [
+                      0,
+                      1
+                  ],
+                  "match_five": [
+                      0,
+                      1
+                  ],
+                  "match_six": [
+                      0,
+                      1
+                  ],
+                  "match_seven": [
+                      1,
+                      0
+                  ],
+                  "match_one": [
+                      0,
+                      1
+                  ]
+              },
+              "FT_cards": {
+                  "match_two": [
+                      3,
+                      4
+                  ],
+                  "match_three": [
+                      2,
+                      3
+                  ],
+                  "match_four": [
+                      1,
+                      3
+                  ],
+                  "match_five": [
+                      2,
+                      4
+                  ],
+                  "match_six": [
+                      2,
+                      3
+                  ],
+                  "match_seven": [
+                      1,
+                      0
+                  ],
+                  "match_one": [
+                      1,
+                      2
+                  ]
+              }
+          }
+      },
+        "away_team": {
+          "name": "Bochum",
+          "coach": "Peter Zeidler",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/bochum.png",
+          "playing_style": "Control the game in the opposition's half, Long balls",
+          "pressing_style": " ",
+          "attacking_style": "Frequent through ball attempts, Attacking down the left, Take long shots, High shot volume",
+          "defensive_style": "High Line; Use offside positioning",
+          "goal_scored_pg": 0.9,
+          "goals_concede_pg": 2.26,
+          "aggressive_players": ["Bernardo","Matús Bero","Keven Schlotterbeck"],
+          "provocative_players": ["Kevin Stöger"],
+          "win_form": ["W","D","L","L","D","W","L"],
+          "corner_form": ["L","W","W","L","W","L","W"],
+          "recent_matches": {
+              "teams": {
+                  "match_two": [
+                      "Bochum",
+                      "Dortmund"
+                  ],
+                  "match_three": [
+                      "Holstein Kiel",
+                      "Bochum"
+                  ],
+                  "match_four": [
+                      "Bochum",
+                      "Freiburg"
+                  ],
+                  "match_five": [
+                      "B. Monchengladbach",
+                      "Bochum"
+                  ],
+                  "match_six": [
+                      "Bochum",
+                      "RB Leipzig"
+                  ],
+                  "match_seven": [
+                      "Bochum",
+                      "St. Pauli"
+                  ],
+                  "match_one": [
+                      "Mainz",
+                      "Bochum"
+                  ]
+              },
+              "goals": {
+                  "match_two": [
+                      2,
+                      0
+                  ],
+                  "match_three": [
+                      2,
+                      2
+                  ],
+                  "match_four": [
+                      0,
+                      1
+                  ],
+                  "match_five": [
+                      3,
+                      0
+                  ],
+                  "match_six": [
+                      3,
+                      3
+                  ],
+                  "match_seven": [
+                      1,
+                      0
+                  ],
+                  "match_one": [
+                      2,
+                      0
+                  ]
+              },
+              "x_goals": {
+                  "match_two": [
+                      3.00,
+                      2.47
+                  ],
+                  "match_three": [
+                      1.87,
+                      2.12
+                  ],
+                  "match_four": [
+                      0.94,
+                      2.0
+                  ],
+                  "match_five": [
+                      2.39,
+                      0.58
+                  ],
+                  "match_six": [
+                      2.67,
+                      2.34
+                  ],
+                  "match_seven": [
+                      1.70,
+                      0.67
+                  ],
+                  "match_one": [
+                      1.6,
+                      0.56
+                  ]
+              },
+              "corners": {
+                  "match_two": [
+                      2,
+                      8
+                  ],
+                  "match_three": [
+                      3,
+                      5
+                  ],
+                  "match_four": [
+                      9,
+                      7
+                  ],
+                  "match_five": [
+                      8,
+                      7
+                  ],
+                  "match_six": [
+                      6,
+                      3
+                  ],
+                  "match_seven": [
+                      6,
+                      7
+                  ],
+                  "match_one": [
+                      5,
+                      6
+                  ]
+              },
+              "fouls": {
+                  "match_two": [
+                      12,
+                      4
+                  ],
+                  "match_three": [
+                      11,
+                      17
+                  ],
+                  "match_four": [
+                      15,
+                      10
+                  ],
+                  "match_five": [
+                      6,
+                      15
+                  ],
+                  "match_six": [
+                      14,
+                      7
+                  ],
+                  "match_seven": [
+                      7,
+                      15
+                  ],
+                  "match_one": [
+                      6,
+                      16
+                  ]
+              },
+              "HT_cards": {
+                  "match_two": [
+                      0,
+                      0
+                  ],
+                  "match_three": [
+                      0,
+                      0
+                  ],
+                  "match_four": [
+                      1,
+                      0
+                  ],
+                  "match_five": [
+                      1,
+                      0
+                  ],
+                  "match_six": [
+                      2,
+                      0
+                  ],
+                  "match_seven": [
+                      1,
+                      0
+                  ],
+                  "match_one": [
+                      0,
+                      2
+                  ]
+              },
+              "FT_cards": {
+                  "match_two": [
+                      1,
+                      0
+                  ],
+                  "match_three": [
+                      2,
+                      2
+                  ],
+                  "match_four": [
+                      3,
+                      2
+                  ],
+                  "match_five": [
+                      1,
+                      3
+                  ],
+                  "match_six": [
+                      4,
+                      0
+                  ],
+                  "match_seven": [
+                      1,
+                      4
+                  ],
+                  "match_one": [
+                      0,
+                      2
+                  ]
+              }
+          }
+      
+      },
+        "prediction": {
+            "cards": {
+                "discuss": "",
+                "ht": null,
+                "ft": "Over 2.5 FT cards/bookings \n-\n- The head-to-head full-time card average is above 2.5, along with both home and away teams' full-time card average. \n The referee issues more than 3.3 yellow cards per game, and the foul-to-tackle ratio is very high."
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Over 8.5 FT total corners \n-\n- The head-to-head average and team averages for home and away teams are all above 8.5. \n Standard deviations indicate sufficient variability in corner counts, and at least one team has decent form in winning corners.",
+                "win_corners": "Bochum to have the most corner \n\n- Bochum has a better head-to-head corner form, a better recent corner form, has won more than 3 recent corner battles, has won more than 2 head-to-head corner battles, and has an average corner total above 8."
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": null,
+                "FT_total_goals": "Over 2.5 goals \n\n- Both teams have demonstrated strong offensive capabilities, with frequent matches exceeding 2.5 goals. \n The defensive weaknesses and consistent goal-scoring form suggest that at least three goals are likely in this fixture."
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "Home win or draw (1X) \n\n- Wolfsburg has a better league standing, suggesting they have been more consistent, and their recent form supports a positive result."
+            }
+        }
+      },
+      {
+        "fixture": "Mainz vs St. Pauli",
+       "league": "🇩🇪 Bundesliga",
+        "day": "saturday",
+        "position": [6,14],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Zwayer F.",
+          "fouls_per_tackle": 0.65,
+          "yellow_per_game": 4.66
+        },
+        "head_to_head": {
+          "win_form": [["W"],["L"]],
+          "corner_form": [["D"],["D"]],
+          "teams": {
+            "match_one": ["St. Pauli","Mainz"]	
+          },
+          "goals": {
+            "match_one": [0,3]
+          },
+          "x_goals": {
+            "match_one": [1.05,0.74]
+          },
+          "corners": {
+            "match_one": [2,2]
+          },
+          "fouls": {
+           "match_one": [12,16]
+          },
+          "HT_cards": {
+           "match_one": [0,1]
+          },
+          "FT_cards": {
+           "match_one": [0,3]
+          }
+        },
+        "home_team": {
+          "name": "Mainz",
+          "coach": "Bo Henriksen",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/mainz.png",
+          "playing_style": "Long balls, Wide play, Opponents play aggressively against them",
+          "pressing_style": " ",
+          "attacking_style": "Attack through the middle, Attacking down the right",
+          "defensive_style": "Deep positioning",
+          "goal_scored_pg": 1.74,
+          "goals_concede_pg": 1.21,
+          "aggressive_players": ["Leandro Barreiro","Dominik Kohr","Phillipp Mwene","Karim Onisiwo"],
+          "provocative_players": ["Karim Onisiwo","Jonathan Burkardt","Brajan Gruda","Leandro Barreiro"],
+          "win_form": ["W","D","L","W","L","L","W"],
+          "corner_form": ["L","L","W","W","D","L","L"],
+          "recent_matches": {
+              "teams": {
+                  "match_two": [
+                      "Heidenheim",
+                      "Mainz"
+                  ],
+                  "match_three": [
+                      "Mainz",
+                      "Augsburg"
+                  ],
+                  "match_four": [
+                      "Werder Bremen",
+                      "Mainz"
+                  ],
+                  "match_five": [
+                      "Mainz",
+                      "Stuttgart"
+                  ],
+                  "match_six": [
+                      "Union Berlin",
+                      "Mainz"
+                  ],
+                  "match_seven": [
+                      "B. Leverkusen",
+                      "Mainz"
+                  ],
+                  "match_one": [
+                      "Mainz",
+                      "Bochum"
+                  ]
+              },
+              "goals": {
+                  "match_two": [0,2],
+                  "match_three": [
+                      0,
+                      0
+                  ],
+                  "match_four": [
+                      1,
+                      0
+                  ],
+                  "match_five": [
+                      2,
+                      0
+                  ],
+                  "match_six": [
+                      2,
+                      1
+                  ],
+                  "match_seven": [
+                      1,
+                      0
+                  ],
+                  "match_one": [
+                      2,
+                      0
+                  ]
+              },
+              "x_goals": {
+                  "match_two": [
+                      0.76,
+                      2.15
+                  ],
+                  "match_three": [
+                      1.47,
+                      0.38
+                  ],
+                  "match_four": [
+                      2.68,
+                      1.24
+                  ],
+                  "match_five": [
+                      1.89,
+                      1.08
+                  ],
+                  "match_six": [
+                      2.08,
+                      1.69
+                  ],
+                  "match_seven": [
+                      1.75,
+                      0.72
+                  ],
+                  "match_one": [
+                      1.6,
+                      0.56
+                  ]
+              },
+              "corners": {
+                  "match_two": [
+                      8,
+                      4
+                  ],
+                  "match_three": [
+                      1,
+                      3
+                  ],
+                  "match_four": [
+                      3,
+                      8
+                  ],
+                  "match_five": [
+                      9,
+                      2
+                  ],
+                  "match_six": [
+                      2,
+                      2
+                  ],
+                  "match_seven": [
+                      8,
+                      4
+                  ],
+                  "match_one": [
+                      5,
+                      6
+                  ]
+              },
+              "fouls": {
+                  "match_two": [
+                      9,
+                      16
+                  ],
+                  "match_three": [
+                      12,
+                      9
+                  ],
+                  "match_four": [
+                      14,
+                      13
+                  ],
+                  "match_five": [
+                      12,
+                      8
+                  ],
+                  "match_six": [
+                      12,
+                      10
+                  ],
+                  "match_seven": [
+                      4,
+                      14
+                  ],
+                  "match_one": [
+                      6,
+                      16
+                  ]
+              },
+              "HT_cards": {
+                  "match_two": [
+                      0,
+                      0
+                  ],
+                  "match_three": [
+                      2,
+                      2
+                  ],
+                  "match_four": [
+                      2,
+                      2
+                  ],
+                  "match_five": [
+                      4,
+                      0
+                  ],
+                  "match_six": [
+                      0,
+                      0
+                  ],
+                  "match_seven": [
+                      0,
+                      1
+                  ],
+                  "match_one": [
+                      0,
+                      2
+                  ]
+              },
+              "FT_cards": {
+                  "match_two": [
+                      1,
+                      3
+                  ],
+                  "match_three": [
+                      3,
+                      3
+                  ],
+                  "match_four": [
+                      10,
+                      3
+                  ],
+                  "match_five": [
+                      4,
+                      3
+                  ],
+                  "match_six": [
+                      0,
+                      0
+                  ],
+                  "match_seven": [
+                      2,
+                      3
+                  ],
+                  "match_one": [
+                      0,
+                      2
+                  ]
+              }
+          }
+      
+      },
+        "away_team": {
+          "name": "St. Pauli",
+          "coach": "Alexander Blessin",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/pauli.png",
+          "playing_style": "Wide play, Ball retention, Opponents play aggressively against them",
+          "pressing_style": " ",
+          "attacking_style": "Take long shots, Attacking down the right",
+          "defensive_style": "Non-aggressive",
+          "goal_scored_pg": 0.9,
+          "goals_concede_pg": 1.1,
+          "aggressive_players": [ ],
+          "provocative_players": [ ],
+          "win_form": ["L","L","D","W","W","L","L"],
+          "corner_form": ["L","L","W","L","D","W","D"],
+          "recent_matches": {
+              "teams": {
+                  "match_two": [
+                      "St. Pauli",
+                      "Freiburg"
+                  ],
+                  "match_three": [
+                      "RB Leipzig",
+                      "St. Pauli"
+                  ],
+                  "match_four": [
+                      "St. Pauli",
+                      "Augsburg"
+                  ],
+                  "match_five": [
+                      "St. Pauli",
+                      "Union Berlin"
+                  ],
+                  "match_six": [
+                      "Heidenheim",
+                      "St. Pauli"
+                  ],
+                  "match_seven": [
+                      "Bochum",
+                      "St. Pauli"
+                  ],
+                  "match_one": [
+                      "St. Pauli",
+                      "E. Frankfurt"
+                  ]
+              },
+              "goals": {
+                  "match_two": [
+                      0,
+                      1
+                  ],
+                  "match_three": [
+                      2,
+                      0
+                  ],
+                  "match_four": [
+                      1,
+                      1
+                  ],
+                  "match_five": [
+                      3,
+                      0
+                  ],
+                  "match_six": [
+                      0,
+                      2
+                  ],
+                  "match_seven": [
+                      1,
+                      0
+                  ],
+                  "match_one": [
+                      0,
+                      1
+                  ]
+              },
+              "x_goals": {
+                  "match_two": [
+                      0.15,
+                      1.21
+                  ],
+                  "match_three": [
+                      1.54,
+                      0.57
+                  ],
+                  "match_four": [
+                      0.49,
+                      0.32
+                  ],
+                  "match_five": [
+                      1.23,
+                      0.88
+                  ],
+                  "match_six": [
+                      0.75,
+                      2.24
+                  ],
+                  "match_seven": [
+                      1.70,
+                      0.67
+                  ],
+                  "match_one": [
+                      2.01,
+                      1.58
+                  ]
+              },
+              "corners": {
+                  "match_two": [
+                      2,
+                      6
+                  ],
+                  "match_three": [
+                      5,
+                      4
+                  ],
+                  "match_four": [
+                      3,
+                      1
+                  ],
+                  "match_five": [
+                      5,
+                      7
+                  ],
+                  "match_six": [
+                      4,
+                      4
+                  ],
+                  "match_seven": [
+                      6,
+                      7
+                  ],
+                  "match_one": [
+                      3,
+                      3
+                  ]
+              },
+              "fouls": {
+                  "match_two": [
+                      10,
+                      10
+                  ],
+                  "match_three": [
+                      12,
+                      8
+                  ],
+                  "match_four": [
+                      16,
+                      18
+                  ],
+                  "match_five": [
+                      6,
+                      15
+                  ],
+                  "match_six": [
+                      11,
+                      17
+                  ],
+                  "match_seven": [
+                      7,
+                      15
+                  ],
+                  "match_one": [
+                      8,
+                      7
+                  ]
+              },
+              "HT_cards": {
+                  "match_two": [
+                      0,
+                      0
+                  ],
+                  "match_three": [
+                      1,
+                      1
+                  ],
+                  "match_four": [
+                      0,
+                      0
+                  ],
+                  "match_five": [
+                      0,
+                      1
+                  ],
+                  "match_six": [
+                      0,
+                      1
+                  ],
+                  "match_seven": [
+                      1,
+                      0
+                  ],
+                  "match_one": [
+                      0,
+                      1
+                  ]
+              },
+              "FT_cards": {
+                  "match_two": [
+                      1,
+                      0
+                  ],
+                  "match_three": [
+                      3,
+                      2
+                  ],
+                  "match_four": [
+                      1,
+                      3
+                  ],
+                  "match_five": [
+                      0,
+                      3
+                  ],
+                  "match_six": [
+                      1,
+                      2
+                  ],
+                  "match_seven": [
+                      1,
+                      4
+                  ],
+                  "match_one": [
+                      0,
+                      3
+                  ]
+              }
+          }
+      
+      
+      },
+        "prediction": {
+            "cards": {
+                "discuss": "",
+                "ht": null,
+                "ft": null
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Under 10.5 FT total corners \n-\n- The averages, Home and Away: are all below 8.5. \n Low variability in corners and weak form in winning corners suggest a lower count.",
+                "win_corners": null
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": null,
+                "FT_total_goals": "Over 1.5 goals \n\n- Most fixtures exceed at least 1.5 goals, and the statistical indicators suggest that at least two goals are highly probable given the teams' offensive and defensive tendencies."
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": null
+            }
+        }
+      },
+      
+      
+      {
+        "fixture": "Dortmund vs Union Berlin ",
+        "league": "🇩🇪 Bundesliga",
+        "day": "saturday",
+        "position": [11,13],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Dankert B.",
+          "fouls_per_tackle": 0.74,
+          "yellow_per_game": 4.00
+        },
+        "head_to_head": {
+          "win_form": [["L","W","W","W","L"],["W","L","L","L","W"]],
+          "corner_form": [["D","L","L","W","W"],["D","W","W","L","L"]],
+          "teams": {
+            "match_five": ["Union Berlin", "Dortmund"],
+            "match_one": ["Union Berlin", "Dortmund"],
+            "match_two": ["Dortmund", "Union Berlin"],
+            "match_three": ["Dortmund", "Union Berlin"],
+            "match_four": ["Union Berlin", "Dortmund"]
+          },
+          "goals": {
+            "match_five": [2,1],
+            "match_one": [0,2],
+            "match_two": [4,2],
+            "match_three": [2,1],
+            "match_four": [2,0]
+          },
+          "x_goals": {
+            "match_five": [1.57,0.95],
+            "match_one": [1.34,1.75],
+            "match_two": [1.63,1.42],
+            "match_three": [2.92,0.33],
+            "match_four": [ ]
+          },
+          "corners": {
+            "match_five": [3,3],
+            "match_one": [8,7],
+            "match_two": [4,6],
+            "match_three": [8,0],
+            "match_four": [5,8]
+          },
+          "fouls": {
+            "match_five": [15,17],
+            "match_one": [11,8],
+            "match_two": [7,15],
+            "match_three": [8,11],
+            "match_four": [15,5]
+          },
+          "HT_cards": {
+            "match_five": [2,1],
+            "match_one": [0,1],
+            "match_two": [1,0],
+            "match_three": [2,0],
+            "match_four": [1,1]
+          },
+          "FT_cards": {
+            "match_five": [4,4],
+            "match_one": [2,1],
+            "match_two": [1,1],
+            "match_three": [5,2],
+            "match_four": [1,2]
+          }
+        },
+        "home_team": {
+          "name": "Dortmund",
+          "coach": "Nuri Şahin",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/dortmund.png",
+          "playing_style": "Short passes, Control the game in the opposition's half, Ball retention, Wide play",
+          "pressing_style": " ",
+          "attacking_style": "Attacking down the left, ",
+          "defensive_style": "High Line; Use offside positioning",
+          "goal_scored_pg": 1.79,
+          "goals_concede_pg": 0.84,
+          "aggressive_players": [ ],
+          "provocative_players": [ ],
+          "win_form": ["L","L","W","D","L","L","L"],
+          "corner_form": ["W","W","W","D","W","W","W"],
+          "recent_matches": {
+              "teams": {
+                  "match_two": [
+                      "Bochum",
+                      "Dortmund"
+                  ],
+                  "match_three": [
+                      "Dortmund",
+                      "Stuttgart"
+                  ],
+                  "match_four": [
+                      "Heidenheim",
+                      "Dortmund"
+                  ],
+                  "match_five": [
+                      "Dortmund",
+                      "Werder Bremen"
+                  ],
+                  "match_six": [
+                      "E. Frankfurt",
+                      "Dortmund"
+                  ],
+                  "match_seven": [
+                      "Holstein Kiel",
+                      "Dortmund"
+                  ],
+                  "match_one": [
+                      "Dortmund",
+                      "B. Leverkusen"
+                  ]
+              },
+              "goals": {
+                  "match_two": [
+                      2,
+                      0
+                  ],
+                  "match_three": [1,2],
+                  "match_four": [
+                      1,
+                      2
+                  ],
+                  "match_five": [
+                      2,
+                      2
+                  ],
+                  "match_six": [
+                      2,
+                      0
+                  ],
+                  "match_seven": [
+                      4,
+                      2
+                  ],
+                  "match_one": [
+                      2,
+                      3
+                  ]
+              },
+              "x_goals": {
+                  "match_two": [
+                      3.00,
+                      2.47
+                  ],
+                  "match_three": [
+                      1.28,
+                      0.35
+                  ],
+                  "match_four": [
+                      0.58,
+                      2.41
+                  ],
+                  "match_five": [
+                      1.4,
+                      1.36
+                  ],
+                  "match_six": [
+                      1.87,
+                      0.84
+                  ],
+                  "match_seven": [
+                      1.56,
+                      1.06
+                  ],
+                  "match_one": [
+                      1.26,
+                      1.49
+                  ]
+              },
+              "corners": {
+                  "match_two": [
+                      2,
+                      8
+                  ],
+                  "match_three": [
+                      9,
+                      4
+                  ],
+                  "match_four": [
+                      4,
+                      5
+                  ],
+                  "match_five": [
+                      5,
+                      5
+                  ],
+                  "match_six": [
+                      5,
+                      7
+                  ],
+                  "match_seven": [
+                      1,
+                      9
+                  ],
+                  "match_one": [
+                      6,
+                      1
+                  ]
+              },
+              "fouls": {
+                  "match_two": [
+                      12,
+                      4
+                  ],
+                  "match_three": [
+                      13,
+                      14
+                  ],
+                  "match_four": [
+                      11,
+                      9
+                  ],
+                  "match_five": [
+                      11,
+                      15
+                  ],
+                  "match_six": [
+                      8,
+                      6
+                  ],
+                  "match_seven": [
+                      13,
+                      11
+                  ],
+                  "match_one": [
+                      8,
+                      6
+                  ]
+              },
+              "HT_cards": {
+                  "match_two": [
+                      0,
+                      0
+                  ],
+                  "match_three": [
+                      1,
+                      0
+                  ],
+                  "match_four": [
+                      1,
+                      1
+                  ],
+                  "match_five": [
+                      2,
+                      0
+                  ],
+                  "match_six": [
+                      0,
+                      0
+                  ],
+                  "match_seven": [
+                      0,
+                      1
+                  ],
+                  "match_one": [
+                      0,
+                      1
+                  ]
+              },
+              "FT_cards": {
+                  "match_two": [
+                      1,
+                      0
+                  ],
+                  "match_three": [
+                      6,
+                      2
+                  ],
+                  "match_four": [
+                      1,
+                      4
+                  ],
+                  "match_five": [
+                      2,
+                      4
+                  ],
+                  "match_six": [
+                      0,
+                      2
+                  ],
+                  "match_seven": [
+                      3,
+                      2
+                  ],
+                  "match_one": [
+                      1,
+                      2
+                  ]
+              }
+          }
+      
+      },
+        "away_team": {
+          "name": "Union Berlin",
+          "coach": "Bo Svensson",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/berlin.png",
+          "playing_style": "Long balls, High crossing frequency",
+          "pressing_style": " ",
+          "attacking_style": "Take long shots, Attack through the middle,Attacking down the left, High shot volume",
+          "defensive_style": "Aggressive",
+          "goal_scored_pg": 0.84,
+          "goals_concede_pg": 1.42,
+          "aggressive_players": ["Lucas Tousart","Diogo Leite","Rani Khedira"],
+          "provocative_players": [ ],
+          "win_form": ["W","W","D","L","W","L","L"],
+          "corner_form": ["L","L","L","W","D","W","L"],
+          "recent_matches": {
+              "teams": {
+                  "match_two": [
+                      "Union Berlin",
+                      "B. Monchengladbach"
+                  ],
+                  "match_three": [
+                      "Hoffenheim",
+                      "Union Berlin"
+                  ],
+                  "match_four": [
+                      "Union Berlin",
+                      "RB Leipzig"
+                  ],
+                  "match_five": [
+                      "St. Pauli",
+                      "Union Berlin"
+                  ],
+                  "match_six": [
+                      "Union Berlin",
+                      "Mainz"
+                  ],
+                  "match_seven": [
+                      "Union Berlin",
+                      "Ausgburg"
+                  ],
+                  "match_one": [
+                      "Heidenheim",
+                      "Union Berlin"
+                  ]
+              },
+              "goals": {
+                  "match_two": [
+                      1,
+                      2
+                  ],
+                  "match_three": [
+                      0,
+                      4
+                  ],
+                  "match_four": [
+                      0,
+                      0
+                  ],
+                  "match_five": [
+                      3,
+                      0
+                  ],
+                  "match_six": [
+                      2,
+                      1
+                  ],
+                  "match_seven": [
+                      0,
+                      2
+                  ],
+                  "match_one": [
+                      2,
+                      0
+                  ]
+              },
+              "x_goals": {
+                  "match_two": [
+                      2.1,
+                      2.06
+                  ],
+                  "match_three": [
+                      0.98,
+                      2.88
+                  ],
+                  "match_four": [
+                      1.37,
+                      0.24
+                  ],
+                  "match_five": [
+                      1.23,
+                      0.88
+                  ],
+                  "match_six": [
+                      2.08,
+                      1.69
+                  ],
+                  "match_seven": [
+                      0.67,
+                      1.25
+                  ],
+                  "match_one": [
+                      1.52,
+                      1.12
+                  ]
+              },
+              "corners": {
+                  "match_two": [
+                      4,
+                      5
+                  ],
+                  "match_three": [
+                      8,
+                      4
+                  ],
+                  "match_four": [
+                      4,
+                      5
+                  ],
+                  "match_five": [
+                      5,
+                      7
+                  ],
+                  "match_six": [
+                      2,
+                      2
+                  ],
+                  "match_seven": [
+                      7,
+                      4
+                  ],
+                  "match_one": [
+                      5,
+                      4
+                  ]
+              },
+              "fouls": {
+                  "match_two": [
+                      9,
+                      8
+                  ],
+                  "match_three": [
+                      9,
+                      16
+                  ],
+                  "match_four": [
+                      5,
+                      12
+                  ],
+                  "match_five": [
+                      6,
+                      15
+                  ],
+                  "match_six": [
+                      12,
+                      10
+                  ],
+                  "match_seven": [
+                      15,
+                      9
+                  ],
+                  "match_one": [
+                      8,
+                      10
+                  ]
+              },
+              "HT_cards": {
+                  "match_two": [
+                      0,
+                      0
+                  ],
+                  "match_three": [
+                      2,
+                      0
+                  ],
+                  "match_four": [
+                      1,
+                      0
+                  ],
+                  "match_five": [
+                      0,
+                      1
+                  ],
+                  "match_six": [
+                      0,
+                      0
+                  ],
+                  "match_seven": [
+                      0,
+                      1
+                  ],
+                  "match_one": [
+                      0,
+                      1
+                  ]
+              },
+              "FT_cards": {
+                  "match_two": [0,1],
+                  "match_three": [
+                      2,
+                      1
+                  ],
+                  "match_four": [
+                      3,
+                      2
+                  ],
+                  "match_five": [
+                      0,
+                      3
+                  ],
+                  "match_six": [
+                      0,
+                      0
+                  ],
+                  "match_seven": [
+                      1,
+                      2
+                  ],
+                  "match_one": [
+                      0,
+                      2
+                  ]
+              }
+          }
+      
+      },
+        "prediction": {
+            "cards": {
+                "discuss": "",
+                "ht": null,
+                "ft": null
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Over 8.5 FT total corners \n-\n- The head-to-head average and team averages for home and away teams are all above 8.5. \n Standard deviations indicate sufficient variability in corner counts, and at least one team has decent form in winning corners.",
+                "win_corners": "Dortmund to have the most corner \n\n- Dortmund has a better recent corner form, has won more than 4 recent corner battles, has an average corner total above 8, Union Berlin has won fewer than 3 recent corner battles, and Dortmund has won more than 1 head-to-head corner battle."
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": null,
+                "FT_total_goals": "Under 4.5 goals \n\n- The goal-scoring patterns suggest a controlled game with limited goal-scoring variability. \n Both teams exhibit a consistent trend of matches staying below 4.5 goals, with stable attacking and defensive performances."
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "No draw (12) \n\n- Both teams have shown a tendency to win rather than draw, and the historical matchups suggest a decisive result rather than a stalemate."
+            }
+        }
+      },
+      {
+        "fixture": "RB Leipzig vs Heidenheim",
+        "league": "🇩🇪 Bundesliga",
+        "day": "sunday",
+        "position": [4,17],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "*n/a",
+          "fouls_per_tackle": 0,
+          "yellow_per_game": 0
+        },
+        "head_to_head": {
+          "win_form": [["W","W","W"],["L","L","L"]],
+          "corner_form": [["L","W","W"],["W","L","L"]],
+          "teams": {
+            "match_five":["Heidenheim", "RB Leipzig"],
+            "match_one": ["Heidenheim", "RB Leipzig"],
+            "match_two": ["RB Leipzig", "Heidenheim"]
+          },
+          "goals": {
+            "match_five": [0,1],
+            "match_one": [1,2],
+            "match_two": [2,1]
+          },
+          "x_goals": {
+            "match_five": [1.46,1.62],
+            "match_one": [1.81,1.75],
+            "match_two": [4.14,1.29]
+          },
+          "corners": {
+            "match_five": [3,2],
+            "match_one": [2,6],
+            "match_two": [5,3]
+          },
+          "fouls": {
+            "match_five": [12,13],
+            "match_one": [14,7],
+            "match_two": [13,16]
+          },
+          "HT_cards": {
+            "match_five": [1,0],
+            "match_one": [0,1],
+            "match_two": [0,0]
+          },
+          "FT_cards": {
+            "match_five": [2,2],
+            "match_one": [3,1],
+            "match_two": [2,2]
+          }
+        },
+        "home_team": {
+          "name": "RB Leipzig",
+          "coach": "Marco Rose",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/leipzig.png",
+          "playing_style": "Short passes, Opponents play aggressively against them",
+          "pressing_style": " ",
+          "attacking_style": "Frequent through ball attempts",
+          "defensive_style": "Deep positioning",
+          "goal_scored_pg": 1.79,
+          "goals_concede_pg": 1.52,
+          "aggressive_players": [ ],
+          "provocative_players": ["Xavi Simons","Loïs Openda"],
+          "win_form": ["D","W","D","D","D","L","W","L"],
+          "corner_form": ["W","W","W","W","L","L","W","L"],
+          "recent_matches": {
+              "teams": { 
+                  "match_two": [
+                      "Augsburg",
+                      "RB Leipzig"
+                  ],
+                  "match_three": [
+                      "RB Leipzig",
+                      "St. Pauli"
+                  ],
+                  "match_four": [
+                      "Union Berlin",
+                      "RB Leipzig"
+                  ],
+                  "match_five": [
+                      "RB Leipzig",
+                      "B. Leverkusen"
+                  ],
+                  "match_six": [
+                      "Bochum",
+                      "RB Leipzig"
+                  ],
+                  "match_seven": [
+                  "Stuttgart",
+                  "RB Leipzig"
+                  ],
+                  "match_one": [
+                      "RB Leipzig",
+                      "Werder Bremen"
+                  ]
+              },
+              "goals": {
+                  "match_two": [
+                      0,
+                      0
+                  ],
+                  "match_three": [2,0],
+                  "match_four": [
+                      0,
+                      0
+                  ],
+                  "match_five": [
+                      2,
+                      2
+                  ],
+                  "match_six": [
+                      3,
+                      3
+                  ],
+                  "match_seven": [
+                      2,
+                      1
+                  ],
+                  "match_one": [
+                      4,
+                      2
+                  ]
+              },
+              "x_goals": {
+                  "match_two": [
+                      1.04,
+                      1.27
+                  ],
+                  "match_three": [
+                      1.54,
+                      0.57
+                  ],
+                  "match_four": [
+                      1.37,
+                      0.24
+                  ],
+                  "match_five": [
+                      0.7,
+                      2.41
+                  ],
+                  "match_six": [
+                      2.67,
+                      2.34
+                  ],
+                  "match_seven": [
+                      2.33,
+                      0.93
+                  ],
+                  "match_one": [
+                      1.63,
+                      1.31
+                  ]
+              },
+              "corners": {
+                  "match_two": [
+                      8,
+                      9
+                  ],
+                  "match_three": [
+                      5,
+                      4
+                  ],
+                  "match_four": [
+                      4,
+                      5
+                  ],
+                  "match_five": [
+                      7,
+                      3
+                  ],
+                  "match_six": [
+                      6,
+                      3
+                  ],
+                  "match_seven": [
+                      5,
+                      0
+                  ],
+                  "match_one": [
+                      4,
+                      1
+                  ]
+              },
+              "fouls": {
+                  "match_two": [
+                      12,
+                      12
+                  ],
+                  "match_three": [
+                      12,
+                      8
+                  ],
+                  "match_four": [
+                      5,
+                      12
+                  ],
+                  "match_five": [
+                      12,
+                      6
+                  ],
+                  "match_six": [
+                      14,
+                      7
+                  ],
+                  "match_seven": [
+                      10,
+                      19
+                  ],
+                  "match_one": [
+                      7,
+                      12
+                  ]
+              },
+              "HT_cards": {
+                  "match_two": [
+                      1,
+                      0
+                  ],
+                  "match_three": [
+                      1,
+                      1
+                  ],
+                  "match_four": [
+                      1,
+                      0
+                  ],
+                  "match_five": [
+                      0,
+                      2
+                  ],
+                  "match_six": [
+                      2,
+                      0
+                  ],
+                  "match_seven": [
+                      1,
+                      2
+                  ],
+                  "match_one": [
+                      0,
+                      1
+                  ]
+              },
+              "FT_cards": {
+                  "match_two": [
+                      2,
+                      1
+                  ],
+                  "match_three": [
+                      3,
+                      2
+                  ],
+                  "match_four": [
+                      3,
+                      2
+                  ],
+                  "match_five": [
+                      2,
+                      2
+                  ],
+                  "match_six": [
+                      4,
+                      0
+                  ],
+                  "match_seven": [
+                      2,
+                      9
+                  ],
+                  "match_one": [
+                      1,
+                      1
+                  ]
+              }
+          }
+      
+      
+      },
+        "away_team": {
+          "name": "Heidenheim",
+          "coach": "Pellegrino Matarazzo",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/heidenheim.png",
+          "playing_style": "Long balls; Deep positioning",
+          "pressing_style": " ",
+          "attacking_style": "Attacking down the right",
+          "defensive_style": " ",
+          "goal_scored_pg": 1.26,
+          "goals_concede_pg": 2.11,
+          "aggressive_players": ["Tim Kleindienst","Benedikt Gimber","Lennard Maloney"],
+          "provocative_players": [ ],
+          "win_form": ["L","L","L","L","L","D","W"],
+          "corner_form": ["W","L","L","L","D","L","W"],
+          "recent_matches": {
+              "teams": {
+                  "match_two": [
+                      "Heidenheim",
+                      "Mainz"
+                  ],
+                  "match_three": [
+                      "Freiburg",
+                      "Heidenheim"
+                  ],
+                  "match_four": [
+                      "Heidenheim",
+                      "Dortmund"
+                  ],
+                  "match_five": [
+                      "Augsburg",
+                      "Heidenheim"
+                  ],
+                  "match_six": [
+                      "Heidenheim",
+                      "St. Pauli"
+                  ],
+                  "match_seven": [
+                      "Werder Bremen",
+                      "Heidenheim"
+                  ],
+                  "match_one": [
+                      "Heidenheim",
+                      "Union Berlin"
+                  ]
+              },
+              "goals": {
+                  "match_two": [
+                      0,
+                      2
+                  ],
+                  "match_three": [
+                      1,
+                      0
+                  ],
+                  "match_four": [
+                      1,
+                      2
+                  ],
+                  "match_five": [
+                      2,
+                      1
+                  ],
+                  "match_six": [
+                      0,
+                      2
+                  ],
+                  "match_seven": [
+                      3,
+                      3
+                  ],
+                  "match_one": [
+                      2,
+                      0
+                  ]
+              },
+              "x_goals": {
+                  "match_two": [
+                      0.76,
+                      2.15
+                  ],
+                  "match_three": [
+                      0.94,
+                      0.52
+                  ],
+                  "match_four": [
+                      0.58,
+                      2.41
+                  ],
+                  "match_five": [
+                      1.09,
+                      1.01
+                  ],
+                  "match_six": [
+                      0.75,
+                      2.24
+                  ],
+                  "match_seven": [
+                      1.59,
+                      0.67
+                  ],
+                  "match_one": [
+                      1.52,
+                      1.12
+                  ]
+              },
+              "corners": {
+                  "match_two": [
+                      8,
+                      4
+                  ],
+                  "match_three": [
+                      6,
+                      3
+                  ],
+                  "match_four": [
+                      4,
+                      5
+                  ],
+                  "match_five": [
+                      6,
+                      4
+                  ],
+                  "match_six": [
+                      4,
+                      4
+                  ],
+                  "match_seven": [
+                      4,
+                      2
+                  ],
+                  "match_one": [
+                      5,
+                      4
+                  ]
+              },
+              "fouls": {
+                  "match_two": [
+                      9,
+                      16
+                  ],
+                  "match_three": [
+                      11,
+                      8
+                  ],
+                  "match_four": [
+                      11,
+                      9
+                  ],
+                  "match_five": [
+                      8,
+                      9
+                  ],
+                  "match_six": [
+                      11,
+                      17
+                  ],
+                  "match_seven": [
+                      10,
+                      15
+                  ],
+                  "match_one": [
+                      8,
+                      10
+                  ]
+              },
+              "HT_cards": {
+                  "match_two": [
+                      0,
+                      0
+                  ],
+                  "match_three": [
+                      1,
+                      1
+                  ],
+                  "match_four": [
+                      1,
+                      1
+                  ],
+                  "match_five": [
+                      0,
+                      0
+                  ],
+                  "match_six": [
+                      0,
+                      1
+                  ],
+                  "match_seven": [
+                      0,
+                      1
+                  ],
+                  "match_one": [
+                      0,
+                      1
+                  ]
+              },
+              "FT_cards": {
+                  "match_two": [
+                      1,
+                      3
+                  ],
+                  "match_three": [
+                      3,
+                      1
+                  ],
+                  "match_four": [
+                      1,
+                      4
+                  ],
+                  "match_five": [
+                      1,
+                      0
+                  ],
+                  "match_six": [
+                      1,
+                      2
+                  ],
+                  "match_seven": [
+                      6,
+                      3
+                  ],
+                  "match_one": [
+                      0,
+                      2
+                  ]
+              }
+          }
+      },
+        "prediction": {
+            "cards": {
+                "discuss": "",
+                "ht": "Awaiting referee data",
+                "ft": "Awaiting referee data"
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": null,
+                "win_corners": "RB Leipzig to have the most corner \n\n- RB Leipzig has a better recent corner form, has won more than 4 recent corner battles, has an average corner total above 8, Heidenheim has won fewer than 3 recent corner battles, and RB Leipzig has won more than 1 head-to-head corner battle."
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": null,
+                "FT_total_goals": "Under 4.5 goals \n\n- The goal-scoring patterns suggest a controlled game with limited goal-scoring variability. \n Both teams exhibit a consistent trend of matches staying below 4.5 goals, with stable attacking and defensive performances."
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "Home win or draw (1X) \n\n- RB Leipzig has a favorable head-to-head advantage and fewer losses, suggesting they are more likely to secure at least a draw."
+            }
+        }
+      },
+      {
+        "fixture": "B. Munich vs Frankfurt",
+        "league": "🇩🇪 Bundesliga",
+        "day": "sunday",
+        "position": [1,3],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "*n/a",
+          "fouls_per_tackle": 0,
+          "yellow_per_game": 0
+        },
+        "head_to_head": {
+          "win_form": [["D","W","L","D","W"],["D","L","W","D","L"]],
+          "corner_form": [["W","W","W","W","W"],["L","L","L","L","L"]],
+          "teams": {
+            "match_five": ["Frankfurt", "B. Munich"],
+            "match_one": ["B. Munich", "Frankfurt"],
+            "match_two": ["Frankfurt", "B. Munich"],
+            "match_three": ["B. Munich", "Frankfurt"],
+            "match_four": ["Frankfurt", "B. Munich"]
+          },
+          "goals": {
+            "match_five": [3,3],
+            "match_one": [2,1],
+            "match_two": [5,1],
+            "match_three": [1,1],
+            "match_four": [1,6]
+          },
+          "x_goals": {
+            "match_five": [0.89,2.25],
+            "match_one": [3.82,0.46],
+            "match_two": [1.61,1.97],
+            "match_three": [ ],
+            "match_four": [ ]
+          },
+          "corners": {
+            "match_five": [0,11],
+            "match_one": [4,2],
+            "match_two": [1,9],
+            "match_three": [7,6],
+            "match_four": [5,6]
+          },
+          "fouls": {
+            "match_five": [10,6],
+            "match_one": [11,7],
+            "match_two": [8,7],
+            "match_three": [6,4],
+            "match_four": [9,11]
+          },
+          "HT_cards": {
+            "match_five": [0,1],
+            "match_one": [0,0],
+            "match_two": [0,1],
+            "match_three": [2,0],
+            "match_four": [0,0]
+          },
+          "FT_cards": {
+            "match_five": [1,1],
+            "match_one": [0,3],
+            "match_two": [1,2],
+            "match_three": [3,1],
+            "match_four": [2,0]
+          }
+        },
+        "home_team": {
+          "name": "B. Munich",
+          "coach": "Vincent Kompany",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/bayern.png",
+          "playing_style": "Short passes, Ball retention",
+          "pressing_style": " ",
+          "attacking_style": "Attack through the middle",
+          "defensive_style": " ",
+          "goal_scored_pg": 3.05,
+          "goals_concede_pg": 0.84,
+          "aggressive_players": [ ],
+          "provocative_players": ["Jamal Musiala"],
+          "win_form": ["D","W","W","W","W","W","W"],
+          "corner_form": ["L","W","W","W","W","w","W"],
+          "recent_matches": {
+              "teams": {
+                  "match_two": [
+                      "B. Leverkusen",
+                      "Bayern Munich"
+                  ],
+                  "match_three": [
+                      "Bayern Munich",
+                      "Werder Bremen"
+                  ],
+                  "match_four": [
+                      "Bayern Munich",
+                      "Holstein Kiel"
+                  ],
+                  "match_five": [
+                      "Freiburg",
+                      "Bayern Munich"
+                  ],
+                  "match_six": [
+                      "Bayern Munich",
+                      "Wolfsburg"
+                  ],
+                  "match_seven": [
+                  "Bayern Munich",
+                  "Hoffenheim"
+                  ],
+                  "match_one": [
+                      "B. Monchengladbach",
+                      "Bayern Munich"
+                  ]
+              },
+              "goals": {
+                  "match_two": [
+                      0,
+                      0
+                  ],
+                  "match_three": [
+                      3,
+                      0
+                  ],
+                  "match_four": [
+                      4,
+                      3
+                  ],
+                  "match_five": [
+                      1,
+                      2
+                  ],
+                  "match_six": [
+                      3,
+                      2
+                  ],
+                  "match_seven": [
+                      5,
+                      0
+                  ],
+                  "match_one": [
+                      0,
+                      1
+                  ]
+              },
+              "x_goals": {
+                  "match_two": [
+                      2.19,
+                      0.04
+                  ],
+                  "match_three": [
+                      4.12,
+                      0.13
+                  ],
+                  "match_four": [
+                      3.5,
+                      1.88
+                  ],
+                  "match_five": [
+                      0.35,
+                      0.54
+                  ],
+                  "match_six": [
+                      2.87,
+                      0.59
+                  ],
+                  "match_seven": [
+                      3.35,
+                      0.37
+                  ],
+                  "match_one": [
+                      0.39,
+                      3.27
+                  ]
+              },
+              "corners": {
+                  "match_two": [
+                      6,
+                      0
+                  ],
+                  "match_three": [
+                      5,
+                      2
+                  ],
+                  "match_four": [
+                      12,
+                      1
+                  ],
+                  "match_five": [
+                      2,
+                      4
+                  ],
+                  "match_six": [
+                      6,
+                      2
+                  ],
+                  "match_seven": [
+                      13,
+                      1
+                  ],
+                  "match_one": [
+                      4,
+                      10
+                  ]
+              },
+              "fouls": {
+                  "match_two": [
+                      16,
+                      13
+                  ],
+                  "match_three": [
+                      9,
+                      8
+                  ],
+                  "match_four": [
+                      7,
+                      10
+                  ],
+                  "match_five": [
+                      15,
+                      9
+                  ],
+                  "match_six": [
+                      10,
+                      9
+                  ],
+                  "match_seven": [
+                      8,
+                      10
+                  ],
+                  "match_one": [
+                      10,
+                      7
+                  ]
+              },
+              "HT_cards": {
+                  "match_two": [
+                      1,
+                      1
+                  ],
+                  "match_three": [
+                      0,
+                      0
+                  ],
+                  "match_four": [
+                      0,
+                      0
+                  ],
+                  "match_five": [
+                      0,
+                      0
+                  ],
+                  "match_six": [
+                      0,
+                      1
+                  ],
+                  "match_seven": [
+                      0,
+                      0
+                  ],
+                  "match_one": [
+                      0,
+                      0
+                  ]
+              },
+              "FT_cards": {
+                  "match_two": [
+                      2,
+                      3
+                  ],
+                  "match_three": [
+                      0,
+                      0
+                  ],
+                  "match_four": [
+                      1,
+                      1
+                  ],
+                  "match_five": [
+                      4,
+                      2
+                  ],
+                  "match_six": [
+                      2,
+                      3
+                  ],
+                  "match_seven": [
+                      1,
+                      1
+                  ],
+                  "match_one": [
+                      3,
+                      1
+                  ]
+              }
+          }
+      
+      
+      },
+        "away_team": {
+          "name": "Frankfurt",
+          "coach": "Dino Toppmöller",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/frankfurt.png",
+          "playing_style": " ",
+          "pressing_style": " ",
+          "attacking_style": "Frequent through ball attempts, Attacking down the right, High shot volume",
+          "defensive_style": "Non-aggressive",
+          "goal_scored_pg": 2.3,
+          "goals_concede_pg": 1.37,
+          "aggressive_players": ["Junior Dina Ebimbe"],
+          "provocative_players": ["Omar Marmoush"],
+          "win_form": ["W","D","D","D","W","W","W"],
+          "corner_form": ["L","L","W","L","L","W","D"],
+          "recent_matches": {
+              "teams": {
+                  "match_two": [
+                      "E. Frankfurt",
+                      "Holstein Kiel"
+                  ],
+                  "match_three": [
+                      "B. Monchengladbach",
+                      "E. Frantfurt"
+                  ],
+                  "match_four": [
+                      "E. Frankfurt",
+                      "Wolfsburg"
+                  ],
+                  "match_five": [
+                      "Hoffenheim",
+                      "E. Frankfurt"
+                  ],
+                  "match_six": [
+                      "E. Frankfurt",
+                      "Dortmund"
+                  ],
+                  "match_seven": [
+                      "E. Frankfurt",
+                      "Freiburg"
+                  ],
+                  "match_one": [
+                      "St. Pauli",
+                      "E. Frankfurt"
+                  ]
+              },
+              "goals": {
+                  "match_two": [
+                      3,
+                      1
+                  ],
+                  "match_three": [
+                      1,
+                      1
+                  ],
+                  "match_four": [
+                      1,
+                      1
+                  ],
+                  "match_five": [
+                      2,
+                      2
+                  ],
+                  "match_six": [
+                      2,
+                      0
+                  ],
+                  "match_seven": [
+                      4,
+                      1
+                  ],
+                  "match_one": [
+                      0,
+                      1
+                  ]
+              },
+              "x_goals": {
+                  "match_two": [
+                      2.47,
+                      1.47
+                  ],
+                  "match_three": [
+                      0.43,
+                      2.17
+                  ],
+                  "match_four": [
+                      1.28,
+                      1.21
+                  ],
+                  "match_five": [
+                      2.12,
+                      2.44
+                  ],
+                  "match_six": [
+                      1.87,
+                      0.84
+                  ],
+                  "match_seven": [
+                      2.09,
+                      0.49
+                  ],
+                  "match_one": [
+                      2.01,
+                      1.58
+                  ]
+              },
+              "corners": {
+                  "match_two": [
+                      4,
+                      6
+                  ],
+                  "match_three": [
+                      6,
+                      1
+                  ],
+                  "match_four": [
+                      9,
+                      1
+                  ],
+                  "match_five": [
+                      9,
+                      3
+                  ],
+                  "match_six": [
+                      5,
+                      7
+                  ],
+                  "match_seven": [
+                      8,
+                      1
+                  ],
+                  "match_one": [
+                      3,
+                      3
+                  ]
+              },
+              "fouls": {
+                  "match_two": [
+                      16,
+                      10
+                  ],
+                  "match_three": [
+                      10,
+                      9
+                  ],
+                  "match_four": [
+                      8,
+                      8
+                  ],
+                  "match_five": [
+                      16,
+                      8
+                  ],
+                  "match_six": [
+                      8,
+                      6
+                  ],
+                  "match_seven": [
+                      8,
+                      11
+                  ],
+                  "match_one": [
+                      8,
+                      7
+                  ]
+              },
+              "HT_cards": {
+                  "match_two": [
+                      0,
+                      0
+                  ],
+                  "match_three": [
+                      1,
+                      2
+                  ],
+                  "match_four": [
+                      0,
+                      1
+                  ],
+                  "match_five": [
+                      0,
+                      0
+                  ],
+                  "match_six": [
+                      0,
+                      0
+                  ],
+                  "match_seven": [
+                      0,
+                      1
+                  ],
+                  "match_one": [
+                      0,
+                      1
+                  ]
+              },
+              "FT_cards": {
+                  "match_two": [
+                      2,
+                      0
+                  ],
+                  "match_three": [
+                      3,
+                      3
+                  ],
+                  "match_four": [
+                      1,
+                      3
+                  ],
+                  "match_five": [
+                      3,
+                      0
+                  ],
+                  "match_six": [
+                      0,
+                      2
+                  ],
+                  "match_seven": [
+                      1,
+                      1
+                  ],
+                  "match_one": [
+                      0,
+                      3
+                  ]
+              }
+          }
+      
+      },
+        "prediction": {
+            "cards": {
+                "discuss": "",
+                "ht": "Awaiting referee data",
+                "ft": "Awaiting referee data"
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Over 8.5 FT total corners \n-\n- The head-to-head average and team averages for home and away teams are all above 8.5. \n Standard deviations indicate sufficient variability in corner counts, and at least one team has decent form in winning corners.",
+                "win_corners": "B. Munich to have the most corner \n\n- B. Munich has a better head-to-head corner form, a better recent corner form, has won more than 3 recent corner battles, has won more than 2 head-to-head corner battles, and has an average corner total above 8."
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": null,
+                "FT_total_goals": "Over 1.5 goals \n\n- Most fixtures exceed at least 1.5 goals, and the statistical indicators suggest that at least two goals are highly probable given the teams' offensive and defensive tendencies."
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "Home win or draw (1X) \n\n- B. Munich has a superior head-to-head record and has been in better recent form, winning more games than Frankfurt. \n Their ability to secure results at home strengthens their case for avoiding defeat."
+            }
+        }
+      },
+      {
+        "fixture": "Hoffenheim vs Stuttgart",
+        "league": "🇩🇪 Bundesliga",
+        "day": "sunday",
+        "position": [15,7],
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "*n/a",
+          "fouls_per_tackle": 0,
+          "yellow_per_game": 0
+        },
+        "head_to_head": {
+          "win_form": [["D","L","W","D","D"],["D","W","L","D","D"]],
+          "corner_form": [["D","L","L","L","W"],["D","W","W","W","L"]],
+          "teams": {
+            "match_five": ["Stuttgart", "Hoffenheim"],
+            "match_one": ["Hoffenheim", "Stuttgart"],
+            "match_two": ["Stuttgart", "Hoffenheim"],
+            "match_three": ["Stuttgart", "Hoffenheim"],
+            "match_four": ["Hoffenheim", "Stuttgart"]
+          },
+          "goals": {
+            "match_five": [1,1],
+            "match_one": [0,3],
+            "match_two": [2,3],
+            "match_three": [1,1],
+            "match_four": [2,2]
+          },
+          "x_goals": {
+            "match_five": [3.12,0.86],
+            "match_one": [0.26,3.43],
+            "match_two": [3.61,1.75],
+            "match_three": [2.58,0.82],
+            "match_four": [ ]
+          },
+          "corners": {
+            "match_five": [10,5],
+            "match_one": [5,6],
+            "match_two": [6,0],
+            "match_three": [9,2],
+            "match_four": [6,4]
+          },
+          "fouls": {
+            "match_five": [10,7],
+            "match_one": [8,12],
+            "match_two": [13,11],
+            "match_three": [12,10],
+            "match_four": [12,4]
+          },
+          "HT_cards": {
+            "match_five": [1,1],
+            "match_one": [1,0],
+            "match_two": [1,1],
+            "match_three": [0,0],
+            "match_four": [0,0]
+          },
+          "FT_cards": {
+            "match_five": [1,4],
+            "match_one": [1,0],
+            "match_two": [2,1],
+            "match_three": [0,0],
+            "match_four": [1,4]
+          }
+        },
+        "home_team": {
+          "name": "Hoffenheim",
+          "coach": "Pellegrino Matarazzo ",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/hoffenheim.png",
+          "playing_style": "Control the game in the opposition's half, Wide play",
+          "pressing_style": " ",
+          "attacking_style": "High crossing frequency, Frequent through ball attempts, Take long shots",
+          "defensive_style": " ",
+      
+          "goal_scored_pg": 1.32,
+          "goals_concede_pg": 2.05,
+          "aggressive_players": [ ],
+          "provocative_players": ["Jan-Niklas Beste"],
+          "win_form": ["W","L","L","D","W","L","L"],
+          "corner_form": ["L","W","D","W","L","L","L"],
+          "recent_matches": {
+              "teams": {
+                  "match_two": [
+                      "Werder Bremen",
+                      "Hoffenheim"
+                  ],
+                  "match_three": [
+                      "Hoffenheim",
+                      "Union Berlin"
+                  ],
+                  "match_four": [
+                      "B. Leverkusen",
+                      "Hoffenheim"
+                  ],
+                  "match_five": [
+                      "Hoffenheim",
+                      "E. Frankfurt"
+                  ],
+                  "match_six": [
+                      "Holstein Kiel",
+                      "Hoffenheim"
+                  ],
+                  "match_seven": [
+                  "Bayern Munich",
+                  "Hoffenheim"
+                  ],
+                  "match_one": [
+                      "Hoffenheim",
+                      "Wolfsburg"
+                  ]
+              },
+              "goals": {
+                  "match_two": [
+                      1,
+                      3
+                  ],
+                  "match_three": [
+                      0,
+                      4
+                  ],
+                  "match_four": [
+                      3,
+                      1
+                  ],
+                  "match_five": [
+                      2,
+                      2
+                  ],
+                  "match_six": [
+                      1,
+                      3
+                  ],
+                  "match_seven": [
+                      5,
+                      0
+                  ],
+                  "match_one": [
+                      0,
+                      1
+                  ]
+              },
+              "x_goals": {
+                  "match_two": [
+                      1.14,
+                      1.40
+                  ],
+                  "match_three": [
+                      0.98,
+                      2.88
+                  ],
+                  "match_four": [
+                      1.53,
+                      2.09
+                  ],
+                  "match_five": [
+                      2.12,
+                      2.44
+                  ],
+                  "match_six": [
+                      1.11,
+                      0.85
+                  ],
+                  "match_seven": [
+                      3.35,
+                      0.37
+                  ],
+                  "match_one": [
+                      1.02,
+                      0.91
+                  ]
+              },
+              "corners": {
+                  "match_two": [
+                      6,
+                      4
+                  ],
+                  "match_three": [
+                      8,
+                      4
+                  ],
+                  "match_four": [
+                      3,
+                      3
+                  ],
+                  "match_five": [
+                      9,
+                      3
+                  ],
+                  "match_six": [
+                      4,
+                      3
+                  ],
+                  "match_seven": [
+                      13,
+                      1
+                  ],
+                  "match_one": [
+                      4,
+                      8
+                  ]
+              },
+              "fouls": {
+                  "match_two": [
+                      14,
+                      12
+                  ],
+                  "match_three": [
+                      9,
+                      16
+                  ],
+                  "match_four": [
+                      14,
+                      7
+                  ],
+                  "match_five": [
+                      16,
+                      8
+                  ],
+                  "match_six": [
+                      13,
+                      14
+                  ],
+                  "match_seven": [
+                      8,
+                      10
+                  ],
+                  "match_one": [
+                      15,
+                      14
+                  ]
+              },
+              "HT_cards": {
+                  "match_two": [
+                      1,
+                      0
+                  ],
+                  "match_three": [
+                      2,
+                      0
+                  ],
+                  "match_four": [
+                      1,
+                      1
+                  ],
+                  "match_five": [
+                      0,
+                      0
+                  ],
+                  "match_six": [
+                      0,
+                      1
+                  ],
+                  "match_seven": [
+                      0,
+                      0
+                  ],
+                  "match_one": [
+                      0,
+                      1
+                  ]
+              },
+              "FT_cards": {
+                  "match_two": [
+                      2,
+                      3
+                  ],
+                  "match_three": [
+                      2,
+                      1
+                  ],
+                  "match_four": [
+                      5,
+                      3
+                  ],
+                  "match_five": [
+                      3,
+                      0
+                  ],
+                  "match_six": [
+                      2,
+                      1
+                  ],
+                  "match_seven": [
+                      1,
+                      1
+                  ],
+                  "match_one": [
+                      1,
+                      2
+                  ]
+              }
+          }
+      
+      },
+        "away_team": {
+          "name": "Stuttgart",
+          "coach": "Sebastian Hoeneß",
+          "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/bundesliga/stuttgart.png",
+          "playing_style": "Ball retention, Short passes, ",
+          "pressing_style": " ",
+          "attacking_style": "Attacking down the left, Attack through the middle, ",
+          "defensive_style": "High Line; Use offside positioning",
+          "goal_scored_pg": 1.89,
+          "goals_concede_pg": 1.4,
+          "aggressive_players": [ ],
+          "provocative_players": ["Serhou Guirassy","Atakan Karazor"],
+          "win_form": ["L","W","L","L","W","W","W"],
+          "corner_form": ["W","L","W","L","W","W","W"],
+          "recent_matches": {
+              "teams": {
+                  "match_two": [
+                      "Stuttgart",
+                      "Wolfsburg"
+                  ],
+                  "match_three": [
+                      "Dortmund",
+                      "Stuttgart"
+                  ],
+                  "match_four": [
+                      "Stuttgart",
+                      "B. Monchengladbach"
+                  ],
+                  "match_five": [
+                      "Mainz",
+                      "Stuttgart"
+                  ],
+                  "match_six": [
+                      "Stuttgart",
+                      "Freiburg"
+                  ],
+                  "match_seven": [
+                      "Stuttgart",
+                      "RB Leipzig"
+                  ],
+                  "match_one": [
+                      "Augsburg",
+                      "Stuttgart"
+                  ]
+              },
+              "goals": { 
+                  "match_two": [
+                      1,
+                      2
+                  ],
+                  "match_three": [1,2],
+                  "match_four": [
+                      1,
+                      2
+                  ],
+                  "match_five": [
+                      2,
+                      0
+                  ],
+                  "match_six": [
+                      4,
+                      0
+                  ],
+                  "match_seven": [
+                      2,
+                      1
+                  ],
+                  "match_one": [
+                      0,
+                      1
+                  ]
+              },
+              "x_goals": {
+                  "match_two": [
+                      0.82,
+                      1.65
+                  ],
+                  "match_three": [
+                      1.28,
+                      0.35
+                  ],
+                  "match_four": [
+                      1.16,
+                      1.7
+                  ],
+                  "match_five": [
+                      1.89,
+                      1.08
+                  ],
+                  "match_six": [
+                      2.08,
+                      0.32
+                  ],
+                  "match_seven": [
+                      2.33,
+                      0.93
+                  ],
+                  "match_one": [
+                      0.22,
+                      2.57
+                  ]
+              },
+              "corners": {
+                  "match_two": [
+                      7,
+                      5
+                  ],
+                  "match_three": [
+                      9,
+                      4
+                  ],
+                  "match_four": [
+                      2,
+                      0
+                  ],
+                  "match_five": [
+                      9,
+                      2
+                  ],
+                  "match_six": [
+                      4,
+                      1
+                  ],
+                  "match_seven": [
+                      5,
+                      0
+                  ],
+                  "match_one": [
+                      3,
+                      9
+                  ]
+              },
+              "fouls": {
+                  "match_two": [
+                      10,
+                      15
+                  ],
+                  "match_three": [
+                      13,
+                      14
+                  ],
+                  "match_four": [
+                      11,
+                      11
+                  ],
+                  "match_five": [
+                      12,
+                      8
+                  ],
+                  "match_six": [
+                      8,
+                      12
+                  ],
+                  "match_seven": [
+                      10,
+                      19
+                  ],
+                  "match_one": [
+                      11,
+                      14
+                  ]
+              },
+              "HT_cards": {
+                  "match_two": [
+                      2,
+                      2
+                  ],
+                  "match_three": [
+                      1,
+                      0
+                  ],
+                  "match_four": [
+                      0,
+                      1
+                  ],
+                  "match_five": [
+                      4,
+                      0
+                  ],
+                  "match_six": [
+                      2,
+                      2
+                  ],
+                  "match_seven": [
+                      1,
+                      2
+                  ],
+                  "match_one": [
+                      2,
+                      0
+                  ]
+              },
+              "FT_cards": {
+                  "match_two": [
+                      3,
+                      4
+                  ],
+                  "match_three": [
+                      6,
+                      2
+                  ],
+                  "match_four": [
+                      2,
+                      2
+                  ],
+                  "match_five": [
+                      4,
+                      3
+                  ],
+                  "match_six": [
+                      5,
+                      3
+                  ],
+                  "match_seven": [
+                      2,
+                      9
+                  ],
+                  "match_one": [
+                      5,
+                      1
+                  ]
+              }
+          }
+      
+      },
+        "prediction": {
+            "cards": {
+                "discuss": "",
+                "ht": "Awaiting referee data",
+                "ft": "Awaiting referee data"
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Over 8.5 FT total corners \n-\n- The head-to-head average and team averages for home and away teams are all above 8.5. \n Standard deviations indicate sufficient variability in corner counts, and at least one team has decent form in winning corners.",
+                "win_corners": "Stuttgart to have the most corner \n\n- Stuttgart has a better head-to-head corner form, a better recent corner form, has won more than 3 recent corner battles, has won more than 2 head-to-head corner battles, and has an average corner total above 8."
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": "Both teams to score - Yes \n\n- (BTTS occurred in at least 60% of head-to-head, home, and away games. Both teams tend to score and concede regularly.)",
+                "FT_total_goals": "Under 4.5 goals \n\n- The goal-scoring patterns suggest a controlled game with limited goal-scoring variability. \n Both teams exhibit a consistent trend of matches staying below 4.5 goals, with stable attacking and defensive performances."
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "Away win or draw (X2) \n\n- Stuttgart has a higher league position, indicating stronger overall performance, and has also shown better recent form."
+            }
+        }
+      }
+]

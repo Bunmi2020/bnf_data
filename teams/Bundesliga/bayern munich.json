@@ -10,10 +10,14 @@
     "goals_concede_pg": 0.84,
     "aggressive_players": [ ],
     "provocative_players": ["Jamal Musiala"],
-    "win_form": ["W","W","W","W","W","W","W"],
-    "corner_form": ["W","W","W","W","w","W","W"],
+    "win_form": ["D","W","W","W","W","W","W"],
+    "corner_form": ["L","W","W","W","W","w","W"],
     "recent_matches": {
         "teams": {
+            "match_two": [
+                "B. Leverkusen",
+                "Bayern Munich"
+            ],
             "match_three": [
                 "Bayern Munich",
                 "Werder Bremen"
@@ -37,13 +41,13 @@
             "match_one": [
                 "B. Monchengladbach",
                 "Bayern Munich"
-            ],
-            "match_two": [
-                "Bayern Munich",
-                "RB Leipzig"
             ]
         },
         "goals": {
+            "match_two": [
+                0,
+                0
+            ],
             "match_three": [
                 3,
                 0
@@ -67,13 +71,13 @@
             "match_one": [
                 0,
                 1
-            ],
-            "match_two": [
-                5,
-                1
             ]
         },
         "x_goals": {
+            "match_two": [
+                2.19,
+                0.04
+            ],
             "match_three": [
                 4.12,
                 0.13
@@ -97,13 +101,13 @@
             "match_one": [
                 0.39,
                 3.27
-            ],
-            "match_two": [
-                3.25,
-                0.34
             ]
         },
         "corners": {
+            "match_two": [
+                6,
+                0
+            ],
             "match_three": [
                 5,
                 2
@@ -127,13 +131,13 @@
             "match_one": [
                 4,
                 10
-            ],
-            "match_two": [
-                8,
-                1
             ]
         },
         "fouls": {
+            "match_two": [
+                16,
+                13
+            ],
             "match_three": [
                 9,
                 8
@@ -157,13 +161,13 @@
             "match_one": [
                 10,
                 7
-            ],
-            "match_two": [
-                9,
-                10
             ]
         },
         "HT_cards": {
+            "match_two": [
+                1,
+                1
+            ],
             "match_three": [
                 0,
                 0
@@ -187,13 +191,13 @@
             "match_one": [
                 0,
                 0
-            ],
-            "match_two": [
-                1,
-                1
             ]
         },
         "FT_cards": {
+            "match_two": [
+                2,
+                3
+            ],
             "match_three": [
                 0,
                 0
@@ -217,10 +221,6 @@
             "match_one": [
                 3,
                 1
-            ],
-            "match_two": [
-                5,
-                2
             ]
         }
     }

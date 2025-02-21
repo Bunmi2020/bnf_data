@@ -10,10 +10,14 @@
     "goals_concede_pg": 2.11,
     "aggressive_players": ["Tim Kleindienst","Benedikt Gimber","Lennard Maloney"],
     "provocative_players": [ ],
-    "win_form": ["L","L","L","L","D","W","L"],
-    "corner_form": ["L","L","L","D","L","W","L"],
+    "win_form": ["L","L","L","L","L","D","W"],
+    "corner_form": ["W","L","L","L","D","L","W"],
     "recent_matches": {
         "teams": {
+            "match_two": [
+                "Heidenheim",
+                "Mainz"
+            ],
             "match_three": [
                 "Freiburg",
                 "Heidenheim"
@@ -37,13 +41,13 @@
             "match_one": [
                 "Heidenheim",
                 "Union Berlin"
-            ],
-            "match_two": [
-                "Bochum",
-                "Heidenheim"
             ]
         },
         "goals": {
+            "match_two": [
+                0,
+                2
+            ],
             "match_three": [
                 1,
                 0
@@ -67,13 +71,13 @@
             "match_one": [
                 2,
                 0
-            ],
-            "match_two": [
-                2,
-                0
             ]
         },
         "x_goals": {
+            "match_two": [
+                0.76,
+                2.15
+            ],
             "match_three": [
                 0.94,
                 0.52
@@ -97,13 +101,13 @@
             "match_one": [
                 1.52,
                 1.12
-            ],
-            "match_two": [
-                1.41,
-                0.51
             ]
         },
         "corners": {
+            "match_two": [
+                8,
+                4
+            ],
             "match_three": [
                 6,
                 3
@@ -127,13 +131,13 @@
             "match_one": [
                 5,
                 4
-            ],
-            "match_two": [
-                5,
-                2
             ]
         },
         "fouls": {
+            "match_two": [
+                9,
+                16
+            ],
             "match_three": [
                 11,
                 8
@@ -157,13 +161,13 @@
             "match_one": [
                 8,
                 10
-            ],
-            "match_two": [
-                18,
-                15
             ]
         },
         "HT_cards": {
+            "match_two": [
+                0,
+                0
+            ],
             "match_three": [
                 1,
                 1
@@ -187,13 +191,13 @@
             "match_one": [
                 0,
                 1
-            ],
-            "match_two": [
-                1,
-                2
             ]
         },
         "FT_cards": {
+            "match_two": [
+                1,
+                3
+            ],
             "match_three": [
                 3,
                 1
@@ -217,10 +221,6 @@
             "match_one": [
                 0,
                 2
-            ],
-            "match_two": [
-                2,
-                7
             ]
         }
     }

@@ -11,11 +11,15 @@
     "goals_concede_pg": 2.3,
     "aggressive_players": ["Rabby Nzingoula", "Modibo Sagnan"],
     "provocative_players": ["Arnaud Nordin", "Teji Savanier", "Rabby Nzingoula", "Al Ta’mari"],
-    "win_form": ["L","L","W","W","L","L","D"],
-    "corner_form": ["L","L","L","L","D","W","W"],
+    "win_form": ["L","L","L","W","W","L","L"],
+    "corner_form": ["W","L","L","L","L","D","W"],
     "unavailable_attacking_players": [],
     "recent_matches": {
         "teams": {
+            "match_five": [
+                "Montpellier",
+                "Lyon"
+            ],
             "match_six": [
                 "Strasbourg",
                 "Montpellier"
@@ -39,13 +43,13 @@
             "match_four": [
                 "Lyon",
                 "Montpellier"
-            ],
-            "match_five": [
-                "Montpellier",
-                "Nice"
             ]
         },
         "goals": {
+            "match_five": [
+                1,
+                4
+            ],
             "match_six": [
                 2,
                 0
@@ -69,13 +73,13 @@
             "match_four": [
                 1,
                 0
-            ],
-            "match_five": [
-                2,
-                2
             ]
         },
         "x_goals": {
+            "match_five": [
+                1.33,
+                0.95
+            ],
             "match_six": [
                 2.61,
                 1.86
@@ -99,13 +103,13 @@
             "match_four": [
                 1.35,
                 1.17
-            ],
-            "match_five": [
-                2.23,
-                1.12
             ]
         },
         "corners": {
+            "match_five": [
+                7,
+                4
+            ],
             "match_six": [
                 6,
                 2
@@ -129,13 +133,13 @@
             "match_four": [
                 3,
                 5
-            ],
-            "match_five": [
-                9,
-                4
             ]
         },
         "fouls": {
+            "match_five": [
+                14,
+                12
+            ],
             "match_six": [
                 12,
                 12
@@ -159,13 +163,13 @@
             "match_four": [
                 8,
                 10
-            ],
-            "match_five": [
-                15,
-                13
             ]
         },
         "HT_cards": {
+            "match_five": [
+                2,
+                0
+            ],
             "match_six": [
                 0,
                 1
@@ -189,13 +193,13 @@
             "match_four": [
                 0,
                 0
-            ],
-            "match_five": [
-                0,
-                1
             ]
         },
         "FT_cards": {
+            "match_five": [
+                3,
+                1
+            ],
             "match_six": [
                 1,
                 4
@@ -217,10 +221,6 @@
                 2
             ],
             "match_four": [
-                1,
-                2
-            ],
-            "match_five": [
                 1,
                 2
             ]

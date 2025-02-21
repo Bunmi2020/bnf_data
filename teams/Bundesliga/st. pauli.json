@@ -10,10 +10,14 @@
     "goals_concede_pg": 1.1,
     "aggressive_players": [ ],
     "provocative_players": [ ],
-    "win_form": ["L","D","W","W","L","L","W"],
-    "corner_form": ["L","W","L","D","W","D","L"],
+    "win_form": ["L","L","D","W","W","L","L"],
+    "corner_form": ["L","L","W","L","D","W","D"],
     "recent_matches": {
         "teams": {
+            "match_two": [
+                "St. Pauli",
+                "Freiburg"
+            ],
             "match_three": [
                 "RB Leipzig",
                 "St. Pauli"
@@ -37,13 +41,13 @@
             "match_one": [
                 "St. Pauli",
                 "E. Frankfurt"
-            ],
-            "match_two": [
-                "Stuttgart",
-                "St. Pauli"
             ]
         },
         "goals": {
+            "match_two": [
+                0,
+                1
+            ],
             "match_three": [
                 2,
                 0
@@ -67,13 +71,13 @@
             "match_one": [
                 0,
                 1
-            ],
-            "match_two": [
-                0,
-                1
             ]
         },
         "x_goals": {
+            "match_two": [
+                0.15,
+                1.21
+            ],
             "match_three": [
                 1.54,
                 0.57
@@ -97,13 +101,13 @@
             "match_one": [
                 2.01,
                 1.58
-            ],
-            "match_two": [
-                1.76,
-                2.09
             ]
         },
         "corners": {
+            "match_two": [
+                2,
+                6
+            ],
             "match_three": [
                 5,
                 4
@@ -127,13 +131,13 @@
             "match_one": [
                 3,
                 3
-            ],
-            "match_two": [
-                9,
-                1
             ]
         },
         "fouls": {
+            "match_two": [
+                10,
+                10
+            ],
             "match_three": [
                 12,
                 8
@@ -157,13 +161,13 @@
             "match_one": [
                 8,
                 7
-            ],
-            "match_two": [
-                10,
-                11
             ]
         },
         "HT_cards": {
+            "match_two": [
+                0,
+                0
+            ],
             "match_three": [
                 1,
                 1
@@ -187,13 +191,13 @@
             "match_one": [
                 0,
                 1
-            ],
-            "match_two": [
-                0,
-                1
             ]
         },
         "FT_cards": {
+            "match_two": [
+                1,
+                0
+            ],
             "match_three": [
                 3,
                 2
@@ -217,10 +221,6 @@
             "match_one": [
                 0,
                 3
-            ],
-            "match_two": [
-                2,
-                2
             ]
         }
     }

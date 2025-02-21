@@ -1,0 +1,500 @@
+[
+    {
+        "fixture": "Osasuna vs Celta Vigo",
+        "stadium": "Estadio El Sadar",
+        "weather": "Scattered thunderstorms",
+        "pitch_condition": "Wet",
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "Munuera J.",
+          "fouls_per_tackle": 0.81,
+          "yellow_per_game": 4.28
+        },
+        "head_to_head": {
+          "teams": {
+            "match_one": ["Osasuna", "Celta Vigo"],
+            "match_two": ["Celta Vigo", "Osasuna"],
+            "match_three": ["Osasuna", "Celta Vigo"],
+            "match_four": ["Celta Vigo", "Osasuna"],
+            "match_five": ["Celta Vigo", "Osasuna"]
+          },
+          "goals": {
+            "match_one": [0,3],
+            "match_two": [0,2],
+            "match_three": [0,0],
+            "match_four": [1,2],
+            "match_five": [2,0]
+          },
+          "x_goals": {
+            "match_one": [1.17,1.17],
+            "match_two": [0.85,1.21],
+            "match_three": [0.55,0.25],
+            "match_four": [ ],
+            "match_five": [ ]
+          },
+          "corners": {
+            "match_one": [9,1],
+            "match_two": [7,2],
+            "match_three": [6,4],
+            "match_four": [2,3],
+            "match_five": [0,5]
+          },
+          "fouls": {
+            "match_one": [10,10],
+            "match_two": [11,15],
+            "match_three": [12,12],
+            "match_four": [12,20],
+            "match_five": [14,11]
+          },
+          "HT_cards": {
+            "match_one": [1,0],
+            "match_two": [1,0],
+            "match_three": [0,1],
+            "match_four": [0,4],
+            "match_five": [1,0]
+          },
+          "FT_cards": {
+            "match_one": [2,0],
+            "match_two": [1,1],
+            "match_three": [0,2],
+            "match_four": [1,5],
+            "match_five": [1, 2]
+          }
+        }
+      },
+      {
+        "fixture": "Espanyol vs Alaves",
+    "stadium": "Stage Front Stadium",
+    "weather": "Sunny",
+    "pitch_condition": "Good",
+    "type_of_match": "Normal",
+    "referee": {
+      "name":"Pulido J.",
+      "fouls_per_tackle": 0.80,
+      "yellow_per_game": 5.08
+      
+    },
+
+    "head_to_head": {
+
+      "teams": {
+        "match_one": ["Alaves","Espanyol"],
+        "match_two": ["Espanyol","Alaves"],
+        "match_three": ["Espanyol","Alaves"]
+      },
+      
+      "goals": {
+        "match_one": [2,1],
+        "match_two": [1,0],
+        "match_three": [2,0]
+      },
+      "x_goals": {
+        "match_one": [ ],
+        "match_two": [ ],
+        "match_three": [ ]
+      },
+      "corners": {
+        "match_one": [12,3],
+        "match_two": [4,8],
+        "match_three": [2,1]
+      },
+      "fouls": {
+        "match_one": [11,15],
+        "match_two": [14,18],
+        "match_three": [16,19]
+      },
+      "HT_cards": {
+        "match_one": [1,2],
+        "match_two": [0,0],
+        "match_three": [2,1]
+        },
+        "FT_cards": {
+          "match_one": [3,4],
+          "match_two": [2,1],
+          "match_three": [4,4]
+          }
+      }
+    },
+    {
+        "fixture": "Villarreal vs Rayo Vallecano",
+        "league":"🇪🇸 La Liga",
+        
+        "type_of_match": "Regular",
+        "referee": {
+          "name": "*n/a",
+          "fouls_per_tackle": 0,
+          "yellow_per_game": 0
+        },
+        "head_to_head": {
+            "teams": {
+                "match_one": [
+                    "Villarreal",
+                    "Rayo Vallecano"
+                ],
+                "match_two": [
+                    "Rayo Vallecano",
+                    "Villarreal"
+                ],
+                "match_three": [
+                    "Rayo Vallecano",
+                    "Villarreal"
+                ],
+                "match_four": [
+                    "Villarreal",
+                    "Rayo Vallecano"
+                ],
+                "match_five": [
+                    "Rayo Vallecano",
+                    "Villarreal"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    3,
+                    0
+                ],
+                "match_two": [
+                    1,
+                    1
+                ],
+                "match_three": [
+                    2,
+                    1
+                ],
+                "match_four": [
+                    0,
+                    1
+                ],
+                "match_five": [
+                    1,
+                    5
+                ]
+            },
+            "x_goals": {
+                "match_one": [
+                    1.05,
+                    0.65
+                ],
+                "match_two": [
+                    1.27,
+                    1.32
+                ],
+                "match_three": [
+                    1.17,
+                    0.47
+                ],
+                "match_four": [],
+                "match_five": []
+            },
+            "corners": {
+                "match_one": [
+                    3,
+                    6
+                ],
+                "match_two": [
+                    2,
+                    8
+                ],
+                "match_three": [
+                    4,
+                    6
+                ],
+                "match_four": [
+                    5,
+                    4
+                ],
+                "match_five": [
+                    9,
+                    3
+                ]
+            },
+            "fouls": {
+                "match_one": [
+                    15,
+                    8
+                ],
+                "match_two": [
+                    20,
+                    18
+                ],
+                "match_three": [
+                    9,
+                    9
+                ],
+                "match_four": [
+                    11,
+                    18
+                ],
+                "match_five": [
+                    13,
+                    10
+                ]
+            },
+            "HT_cards": {
+                "match_one": [
+                    0,
+                    0
+                ],
+                "match_two": [
+                    1,
+                    0
+                ],
+                "match_three": [
+                    0,
+                    1
+                ],
+                "match_four": [
+                    0,
+                    1
+                ],
+                "match_five": [
+                    3,
+                    0
+                ]
+            },
+            "FT_cards": {
+                "match_one": [
+                    2,
+                    1
+                ],
+                "match_two": [
+                    2,
+                    4
+                ],
+                "match_three": [
+                    3,
+                    5
+                ],
+                "match_four": [
+                    2,
+                    3
+                ],
+                "match_five": [
+                    5,
+                    2
+                ]
+            }
+        }
+    },
+    {
+        "fixture": "Atl. Madrid vs Valencia",
+    "stadium": "Metropolitano Stadium",
+    "weather": "Mostly sunny",
+    "pitch_condition": "Good",
+    "type_of_match": "Regular",
+    "referee": {
+      "name":"Grado C. S.",
+      "fouls_per_tackle": 0.74,
+      "yellow_per_game": 5.14
+      
+    },
+
+    "head_to_head": {
+
+      "teams": {
+        "match_one": ["Atl. Madrid","Valencia"],
+        "match_two": ["Valencia","Atl. Madrid"],
+        "match_three": ["Atl. Madrid","Valencia"],
+        "match_four": ["Valencia","Atl. Madrid"],
+        "match_five": ["Atl. Madrid","Valencia"]
+      },
+      
+      "goals": {
+        "match_one": [2,0],
+        "match_two": [3,0],
+        "match_three": [3,0],
+        "match_four": [0,1],
+        "match_five": [3,2]
+      },
+      "x_goals": {
+        "match_one": [2.58,0.51],
+        "match_two": [1.85,0.72],
+        "match_three": [2.41,1.03],
+        "match_four": [ ],
+        "match_five": [ ]
+      },
+      "corners": {
+        "match_one": [3,6],
+        "match_two": [5,8],
+        "match_three": [4,2],
+        "match_four": [6,2],
+        "match_five": [5,4]
+      },
+      "fouls": {
+        "match_one": [9,9],
+        "match_two": [13,17],
+        "match_three": [12,9],
+        "match_four": [15,17],
+        "match_five": [13,22]
+      },
+      "HT_cards": {
+        "match_one": [0,0],
+        "match_two": [0,3],
+        "match_three": [2,0],
+        "match_four": [3,3],
+        "match_five": [2,3]
+        },
+        "FT_cards": {
+          "match_one": [2,0],
+          "match_two": [1,5],
+          "match_three": [2,0],
+          "match_four": [4,3],
+          "match_five": [5,6]
+          }
+      }
+    },
+    {
+        "fixture": "Valladolid vs Ath Bilbao",
+        "league":"🇪🇸 La Liga",
+            "type_of_match": "Regular",
+            "referee": {
+              "name": "Vega C.",
+              "fouls_per_tackle": 0.97,
+              "yellow_per_game": 5.84
+            },
+        "head_to_head": {
+            "teams": {
+                "match_one": [
+                    "Valladolid",
+                    "Ath Bilbao"
+                ],
+                "match_two": [
+                    "Ath Bilbao",
+                    "Valladolid"
+                ],
+                "match_three": [
+                    "Ath Bilbao",
+                    "Valladolid"
+                ],
+                "match_four": [
+                    "Valladolid",
+                    "Ath Bilbao"
+                ],
+                "match_five": [
+                    "Valladolid",
+                    "Ath Bilbao"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    1,
+                    3
+                ],
+                "match_two": [
+                    3,
+                    0
+                ],
+                "match_three": [
+                    2,
+                    2
+                ],
+                "match_four": [
+                    2,
+                    1
+                ],
+                "match_five": [
+                    1,
+                    4
+                ]
+            },
+            "x_goals": {
+                "match_one": [
+                    1.21,
+                    2.82
+                ],
+                "match_two": [],
+                "match_three": [],
+                "match_four": [],
+                "match_five": []
+            },
+            "corners": {
+                "match_one": [
+                    2,
+                    9
+                ],
+                "match_two": [
+                    10,
+                    2
+                ],
+                "match_three": [
+                    5,
+                    7
+                ],
+                "match_four": [
+                    2,
+                    11
+                ],
+                "match_five": [
+                    8,
+                    1
+                ]
+            },
+            "fouls": {
+                "match_one": [
+                    9,
+                    14
+                ],
+                "match_two": [
+                    20,
+                    6
+                ],
+                "match_three": [
+                    8,
+                    13
+                ],
+                "match_four": [
+                    23,
+                    11
+                ],
+                "match_five": [
+                    9,
+                    13
+                ]
+            },
+            "HT_cards": {
+                "match_one": [
+                    1,
+                    1
+                ],
+                "match_two": [
+                    1,
+                    1
+                ],
+                "match_three": [
+                    0,
+                    0
+                ],
+                "match_four": [
+                    1,
+                    1
+                ],
+                "match_five": [
+                    0,
+                    0
+                ]
+            },
+            "FT_cards": {
+                "match_one": [
+                    2,
+                    2
+                ],
+                "match_two": [
+                    3,
+                    1
+                ],
+                "match_three": [
+                    1,
+                    1
+                ],
+                "match_four": [
+                    4,
+                    2
+                ],
+                "match_five": [
+                    1,
+                    2
+                ]
+            }
+        }
+    }
+]

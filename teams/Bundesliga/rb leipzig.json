@@ -10,10 +10,14 @@
     "goals_concede_pg": 1.52,
     "aggressive_players": [ ],
     "provocative_players": ["Xavi Simons","Loïs Openda"],
-    "win_form": ["W","D","D","D","L","W","L"],
-    "corner_form": ["W","W","W","L","L","W","L"],
+    "win_form": ["D","W","D","D","D","L","W","L"],
+    "corner_form": ["W","W","W","W","L","L","W","L"],
     "recent_matches": {
         "teams": { 
+            "match_two": [
+                "Augsburg",
+                "RB Leipzig"
+            ],
             "match_three": [
                 "RB Leipzig",
                 "St. Pauli"
@@ -37,13 +41,13 @@
             "match_one": [
                 "RB Leipzig",
                 "Werder Bremen"
-            ],
-            "match_two": [
-                "Bayern Munich",
-                "RB Leipzig"
             ]
         },
         "goals": {
+            "match_two": [
+                0,
+                0
+            ],
             "match_three": [2,0],
             "match_four": [
                 0,
@@ -64,13 +68,13 @@
             "match_one": [
                 4,
                 2
-            ],
-            "match_two": [
-                5,
-                1
             ]
         },
         "x_goals": {
+            "match_two": [
+                1.04,
+                1.27
+            ],
             "match_three": [
                 1.54,
                 0.57
@@ -94,13 +98,13 @@
             "match_one": [
                 1.63,
                 1.31
-            ],
-            "match_two": [
-                3.25,
-                0.34
             ]
         },
         "corners": {
+            "match_two": [
+                8,
+                9
+            ],
             "match_three": [
                 5,
                 4
@@ -124,13 +128,13 @@
             "match_one": [
                 4,
                 1
-            ],
-            "match_two": [
-                8,
-                1
             ]
         },
         "fouls": {
+            "match_two": [
+                12,
+                12
+            ],
             "match_three": [
                 12,
                 8
@@ -154,13 +158,13 @@
             "match_one": [
                 7,
                 12
-            ],
-            "match_two": [
-                9,
-                10
             ]
         },
         "HT_cards": {
+            "match_two": [
+                1,
+                0
+            ],
             "match_three": [
                 1,
                 1
@@ -184,13 +188,13 @@
             "match_one": [
                 0,
                 1
-            ],
-            "match_two": [
-                1,
-                1
             ]
         },
         "FT_cards": {
+            "match_two": [
+                2,
+                1
+            ],
             "match_three": [
                 3,
                 2
@@ -214,10 +218,6 @@
             "match_one": [
                 1,
                 1
-            ],
-            "match_two": [
-                5,
-                2
             ]
         }
     }

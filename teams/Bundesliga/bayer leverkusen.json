@@ -10,10 +10,14 @@
     "goals_concede_pg": 0.77,
     "aggressive_players": [ ],
     "provocative_players": ["Exequiel Palacios"],
-    "win_form": ["D","W","D","W","W","W","W"],
-    "corner_form": ["W","D","L","W","W","L","L"],
+    "win_form": ["D","D","W","D","W","W","W"],
+    "corner_form": ["W","W","D","L","W","W","L"],
     "recent_matches": {
         "teams": {
+            "match_two": [
+                "B. Leverkusen",
+                "Bayern Munich"
+            ],
             "match_three": [
                 "Wolfsburg",
                 "B. Leverkusen"
@@ -37,13 +41,13 @@
             "match_one": [
                 "Dortmund",
                 "B. Leverkusen"
-            ],
-            "match_two": [
-                "B. Leverkusen",
-                "Freiburg"
             ]
         },
         "goals": {
+            "match_two": [
+                0,
+                0
+            ],
             "match_three": [
                 0,
                 0
@@ -67,13 +71,13 @@
             "match_one": [
                 2,
                 3
-            ],
-            "match_two": [
-                5,
-                1
             ]
         },
         "x_goals": {
+            "match_two": [
+                2.19,
+                0.04
+            ],
             "match_three": [
                 0.88,
                 1.53
@@ -97,13 +101,13 @@
             "match_one": [
                 1.26,
                 1.49
-            ],
-            "match_two": [
-                2.91,
-                0.74
             ]
         },
         "corners": {
+            "match_two": [
+                6,
+                0
+            ],
             "match_three": [
                 3,
                 9
@@ -127,13 +131,13 @@
             "match_one": [
                 6,
                 1
-            ],
-            "match_two": [
-                4,
-                2
             ]
         },
         "fouls": {
+            "match_two": [
+                16,
+                13
+            ],
             "match_three": [
                 7,
                 8
@@ -157,13 +161,13 @@
             "match_one": [
                 8,
                 6
-            ],
-            "match_two": [
-                8,
-                9
             ]
         },
         "HT_cards": {
+            "match_two": [
+                1,
+                1
+            ],
             "match_three": [
                 0,
                 2
@@ -187,13 +191,13 @@
             "match_one": [
                 0,
                 1
-            ],
-            "match_two": [
-                0,
-                1
             ]
         },
         "FT_cards": {
+            "match_two": [
+                2,
+                3
+            ],
             "match_three": [
                 2,
                 3
@@ -215,10 +219,6 @@
                 3
             ],
             "match_one": [
-                1,
-                2
-            ],
-            "match_two": [
                 1,
                 2
             ]
