@@ -11,54 +11,56 @@
           "yellow_per_game": 0
         },
         "head_to_head": {
+            "win_form": [["L","L","D","W","D"],["W","W","D","L","D"]],
+          "corner_form": [["L","W","W","W","L"],["W","L","L","L","W"]],
           "teams": {
+            "match_five": ["Udinese", "Lecce"],
             "match_one": ["Lecce", "Udinese"],
             "match_two": ["Udinese", "Lecce"],
             "match_three": ["Lecce", "Udinese"],
-            "match_four": ["Udinese", "Lecce"],
-            "match_five": ["Udinese", "Lecce"]
+            "match_four": ["Udinese", "Lecce"]
           },
           "goals": {
+            "match_five": [1,0],
             "match_one": [0,2],
             "match_two": [1,1],
             "match_three": [1,0],
-            "match_four": [1,1],
-            "match_five": [1,2]
+            "match_four": [1,1]
           },
           "x_goals": {
+            "match_five": [1.16,0.26],
             "match_one": [0.35,1.73],
             "match_two": [2.20,0.79],
             "match_three": [2.00,0.75],
-            "match_four": [ ],
-            "match_five": [ ]
+            "match_four": [ ]
           },
           "corners": {
+            "match_five": [5,0],
             "match_one": [8,2],
             "match_two": [2,7],
             "match_three": [7,4],
-            "match_four": [3,2],
-            "match_five": [5,5]
+            "match_four": [3,2]
           },
           "fouls": {
+            "match_five": [12,16],
             "match_one": [12,11],
             "match_two": [11,15],
             "match_three": [21,12],
-            "match_four": [12,18],
-            "match_five": [12,11]
+            "match_four": [12,18]
           },
           "HT_cards": {
+            "match_five": [1,2],
             "match_one": [1,0],
             "match_two": [1,1],
             "match_three": [1,1],
-            "match_four": [2,0],
-            "match_five": [0,2]
+            "match_four": [2,0]
           },
           "FT_cards": {
+            "match_five": [2,2],
             "match_one": [2,1],
             "match_two": [3,5],
             "match_three": [4,2],
-            "match_four": [2,3],
-            "match_five": [1,4]
+            "match_four": [2,3]
           }
         }
       },

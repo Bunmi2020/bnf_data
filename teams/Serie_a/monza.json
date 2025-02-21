@@ -12,11 +12,14 @@
     "aggressive_players": ["Armando Izzo","Warren Bondo","Caldirola", "Bianco","Pablo Mari"],
     "provocative_players": ["Daniel Maldini","Warren Bondo","Bianco","Armando Izzo","Kyriakopoulos"],
     "unavailable_attacking_players": [],
-    "win_form": ["L","L","L","L","W","L","L"],
-    "corner_form": ["L","W","L","L","L","L","W"],
+    "win_form": ["D","L","L","L","L","W","L"],
+    "corner_form": ["L","L","W","L","L","L","L"],
    "recent_matches": {
         "teams": {
-            
+            "match_three": [
+                "Monza",
+                "Lecce"
+            ],            
           "match_four": [
             "Lazio",
             "Monza"
@@ -40,14 +43,13 @@
             "match_two": [
                 "Monza",
                 "Cagliari"
-            ],
-            "match_three": [
-                "Parma",
-                "Monza"
             ]
         },
         "goals": {
-            
+            "match_three": [
+                0,
+                0
+            ],            
           "match_four": [
             5,
             1
@@ -71,13 +73,13 @@
             "match_two": [
                 1,
                 2
-            ],
-            "match_three": [
-                2,
-                1
             ]
         },
         "x_goals": {
+            "match_three": [
+                0.32,
+                0.79
+            ],
             "match_four": [
                 2.87,
                 0.90
@@ -101,13 +103,13 @@
             "match_two": [
                 1.58,
                 0.69
-            ],
-            "match_three": [
-                1.44,
-                1.97
             ]
         },
         "corners": {
+            "match_three": [
+                3,
+                7
+            ],
             "match_four": [
                 8,
                 1
@@ -131,13 +133,13 @@
             "match_two": [
                 1,
                 3
-            ],
-            "match_three": [
-                4,
-                6
             ]
         },
         "fouls": {
+            "match_three": [
+                10,
+                18
+            ],
             "match_four": [
                 10,
                 12
@@ -161,13 +163,13 @@
             "match_two": [
                 16,
                 19
-            ],
-            "match_three": [
-                16,
-                21
             ]
         },
         "HT_cards": {
+            "match_three": [
+                2,
+                1
+            ],
             "match_four": [
                 0,
                 1
@@ -191,13 +193,13 @@
             "match_two": [
                 1,
                 1
-            ],
-            "match_three": [
-                0,
-                3
             ]
         },
         "FT_cards": {
+            "match_three": [
+                2,
+                2
+            ],
             "match_four": [
                 0,
                 1
@@ -221,10 +223,6 @@
             "match_two": [
                 3,
                 2
-            ],
-            "match_three": [
-                3,
-                8
             ]
         }
     }
