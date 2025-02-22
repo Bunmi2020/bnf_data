@@ -12,10 +12,14 @@
     "aggressive_players": ["Scott McTominay", "Di Lorenzo"],
     "provocative_players": ["Scott McTominay", "Di Lorenzo"],
     "unavailable_attacking_players": [],
-    "win_form": ["D","D","W","W","W","W","W"],
-    "corner_form": ["D","W","W","L","W","L","W"],
+    "win_form": ["D","D","D","W","W","W","W"],
+    "corner_form": ["L","D","W","W","L","W","L"],
     "recent_matches": {
         "teams": {
+            "match_three": [
+                "Lazio",
+                "Napoli"
+            ],
             "match_four": [
                 "Napoli",
                 "Udinese"
@@ -39,13 +43,13 @@
             "match_two": [
                 "Fiorentina",
                 "Napoli"
-            ],
-            "match_three": [
-                "Napoli",
-                "Venezia"
             ]
         },
         "goals": {
+            "match_three": [
+                2,
+                2
+            ],
             "match_four": [
                 1,
                 1
@@ -69,13 +73,13 @@
             "match_two": [
                 0,
                 3
-            ],
-            "match_three": [
-                1,
-                0
             ]
         },
         "x_goals": {
+            "match_three": [
+                0.62,
+                0.34
+            ],
             "match_four": [
                 1.45,
                 0.67
@@ -99,13 +103,13 @@
             "match_two": [
                 1.18,
                 1.33
-            ],
-            "match_three": [
-                1.97,
-                0.21
             ]
         },
         "corners": {
+        "match_three": [
+            7,
+            1
+        ],
             "match_four": [
                 6,
                 6
@@ -129,13 +133,13 @@
             "match_two": [
                 4,
                 2
-            ],
-            "match_three": [
-                14,
-                4
             ]
         },
         "fouls": {
+            "match_three": [
+                9,
+                19
+            ],
             "match_four": [
                 11,
                 10
@@ -159,13 +163,13 @@
             "match_two": [
                 17,
                 15
-            ],
-            "match_three": [
-                10,
-                12
             ]
         },
         "HT_cards": {
+            "match_three": [
+                0,
+                1
+            ],
             
             "match_four": [
                 0,
@@ -190,13 +194,13 @@
             "match_two": [
                 0,
                 1
-            ],
-            "match_three": [
-                0,
-                1
             ]
         },
         "FT_cards": {
+            "match_three": [
+                2,
+                2
+            ],
             "match_four": [
                 0,
                 1
@@ -217,10 +221,6 @@
             "match_two": [
                 0,
                 1
-            ],
-            "match_three": [
-                0,
-                3
             ]
         }
     }

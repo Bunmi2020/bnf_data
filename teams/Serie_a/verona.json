@@ -12,10 +12,14 @@
     "aggressive_players": ["Tomas Suslov", "Suat Serdar", "Ondrej Duda", "Dawidowicz", "Reda Belahyane"],
     "provocative_players": ["Tomás Suslov","Martin Frese", "Ondrej Duda"],
     "unavailable_attacking_players": [],
-    "win_form": ["L","W","D","L","L","D","W"],
-    "corner_form": ["W","L","W","L","L","W","L"],
+    "win_form": ["L","L","W","D","L","L","D"],
+    "corner_form": ["L","W","L","W","L","L","W"],
     "recent_matches": {
         "teams": {
+            "match_three": [
+                "AC Milan",
+                "Verona"
+            ],
             "match_four": [
                 "Verona",
                 "Atalanta"
@@ -39,13 +43,13 @@
             "match_two": [
                 "Verona",
                 "Udinese"
-            ],
-            "match_three": [
-                "Bologna",
-                "Verona"
             ]
         },
         "goals": {
+            "match_three": [
+                1,
+                0
+            ],
             "match_four": [
                 0,
                 5
@@ -69,13 +73,13 @@
             "match_two": [
                 0,
                 0
-            ],
-            "match_three": [
-                2,
-                3
             ]
         },
         "x_goals": {
+            "match_three": [
+                2.09,
+                0.38
+            ],
             "match_four": [
                 1.61,
                 2.41
@@ -99,13 +103,13 @@
             "match_two": [
                 0.89,
                 0.85
-            ],
-            "match_three": [
-                1.87,
-                0.8
             ]
         },
         "corners": {
+            "match_three": [
+                10,
+                7
+            ],
             "match_four": [
                 7,
                 2
@@ -129,13 +133,13 @@
             "match_two": [
                 7,
                 3
-            ],
-            "match_three": [
-                11,
-                5
             ]
         },
         "fouls": {
+            "match_three": [
+                11,
+                18
+            ],
             "match_four": [
                 10,
                 6
@@ -159,13 +163,13 @@
             "match_two": [
                 14,
                 16
-            ],
-            "match_three": [
-                9,
-                24
             ]
         },
         "HT_cards": {
+            "match_three": [
+                1,
+                3
+            ],
             "match_four": [
                 2,
                 0
@@ -189,13 +193,13 @@
             "match_two": [
                 1,
                 1
-            ],
-            "match_three": [
-                0,
-                1
             ]
         },
         "FT_cards": {
+            "match_three": [
+                3,
+                4
+            ],
             "match_four": [
                 2,
                 1
@@ -216,10 +220,6 @@
             "match_two": [
                 4,
                 2
-            ],
-            "match_three": [
-                3,
-                5
             ]
         }
     }

@@ -12,11 +12,14 @@
     "aggressive_players": ["Yordan Osorio","Gabriel Charpentier"],
     "provocative_players": ["Adrian Bernabe","Matteo Cancellieri","Ange-Yoan Bonny"],
     "unavailable_attacking_players": [],
-    "win_form": ["L","L","L","D","L","D","L"],
-    "corner_form": ["L","W","L","W","W","L","L"],
+    "win_form": ["L","L","L","L","D","L","D"],
+    "corner_form": ["L","L","W","L","W","W","L"],
     "recent_matches": {
         "teams": {
-            
+            "match_three": [
+                "Parma",
+                "AS Roma"
+            ],            
             "match_four": [
                 "Cagliari",
                 "Parma"
@@ -40,14 +43,13 @@
             "match_two": [
                 "Torino",
                 "Parma"
-            ],
-            "match_three": [
-                "Parma",
-                "Monza"
             ]
         },
         "goals": {
-            
+            "match_three": [
+                0,
+                1
+            ],            
             "match_four": [
                 2,
                 1
@@ -71,14 +73,13 @@
             "match_two": [
                 0,
                 0
-            ],
-            "match_three": [
-                2,
-                1
             ]
         },
         "x_goals": {
-            
+            "match_three": [
+                0.27,
+                0.97
+            ],            
             "match_four": [
                 0.94,
                 0.86
@@ -102,14 +103,13 @@
             "match_two": [
                 1.13,
                 0.39
-            ],
-            "match_three": [
-                1.44,
-                1.97
             ]
         },
         "corners": {
-            
+            "match_three": [
+                1,
+                10
+            ],            
             "match_four": [
                 7,
                 6
@@ -133,13 +133,13 @@
             "match_two": [
                 8,
                 7
-            ],
-            "match_three": [
-                4,
-                6
             ]
         },
         "fouls": {
+            "match_three": [
+                11,
+                5
+            ],
             "match_four": [
                 14,
                 12
@@ -163,13 +163,13 @@
             "match_two": [
                 9,
                 9
-            ],
-            "match_three": [
-                16,
-                21
             ]
         },
         "HT_cards": {
+            "match_three": [
+                1,
+                1
+            ],
             "match_four": [
                 0,
                 0
@@ -193,13 +193,13 @@
             "match_two": [
                 1,
                 1
-            ],
-            "match_three": [
-                0,
-                3
             ]
         },
         "FT_cards": {
+            "match_three": [
+                3,
+                3
+            ],
             "match_four": [
                 0,
                 2
@@ -223,10 +223,6 @@
             "match_two": [
                 2,
                 1
-            ],
-            "match_three": [
-                3,
-                8
             ]
         }
     }
