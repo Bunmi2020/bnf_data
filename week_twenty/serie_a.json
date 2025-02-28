@@ -1,0 +1,724 @@
+[
+    {
+        "fixture": "Fiorentina vs Lecce",
+        "league": "🇮🇹 Serie A",
+        "day": "friday",
+        "position": [
+            7,
+            16
+        ],
+        "type_of_match": "Regular",
+        "referee": {
+            "name": "Marinelli L.",
+            "fouls_per_tackle": 0.83,
+            "yellow_per_game": 4.55
+        },
+        "head_to_head": {
+            "win_form": [
+                [
+                    "W",
+                    "L",
+                    "D",
+                    "W",
+                    "D"
+                ],
+                [
+                    "L",
+                    "W",
+                    "D",
+                    "L",
+                    "D"
+                ]
+            ],
+            "corner_form": [
+                [
+                    "W",
+                    "W",
+                    "D",
+                    "L",
+                    "W"
+                ],
+                [
+                    "L",
+                    "L",
+                    "D",
+                    "W",
+                    "L"
+                ]
+            ],
+            "teams": {
+                "match_one": [
+                    "Lecce",
+                    "Fiorentina"
+                ],
+                "match_two": [
+                    "Lecce",
+                    "Fiorentina"
+                ],
+                "match_three": [
+                    "Fiorentina",
+                    "Lecce"
+                ],
+                "match_four": [
+                    "Fiorentina",
+                    "Lecce"
+                ],
+                "match_five": [
+                    "Lecce",
+                    "Fiorentina"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    0,
+                    6
+                ],
+                "match_two": [
+                    3,
+                    2
+                ],
+                "match_three": [
+                    2,
+                    2
+                ],
+                "match_four": [
+                    1,
+                    0
+                ],
+                "match_five": [
+                    1,
+                    1
+                ]
+            },
+            "x_goals": {
+                "match_one": [
+                    0.2,
+                    2.06
+                ],
+                "match_two": [
+                    2.57,
+                    0.96
+                ],
+                "match_three": [],
+                "match_four": [
+                    1.38,
+                    0.55
+                ],
+                "match_five": []
+            },
+            "corners": {
+                "match_one": [
+                    1,
+                    3
+                ],
+                "match_two": [
+                    1,
+                    3
+                ],
+                "match_three": [
+                    3,
+                    3
+                ],
+                "match_four": [
+                    1,
+                    3
+                ],
+                "match_five": [
+                    2,
+                    8
+                ]
+            },
+            "fouls": {
+                "match_one": [
+                    8,
+                    14
+                ],
+                "match_two": [
+                    13,
+                    14
+                ],
+                "match_three": [
+                    13,
+                    12
+                ],
+                "match_four": [
+                    14,
+                    21
+                ],
+                "match_five": [
+                    15,
+                    16
+                ]
+            },
+            "HT_cards": {
+                "match_one": [
+                    1,
+                    2
+                ],
+                "match_two": [
+                    0,
+                    1
+                ],
+                "match_three": [
+                    0,
+                    1
+                ],
+                "match_four": [
+                    0,
+                    1
+                ],
+                "match_five": [
+                    1,
+                    2
+                ]
+            },
+            "FT_cards": {
+                "match_one": [
+                    1,
+                    5
+                ],
+                "match_two": [
+                    3,
+                    3
+                ],
+                "match_three": [
+                    1,
+                    3
+                ],
+                "match_four": [
+                    1,
+                    3
+                ],
+                "match_five": [
+                    6,
+                    5
+                ]
+            }
+        },
+        "home_team": {
+            "name": "Fiorentina",
+            "coach": "Raffaele Palladino",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/fiorentina.png",
+            "playing_style": "Ball Retention; High territorial control",
+            "pressing_style": " ",
+            "attacking_style": "Frequent through ball attempts; Attack through the middle",
+            "defensive_style": "High Line; Use offside positioning",
+            "goal_scored_pg": 1.59,
+            "goals_concede_pg": 1,
+            "aggressive_players": [
+                "Edoardo Bove",
+                "Moise Kean"
+            ],
+            "provocative_players": [
+                "Edoardo Bove",
+                "Moise Kean",
+                "Dodo",
+                "Riccardo Sottil"
+            ],
+            "unavailable_attacking_players": [],
+            "win_form": [
+                "L",
+                "L",
+                "L",
+                "W",
+                "W",
+                "D",
+                "L"
+            ],
+            "corner_form": [
+                "L",
+                "W",
+                "L",
+                "L",
+                "L",
+                "W",
+                "W"
+            ],
+            "recent_matches": {
+                "teams": {
+                    "match_0": [
+                        "Verona",
+                        "Fiorentina"
+                    ],
+                    "match_1": [
+                        "Fiorentina",
+                        "Como"
+                    ],
+                    "match_2": [
+                        "Inter",
+                        "Fiorentina"
+                    ],
+                    "match_3": [
+                        "Fiorentina",
+                        "Genoa"
+                    ],
+                    "match_4": [
+                        "Lazio",
+                        "Fiorentina"
+                    ],
+                    "match_5": [
+                        "Fiorentina",
+                        "Torino"
+                    ],
+                    "match_6": [
+                        "Monza",
+                        "Fiorentina"
+                    ]
+                },
+                "goals": {
+                    "match_0": [
+                        1,
+                        0
+                    ],
+                    "match_1": [
+                        0,
+                        2
+                    ],
+                    "match_2": [
+                        2,
+                        1
+                    ],
+                    "match_3": [
+                        2,
+                        1
+                    ],
+                    "match_4": [
+                        1,
+                        2
+                    ],
+                    "match_5": [
+                        1,
+                        1
+                    ],
+                    "match_6": [
+                        2,
+                        1
+                    ]
+                },
+                "x_goals": {
+                    "match_0": [
+                        1.06,
+                        1.22
+                    ],
+                    "match_1": [
+                        0.25,
+                        0.78
+                    ],
+                    "match_2": [
+                        2.17,
+                        1.03
+                    ],
+                    "match_3": [
+                        0.64,
+                        1.3
+                    ],
+                    "match_4": [
+                        1.43,
+                        0.59
+                    ],
+                    "match_5": [
+                        1.68,
+                        0.4
+                    ],
+                    "match_6": [
+                        0.62,
+                        1.29
+                    ]
+                },
+                "corners": {
+                    "match_0": [
+                        4,
+                        1
+                    ],
+                    "match_1": [
+                        2,
+                        1
+                    ],
+                    "match_2": [
+                        8,
+                        1
+                    ],
+                    "match_3": [
+                        1,
+                        8
+                    ],
+                    "match_4": [
+                        14,
+                        2
+                    ],
+                    "match_5": [
+                        9,
+                        2
+                    ],
+                    "match_6": [
+                        2,
+                        4
+                    ]
+                },
+                "fouls": {
+                    "match_0": [
+                        19,
+                        8
+                    ],
+                    "match_1": [
+                        14,
+                        24
+                    ],
+                    "match_2": [
+                        16,
+                        15
+                    ],
+                    "match_3": [
+                        17,
+                        14
+                    ],
+                    "match_4": [
+                        9,
+                        12
+                    ],
+                    "match_5": [
+                        16,
+                        11
+                    ],
+                    "match_6": [
+                        26,
+                        9
+                    ]
+                },
+                "HT_cards": {
+                    "match_0": [
+                        2,
+                        0
+                    ],
+                    "match_1": [
+                        1,
+                        0
+                    ],
+                    "match_2": [
+                        2,
+                        2
+                    ],
+                    "match_3": [
+                        1,
+                        0
+                    ],
+                    "match_4": [
+                        0,
+                        0
+                    ],
+                    "match_5": [
+                        1,
+                        3
+                    ],
+                    "match_6": [
+                        0,
+                        0
+                    ]
+                },
+                "FT_cards": {
+                    "match_0": [
+                        3,
+                        3
+                    ],
+                    "match_1": [
+                        3,
+                        2
+                    ],
+                    "match_2": [
+                        4,
+                        3
+                    ],
+                    "match_3": [
+                        3,
+                        1
+                    ],
+                    "match_4": [
+                        1,
+                        5
+                    ],
+                    "match_5": [
+                        3,
+                        4
+                    ],
+                    "match_6": [
+                        4,
+                        1
+                    ]
+                }
+            }
+        },
+        "away_team": {
+            "name": "Lecce",
+            "coach": "Luca Gotti",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/serie_a/lecce.png",
+            "playing_style": "Wide play; Long balls; Draws fouls; Deep positioning",
+            "pressing_style": "Aggressive",
+            "attacking_style": "High shot volume; Take long shots; High crossing frequency; Attacking down the left",
+            "defensive_style": "Tight Marking",
+            "goal_scored_pg": 0.68,
+            "goals_concede_pg": 1.82,
+            "aggressive_players": [
+                "Hamza Rafia",
+                "Santiago Pirotti",
+                "Nikola Krstovic"
+            ],
+            "provocative_players": [
+                "Hamza Rafia",
+                "Lameck Banda",
+                "Nikola Krstovic"
+            ],
+            "unavailable_attacking_players": [],
+            "win_form": [
+                "L",
+                "D",
+                "D",
+                "W",
+                "L",
+                "L",
+                "W"
+            ],
+            "corner_form": [
+                "W",
+                "W",
+                "W",
+                "L",
+                "W",
+                "L",
+                "L"
+            ],
+            "recent_matches": {
+                "teams": {
+                    "match_0": [
+                        "Lecce",
+                        "Udinese"
+                    ],
+                    "match_1": [
+                        "Monza",
+                        "Lecce"
+                    ],
+                    "match_2": [
+                        "Lecce",
+                        "Bologna"
+                    ],
+                    "match_3": [
+                        "Parma",
+                        "Lecce"
+                    ],
+                    "match_4": [
+                        "Lecce",
+                        "Inter"
+                    ],
+                    "match_5": [
+                        "Cagliari",
+                        "Lecce"
+                    ],
+                    "match_6": [
+                        "Empoli",
+                        "Lecce"
+                    ]
+                },
+                "goals": {
+                    "match_0": [
+                        0,
+                        1
+                    ],
+                    "match_1": [
+                        0,
+                        0
+                    ],
+                    "match_2": [
+                        0,
+                        0
+                    ],
+                    "match_3": [
+                        1,
+                        3
+                    ],
+                    "match_4": [
+                        0,
+                        4
+                    ],
+                    "match_5": [
+                        4,
+                        1
+                    ],
+                    "match_6": [
+                        1,
+                        3
+                    ]
+                },
+                "x_goals": {
+                    "match_0": [
+                        0.32,
+                        1.43
+                    ],
+                    "match_1": [
+                        0.32,
+                        0.79
+                    ],
+                    "match_2": [
+                        0.53,
+                        0.93
+                    ],
+                    "match_3": [
+                        1.79,
+                        0.69
+                    ],
+                    "match_4": [
+                        0.88,
+                        2.13
+                    ],
+                    "match_5": [
+                        2.74,
+                        0.5
+                    ],
+                    "match_6": [
+                        1.33,
+                        1.08
+                    ]
+                },
+                "corners": {
+                    "match_0": [
+                        11,
+                        8
+                    ],
+                    "match_1": [
+                        3,
+                        7
+                    ],
+                    "match_2": [
+                        6,
+                        5
+                    ],
+                    "match_3": [
+                        3,
+                        2
+                    ],
+                    "match_4": [
+                        7,
+                        0
+                    ],
+                    "match_5": [
+                        6,
+                        1
+                    ],
+                    "match_6": [
+                        9,
+                        2
+                    ]
+                },
+                "fouls": {
+                    "match_0": [
+                        15,
+                        11
+                    ],
+                    "match_1": [
+                        10,
+                        18
+                    ],
+                    "match_2": [
+                        14,
+                        16
+                    ],
+                    "match_3": [
+                        8,
+                        14
+                    ],
+                    "match_4": [
+                        13,
+                        12
+                    ],
+                    "match_5": [
+                        11,
+                        10
+                    ],
+                    "match_6": [
+                        11,
+                        21
+                    ]
+                },
+                "HT_cards": {
+                    "match_0": [
+                        0,
+                        1
+                    ],
+                    "match_1": [
+                        2,
+                        1
+                    ],
+                    "match_2": [
+                        0,
+                        0
+                    ],
+                    "match_3": [
+                        0,
+                        1
+                    ],
+                    "match_4": [
+                        0,
+                        1
+                    ],
+                    "match_5": [
+                        0,
+                        1
+                    ],
+                    "match_6": [
+                        0,
+                        1
+                    ]
+                },
+                "FT_cards": {
+                    "match_0": [
+                        1,
+                        3
+                    ],
+                    "match_1": [
+                        2,
+                        2
+                    ],
+                    "match_2": [
+                        0,
+                        2
+                    ],
+                    "match_3": [
+                        1,
+                        2
+                    ],
+                    "match_4": [
+                        0,
+                        2
+                    ],
+                    "match_5": [
+                        3,
+                        2
+                    ],
+                    "match_6": [
+                        0,
+                        3
+                    ]
+                }
+            }
+        },
+        "prediction": {
+            "cards": {
+                "discuss": "",
+                "ht": "Can not predict at this time, check other predictions",
+                "ft": "Over 2.5 FT cards/bookings \n\n- The head-to-head full-time card average is above 2.5, along with both home and away teams' full-time card average. \n The referee issues more than 3.3 yellow cards per game, and the foul-to-tackle ratio is very high."
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Can not predict at this time, check other predictions",
+                "win_corners": "Can not predict at this time, check other predictions"
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": "Can not predict at this time, check other predictions",
+                "fulltime_total_goals": "Over 1.5 goals \n\n- Most fixtures exceed at least 1.5 goals, and the statistical indicators suggest that at least two goals are highly probable given the teams' offensive and defensive tendencies."
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "Can not predict at this time, check other predictions"
+            }
+        }
+    }
+]

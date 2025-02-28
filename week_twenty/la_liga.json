@@ -1,0 +1,691 @@
+[
+    {
+        "fixture": "Valladolid vs Las Palmas",
+        "league": "🇪🇸 La Liga",
+        "day": "friday",
+        "position": [
+            20,
+            17
+        ],
+        "type_of_match": "Regular",
+        "referee": {
+            "name": "De Burgos",
+            "fouls_per_tackle": 0.63,
+            "yellow_per_game": 4.74
+        },
+        "head_to_head": {
+            "win_form": [
+                [
+                    "L",
+                    "L",
+                    "W",
+                    "D"
+                ],
+                [
+                    "W",
+                    "W",
+                    "L",
+                    "D"
+                ]
+            ],
+            "corner_form": [
+                [
+                    "D",
+                    "L",
+                    "W",
+                    "W"
+                ],
+                [
+                    "D",
+                    "W",
+                    "L",
+                    "L"
+                ]
+            ],
+            "teams": {
+                "match_one": [
+                    "Las Palmas",
+                    "Valladolid"
+                ],
+                "match_two": [
+                    "Valladolid",
+                    "Las Palmas"
+                ],
+                "match_three": [
+                    "Valladolid",
+                    "Las Palmas"
+                ],
+                "match_four": [
+                    "Las Palmas",
+                    "Valladolid"
+                ]
+            },
+            "goals": {
+                "match_one": [
+                    2,
+                    1
+                ],
+                "match_two": [
+                    0,
+                    1
+                ],
+                "match_three": [
+                    3,
+                    1
+                ],
+                "match_four": [
+                    1,
+                    1
+                ]
+            },
+            "x_goals": {
+                "match_one": [
+                    0.72,
+                    1.41
+                ],
+                "match_two": [],
+                "match_three": [],
+                "match_four": []
+            },
+            "corners": {
+                "match_one": [
+                    3,
+                    3
+                ],
+                "match_two": [
+                    4,
+                    8
+                ],
+                "match_three": [
+                    7,
+                    0
+                ],
+                "match_four": [
+                    2,
+                    3
+                ]
+            },
+            "fouls": {
+                "match_one": [
+                    17,
+                    13
+                ],
+                "match_two": [
+                    11,
+                    16
+                ],
+                "match_three": [
+                    22,
+                    21
+                ],
+                "match_four": [
+                    22,
+                    18
+                ]
+            },
+            "HT_cards": {
+                "match_one": [
+                    1,
+                    0
+                ],
+                "match_two": [
+                    0,
+                    1
+                ],
+                "match_three": [
+                    0,
+                    0
+                ],
+                "match_four": [
+                    1,
+                    0
+                ]
+            },
+            "FT_cards": {
+                "match_one": [
+                    4,
+                    3
+                ],
+                "match_two": [
+                    3,
+                    2
+                ],
+                "match_three": [
+                    2,
+                    3
+                ],
+                "match_four": [
+                    3,
+                    4
+                ]
+            }
+        },
+        "home_team": {
+            "name": "Valladolid",
+            "coach": "Paulo Pezzolano",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/valladolid.png",
+            "playing_style": "Defensive",
+            "pressing_style": "Medium-block pressing",
+            "attacking_style": "Counter-attacking",
+            "defensive_style": "Compact",
+            "goal_scored_pg": 0.67,
+            "goals_concede_pg": 2,
+            "aggressive_players": [
+                "Kike Perez",
+                "Lucas Rosa",
+                "Juanmi Latasa",
+                "Mario Martin",
+                "Stanko Juric"
+            ],
+            "provocative_players": [
+                "Anuar Tuhami",
+                "Marcos",
+                "Andre",
+                "Mario Martin"
+            ],
+            "unavailable_attacking_players": [],
+            "win_form": [
+                "L",
+                "L",
+                "L",
+                "L",
+                "L",
+                "W",
+                "L"
+            ],
+            "corner_form": [
+                "D",
+                "L",
+                "W",
+                "L",
+                "W",
+                "L",
+                "L"
+            ],
+            "recent_matches": {
+                "teams": {
+                    "match_0": [
+                        "Ath Bilbao",
+                        "Valladolid"
+                    ],
+                    "match_1": [
+                        "Rayo Vallecano",
+                        "Valladolid"
+                    ],
+                    "match_2": [
+                        "Villarreal",
+                        "Valladolid"
+                    ],
+                    "match_3": [
+                        "Valladolid",
+                        "Real Madrid"
+                    ],
+                    "match_4": [
+                        "Espanyol",
+                        "Valladolid"
+                    ],
+                    "match_5": [
+                        "Valladolid",
+                        "Betis"
+                    ],
+                    "match_6": [
+                        "Girona",
+                        "Valladolid"
+                    ]
+                },
+                "goals": {
+                    "match_0": [
+                        7,
+                        1
+                    ],
+                    "match_1": [
+                        1,
+                        0
+                    ],
+                    "match_2": [
+                        5,
+                        1
+                    ],
+                    "match_3": [
+                        0,
+                        3
+                    ],
+                    "match_4": [
+                        2,
+                        1
+                    ],
+                    "match_5": [
+                        1,
+                        0
+                    ],
+                    "match_6": [
+                        3,
+                        0
+                    ]
+                },
+                "x_goals": {
+                    "match_0": [
+                        3.8,
+                        0.45
+                    ],
+                    "match_1": [
+                        2.53,
+                        0.42
+                    ],
+                    "match_2": [
+                        3.32,
+                        0.49
+                    ],
+                    "match_3": [
+                        0.19,
+                        1.9
+                    ],
+                    "match_4": [
+                        1.03,
+                        1.24
+                    ],
+                    "match_5": [
+                        1.14,
+                        0.62
+                    ],
+                    "match_6": [
+                        2.49,
+                        0.02
+                    ]
+                },
+                "corners": {
+                    "match_0": [
+                        4,
+                        4
+                    ],
+                    "match_1": [
+                        4,
+                        2
+                    ],
+                    "match_2": [
+                        3,
+                        6
+                    ],
+                    "match_3": [
+                        1,
+                        7
+                    ],
+                    "match_4": [
+                        1,
+                        7
+                    ],
+                    "match_5": [
+                        1,
+                        8
+                    ],
+                    "match_6": [
+                        9,
+                        1
+                    ]
+                },
+                "fouls": {
+                    "match_0": [
+                        10,
+                        5
+                    ],
+                    "match_1": [
+                        11,
+                        15
+                    ],
+                    "match_2": [
+                        9,
+                        14
+                    ],
+                    "match_3": [
+                        11,
+                        12
+                    ],
+                    "match_4": [
+                        13,
+                        16
+                    ],
+                    "match_5": [
+                        21,
+                        10
+                    ],
+                    "match_6": [
+                        13,
+                        7
+                    ]
+                },
+                "HT_cards": {
+                    "match_0": [
+                        0,
+                        1
+                    ],
+                    "match_1": [
+                        1,
+                        1
+                    ],
+                    "match_2": [
+                        1,
+                        1
+                    ],
+                    "match_3": [
+                        2,
+                        1
+                    ],
+                    "match_4": [
+                        1,
+                        0
+                    ],
+                    "match_5": [
+                        1,
+                        1
+                    ],
+                    "match_6": [
+                        1,
+                        1
+                    ]
+                },
+                "FT_cards": {
+                    "match_0": [
+                        2,
+                        4
+                    ],
+                    "match_1": [
+                        2,
+                        2
+                    ],
+                    "match_2": [
+                        1,
+                        2
+                    ],
+                    "match_3": [
+                        4,
+                        3
+                    ],
+                    "match_4": [
+                        2,
+                        2
+                    ],
+                    "match_5": [
+                        2,
+                        4
+                    ],
+                    "match_6": [
+                        3,
+                        1
+                    ]
+                }
+            }
+        },
+        "away_team": {
+            "name": "Las Palmas",
+            "coach": "Luis Miguel Carrión",
+            "team_logo": "https://bunmi2020.github.io/bnf_data/teams_icon/la_liga/las_palmas.png",
+            "playing_style": "Ball Retention; Short passes; Deep positioning; Draws fouls",
+            "pressing_style": "Non-aggressive",
+            "attacking_style": "Take long shots; Attacking down the left",
+            "defensive_style": "High Line; Use offside positioning",
+            "goal_scored_pg": 1.24,
+            "goals_concede_pg": 1.62,
+            "aggressive_players": [
+                "Fabio Silva",
+                "Dario Essugo",
+                "Alex Munoz"
+            ],
+            "provocative_players": [
+                "Fabio Silva",
+                "Dario Essugo"
+            ],
+            "unavailable_attacking_players": [],
+            "win_form": [
+                "L",
+                "L",
+                "L",
+                "L",
+                "L",
+                "W",
+                "D"
+            ],
+            "corner_form": [
+                "W",
+                "W",
+                "L",
+                "L",
+                "L",
+                "D",
+                "L"
+            ],
+            "recent_matches": {
+                "teams": {
+                    "match_0": [
+                        "Las Palmas",
+                        "Barcelona"
+                    ],
+                    "match_1": [
+                        "Las Palmas",
+                        "Villarreal"
+                    ],
+                    "match_2": [
+                        "Girona",
+                        "Las Palmas"
+                    ],
+                    "match_3": [
+                        "Las Palmas",
+                        "Osasuna"
+                    ],
+                    "match_4": [
+                        "Real Madrid",
+                        "Las Palmas"
+                    ],
+                    "match_5": [
+                        "Las Palmas",
+                        "Getafe"
+                    ],
+                    "match_6": [
+                        "Las Palmas",
+                        "Espanyol"
+                    ]
+                },
+                "goals": {
+                    "match_0": [
+                        0,
+                        2
+                    ],
+                    "match_1": [
+                        1,
+                        2
+                    ],
+                    "match_2": [
+                        2,
+                        1
+                    ],
+                    "match_3": [
+                        1,
+                        1
+                    ],
+                    "match_4": [
+                        4,
+                        1
+                    ],
+                    "match_5": [
+                        1,
+                        2
+                    ],
+                    "match_6": [
+                        1,
+                        0
+                    ]
+                },
+                "x_goals": {
+                    "match_0": [
+                        0.47,
+                        1.47
+                    ],
+                    "match_1": [
+                        1.6,
+                        1.01
+                    ],
+                    "match_2": [
+                        2.04,
+                        1.29
+                    ],
+                    "match_3": [
+                        0.75,
+                        2.7
+                    ],
+                    "match_4": [
+                        5.81,
+                        1.18
+                    ],
+                    "match_5": [
+                        1.36,
+                        1.1
+                    ],
+                    "match_6": [
+                        0.91,
+                        0.73
+                    ]
+                },
+                "corners": {
+                    "match_0": [
+                        5,
+                        3
+                    ],
+                    "match_1": [
+                        6,
+                        5
+                    ],
+                    "match_2": [
+                        11,
+                        3
+                    ],
+                    "match_3": [
+                        4,
+                        2
+                    ],
+                    "match_4": [
+                        8,
+                        2
+                    ],
+                    "match_5": [
+                        4,
+                        5
+                    ],
+                    "match_6": [
+                        2,
+                        2
+                    ]
+                },
+                "fouls": {
+                    "match_0": [
+                        13,
+                        4
+                    ],
+                    "match_1": [
+                        12,
+                        12
+                    ],
+                    "match_2": [
+                        12,
+                        12
+                    ],
+                    "match_3": [
+                        14,
+                        17
+                    ],
+                    "match_4": [
+                        11,
+                        13
+                    ],
+                    "match_5": [
+                        14,
+                        17
+                    ],
+                    "match_6": [
+                        9,
+                        16
+                    ]
+                },
+                "HT_cards": {
+                    "match_0": [
+                        0,
+                        0
+                    ],
+                    "match_1": [
+                        2,
+                        2
+                    ],
+                    "match_2": [
+                        1,
+                        2
+                    ],
+                    "match_3": [
+                        2,
+                        3
+                    ],
+                    "match_4": [
+                        0,
+                        1
+                    ],
+                    "match_5": [
+                        0,
+                        1
+                    ],
+                    "match_6": [
+                        2,
+                        1
+                    ]
+                },
+                "FT_cards": {
+                    "match_0": [
+                        1,
+                        1
+                    ],
+                    "match_1": [
+                        6,
+                        3
+                    ],
+                    "match_2": [
+                        2,
+                        2
+                    ],
+                    "match_3": [
+                        8,
+                        8
+                    ],
+                    "match_4": [
+                        0,
+                        2
+                    ],
+                    "match_5": [
+                        2,
+                        3
+                    ],
+                    "match_6": [
+                        4,
+                        2
+                    ]
+                }
+            }
+        },
+        "prediction": {
+            "cards": {
+                "discuss": "",
+                "ht": "Can not predict at this time, check other predictions",
+                "ft": "Over 3.5 FT cards/bookings \n\n- The historical head-to-head full-time card average exceeds 3.5, with both home and away teams' full-time card average also considerable high. \n- Additionally, the referee issues more than 4.0 yellow cards per game, and the foul-to-tackle ratio is high. \n Both teams have a high number of aggressive or provocative players, increasing the likelihood of cards/bookings."
+            },
+            "corners": {
+                "discuss": "",
+                "full_time_total_corners": "Can not predict at this time, check other predictions",
+                "win_corners": "Can not predict at this time, check other predictions"
+            },
+            "goals": {
+                "discuss": "",
+                "Both_teams_to_score": "Can not predict at this time, check other predictions",
+                "fulltime_total_goals": "Under 4.5 goals \n\n- The goal-scoring patterns suggest a controlled game with limited goal-scoring variability. \n Both teams exhibit a consistent trend of matches staying below 4.5 goals, with stable attacking and defensive performances."
+            },
+            "win_draw": {
+                "discuss": "",
+                "win_or_draw": "Can not predict at this time, check other predictions"
+            }
+        }
+    }
+]
